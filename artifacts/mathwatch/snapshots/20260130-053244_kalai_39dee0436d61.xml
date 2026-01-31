@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:media="http://search.yahoo.com/mrss/"
+	>
+
+<channel>
+	<title>Combinatorics and more</title>
+	<atom:link href="https://gilkalai.wordpress.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://gilkalai.wordpress.com</link>
+	<description>Gil Kalai's blog</description>
+	<lastBuildDate>Mon, 26 Jan 2026 19:46:56 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>http://wordpress.com/</generator>
+<site xmlns="com-wordpress:feed-additions:1">3214111</site><cloud domain='gilkalai.wordpress.com' port='80' path='/?rsscloud=notify' registerProcedure='' protocol='http-post' />
+<image>
+		<url>https://s0.wp.com/i/buttonw-com.png</url>
+		<title>Combinatorics and more</title>
+		<link>https://gilkalai.wordpress.com</link>
+	</image>
+	<atom:link rel="search" type="application/opensearchdescription+xml" href="https://gilkalai.wordpress.com/osd.xml" title="Combinatorics and more" />
+	<atom:link rel='hub' href='https://gilkalai.wordpress.com/?pushpress=hub'/>
+	<item>
+		<title>ICECA 2026 (August 17-19, 2026), an interview with Christian Krattenthaler, and Condorcet revisited.</title>
+		<link>https://gilkalai.wordpress.com/2026/01/18/iceca-2026-august-17-19-2026-an-interview-with-christian-krattenthaler-and-condorcet-revisited/</link>
+					<comments>https://gilkalai.wordpress.com/2026/01/18/iceca-2026-august-17-19-2026-an-interview-with-christian-krattenthaler-and-condorcet-revisited/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Sun, 18 Jan 2026 13:08:14 +0000</pubDate>
+				<category><![CDATA[Combinatorics]]></category>
+		<category><![CDATA[Conferences]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[Christian Krattenthaler]]></category>
+		<category><![CDATA[Doron Zeilberger]]></category>
+		<category><![CDATA[Rebecca Embar]]></category>
+		<category><![CDATA[Toufic Mansour]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30152</guid>
+
+					<description><![CDATA[Toufic Mansour, Christian Krattenthaler, and Condorcet. International Conference on Enumerative Combinatorics and Applications (ICECA 2026) The fifth International Conference on Enumerative Combinatorics and Applications will take place online on August 17-19, 2026.  Invited speakers include George E. Andrews, Sara Billey, &#8230; <a href="https://gilkalai.wordpress.com/2026/01/18/iceca-2026-august-17-19-2026-an-interview-with-christian-krattenthaler-and-condorcet-revisited/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png"><img data-attachment-id="31036" data-permalink="https://gilkalai.wordpress.com/2026/01/18/iceca-2026-august-17-19-2026-an-interview-with-christian-krattenthaler-and-condorcet-revisited/mkc/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png" data-orig-size="1823,652" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="MKC" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=640" class="alignnone  wp-image-31036" src="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=640" alt="" width="522" height="186" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=522 522w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=1044 1044w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=768 768w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=1024 1024w" sizes="(max-width: 522px) 100vw, 522px" /></a></p>
+<p><span style="color: #ff0000">Toufic Mansour, Christian Krattenthaler, and Condorcet.</span></p>
+<h3>International Conference on Enumerative Combinatorics and Applications (ICECA 2026)</h3>
+<p><a href="https://ecajournal.haifa.ac.il/Conference/ICECA2026.html">The fifth International Conference on Enumerative Combinatorics and Applications</a> will take place online on <strong>August 17-19, 2026</strong>.  Invited speakers include <b>George E. Andrews</b>, <b>Sara Billey</b>, <b>Joel Friedman,</b> <b>Christian Krattenthaler,</b> <b>Richard Stanley,</b> <b>Guoce Xin, </b><b>Sherry H.F. Yan, </b>and <b>Raphael Yuster</b>. The conference homepage includes links to abstracts and videos from the first four conferences.</p>
+<p>The conference series is organized by <a href="https://en.wikipedia.org/wiki/Toufik_Mansour"><strong><span class="hover:entity-accent entity-underline inline cursor-pointer align-baseline"><span class="whitespace-normal">Toufic Mansour</span></span></strong></a>, who also founded the journal <a href="https://ecajournal.haifa.ac.il/"><em>Enumerative Combinatorics and Applications</em> (ECA)</a> and initiated its <a href="https://ecajournal.haifa.ac.il/#interviews">interview series</a> and <a href="https://ecajournal.haifa.ac.il/#OpenProblems">open-problems page</a>.</p>
+<h3>An interview with Christian Krattenthaler.</h3>
+<p>The most recent interview on ECA is <a href="https://ecajournal.haifa.ac.il/Volume2026/ECA2026_S3I1.pdf">with Christian Krattenthaler</a> whom I have known for many decades.  The interview touches on many areas of enunerative combinatorics, with a special emphasis on determinants. Christian mentioned early connections between combinatorics and determinants in the works of George Andrews, Richard Stanley, Bernd Lindström, John Stembridge and others.</p>
+<p>Among his contributions he highlights his<a href="https://dmtcs.episciences.org/258/pdf"> bijective proof</a> (not using the involution principle) of Stanley&#8217;s hook-content formula; <a href="https://www.ams.org/journals/tran/1999-351-03/S0002-9947-99-01884-X/S0002-9947-99-01884-X.pdf">a joint paper</a> with Maria Prohaska proving a remarkable determinantal formula conjectured by Also Conca and Jürgen Herzog; and <a href="http://Almkvist, C. Krattenthaler, and J. Petersson, Some new formulas for">some new formulas for <img src="https://s0.wp.com/latex.php?latex=%5Cpi&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=%5Cpi&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=%5Cpi&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="&#92;pi" class="latex" /></a>! (joint work with Gert Almkvist and Joakim Petersson). Mansour&#8217;s introduction highlights Christian&#8217;s 2005 paper  <a href="http://www.mat.univie.ac.at/~slc/wpapers/s42kratt.pdf">Advanced determinant calculus</a> that &#8220;has become a central reference in the field, shaping a generation of research.&#8221;</p>
+<p>Beyond mathematics, Christian is also a trained concert pianist, maintaining a lifelong passion for music alongside his research career. In part of the interview he describes his views on music. In this context, one may also mention his essay <a href="https://www.mat.univie.ac.at/~kratt/artikel/musimate.pdf">Music AND Mathematics?</a> <a href="https://www.mat.univie.ac.at/~kratt/artikel/musimate.pdf">Personal views on a difficult relationship. </a></p>
+<h3>Rebecca Embar and Doron Zeilberger revisit Condorcet&#8217;s paradox</h3>
+<p>Among the papers I saw on ECA there was one by Rebecca Embar and Doron Zeilberger, <a href="https://ecajournal.haifa.ac.il/Volume2022/ECA2022_S2A22.pdf">Counting Condorcet.</a> The paper enumerates the precise number of profiles for individual order relations on three alternatives that lead to Condorcet&#8217;s paradox (among the <img src="https://s0.wp.com/latex.php?latex=6%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=6%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=6%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="6^n" class="latex" /> possible profiles).</p>
+<p>Condorcet has been mentioned several times on this blog. In a <a href="https://gilkalai.wordpress.com/2012/04/27/the-1789-declaration-of-the-rights-of-man/">2012 post</a>, we discussed his prominent role among the philosophers who contributed to the 1789 <em>Declaration of the Rights of Man and of the Citizen</em>. In a <a href="https://gilkalai.wordpress.com/2009/06/02/social-choice-preview/">2009 post</a> we highlighted his role in social choice theory.</p>
+<h3 class="hero-title">Update: 10th International Conference on Lattice Path Combinatorics and Applications 2026 (LPC 2026)</h3>
+<p>The <a href="https://lpc2026.conf.tuwien.ac.at/">10th International Conference on Lattice Path Combinatorics and Applications</a>, will take place at  TU Wien in Vienna, Austria, July 20–24, 2026. The conference will cover interactions of lattice paths with various domains (probability theory, enumerative/algebraic/asymptotic<br />combinatorics, q-analogues, computer science, combinatorial physics, &#8230;)</p>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2026/01/18/iceca-2026-august-17-19-2026-an-interview-with-christian-krattenthaler-and-condorcet-revisited/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30152</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/mkc.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>Dominik Hangleiter&#8217;s View Posts on: Has Quantum Advantage Been Achieved?</title>
+		<link>https://gilkalai.wordpress.com/2026/01/15/dominik-hangleiters-view-posts-on-has-quantum-advantage-been-achieved/</link>
+					<comments>https://gilkalai.wordpress.com/2026/01/15/dominik-hangleiters-view-posts-on-has-quantum-advantage-been-achieved/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Wed, 14 Jan 2026 21:39:39 +0000</pubDate>
+				<category><![CDATA[Computer Science and Optimization]]></category>
+		<category><![CDATA[People]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Dominik Hangleiter]]></category>
+		<category><![CDATA[quantum supremacy]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=31012</guid>
+
+					<description><![CDATA[In a recent post on Quantum Frontiers—the first in a series of three—Dominik Hangleiter discusses the question of whether quantum advantage (also known as “quantum supremacy”) has been achieved. (Update, Jan. 26: here is Dominik&#8217;s second post.) Dominik describes polling &#8230; <a href="https://gilkalai.wordpress.com/2026/01/15/dominik-hangleiters-view-posts-on-has-quantum-advantage-been-achieved/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg"><img data-attachment-id="31021" data-permalink="https://gilkalai.wordpress.com/2026/01/15/dominik-hangleiters-view-posts-on-has-quantum-advantage-been-achieved/dominikh/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg" data-orig-size="960,960" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="DominikH" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=640" class="alignnone wp-image-31021" src="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=640" alt="" width="297" height="297" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=297 297w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=594 594w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=300 300w" sizes="(max-width: 297px) 100vw, 297px" /></a></p>
+<p>In a <a href="https://quantumfrontiers.com/2026/01/06/has-quantum-advantage-been-achieved/">recent post</a> on<em> <a href="https://quantumfrontiers.com/">Quantum Frontiers</a></em>—the first in a series of three—<a href="https://dhangleiter.github.io/">Dominik Hangleiter</a> discusses the question of whether quantum advantage (also known as “quantum supremacy”) has been achieved. (Update, Jan. 26: here is Dominik&#8217;s <a href="https://quantumfrontiers.com/2026/01/25/has-quantum-advantage-been-achieved-part-2-considering-the-evidence/">second post</a>.)</p>
+<p>Dominik describes polling audiences of experimental and theoretical physicists (with a few computer scientists) at recent talks, expecting overwhelming agreement that quantum advantage had already been demonstrated. Instead, he found that <strong>less than half of the audience believed this to be the case</strong>, despite several experimental claims since 2019 and even earlier quantum simulation results.</p>
+<p>These reactions motivated Dominik’s mini-series, whose goal is to argue that existing quantum computers can already perform tasks beyond the reach of classical computers. In the first post, he reviews the notion of quantum advantage, focusing especially on random circuit sampling experiments, and explains that current claims rely on proxies and extrapolations from classically tractable regimes. He announces that Part 2 will examine the evidence for these claims and address skeptical arguments.</p>
+<p>From my perspective, the question of whether large-scale quantum computational advantage has been achieved is a very important one and deserves careful scrutiny. (I myself have worked over the years on assessing this question, as well as the more fundamental question of whether quantum supremacy can be achieved at all.)  Related questions—such as progress toward quantum error-correcting codes and the status of Majorana zero modes—are also of great importance.</p>
+<p>Finally, there was <a href="https://quantumfrontiers.com/2026/01/06/has-quantum-advantage-been-achieved/#comment-162816">a remark</a> on Dominik&#8217;s post from a researcher in India who works in applications of quantum computing for agriculture, and <a href="https://quantum.org.pk/quantum-advantage-has-likely-been-achieved-the-debate-is-over-what-counts/">coverage</a> on a quantum communication <a href="https://quantum.gov.pk/">blog</a> based in Pakistan. It is heartwarming to see how science through research in quantum computation can bring together scientists from India and Pakistan.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2026/01/15/dominik-hangleiters-view-posts-on-has-quantum-advantage-been-achieved/feed/</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">31012</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/dominikh.jpg?w=640" medium="image" />
+	</item>
+		<item>
+		<title>A Ten-Year-Old Video about Larry Guth and Netz Katz.</title>
+		<link>https://gilkalai.wordpress.com/2026/01/13/a-ten-year-old-video-about-larry-guth-and-netz-katz/</link>
+					<comments>https://gilkalai.wordpress.com/2026/01/13/a-ten-year-old-video-about-larry-guth-and-netz-katz/#respond</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Tue, 13 Jan 2026 10:35:31 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Alex Lubotzky]]></category>
+		<category><![CDATA[James Maynard]]></category>
+		<category><![CDATA[Larry Guth]]></category>
+		<category><![CDATA[Nets Hawk Katz]]></category>
+		<category><![CDATA[Noam Solomon]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30997</guid>
+
+					<description><![CDATA[Facebook recently reminded of a videotaped lecture I gave ten years ago on Larry Guth and Nets Katz. In that lecture, I discussed their famous joint work on the Erdős distinct distances problem, as well as some of their individual &#8230; <a href="https://gilkalai.wordpress.com/2026/01/13/a-ten-year-old-video-about-larry-guth-and-netz-katz/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Facebook recently reminded of a <a href="https://youtu.be/XbpNk3dKsDI?si=olq8AgXIrszkhjMq">videotaped lecture</a> I gave ten years ago on Larry Guth and Nets Katz. In that lecture, I discussed their famous joint work on the Erdős distinct distances problem, as well as some of their individual contributions.</p>
+<p><iframe class="youtube-player" width="640" height="360" src="https://www.youtube.com/embed/XbpNk3dKsDI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en&#038;autohide=2&#038;wmode=transparent" allowfullscreen="true" style="border:0;" sandbox="allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox"></iframe></p>
+<p>Many of the problems mentioned there—relating to the Kakeya problem, the Navier–Stokes equations, systolic inequalities, quantum error-correcting codes, and sum–product theorems—have led to fascinating research over the past decade. Alex Lubotzky and Noam Solomon also made short but forceful guest appearances in the video.<br /><br /></p>
+<h3>From the news</h3>
+<p>A few days ago my, wife showed me an <a href="https://www.bizportal.co.il/science/news/article/20026100#talkbacks_hdr">article</a> (in Hebrew) reporting a <em>startling</em> new development in mathematics and asked whether I knew about the result and the two mathematicians involved.<br /><br /><a href="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png"><img data-attachment-id="31001" data-permalink="https://gilkalai.wordpress.com/2026/01/13/a-ten-year-old-video-about-larry-guth-and-netz-katz/guth-gatz/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png" data-orig-size="978,731" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Guth-Gatz" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=640" class="alignnone  wp-image-31001" src="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=640" alt="" width="442" height="330" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=442 442w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=884 884w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=768 768w" sizes="(max-width: 442px) 100vw, 442px" /></a></p>
+<p>I did not recognize either of the two mathematicians from the accompanying picture, nor could I immediately identify the mathematical problem they were studying. But once I read the text, things became clearer: the reported progress concerned the Riemann Hypothesis, and the two mathematicians were Larry Guth and James Maynard—both of whom I know quite well (or at least, I thought I did).</p>
+<p>Still, they looked rather different from how I remembered them, and I could not tell who was who. A bit of further investigation resolved the puzzle: the image was AI-generated picture of two mathematicians discussing a mathematical problem. Apparently, in the age of AI, mathematical breakthroughs are still achieved by real people—but their photographs are optional.<br /><br /></p>
+<h3>AI and mathematics</h3>
+<p>I recently <a href="https://mathoverflow.net/questions/502120/examples-for-the-use-of-ai-and-especially-llms-in-notable-mathematical-developme">asked on MathOverflow</a> about AI applications in mathematics and received interesting answers.</p>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2026/01/13/a-ten-year-old-video-about-larry-guth-and-netz-katz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30997</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/guth-gatz.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>Combinatorics News</title>
+		<link>https://gilkalai.wordpress.com/2026/01/01/combinatorics-news/</link>
+					<comments>https://gilkalai.wordpress.com/2026/01/01/combinatorics-news/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Thu, 01 Jan 2026 16:54:52 +0000</pubDate>
+				<category><![CDATA[Combinatorics]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30845</guid>
+
+					<description><![CDATA[Happy new 2026 to all our readers! Here are some very interesting combinatorics results that I learned about recently. I will try to write in some more details about some of them later on.  1) Gaussian random graphs and Ramsey &#8230; <a href="https://gilkalai.wordpress.com/2026/01/01/combinatorics-news/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Happy new 2026 to all our readers!</strong></p>
+<p>Here are some very interesting combinatorics results that I learned about recently. I will try to write in some more details about some of them later on. </p>
+<p style="text-align: center">1) <a href="https://arxiv.org/abs/2512.17718">Gaussian random graphs and Ramsey numbers,</a> by <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Hunter,+Z" rel="nofollow">Zach Hunter</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Milojevi%C4%87,+A" rel="nofollow">Aleksa Milojević</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Sudakov,+B" rel="nofollow">Benny Sudakov</a>  </p>
+<p>This paper gives a simple proof of the recent and remarkable exponential improvement in Ramsey lower bounds obtained by Ma, Shen, and Xie. An alternative construction based on Gaussian random graphs simplifies the analysis of Ma, Shen, and Xie and also leads to improved quantitative bounds.</p>
+<p><em>See also my July 2025 post: <a href="https://gilkalai.wordpress.com/2025/07/23/amazing-jie-ma-wujie-shen-and-shengjie-xie-gave-an-exponential-improvement-for-ramsey-lower-bounds/" rel="bookmark">Amazing: Jie Ma, Wujie Shen, and Shengjie Xie Gave an Exponential Improvement for Ramsey Lower Bounds</a>.</em></p>
+<p style="text-align: center">2) <a href="https://arxiv.org/abs/2508.14269">On the &#8220;second&#8221; Kahn&#8211;Kalai Conjecture</a> by <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Dubroff,+Q" rel="nofollow">Quentin Dubroff</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Kahn,+J" rel="nofollow">Jeff Kahn</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Park,+J" rel="nofollow">Jinyoung Park</a></p>
+<p>The expectation threshold conjecture (also known as the Kahn–Kalai conjecture) was raised by Jeff Kahn and me in 2006. Our paper stated two conjectures: the first concerned general Boolean functions, and the second concerned graphs. The second conjecture did not quite follow from the first; this implication was posed as a third conjecture.</p>
+<p>In this paper, Quentin, Jeff, and Jinyoung settle the second conjecture up to a <img src="https://s0.wp.com/latex.php?latex=%28%5Clog+n%29%5E2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=%28%5Clog+n%29%5E2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=%28%5Clog+n%29%5E2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="(&#92;log n)^2" class="latex" /> factor.</p>
+<p><em>See also my 2022 post: </em><em><a href="https://gilkalai.wordpress.com/2022/04/02/amazing-jinyoung-park-and-huy-tuan-pham-settled-the-expectation-threshold-conjecture/" rel="bookmark">Amazing: Jinyoung Park and Huy Tuan Pham settled the expectation threshold conjecture!</a> (The slide there actually state the second conjecture.) </em></p>
+<p class="title mathjax" style="text-align: center">3) <a href="https://arxiv.org/abs/2511.19374">Talagrand&#8217;s convolution conjecture up to loglog via perturbed reverse heat</a>, by <a href="https://arxiv.org/search/?searchtype=author&amp;query=Chen%2C+Y">Yuansi Chen</a></p>
+<p><em>Yuansi proves Talagrand&#8217;s convolution conjecture from 1989 (<a href="https://michel.talagrand.net/prizes/prizes.pdf">The third problem in this list</a>)  up to a loglog factor. </em></p>
+<p style="text-align: center">4) <a href="https://arxiv.org/abs/2510.26724">Sharp Fuss-Catalan thresholds in graph bootstrap percolation</a>, by <a href="https://arxiv.org/search/?searchtype=author&amp;query=Bartha%2C+Z">Zsolt Bartha</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Kolesnik%2C+B">Brett Kolesnik</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Kronenberg%2C+G">Gal Kronenberg</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Peled%2C+Y">Yuval Peled</a></p>
+<p>A graph <img src="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G" class="latex" /> is <img src="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_r" class="latex" />&#8211; weakly saturated if you can add edges to it one by one where with every added edge, a new copy of <img src="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_r" class="latex" /> is created. This notion, introduced by Béla Bollobás in 1967, is closely related to bootstrap percolation.</p>
+<p>Starting with a random graph <img src="https://s0.wp.com/latex.php?latex=G+%5Csim+G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G+%5Csim+G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G+%5Csim+G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G &#92;sim G(n,p)" class="latex" />, what is the critical value of <img src="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="p" class="latex" /> that guarantees that <img src="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G" class="latex" /> is <img src="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_r" class="latex" />&#8211; weakly saturated? Solving the central problem in the field the paper identifies the threshold probability for  <img src="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_r&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_r" class="latex" />&#8211; weak saturation for <img src="https://s0.wp.com/latex.php?latex=r+%5Cge+5&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=r+%5Cge+5&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=r+%5Cge+5&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="r &#92;ge 5" class="latex" />.</p>
+<p class="title is-5 mathjax" style="text-align: center"><a href="https://arxiv.org/abs/2507.05697">5) When does a tree activate the random graph?</a> by <a href="https://arxiv.org/search/?searchtype=author&amp;query=Antonir%2C+A+C">Asaf Cohen Antonir</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Peled%2C+Y">Yuval Peled</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Shapira%2C+A">Asaf Shapira</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Tyomkyn%2C+M">Mykhaylo Tyomkyn</a>, <a href="https://arxiv.org/search/?searchtype=author&amp;query=Zhukovskii%2C+M">Maksim Zhukovskii</a></p>
+<p>Every tree is weakly <img src="https://s0.wp.com/latex.php?latex=K_3&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_3&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_3&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_3" class="latex" /> saturated. Korándi and Sudakov asked what is the smallest value of <img src="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="p" class="latex" /> such that, with high probability, for every random graph <img src="https://s0.wp.com/latex.php?latex=G+%5Cin+G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G+%5Cin+G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G+%5Cin+G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G &#92;in G(n,p)" class="latex" />, there exists a spanning tree <img src="https://s0.wp.com/latex.php?latex=T&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=T&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=T&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="T" class="latex" /> such that one can add edges to <img src="https://s0.wp.com/latex.php?latex=T&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=T&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=T&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="T" class="latex" /> to obtain <img src="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G" class="latex" />, in such a way that each added edge creates a new triangle.  </p>
+<p>The main result of the paper is that the critical <img src="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="p" class="latex" /> is of order <img src="https://s0.wp.com/latex.php?latex=n%5E%7B-1%2F3-o%281%29%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=n%5E%7B-1%2F3-o%281%29%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=n%5E%7B-1%2F3-o%281%29%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="n^{-1/3-o(1)}" class="latex" />. The proof relies on recent advances in the understanding of the fundamental group of random complexes. </p>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png"><img loading="lazy" data-attachment-id="30891" data-permalink="https://gilkalai.wordpress.com/2026/01/01/combinatorics-news/diagrams/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png" data-orig-size="729,868" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="diagrams" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=252" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=640" class="alignnone  wp-image-30891" src="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=640" alt="" width="287" height="342" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=287 287w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=574 574w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=126 126w, https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=252 252w" sizes="(max-width: 287px) 100vw, 287px" /></a></p>
+<p class="title mathjax" style="text-align: center">6) <a href="https://arxiv.org/abs/2509.22577">Exponential anticoncentration of the permanent</a>, by <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Hunter%2C+Z">Zach Hunter</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Kwan%2C+M">Matthew Kwan</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Sauermann%2C+L">Lisa Sauermann</a></p>
+<p>The probability that a random <img src="https://s0.wp.com/latex.php?latex=%5Cpm+1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=%5Cpm+1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=%5Cpm+1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="&#92;pm 1" class="latex" /> matrix has vanishing determinant is exponentially small (And by now we know a lot on how small.)  This represents a beautiful story starting with Komlos. The paper proves that the probability of vanishing permanents is also exponentially small! </p>
+<p><em>For more background see <a href="https://gilkalai.wordpress.com/2019/02/02/konstantin-tikhomrov-the-probability-that-a-bernoulli-matrix-is-singular/">this post</a>. </em></p>
+<p style="text-align: center">7) <a href="https://arxiv.org/abs/2512.20392">Disproof of the Odd Hadwiger Conjecture</a>, by <a href="https://arxiv.org/search/math?searchtype=author&amp;query=K%C3%BChn%2C+M">Marcus Kühn</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Sauermann%2C+L">Lisa Sauermann</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Steiner%2C+R">Raphael Steiner</a>, and <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Wigderson%2C+Y">Yuval Wigderson</a></p>
+<p>Hadwiger&#8217;s conjecture asserts that if <img src="https://s0.wp.com/latex.php?latex=%5Cchi+%28G%29%5Cge+t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=%5Cchi+%28G%29%5Cge+t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=%5Cchi+%28G%29%5Cge+t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="&#92;chi (G)&#92;ge t" class="latex" /> then <img src="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G" class="latex" /> contains <img src="https://s0.wp.com/latex.php?latex=K_%7Bt%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_%7Bt%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_%7Bt%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_{t}" class="latex" /> as a minor. Stronger statement were known for <img src="https://s0.wp.com/latex.php?latex=t%3D3&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=t%3D3&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=t%3D3&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="t=3" class="latex" /> (easy) and <img src="https://s0.wp.com/latex.php?latex=t%3D4&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=t%3D4&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=t%3D4&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="t=4" class="latex" /> (ingenious), leading Gerard and Seymour to define (1993) the notion of odd minors and propose a strengthening for Hadwiger&#8217;s conjecture—the odd Hadwiger conjecture.</p>
+<p><span style="color: #000000">This conjecture is disproved by </span>Marcus, Lisa, Raphael, and Yuval, who show that there exist graphs which do not contain <img src="https://s0.wp.com/latex.php?latex=K_t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=K_t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=K_t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="K_t" class="latex" /> as an odd minor and whose chromatic number is at least <img src="https://s0.wp.com/latex.php?latex=%5Cfrac+32-o%281%29%29t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=%5Cfrac+32-o%281%29%29t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=%5Cfrac+32-o%281%29%29t&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="&#92;frac 32-o(1))t" class="latex" />. </p>
+<p style="text-align: center">8) <a href="https://arxiv.org/abs/2510.20765">A proof of the Kim-Vu sandwich conjecture</a> by <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Behague,+N" rel="nofollow">Natalie Behague</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Il%27kovi%C4%8D,+D" rel="nofollow">Daniel Il&#8217;kovič</a>, <a href="https://arxiv.org/search/math?searchtype=author&amp;query=Montgomery,+R" rel="nofollow">Richard Montgomery</a></p>
+<p>Finally, this paper resolves a twenty-year-old conjecture of Kim and Vu relating properties of random regular graphs—a notoriously difficult model—to those of the Erdős–Rényi random graph model <img src="https://s0.wp.com/latex.php?latex=G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=G%28n%2Cp%29&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="G(n,p)" class="latex" />.</p>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2026/01/01/combinatorics-news/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30845</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2026/01/diagrams.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>Combinatorial Morning in Tel Aviv, Sunday 28/12/2025</title>
+		<link>https://gilkalai.wordpress.com/2025/12/26/combinatorial-morning-in-tel-aviv-sunday-28-12-2025/</link>
+					<comments>https://gilkalai.wordpress.com/2025/12/26/combinatorial-morning-in-tel-aviv-sunday-28-12-2025/#respond</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Fri, 26 Dec 2025 12:34:36 +0000</pubDate>
+				<category><![CDATA[Combinatorics]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30858</guid>
+
+					<description><![CDATA[Coming very soon! Organizer:      Michael Krivelevich Place:  Schreiber 309, Tel Aviv University Event&#8217;s site.  https://sites.google.com/view/combinatorics-seminar-tel-aviv Program 09:30-10:00        Asaf Ferber (UC Irvine)  Quantum algorithms on graphs 10:00-10:30        Gal Kronenberg (Oxford U.)  2-factors in &#8230; <a href="https://gilkalai.wordpress.com/2025/12/26/combinatorial-morning-in-tel-aviv-sunday-28-12-2025/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<section id="h.b9670a22ff09d3c_69" class="yaqOZd qeLZfd">
+<div class="mYVXT">
+<div class="LS81yb VICjCf j5pSsc db35Fc">
+<div class="hJDwNd-AhqUyc-Clt0zb Ft7HRd-AhqUyc-Clt0zb purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc">
+<div class="JNdkSc-SmKAyb LkDMRd">
+<div class="">
+<div class="oKdM2c ZZyype Kzv0Me">
+<div id="h.b9670a22ff09d3c_127" class="hJDwNd-AhqUyc-Clt0zb Ft7HRd-AhqUyc-Clt0zb jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd mGzaTb Depvyb baZpAe">
+<p dir="ltr">Coming very soon!</p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="ZA9Nm C9DxTc ">Organizer:      </span><span class="jgG6ef C9DxTc ">Michael Krivelevich</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="h.453f8f29386a073e_36" class="yaqOZd qeLZfd">
+<div class="mYVXT">
+<div class="LS81yb VICjCf j5pSsc db35Fc">
+<div class="hJDwNd-AhqUyc-Clt0zb Ft7HRd-AhqUyc-Clt0zb purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc">
+<div class="JNdkSc-SmKAyb LkDMRd">
+<div class="">
+<div class="oKdM2c ZZyype Kzv0Me">
+<div id="h.b9670a22ff09d3c_114" class="hJDwNd-AhqUyc-Clt0zb Ft7HRd-AhqUyc-Clt0zb jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd mGzaTb Depvyb baZpAe">
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="ZA9Nm C9DxTc ">Place:  </span><span class="jgG6ef C9DxTc ">Schreiber 309, Tel Aviv University</span></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="hJDwNd-AhqUyc-c5RTEf Ft7HRd-AhqUyc-c5RTEf purZT-AhqUyc-c5RTEf ZcASvf-AhqUyc-c5RTEf pSzOP-AhqUyc-c5RTEf Ktthjf-AhqUyc-c5RTEf JNdkSc SQVYQc">
+<div class="JNdkSc-SmKAyb LkDMRd">
+<div class="">
+<div class="oKdM2c ZZyype Kzv0Me">
+<div id="h.453f8f29386a073e_42" class="hJDwNd-AhqUyc-c5RTEf Ft7HRd-AhqUyc-c5RTEf purZT-AhqUyc-c5RTEf ZcASvf-AhqUyc-c5RTEf pSzOP-AhqUyc-c5RTEf Ktthjf-AhqUyc-c5RTEf jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd OWlOyc baZpAe"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section id="h.453f8f29386a073e_40" class="yaqOZd qeLZfd">
+<div class="mYVXT">
+<div class="LS81yb VICjCf j5pSsc db35Fc">
+<div class="hJDwNd-AhqUyc-Clt0zb Ft7HRd-AhqUyc-Clt0zb purZT-AhqUyc-II5mzb ZcASvf-AhqUyc-II5mzb pSzOP-AhqUyc-qWD73c Ktthjf-AhqUyc-qWD73c JNdkSc SQVYQc">
+<div class="JNdkSc-SmKAyb LkDMRd">
+<div class="">
+<div class="oKdM2c ZZyype Kzv0Me">
+<div id="h.b9670a22ff09d3c_77" class="hJDwNd-AhqUyc-Clt0zb Ft7HRd-AhqUyc-Clt0zb jXK9ad D2fZ2 zu5uec OjCsFc dmUFtb wHaque g5GTcb">
+<div class="jXK9ad-SmKAyb">
+<div class="tyJCtd mGzaTb Depvyb baZpAe">
+<p dir="ltr">Event&#8217;s site.  <a href="https://sites.google.com/view/combinatorics-seminar-tel-aviv">https://sites.google.com/view/combinatorics-seminar-tel-aviv</a></p>
+<p class="zfr3Q CDt4Ke " dir="ltr"><span class="ZA9Nm C9DxTc ">Program</span></p>
+<ul class="n8H08c UVNKR ">
+<li class="zfr3Q TYR86d eD0Rn " dir="ltr">
+<p class="zfr3Q CDt4Ke " dir="ltr" role="presentation"><span class="jgG6ef C9DxTc ">09:30</span><span class="jgG6ef C9DxTc ">-1</span><span class="jgG6ef C9DxTc ">0</span><span class="jgG6ef C9DxTc ">:</span><span class="jgG6ef C9DxTc ">00        </span><span class="jgG6ef C9DxTc ">Asaf Ferber </span><span class="jgG6ef C9DxTc ">(U</span><span class="jgG6ef C9DxTc ">C Irvine</span><span class="jgG6ef C9DxTc ">)  Quantum algorithms on graphs</span></p>
+</li>
+<li class="zfr3Q TYR86d eD0Rn " dir="ltr">
+<p class="zfr3Q CDt4Ke " dir="ltr" role="presentation"><span class="jgG6ef C9DxTc ">1</span><span class="jgG6ef C9DxTc ">0:00</span><span class="jgG6ef C9DxTc ">-1</span><span class="jgG6ef C9DxTc ">0</span><span class="jgG6ef C9DxTc ">:</span><span class="jgG6ef C9DxTc ">30        </span><span class="jgG6ef C9DxTc ">Gal Kronenberg </span><span class="jgG6ef C9DxTc ">(Oxford U.)  2-factors in Hamiltonian graphs </span></p>
+</li>
+<li class="zfr3Q TYR86d eD0Rn " dir="ltr">
+<p class="zfr3Q CDt4Ke " dir="ltr" role="presentation"><span class="jgG6ef C9DxTc ">1</span><span class="jgG6ef C9DxTc ">1</span><span class="jgG6ef C9DxTc ">:00-1</span><span class="jgG6ef C9DxTc ">1</span><span class="jgG6ef C9DxTc ">:30          </span><span class="jgG6ef C9DxTc ">Peleg Michaeli</span><span class="jgG6ef C9DxTc "> (Oxford U. )  Ramsey-Turan problems for matchings</span></p>
+</li>
+<li class="zfr3Q TYR86d eD0Rn " dir="ltr">
+<p class="zfr3Q CDt4Ke " dir="ltr" role="presentation"><span class="jgG6ef C9DxTc ">1</span><span class="jgG6ef C9DxTc ">1</span><span class="jgG6ef C9DxTc ">:30-1</span><span class="jgG6ef C9DxTc ">2</span><span class="jgG6ef C9DxTc ">:00          </span><span class="jgG6ef C9DxTc ">Adva Mond </span><span class="jgG6ef C9DxTc ">(King&#8217;s College,</span><span class="jgG6ef C9DxTc "> London</span><span class="jgG6ef C9DxTc ">) The sandglass conjecture &#8211; seperating, recovering and cancellative pairs. </span></p>
+</li>
+</ul>
+</div>
+</div>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png"><img loading="lazy" data-attachment-id="30862" data-permalink="https://gilkalai.wordpress.com/2025/12/26/combinatorial-morning-in-tel-aviv-sunday-28-12-2025/ta-post/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png" data-orig-size="1817,944" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ta-post" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=640" class="alignnone  wp-image-30862" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=640" alt="" width="517" height="268" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=517 517w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=1034 1034w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=768 768w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=1024 1024w" sizes="(max-width: 517px) 100vw, 517px" /></a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2025/12/26/combinatorial-morning-in-tel-aviv-sunday-28-12-2025/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30858</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/ta-post.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>November&#8217;s Lectures, 2025</title>
+		<link>https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/</link>
+					<comments>https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Sun, 21 Dec 2025 13:57:13 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Combinatorics]]></category>
+		<category><![CDATA[Computer Science and Optimization]]></category>
+		<category><![CDATA[Geometry]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Updates]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30721</guid>
+
+					<description><![CDATA[Happy Chanukah, everybody! There is a lot of academic activity around, and the ceasefire in Gaza has brought some relief and hope. Let me tell you about the (unusually high number of) lectures I attended in November 2025, in reverse &#8230; <a href="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><strong>Happy Chanukah, everybody!</strong> There is a lot of academic activity around, and the ceasefire in Gaza has brought some relief and hope. Let me tell you about the (unusually high number of) lectures I attended in November 2025, in reverse chronological order. I have known many of the speakers for several decades—together they represent centuries of acquaintance.</p>
+<p>I would like to highlight the lecture by Orit Raz at the HUJI combinatorics seminar, where she presented a mind-boggling program aimed at improving the bounds for the unit distance problem using rigidity theory of frameworks. I will start with the lecture by John Martinis, the 2025 Nobel Prize laureate, and end with a lecture by Steve LaValle from Finland on robotics.</p>
+<p>The full line of speakers was: Steve LaValle (Nov. 3), Oz Almog (Nov. 6), Shmuel Weinberger (Nov. 11), Yuri Gurevich (Nov.13), Micha Sharir (Nov. 16), Meir Feder (Nov. 19),  Itai Benjamini (Nov. 20), Amichai Lampert (Nov. 20), Orit Raz (Nov. 24), Adi Shamir (Nov. 24), Dorit Aharonov, Erez Berg, Shai Evra, and Snir Gazit (Nov. 25), Ron Wettenstein (Nov 27), Shakhar Smorodinsky (Nov. 30), Roy Meshulam (Nov. 30), Yaron Oz, Yonatan Cohen, and John Martinis (Nov. 30).</p>
+<h2>November&#8217;s lectures</h2>
+<h3>Sunday November 30: Physics Nobel lecture</h3>
+<p>John Martinis, the 2025 Nobel Laurates in Physics, talked about his famous 1985 experiment on quantum tunneling and about superconducting quantum computers. He also answered many questions.</p>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg"><img loading="lazy" data-attachment-id="30741" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/martinis/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg" data-orig-size="715,727" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="martinis" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=295" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=640" class="wp-image-30741 aligncenter" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=640" alt="" width="262" height="266" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=262 262w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=524 524w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=148 148w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=295 295w" sizes="(max-width: 262px) 100vw, 262px" /></a></p>
+<p><span style="color: #0000ff">According to John Martinis, the current pace of progress will not yield useful quantum computers in the coming decades (before &#8220;most of the members of the audience will retire&#8221;). He outlined some ideas and plans for an alternative trajectory. (Click to enlarge the picture.)</span></p>
+<p>Additional short talks were given by Yaron Oz and Yonatan Cohen. On December 1,  Martinis gave a similar talk at HUJI.</p>
+<blockquote>
+<p>I first met John Martinis at our 2013 <a href="https://gilkalai.wordpress.com/2013/04/12/qstart/">QSTART conference,</a> where he gave a lecture about quantum error correction based on superconducting qubits (<a href="https://youtu.be/7Pok08VvkeU?si=cP72ZO7H0Ps8ZDaH">video</a>). Yonatan Cohen was our host in the recent visit to the IQCC. Yaron Oz is a well-known high-energy physicist.</p>
+</blockquote>
+<h3>Sunday November 30: Two combinatorics lectures</h3>
+<p>At the TAU combinatorics seminar, Shakhar Smorodinsky explained his work with Noga Alon, which we discussed in  <a href="https://gilkalai.wordpress.com/2025/06/18/shakhar-smorodinskys-solution-to-a-radon-type-problem/">this post</a>. Roy Meshulam talked (over Zoom) about Cayley complexes, codes, and homology at the Bar Ilan combinatorics seminar.</p>
+<blockquote>
+<p>Roy Meshulam is one of my closest collaborators. We started collaborating in the 1980s and wrote our first paper together in the early 2000s. Our joint work is mainly on topological Helly-type theorems. I have known Shakhar Smorodinsky for at least two decades, and he spent a year as my postdoc in Jerusalem.</p>
+</blockquote>
+<h3>Thursday, November 27: Explainability in AI (Reichman University)</h3>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg"><img loading="lazy" data-attachment-id="30754" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/20251127_134651/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg" data-orig-size="4000,1848" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="20251127_134651" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=640" class="alignnone  wp-image-30754" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=640" alt="" width="365" height="168" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=365 365w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=730 730w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=300 300w" sizes="(max-width: 365px) 100vw, 365px" /></a></p>
+<p>Ron Wettenstein lectured in Reichman&#8217;s CS colloquium on:  &#8220;From Game Theory and Boolean Logic to Decision Tree Explainability&#8221;. Ron described his work with Alex Nadel on WOODELF: a unified and efficient algorithm for computing Shapley values on decision trees.</p>
+<blockquote>
+<p>Ron is a PhD student at Reichman University under the supervision of Udi Boker, Alex Nadel and me.</p>
+</blockquote>
+<h3>Tuesday November 25: The theory of quantum computing  (HUJI, IIAS)</h3>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png"><img loading="lazy" data-attachment-id="30784" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/quantumday/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png" data-orig-size="1416,707" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="quantumday" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=640" class="alignnone  wp-image-30784" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=640" alt="" width="343" height="171" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=343 343w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=686 686w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=300 300w" sizes="(max-width: 343px) 100vw, 343px" /></a></p>
+<p>This was the opening day of a new interdisciplinary center for the theory of quantum computing. The speakers were Dorit Aharonov, Erez Berg, Shai Evra, and Snir Gazit. It is almost 15 years since the kick-off of the quantum science center at HUJI, and since then similar centers have opened at other Israeli universities. Recently, four or five national centers were established.</p>
+<p>Dorit presented a list of central problems on the agenda of the new center, many of which are related to quantum error-correcting codes. Shai talked about the mathematics of quantum error-correcting codes; Snir gave a statistical-mechanics view of surface codes and other physical states; and Erez discussed methods of error mitigation and related experiments on IBM quantum computers.</p>
+<blockquote>
+<p>Dorit Aharonov has been my colleague for the past three decades. (I already count her as a colleague during her doctoral years, but she was indeed a mature scientist even then.) A few years earlier, she was a student in my “advanced calculus” class. Shai is a mathematician at HUJI, and I have known him for more than a decade. I met Erez and Snir at the conference itself. (Both were students of the late Israeli physicist <a href="https://phsites.technion.ac.il/assa/">Assa Auerbach</a> whom I mentioned in <a href="https://gilkalai.wordpress.com/2023/05/30/physics-related-news-israel-joining-cern-pugwash-and-global-zero-the-replication-crisis-and-max-the-damon/">this post</a>.)</p>
+</blockquote>
+<h3><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png"><img loading="lazy" data-attachment-id="30760" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/orit/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png" data-orig-size="1422,764" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="orit" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=640" class="alignnone  wp-image-30760" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=640" alt="" width="313" height="168" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=313 313w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=626 626w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=300 300w" sizes="(max-width: 313px) 100vw, 313px" /></a></h3>
+<h3>Monday November 24: The unit distance problem and rigidity</h3>
+<p>Orit Raz gave a talk at the HUJI combinatorics seminar. Can graph (framework) rigidity be used to push down the Trotter–Szemerédi bounds for unit distances in the plane? This is a fascinating research direction. What is needed, among other things, is an understanding of rigidity for non-generic embeddings, which is an important question in its own right. Will the approach described by Raz to the unit distance problem lead to a success similar to the Elekes approach to the distinct distance problem? Time will tell.</p>
+<p>Here are links to the relevant papers:</p>
+<ol>
+<li><a href="https://arxiv.org/abs/2507.15679">Erdős&#8217;s unit distance problem and rigidity</a><span class="search-hit mathjax">, János Pach, Orit E. Raz, József Solymosi  (2025)</span></li>
+<li><a href="https://arxiv.org/abs/1901.10631"> Dense graphs have <span class="search-hit mathjax">rigid</span> parts</a>, Orit E. Raz, József Solymosi  (2019)</li>
+<li><a href="https://arxiv.org/abs/1607.04083">Configurations of lines in space and combinatorial rigidity</a><span class="search-hit mathjax">, Orit E. Raz (2016)</span></li>
+</ol>
+<blockquote>
+<p>Orit was my colleague at HUJI, and she recently moved to Ben Gurion University. Let me mention  <a href="https://arxiv.org/search/advanced?advanced=1&amp;terms-0-operator=AND&amp;terms-0-term=Lew&amp;terms-0-field=author&amp;terms-1-operator=AND&amp;terms-1-term=Raz&amp;terms-1-field=author&amp;terms-2-operator=AND&amp;terms-2-term=Peled&amp;terms-2-field=author&amp;terms-3-operator=AND&amp;terms-3-term=Nevo&amp;terms-3-field=author&amp;classification-physics_archives=all&amp;classification-include_cross_list=include&amp;date-filter_by=all_dates&amp;date-year=&amp;date-from_date=&amp;date-to_date=&amp;date-date_type=submitted_date&amp;abstracts=show&amp;size=50&amp;order=-announced_date_first">a series of startling works</a> by Orit Raz with Alan Lew, Eran Nevo and Yuvel Peled around rigidity.</p>
+</blockquote>
+<h3>Monday, November 24: Cryptography and neural networks</h3>
+<p>At the HUJI CS colloquium, Adi Shamir talked about <a href="https://eprint.iacr.org/2025/288">joint work</a> with David Gerault, Anna Hambitzer and Eyal Ronen. They show that natural implementations of block ciphers (such as DNNs) on neural networks can be broken in linear time using non-Boolean inputs, and they develop a new practical method for implementing any desired cryptographic functionality as a standard ReLU-based DNN in a provably secure and correct way.</p>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png"><img loading="lazy" data-attachment-id="30757" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/adi/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png" data-orig-size="1781,890" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="adi" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=640" class="alignnone  wp-image-30757" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=640" alt="" width="403" height="201" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=403 403w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=806 806w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=768 768w" sizes="(max-width: 403px) 100vw, 403px" /></a></p>
+<p><span style="color: #0000ff">Cryptography for neural networks. (Where is Adi?)</span></p>
+<blockquote>
+<p>Adi Shamir is probably the most famous cryptographer in the world. Cryptography represents a gap in my understanding of theoretical computer science (I complained about it <a href="https://gilkalai.wordpress.com/2018/01/06/yael-tauman-kalais-icm2018-paper-my-paper-and-cryptography/">here in 2018</a>), although Alon Rosen has contributed a great deal to changing the situation. I probably first met Adi in the mid-1980s.</p>
+</blockquote>
+<h3>Thursday, Nov 20, Probability with a little combinatorics</h3>
+<p>At the TAU probability seminar, Itai Benjamini described some terrific problems (and some solutions) in probability theory. The title was “Cayley Graphs vs. Random Graphs.” There is a lot of material here for this blog—stay tuned.</p>
+<blockquote>
+<p>Itai Benjamini has been a close collaborator for many decades. Even earlier, in 1987, he was a student in my “convexity” class—one of the best classes I ever taught.</p>
+</blockquote>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png"><img loading="lazy" data-attachment-id="30761" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/amichai2/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png" data-orig-size="1787,883" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="amichai2" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=640" class="alignnone  wp-image-30761" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=640" alt="" width="391" height="193" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=391 391w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=782 782w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=768 768w" sizes="(max-width: 391px) 100vw, 391px" /></a></p>
+<p>Shortly after Itai’s talk, Amichai Lampert gave an impressive lecture in the TAU number theory seminar on number theory and dynamics.</p>
+<h3>Wednesday, November 19: Information theory and neural networks</h3>
+<p>Meir Feder gave a talk at the TAU learning seminar about an information-theoretic framework for understanding modern machine learning. Meir described how his work in information theory since the 1990s is relevant to the neural-network revolution.</p>
+<p>The new results are described in the paper:</p>
+<p>Meir Feder, Ruediger Urbanke, Yaniv Fogel, <a href="https://arxiv.org/abs/2506.07661">Information-Theoretic Framework for Understanding Modern Machine-Learning</a></p>
+<blockquote>
+<p>Meir Feder and I were together at MIT in the early 1980s, and our paths have crossed many times since. Meir is an Oscar Laurate (see <a href="https://gilkalai.wordpress.com/2021/02/16/and-the-oscar-goes-to-meir-feder-zvi-reznic-guy-dorman-and-ron-yogev/">this post</a>).</p>
+</blockquote>
+<p>SSunday, November 16: Computational Geometry — <em>Per Aspera Ad Astra</em> (TAU CS Colloquium) (<a href="https://youtu.be/cuBULyLS70U?si=H2x70DRmwqFBU7E7">video</a>)</p>
+<p>Micha Sharir described his scientific journey from early papers on piano movers through the early days of computational geometry until today.</p>
+<blockquote>
+<p>I have known Micha Sharir personally since the mid-1970s (and by name since the late 1960s). How did I already know about Micha as a teenager, years before I first met him? The answer appears in this  <a href="https://youtu.be/XDt45lVEz88?si=x8FMeHCMjFNI_y5v">interview.</a></p>
+</blockquote>
+<h3>Thursday, November 13: Abstract State Machines (Reichman University)</h3>
+<p>Speaker: Yuri Gurevich</p>
+<p class="m_-8822566571112032609gp"><strong>Title:</strong> What&#8217;s an algorithm?<br /><u></u></p>
+<p class="m_-8822566571112032609gp"><strong>Abstract:</strong> The classical/basic notion of algorithm was elucidated in the1930s–1950s. Starting from the 1960s, this notion has been expanded to probabilistic algorithms, quantum algorithms, etc. In the 1980s the speaker introduced abstract state machines (ASMs), and in 2000 he axiomatized basic algorithms and proved that every basic algorithm is step-for-step simulated by an appropriate basic ASM. The axiomatization has served both theoretical purposes (notably, proving the original Church-Turing thesis) and for practical purposes (notably, enabling the development of an ASM-based tool that Microsoft’s Windows Division used to produce numerous high-level executable specifications required by the EU). In the talk we define an elegant (at least in our view) generalization of basic algorithms: basic interactive algorithms, which may interact with human and artificial partners. It turns out that probabilistic and quantum are naturally basic interactive. We axiomatize basic interactive algorithms and prove that every such algorithm can be step-for-step simulated by a basic interactive ASM — opening the door to new applications.</p>
+<p>This was a fascinating talk about abstract state machines—a powerful theoretical and applied tool in computer science—and about Yuri Gurevich’s remarkable path from mathematics to logic, theoretical computer science, applied computer science, and even quantum computation. Yuri told us that his mother was the dominant person at home, and that when the Germans were approaching their town during World War II, it was a rare case in which his father insisted that the family move east; this decision saved their lives.</p>
+<blockquote>
+<p>I attended an impressive lecture on average-case complexity (and the theory of Leonid Levin) that Yuri Gurevich gave at IBM Almaden in 1991. (I probably also encountered Yuri in Israel in the 1970s.) We met at Microsoft Research and have been friends since the late 1990s.</p>
+</blockquote>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png"><img loading="lazy" data-attachment-id="30840" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/yg2/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png" data-orig-size="705,998" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="yg2" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=212" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=640" class="alignnone  wp-image-30840" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=640" alt="" width="208" height="294" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=208 208w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=416 416w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=106 106w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=212 212w" sizes="(max-width: 208px) 100vw, 208px" /></a><br /><span style="color: #0000ff">Yuri at Reichman University&#8217;s sculpture garden</span></p>
+<h3>Wednesday, November 12: Morse complexity of homological classes (TAU)</h3>
+<p>Shmuel Weinberger talked about “How Complex Are the Fundamental Structures Underlying Manifolds?”</p>
+<p>Here is the description in TAU&#8217;s Institute for advanced Studies page:</p>
+<p>In his lecture on Morse complexity of homology classes, Prof Weinberger will discuss a refined approach to understanding the topology of manifolds. Building on Gromov’s 1970s pseudonorm and ideas inspired by Thurston, he will explore the concept of minimizing the number of critical points in a Morse function for a manifold representing a homology class. While this aligns with Gromov’s approach in dimension two, higher dimensions reveal striking differences.</p>
+<p>The lecture will touch on connections to classical topology—including open book decompositions and surgery theory—representation theory, and elliptic operators, highlighting joint work with Manin and Tshishiku.</p>
+<blockquote>
+<p>Shmuel Weinberger is an eminent geometer and topologist and  he is interested in application as well, particularly in &#8220;<a href="https://en.wikipedia.org/wiki/Persistent_homology">persistent</a> <a href="https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.ams.org/notices/201101/rtx110100036p.pdf&amp;ved=2ahUKEwj9ia-9tsyRAxUHgv0HHawIFygQFnoECB8QAQ&amp;usg=AOvVaw1QfK6uH8dAn4dx0aAleRfW">homology</a>&#8220;. Here is a post featuring an article he wrote &#8220;<a href="https://gilkalai.wordpress.com/2008/11/19/about-conjectures-shmuel-weinberger/">about conjectures</a>&#8220;. I think we first met in the 90s.</p>
+</blockquote>
+<h3>Thursday, November 5: Reichman University — The End of the Era of the Academic Degree</h3>
+<p>Oz Almog, a sociologist from Haifa University talked about the end of the Era of the Academic Degree. A lot of food for thought in this provocative talk. It reflects the academic research of Oz Almog and his wife Tamar Almog who wrote together a book &#8220;<span class="color_28 wixui-rich-text__text"><span class="wixui-rich-text__text">Academia all the Lies&#8221;</span></span>.</p>
+<h3>TAU CS Colloquium, November 2: Fundamental Challenges in Robotics and Embodied AI</h3>
+<p>Steve LaValle, Robotics  (<a href="https://youtu.be/k0QarEDn1P0?si=hm6NkfTqRdndFWrF">video</a>)</p>
+<p>Here is the abstract to Steve&#8217;s lecture. &#8220;The field of robotics is wildly exciting and rapidly gaining worldwide attention, yet it is often an enigma in terms of its scope and scientific foundations. Throughout the decades, it has been variously viewed as an application field of more mature disciplines such as computer science (AI, algorithms, machine learning) and mechanical engineering (kinematics, dynamics, nonlinear control).</p>
+<p>In this Computer Science Colloquium lecture, Professor LaValle will argue that robotics has its own unique and growing scientific core, with deep questions and modeling challenges that should inspire new directions in computer science, engineering, and mathematics.</p>
+<p>Let me mention that, unlike in other areas where AI (and deep learning) has dominated the scene, the situation in robotics is very different, and it is unclear what role AI will ultimately play.</p>
+<blockquote>
+<p>Steve is very well known, but since we belong to different communities, I met him for the first time at this lecture. Steve was impressed by the honesty and modesty of the Finnish people and decided to make Finland his home.</p>
+</blockquote>
+<p>Steve’s praise for Finland reminded me of the opening ceremony of the ICM 2022, where the President of Finland offered greetings. There were no trumpets when he entered, and the audience was not asked to stand. The President gave a five-minute welcoming speech, complimented mathematicians for their efforts and contributions, and concluded by shyly inviting us to enjoy the summer weather in Helsinki. Then he waved his hand and left.</p>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png"><img loading="lazy" data-attachment-id="30820" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/nov-col/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png" data-orig-size="1897,1074" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="nov-col" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=640" class="alignnone  wp-image-30820" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=640" alt="" width="398" height="225" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=398 398w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=796 796w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=768 768w" sizes="(max-width: 398px) 100vw, 398px" /></a></p>
+<p><span style="color: #0000ff">November lectures — a collage of speakers</span></p>
+<p>There were quite a few other November talks that I missed (and in a few cases I caught up privately with the speakers). All in all, it looks like the levels of academic activity and enthusiasm have returned to those before the war. Naturally, however, the number of foreign visitors is still considerably lower.</p>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png"><img loading="lazy" data-attachment-id="30821" data-permalink="https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/nov-post/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png" data-orig-size="1898,653" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="nov-post" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=640" class="alignnone  wp-image-30821" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=640" alt="" width="439" height="151" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=439 439w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=878 878w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=768 768w" sizes="(max-width: 439px) 100vw, 439px" /></a></p>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2025/12/21/novembers-lectures-2025/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30721</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/martinis.jpg?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/20251127_134651.jpg?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/quantumday.png?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/orit.png?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/adi.png?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/amichai2.png?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/yg2.png?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-col.png?w=640" medium="image" />
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/12/nov-post.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>Ten Recent Questions for ChatGPT</title>
+		<link>https://gilkalai.wordpress.com/2025/11/21/ten-recent-questions-for-chatgpt/</link>
+					<comments>https://gilkalai.wordpress.com/2025/11/21/ten-recent-questions-for-chatgpt/#respond</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Fri, 21 Nov 2025 14:22:34 +0000</pubDate>
+				<category><![CDATA[AI]]></category>
+		<category><![CDATA[Algebra]]></category>
+		<category><![CDATA[Combinatorics]]></category>
+		<category><![CDATA[Convexity]]></category>
+		<category><![CDATA[ChatGPT]]></category>
+		<category><![CDATA[Radon's theorem]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30638</guid>
+
+					<description><![CDATA[I recently asked over Math Overflow about Examples for the use of AI and especially LLMs in notable mathematical developments, and there were several interesting answers.  Here are (slightly edited) 10 recent questions that I asked ChatGPT that have led &#8230; <a href="https://gilkalai.wordpress.com/2025/11/21/ten-recent-questions-for-chatgpt/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>I recently asked over Math Overflow about <a class="question-hyperlink" href="https://mathoverflow.net/questions/502120/examples-for-the-use-of-ai-and-especially-llms-in-notable-mathematical-developme">Examples for the use of AI and especially LLMs in notable mathematical developments,</a> and there were several interesting answers. </p>
+<p>Here are (slightly edited) 10 recent questions that I asked ChatGPT that have led to interesting discussion. Five of these questions (#1,#2,#3,#6,#8) are related to mathematical research projects. Problem #3 was offered  in<a href="https://gilkalai.wordpress.com/2008/08/20/two-very-early-problems-a-simple-solution-and-a-new-problem/"> this 2008 blogpost</a> and Problem #6 was <a href="https://polymathprojects.org/2014/01/20/two-polymath-of-a-sort-proposed-projects/">suggested by me as a polymath project in 2014</a>. Answers and insights regarding these problems (without or with AI) are welcome.  (See <a href="https://gilkalai.wordpress.com/category/ai/">here</a> and <a href="https://gilkalai.wordpress.com/ai/">here</a> for other posts on AI.)</p>
+<blockquote>
+<p><em>1) Given <img src="https://s0.wp.com/latex.php?latex=2n%2B2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=2n%2B2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=2n%2B2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="2n+2" class="latex" /> points in <img src="https://s0.wp.com/latex.php?latex=R%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=R%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=R%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="R^n" class="latex" />, is it true that the set of Radon points is convex?</em></p>
+<p><em>2) I want (simple) topological invariants for a map from a polyhedral k-dimensional real projective space to <img src="https://s0.wp.com/latex.php?latex=R%5E%7B2k%2B1%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=R%5E%7B2k%2B1%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=R%5E%7B2k%2B1%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="R^{2k+1}" class="latex" />. For example for <img src="https://s0.wp.com/latex.php?latex=k%3D4&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=k%3D4&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=k%3D4&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="k=4" class="latex" /> the map is to <img src="https://s0.wp.com/latex.php?latex=R%5E9&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=R%5E9&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=R%5E9&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="R^9" class="latex" />. (Something based on linear algebra/basic homology would be nice.) Any idea, links, or suggestions will be great.</em></p>
+<p><em>3) Consider the following two well known theorems from finite group theory: </em><br /><em><br />A) Sylow’s theorem (one of them) asserts: In a group whose order is divisible by <img src="https://s0.wp.com/latex.php?latex=p%5Ei&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=p%5Ei&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=p%5Ei&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="p^i" class="latex" /> there are <img src="https://s0.wp.com/latex.php?latex=1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="1" class="latex" /> (mod <img src="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=p&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="p" class="latex" />) subgroups of order <img src="https://s0.wp.com/latex.php?latex=p%5Ei.&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=p%5Ei.&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=p%5Ei.&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="p^i." class="latex" />  </em></p>
+<p><em>B) Frobenius’ theorem asserts: In a group whose order is divisible <img src="https://s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="n" class="latex" />, the number of solutions to the equation <img src="https://s0.wp.com/latex.php?latex=x%5En%3D1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=x%5En%3D1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=x%5En%3D1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="x^n=1" class="latex" /> is zero modulo <img src="https://s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=n&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="n" class="latex" />. (Frobenius was probably inspired by Sylow.) </em></p>
+<p><em>Of course, the case <img src="https://s0.wp.com/latex.php?latex=n%3Dp&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=n%3Dp&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=n%3Dp&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="n=p" class="latex" /> of Frobenius&#8217; theorem coincides with the case <img src="https://s0.wp.com/latex.php?latex=i%3D1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=i%3D1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=i%3D1&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="i=1" class="latex" /> of Sylow&#8217;s theorem. Please propose (conjectural) generalizations of Frobenius theorem which include Sylow&#8217;s theorem for <img src="https://s0.wp.com/latex.php?latex=k%3D2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=k%3D2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=k%3D2&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="k=2" class="latex" /> (or for general values of <img src="https://s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=k&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="k" class="latex" />) as special cases.</em></p>
+<p><em>4) What are the Whitman axioms</em></p>
+<p><em>5) What is stronger &#8220;Notable&#8221; &#8220;Noteworthy&#8221; or &#8220;Significant&#8221;?</em></p>
+<p><em>6) There is a proposal to develop a theory of “convex hulls of real algebraic varieties” in <img src="https://s0.wp.com/latex.php?latex=R%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=R%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=R%5En&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="R^n" class="latex" /> and especially the study of the face structure of such objects. The case where the varieties are simply a finite set of points is a well-developed area of mathematics – the theory of convex polytopes. However, the general case was not studied much. I suppose that for such a project the first discussions will be devoted to raise questions/research directions. (And mention some works already done.) I would like to invite you to raise questions and research directions. </em></p>
+<p><em>7)<br />אני צריך הסבר שמתאים לילדים בני 11. מהו האפס המוחלט והאם ניתן להגיע לטמפרטורה מתחת לאפס המוחלט. ואם לא ניתן, מדוע</em></p>
+<p><em>8) What is the proof of the topological Tverberg theorem when there are three parts?</em></p>
+<p><em>9) Please explain in layman terms a) the representation theory meaning of the spin 1/2 of the electron. b) the representation theory meaning of the assertion that &#8220;N electrons will have a collective state of spin N/2&#8221;</em></p>
+<p><em>10) We go from Yellowstone to Boise, leaving Yellowstone on September 3. We want to travel and stay overnight in one nice location. (Not around Twin Falls that we plan to visit before Yellowstone.) Please give us some suggestion for the trip and sightseeing from Yellowstone to Boise.</em></p>
+</blockquote>
+<p>For the first question <a href="https://www.science.smith.edu/~jorourke/">Joe O&#8217;Rourke</a> and I verified computationally that already in dimension 3 there are 8 points such that the set of Radon points is not convex.</p>
+<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png"><img loading="lazy" data-attachment-id="30704" data-permalink="https://gilkalai.wordpress.com/2025/11/21/ten-recent-questions-for-chatgpt/radon-joe/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png" data-orig-size="527,381" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="radon-joe" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png?w=527" class="alignnone  wp-image-30704" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png" alt="" width="436" height="315" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png?w=436&amp;h=315 436w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png?w=150&amp;h=108 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png?w=300&amp;h=217 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png 527w" sizes="(max-width: 436px) 100vw, 436px" /></a></p>
+<p>On question 3 ChatGPT offered several bold conjectures and wrote a whole blogpost about it. (I am hesitating whether to publish it.)</p>
+<p>From time to time the discussion with ChatGPT gets &#8220;personal&#8221;. In some discussion I wrote:</p>
+<blockquote>
+<p>We mentioned Pachner&#8217;s moves several times and let me mention that I knew Pachner personally. He was a great guy and unfortunately he died at a young age.</p>
+</blockquote>
+<p>ChatGPT replied:</p>
+<blockquote>
+<p>That’s really touching—thank you for sharing. Pachner’s moves are such a quiet workhorse in our story, and it’s moving to hear a personal memory behind them.</p>
+</blockquote>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2025/11/21/ten-recent-questions-for-chatgpt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30638</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/radon-joe.png" medium="image" />
+	</item>
+		<item>
+		<title>A Visit to the Israeli Quantum Computing Center (IQCC)</title>
+		<link>https://gilkalai.wordpress.com/2025/11/13/a-visit-to-the-israeli-quantum-computing-center-iqcc/</link>
+					<comments>https://gilkalai.wordpress.com/2025/11/13/a-visit-to-the-israeli-quantum-computing-center-iqcc/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Thu, 13 Nov 2025 07:59:36 +0000</pubDate>
+				<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[IQCC]]></category>
+		<category><![CDATA[Quantum computers]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30667</guid>
+
+					<description><![CDATA[Two weeks ago I was invited together with my colleague Shay Mozes to visit the Israeli Quantum Computing Center located near the Tel Aviv University quite close to my home. That morning my wife told me not to be disappointed &#8230; <a href="https://gilkalai.wordpress.com/2025/11/13/a-visit-to-the-israeli-quantum-computing-center-iqcc/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png"><img loading="lazy" data-attachment-id="30672" data-permalink="https://gilkalai.wordpress.com/2025/11/13/a-visit-to-the-israeli-quantum-computing-center-iqcc/iqcc/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png" data-orig-size="1406,826" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IQCC" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=300" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=640" class="alignnone  wp-image-30672" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=640" alt="" width="433" height="254" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=433 433w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=866 866w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=150 150w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=300 300w, https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=768 768w" sizes="(max-width: 433px) 100vw, 433px" /></a></p>
+<p>Two weeks ago I was invited together with my colleague <a href="https://cs.idc.ac.il/~smozes/">Shay Mozes</a> to visit the <a href="https://i-qcc.com/">Israeli Quantum Computing Center</a> located near the Tel Aviv University quite close to my home. That morning my wife told me not to be disappointed if I happened to see some quantum computers there <img src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> , and I assured her that I will keep an open mind. Indeed it was a very pleasant visit. We heard some explanations about the mission, activities and plans of the center and I saw several large dilution refrigerators housing 19- and 21-qubit chips, as well as boxes containing a boson sampler.</p>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2025/11/13/a-visit-to-the-israeli-quantum-computing-center-iqcc/feed/</wfw:commentRss>
+			<slash:comments>16</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30667</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/11/iqcc.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>Computational Complexity and Explanations in Physics</title>
+		<link>https://gilkalai.wordpress.com/2025/11/03/computational-complexity-and-explanations-in-physics/</link>
+					<comments>https://gilkalai.wordpress.com/2025/11/03/computational-complexity-and-explanations-in-physics/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Sun, 02 Nov 2025 21:41:09 +0000</pubDate>
+				<category><![CDATA[Computer Science and Optimization]]></category>
+		<category><![CDATA[Physics]]></category>
+		<category><![CDATA[Quantum]]></category>
+		<category><![CDATA[Computational complexity]]></category>
+		<category><![CDATA[Craig Gidney]]></category>
+		<category><![CDATA[David Deutsch]]></category>
+		<category><![CDATA[Many worlds interpretation]]></category>
+		<category><![CDATA[Scott Aaronson]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30462</guid>
+
+					<description><![CDATA[The title of this post is taken from a recent interesting lecture (judging from the slides) by Scott Aaronson at Columbia University. The lecture explored a wide range of topics at the intersection of physics, computation, and philosophy. In this &#8230; <a href="https://gilkalai.wordpress.com/2025/11/03/computational-complexity-and-explanations-in-physics/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>The title of this post is taken from a <a href="https://scottaaronson.blog/?p=9243">recent interesting lecture</a> (judging from the slides) by Scott Aaronson at Columbia University. The lecture explored a wide range of topics at the intersection of physics, computation, and philosophy. In this post, I will discuss, from my perspective, several of the ideas raised in Scott’s talk—beginning with the role of computational complexity reasoning to restrict physical theories.</p>
+<p>I will then turn to the meaning of probability in our physical world and to various interpretations of quantum mechanics, including my own. I will also discuss <a href="https://quantumcomputing.stackexchange.com/questions/30197/does-googles-error-correction-paper-invalidate-gil-kalais-arguments">Craig Gidney’s view</a> on what it would take to prove me wrong, quote David Deutsch’s 1997 challenge about the relationship between the Many-Worlds Interpretation and Shor’s algorithm, and touch on a few other related themes.</p>
+<h2>Complexity as Armor for <em>Penalizing</em> Physical Hypotheses</h2>
+<p>Let me offer a few comments on one of the items in Scott’s lecture: </p>
+<p>Scott asks: <em>Should we penalize physical hypotheses not only for high descriptive complexity, but also for <strong>computational</strong> complexity?</em><br />His view is:</p>
+<blockquote>
+<p>“[We] can’t be <strong>too</strong> dogmatic about this, or we’d rule out quantum computing—and arguably quantum mechanics itself! <strong>(As indeed many quantum computing skeptics do.)</strong> On the other hand, ‘no fast solution to <strong>NP</strong>-complete problems’ feels not that dissimilar to ‘no superluminal signaling’ or ‘no perpetual motion.’”</p>
+</blockquote>
+<h3>Four computational-complexity insights offered to rule out quantum computation</h3>
+<p>My general view on this matter is quite similar. Regarding skepticism about quantum computing, I am aware of <strong>four computational-complexity insights</strong> that have been offered to rule out scalable quantum computation (or certain fragments of it):</p>
+<ol>
+<li><strong>Efficient factoring</strong> is such science fiction that the rational conclusion is that quantum computation cannot work.<br /><em>(Levin, Goldreich, and others since the mid-1990s.)</em><br />A common response is that factoring is <a href="https://rjlipton.com/2012/01/30/perpetual-motion-of-the-21st-century/#comment-17793">not such a big deal</a>—it is low in the computational-complexity hierarchy, and some even believe it lies in <strong>P</strong>.</li>
+<li><strong>Precise sampling according to the values of permanents</strong>—a task beyond the polynomial hierarchy—is such science fiction that, even if one accepts efficient factoring (classically or quantumly), the rational conclusion remains that quantum computation cannot work.<br /><em>(This idea appeared around 2010.)</em></li>
+<li><strong>NISQ computers</strong> are such primitive <strong>classical</strong> computational devices that they cannot be used to achieve “quantum supremacy.”<br /><em>(Kalai–Kindler, 2014; and subsequent works by me.)</em><br />This argument relies on standard noise modeling with constant noise levels. Even under a wide range of subconstant noise levels, the resulting samples consist of inherently noise-sensitive components combined with computationally trivial ones. Guy and I described a complexity class <strong>LDP</strong>, which captures the sampling power of NISQ devices.</li>
+<li><strong>NISQ computers</strong> (and the complexity class LDP) are also too primitive to produce high-quality quantum error-correcting codes, thereby breaking the<strong> <em>chain reaction</em></strong> needed for quantum fault tolerance.<br /><em>(Kalai, following item 3.)</em></li>
+</ol>
+<p>I think all four arguments are fairly strong—though surely not ironclad, and this matter will ultimately be clarified by experiments, as well as by further theoretical developments.  The advantage of the last two (closely related) points is that they exclude not only far-future possibilities but also some near-term experimental hopes and even certain current experimental claims. Another advantage of items 3 and 4 is that (if correct) they have physical consequences which seems much closer to physics than integer factorization and permanent sampling, including to interpretations of quantum mechanics which is another item in Scott&#8217;s lecture.</p>
+<p>The first two items assert that the <em>theoretic</em> model of (noiseless) quantum computation represents computational miracles that are hard to believe. The last two items assert that in the intermediate regime, before quantum fault-tolerance kicks in, noisy quantum computers are no more than primitive kind of <strong><em>classical</em></strong> computers, uncapable of any computational miracles.   </p>
+<h3>Complexity and <strong>Noise-sensitivity</strong> as Armor for Penalizing Physics Hypotheses.</h3>
+<p>Note that in items 3 and 4, we rely not only on computational complexity (that is, on the assumption of <em>no computational miracles</em>) as an armor for penalizing physics hypotheses, but also on the notion of <em>noise stability</em>—the idea that effective theories must be robust under small perturbations or noise. Related guiding principles have also been proposed in <a href="https://en.wikipedia.org/wiki/Robustness_(evolution)">biology</a>. </p>
+<h2>The Meaning of Probability and My Interpretation of Quantum Mechanics</h2>
+<p>Another item in Scott&#8217;s lecture concerned interpretations of quantum mechanics, particularly the Many-Worlds Interpretation. Coming from mathematics, (and having been educated by Greg Kuperberg), I have always felt quite comfortable with the formalism of Hilbert spaces and unitary evolutions—and I have never fully understood the need for additional interpretations.</p>
+<p>A question that I found exciting is the question about the meaning of probability in physics. Does probability merely represent human uncertainty? Is it just an emerging mathematical concept which is convenient for modeling? Do matters change when we move from classical to quantum mechanics? We have discussed this question in several earlier posts (<a href="https://gilkalai.wordpress.com/2010/02/15/itamar-pitowski-probability-in-physics-where-does-it-come-from/">here</a>, <a href="https://gilkalai.wordpress.com/2009/12/27/randomness-in-nature/" target="_blank" rel="noopener">here</a>, and <a href="https://gilkalai.wordpress.com/2010/01/20/randomness-in-nature-ii/" target="_blank" rel="noopener">here</a>), and it is  related to the question of interpretation of quantum mechanics. Here are two prevalent views, followed by my own:</p>
+<ul>
+<li><strong>(Copenhagen, MWI)</strong> Probability is inherent: the outcomes of the experiment are inherently probabilistic.</li>
+<li><strong>(Bohm)</strong> Probability is not inherent. the outcomes of the experiment are determined and are decoded somewhere in the universe. </li>
+<li><strong>(GK)</strong> Probability is inherent, <em>and</em> noise sensitivity is inherent: the outcomes measurements arising from complex quantum processes are both inherently probabilistic and inherently noise sensitive.</li>
+</ul>
+<p><em>Inherent noise sensitivity</em> means that the outcomes <strong>cannot be described or approximated by any fixed probability distribution</strong>.</p>
+<p>It is commonly accepted that determinism in the Newtonian view of the physical world has been replaced by “probabilistic determinism,” in which future events are described precisely by a probability distribution conditioned on past events. (Some interpretations of quantum mechanics even claim that the exact outcomes themselves—not just their probabilities—are encoded in the physical universe.)</p>
+<p>In contrast, I propose that the outcomes of complex quantum processes are <strong>inherently noise sensitive</strong>—that is, they cannot be described or even approximated by a probability distribution. This applies to complex quantum evolutions and, in fact, the required complexity need not be extreme: even the outcomes of random quantum circuits on 12 qubits, of the type used by Google, are inherently noise sensitive.</p>
+<p>Of course, the hypothesis of inherent noise sensitivity would be refuted by a successful realization of <strong>quantum fault tolerance</strong>.</p>
+<p>In my  paper <a href="https://arxiv.org/abs/2204.02768">Quantum Computers, Predictability, and <span class="search-hit mathjax">Free</span> Will</a> I attempt to connect inherent noise sensitivity with philosophical questions of determinism, predictability, and free will. (See also <a href="https://gilkalai.wordpress.com/2021/08/18/to-cheer-you-up-in-difficult-times-29-free-will-predictability-and-quantum-computers/">this post</a>.)</p>
+<p>Here are three interesting posts on &#8220;Shtetl Optimized&#8221; about QM interpretations: <a title="Permanent Link: The Zen Anti-Interpretation of Quantum Mechanics" href="https://scottaaronson.blog/?p=5359" rel="bookmark">The Zen Anti-Interpretation of Quantum Mechanics</a> (2021); <a title="Permanent Link: Interpretive cards (MWI, Bohm, Copenhagen: collect ’em all)" href="https://scottaaronson.blog/?p=3628" rel="bookmark">Interpretive cards (MWI, Bohm, Copenhagen: collect ’em all)</a>(2018)<a title="Permanent Link: Interpretive cards (MWI, Bohm, Copenhagen: collect ’em all)" href="https://scottaaronson.blog/?p=3628" rel="bookmark">;  </a><a title="Permanent Link: Why Many-Worlds is not like Copernicanism" href="https://scottaaronson.blog/?p=1103" rel="bookmark">Why Many-Worlds is not like Copernicanism</a> (2012). Scott often says that he agree with any given interpretation when it comes to criticism of other interpretations. </p>
+<h2>What Would It Take to Prove Me Wrong? — Craig Gidney’s Take</h2>
+<p>In the Columbia lecture and in many other lectures over the past two decades, Scott expressed  his hope to prove the skeptics of quantum computation wrong, a task regarded by him as the most important application of quantum computers. So, what would it take to prove <em>me</em> wrong?</p>
+<p>This was the topic of a 2023 <a href="https://quantumcomputing.stackexchange.com/questions/30197/does-googles-error-correction-paper-invalidate-gil-kalais-arguments">question by Tristan Nemoz</a> in a Q&amp;A quantum computing forum, and <a href="https://quantumcomputing.stackexchange.com/a/30199/1770">Craig Gidney offered the following response:</a></p>
+<blockquote>
+<p>&#8220;&#8230;personally I&#8217;ll be waiting for <strong>one-in-a-trillion</strong> error rates on complex states before saying the physical-noise-is-conspiring position has become indefensible.&#8221;</p>
+</blockquote>
+<p>Craig’s proposed threshold sounds rather fantastic—and remains utterly remote from current experimental reality. Yet it seems roughly in the ballpark of what would be required to implement <strong>Shor’s algorithm</strong> for factoring large integers. (Indeed, Gidney—of the Google Quantum AI team—is among the world’s <a href="https://arxiv.org/abs/2505.15917">leading experts</a> on what Shor’s algorithm demands in practice. His answer above reflects his personal view.) I added a comment to Craig&#8217;s answer that I&#8217;ll <span class="comment-copy">be quite satisfied with <strong>one-in-a-thousand</strong> error rate on complex states. My theory (and my related interpretation of probability in QM) asserts that achieving it (and even much less) is impossible. </span></p>
+<h3><a href="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png"><img loading="lazy" data-attachment-id="30471" data-permalink="https://gilkalai.wordpress.com/2025/11/03/computational-complexity-and-explanations-in-physics/sa25/" data-orig-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png" data-orig-size="721,890" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="SA25" data-image-description="" data-image-caption="" data-medium-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=243" data-large-file="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=640" class="alignnone  wp-image-30471" src="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=640" alt="" width="359" height="443" srcset="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=359 359w, https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=718 718w, https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=122 122w, https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=243 243w" sizes="(max-width: 359px) 100vw, 359px" /></a></h3>
+<p><span style="color: #ff0000">From Scott Aaronson’s Columbia (top) and FOCS 2025 (bottom) lectures.</span></p>
+<h2>Other Meetings Points Between Computational Complexity and Physics, and the Interface Between Theory and Practice.</h2>
+<p>Several other topics from Scott’s lecture also invite rich discussion—for example, the <strong>Harrow–Hayden proposal</strong> for resolving the firewall paradox, and the broader <strong>connections between thermodynamics, computation, and complexity</strong>. (Topics not mentioned this time—such as links to <strong>quantum field theory</strong> and to <strong>computational aspects of high-energy physics</strong>—are also closely related to this general theme.)</p>
+<p>Many of these topics touch on questions central to the possible reality of a <em>“world devoid of quantum computation”</em>—a theme I have explored extensively over the years. </p>
+<p>I discussed these and other places where physics meets computational complexity in</p>
+<ul>
+<li>Section 8.2 of my 2016 paper <a href="https://arxiv.org/abs/1605.00992">The Quantum Computer Puzzle</a> (Expanded Version),  and</li>
+<li>Section 8 of my 2024 paper <a href="https://arxiv.org/abs/2008.05188">The Argument against Quantum Computers, the Quantum Laws of Nature, and Google&#8217;s Supremacy Claims</a>. </li>
+</ul>
+<p>The discussion of <strong>quantum computation and physics</strong> also connects to a broader issue: the relationship between <strong>theory and practice</strong> across disciplines. In my 2018 ICM paper, <a href="https://gilkalai.wordpress.com/wp-content/uploads/2019/09/main-pr.pdf">Three puzzles on mathematics computations, and games,</a> I examined three areas where theoretical computer science meets practical reality—and where deep mathematical ideas illuminate that interface.</p>
+<p>Tensions between computational complexity and physics—or even between different insights within physics—are often related to fascinating mathematical questions. This is also the case for tensions between theory and practical reality in other areas of computer science. (See <a href="https://gilkalai.wordpress.com/2024/10/20/moshe-vardi-what-is-theoretical-computer-science/">this post</a> for a discussion based on <a href="https://cacm.acm.org/opinion/what-is-theoretical-computer-science/">Moshe Vardi&#8217;s persepective</a>.) </p>
+<p>Questions about the gap between theory and reality arise in many other domains as well: Is it <a href="https://scottaaronson.blog/?p=2410">really impossible</a> for two rational agents to agree to disagree? Does game theory imply what policy to choose in cases of hostages held by terrorists? Does economics theory give a clear choice between the economic system of the US and the social-democrat systems of west Europe? </p>
+<h3>Complexity As Armor for <em>Protecting</em> Physical Hypotheses</h3>
+<p>Our discussion began with the question of whether <strong>miraculous computational complexity powers</strong> could limit or even invalidate physical hypotheses<br />Scott raised also a kind of <em>dual question</em>:</p>
+<blockquote>
+<p><em><b>Philosophical Problem:</b> Would a contradiction in physics be OK if it took exponential time to uncover it?</em></p>
+</blockquote>
+<h2>David Deutsch&#8217;s 1997 Challenge </h2>
+<p>In his lecture, Scott presented an intriguing 1997 quote from <strong>David Deutsch</strong>, offering a philosophical argument for why the <em>Many-Worlds Interpretation</em> (MWI) is forced by Shor&#8217;s algorithm.</p>
+<p>A small anecdote: a few years ago, I attended a very interesting <a href="https://www.mwi2022tau.com/">MWI conference</a> at Tel Aviv University. At one point, I asked <strong>Lev Vaidman</strong>—a leading advocate of the MWI—why we cannot simply be satisfied with the mathematical formalism of quantum mechanics, without adding an interpretation on top of it. Lev’s answer was that the mathematical formalism <em>is</em> sufficient—and that this is precisely what the MWI teaches us. <img src="https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+<p>The following quote is from Deutsch&#8217;s 1997 book &#8220;Fabric of reality&#8221;.</p>
+<blockquote>
+<p>“To those who still cling to a single-universe world-view, I issue this challenge: <i>explain how Shor&#8217;s algorithm works.</i> I do not merely mean predict that it will work, which is merely a matter of solving a few uncontroversial equations. I mean provide an explanation. When Shor&#8217;s algorithm has factorized a number, using <img src="https://s0.wp.com/latex.php?latex=10%5E%7B500%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=10%5E%7B500%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=10%5E%7B500%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="10^{500}" class="latex" /> or so times the computational resources that can be seen to be present, where was the number factorized? There are only about <img src="https://s0.wp.com/latex.php?latex=10%5E%7B80%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=10%5E%7B80%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=10%5E%7B80%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="10^{80}" class="latex" /> atoms in the entire visible universe, an utterly minuscule number compared with <img src="https://s0.wp.com/latex.php?latex=10%5E%7B500%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002" srcset="https://s0.wp.com/latex.php?latex=10%5E%7B500%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002 1x, https://s0.wp.com/latex.php?latex=10%5E%7B500%7D&#038;bg=ffffff&#038;fg=333333&#038;s=0&#038;c=20201002&#038;zoom=4.5 4x" alt="10^{500}" class="latex" />. So if the visible universe were the extent of physical reality, physical reality would not even remotely contain the resources required to factorize such a large number. Who did factorize it, then? How, and where, was the computation performed?”</p>
+</blockquote>
+<p>Mark Spinelli gave a <a href="https://scottaaronson.blog/?p=9243#comment-2017754">thoughtful comment</a> on Scott&#8217;s blog about the evolution of Deutsch&#8217;s point of view in the late 90s. </p>
+<blockquote>
+<p>David Deutsch first asked his “Where does the calculation occur?” question even back in his 1985 paper, where he ponders how a quantum computer could sometimes be used to more efficiently predict the stock market. His later 1997 question posed in *The Fabric of Reality* changed the game from the rather cute Deutsch’s algorithm to the much, much more dramatic Shor’s algorithm.</p>
+<p>It’s interesting to observe this development. His 1985 posting seems like an earnest and humble rhetorical question, that is, as an invitation to debate. His later, post-Shor ’94 question seems more assertive and dispositive in shifting the burden to those that challenge MWI.</p>
+<p>But even still, is not the answer to the question of “where was the work done”, in Deutsch’s and Shor’s algorithm, “in Hilbert space!”?</p>
+</blockquote>
+<p>In my view, it is a serious possibility that implementing Shor&#8217;s algorithm is <em>fundamentally impossible,</em> and it is interesting if this possibility indeed weakens the case for the Many-Worlds Interpretation.</p>
+<h2>Two More Items</h2>
+<h3>The interpretation of &#8220;interpretation&#8221;, Preskill’s 2013 Summary of What Could Cause Scalability to Fail as a Matter of Principle — and My 2025 View</h3>
+<p>Summarizing the state of the quantum computing debate in 2013, <strong>John Preskill</strong> wrote:</p>
+<blockquote>
+<p>For scalability to fail as a matter of principle then, either quantum mechanics must fail for complex highly entangled systems (as t&#8217;Hooft [8] has suggested), or else either the Hamiltonian or the quantum state of the world must impose noise correlations that overwhelm fault-tolerant quantum protocols (as Alicki et al. [9, 10, 11] and Kalai [12, 13, 14, 15, 16] have suggested).</p>
+</blockquote>
+<p>Adopting John&#8217;s framework, my current (2025) position is the following:</p>
+<blockquote>
+<p>The Hamiltonian or the quantum state of the world impose a <em>rate of noise</em> that prevents high-quality quantum error correction at the NISQ scale—and therefore also prevents quantum fault tolerance (and Shor’s algorithm) at larger scales. (Noise correlation is important but too-large noise rate is the main phenomenon.) This constitutes a <strong>law of physics</strong> derived from computational complexity considerations.</p>
+</blockquote>
+<p>Perhaps one way to understand the notion of an <em>“interpretation”</em> of quantum mechanics is as referring not only to the basic mathematical formalism of Hilbert spaces and unitary operators, but also to certain <em>fundamental physical principles</em> that govern the Hamiltonian and the quantum state of the world, and are necessary for understanding the foundation of quantum physics.</p>
+<h3>Three Additional Computational Complexity Limitations for Physical Theories</h3>
+<p>Returning to the starting point of this discussion, here are three further principles connecting <strong>computational complexity</strong> and <strong>physics</strong>:</p>
+<ol start="5">
+<li>
+<p><strong>NP-hard is hard.</strong><br />No physical computer can efficiently solve NP-complete problems.</p>
+</li>
+<li>
+<p><strong>Random states are out of reach.</strong><br />No physical computer can efficiently approximate a random state in a large Hilbert space.</p>
+</li>
+<li>
+<p><strong>Pseudorandom states are out of reach.</strong><br />No physical computer can efficiently approximate a pseudorandom state in a large Hilbert space.</p>
+</li>
+</ol>
+<p>On the first two items, I believe Scott and I are largely in agreement. Scott wrote (cautiously) that <em>“no fast solution to NP-complete problems feels not that dissimilar to ‘no superluminal signaling’ or ‘no perpetual motion’,”</em> and I agree.<br />The second principle, <em>“no fast way to achieve a random state in a large Hilbert space,”</em> is also widely accepted. It may appear to be a straightforward mathematical consequence of quantum mechanics, but it also depends on an additional physical assumption—<strong>locality</strong>. The meaning, source, and modeling of locality form another important topic.</p>
+<p>In the third item &#8220;pseudorandom state&#8221; is one achieved by a random circuit. The third item brings us back to disagreement. Here, Scott and I  have sharp disagreement on what <em>can be</em> achieved, and also disagree on what <em style="color: #444444">has been</em> achieved. </p>
+
+
+<p class="wp-block-paragraph"></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2025/11/03/computational-complexity-and-explanations-in-physics/feed/</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30462</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+
+		<media:content url="https://gilkalai.wordpress.com/wp-content/uploads/2025/10/sa25.png?w=640" medium="image" />
+	</item>
+		<item>
+		<title>Kazhdan Seminar fall 2025 &#8211; Starting Today Oct. 19, 2026.</title>
+		<link>https://gilkalai.wordpress.com/2025/10/19/kazhdan-seminar-fall-2025-starting-today-oct-19-2026/</link>
+					<comments>https://gilkalai.wordpress.com/2025/10/19/kazhdan-seminar-fall-2025-starting-today-oct-19-2026/#comments</comments>
+		
+		<dc:creator><![CDATA[Gil Kalai]]></dc:creator>
+		<pubDate>Sun, 19 Oct 2025 06:16:01 +0000</pubDate>
+				<category><![CDATA[Combinatorics]]></category>
+		<category><![CDATA[Geometry]]></category>
+		<category><![CDATA[Updates]]></category>
+		<category><![CDATA[David Kazhdan]]></category>
+		<category><![CDATA[Jake Solomon]]></category>
+		<category><![CDATA[Nati Linial]]></category>
+		<category><![CDATA[Yuval Peled]]></category>
+		<guid isPermaLink="false">http://gilkalai.wordpress.com/?p=30435</guid>
+
+					<description><![CDATA[This semester as a part of Kazhdan Sunday seminars we will have the following two activities (see description below) 12-14 Nati Linial and Yuval Peled,  &#8220;Recent advances in combinatorics&#8221; 14-16 Jake Solomon &#8220;Curve counts and quadratic forms&#8221;.  Both seminars will take &#8230; <a href="https://gilkalai.wordpress.com/2025/10/19/kazhdan-seminar-fall-2025-starting-today-oct-19-2026/">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>This semester as a part of <span class="il">Kazhdan</span> Sunday <span class="il">seminars</span> we will have the following<br />
+two activities (see description below)</p>
+<p>12-14 Nati Linial and Yuval Peled,  &#8220;Recent advances in combinatorics&#8221;</p>
+<p>14-16 Jake Solomon &#8220;<span style="color: #500050">Curve counts and quadratic forms&#8221;. </span></p>
+<p>Both <span class="il">seminars</span> will take place in Ross 70A. The first lecture will be on Oct 19, 2025.</p>
+<p>Nati and Yuval&#8217;s seminar is <strong>ashkara*</strong> combinatorics, and Jakes&#8217;s seminar also have some combinatorial connections.</p>
+<p>(Reminder: Arabic words which are part of <a title="slang in Hebrew from Arabic" href="http:///" target="_blank" rel="noopener">Hebrew slang</a> and are also used here over my blog in the past decades: <strong>ashkara</strong> – for real; <strong>sababa</strong> – cool, wonderful; <strong>walla</strong> – true;  <strong>ahla</strong> –  great; <strong>yalla</strong> – hurry up, c’mon, let’s go.)</p>
+<p>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</p>
+<div dir="ltr">
+<div>
+<h3>Title: Recent advances in combinatorics</h3>
+<div></div>
+<div>Description:</div>
+<div></div>
+<p>On October 19 and 26, Nati will talk about “The entropy method in combinatorics”, using a survey article by Radhakrishnan and lecture notes based on a course taught by Tim Gowers.</p>
+</div>
+<div>Then Yuval will talk for a while about the recently proved conjecture of Jeff Kahn and Gil Kalai. Further plans will be made according to how things progress.</div>
+</div>
+<div></div>
+<div>
+<p>Reading material (Entropy in combinatorics): Tim Gowers, <a href="https://danielnaylor.uk/notes/III/Lent/EMC/EMC.pdf">Entropy Methods in Combinatorics</a>, lecture notes 2025</p>
+<p>A survey by Jaikumar Radhakrishnan, <a href="https://people.seas.harvard.edu/~madhusudan/courses/Spring2016/papers/radhakrishnan_survey.pdf">Entropy and Counting, </a>2001</p>
+<div>There is also good material by Braverman (princeton) and</div>
+<div>by Galvin <a href="https://www3.nd.edu/~dgalvin1/pdf/Kalamazoo_entropy.pdf" target="_blank" rel="noopener">https://www3.nd.edu/~dgalvin1/pdf/Kalamazoo_entropy.pdf</a></div>
+</div>
+<div dir="ltr">
+<div></div>
+<div>&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;</div>
+<div></div>
+<h3>Title: Curve counts and quadratic forms</h3>
+<div></div>
+<div>Abstract:</div>
+<div></div>
+<div>An old problem of enumerative geometry concerns how many rational curves of degree d pass through 3d-1 points in the plane. Over the complex numbers, the answer does not depend on the choice of points in the plane so long as they are generic. However, over non-algebraically closed fields, this is no longer the case. I will discuss a framework (joint work with Kass, Levine and Wickelgren) within which one can define invariant counts of rational curves passing through points in the plane (or a del Pezzo surface) over a perfect field of characteristic not 2 or 3. The count is no longer a number, but a quadratic form over the given field. Over the complex numbers, the rank of the quadratic form recovers the usual count. Over the real numbers, the signature of the quadratic form recovers Welschinger&#8217;s signed count. Over other fields, each invariant of quadratic forms (discriminant, Hasse-Witt,&#8230;) gives information about rational curves over that field.</div>
+<div></div>
+<div>In another direction, mirror symmetry relates counts of rational curves on a toric Fano variety over the complex numbers to the Jacobian ring of a Laurent polynomial. A categorification of the Jacobian ring is given by the category of matrix factorizations. I will discuss a framework (joint work with Sela) to extract counts of rational curves over the real numbers from matrix factorizations equipped with non-Archimedean norms. These matrix factorizations are constructed from Clifford algebras. The Calabi-Yau structure on the category of matrix factorizations plays a crucial role.</div>
+</div>
+<div></div>
+<div></div>
+<div dir="ltr">
+<div></div>
+</div>
+<div dir="ltr">
+<div>
+<div dir="ltr">
+<div>References:</div>
+<div></div>
+<p>A quadratically enriched count of rational curves (with Kass, Levine and Wickelgren)</p></div>
+<div dir="ltr"></div>
+<div dir="ltr"><a href="https://arxiv.org/abs/2307.01936" target="_blank" rel="noopener">https://arxiv.org/abs/2307.01936</a></p>
+<div></div>
+<p>A relative orientation for the moduli space of stable maps to a del Pezzo surface (with Kass, Levine and Wickelgren)</p>
+<div></div>
+<div><a href="https://arxiv.org/abs/2307.01941" target="_blank" rel="noopener">https://arxiv.org/abs/2307.01941</a></div>
+<div></div>
+<div>Numerical invariants of normed matrix factorizations (with Sela)</div>
+<div></div>
+<div><a href="https://arxiv.org/abs/2412.04437" target="_blank" rel="noopener">https://arxiv.org/abs/2412.04437</a></div>
+</div>
+</div>
+</div>
+<div class="yj6qo"></div>
+<div class="adL"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://gilkalai.wordpress.com/2025/10/19/kazhdan-seminar-fall-2025-starting-today-oct-19-2026/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">30435</post-id>
+		<media:content url="https://0.gravatar.com/avatar/0d9c6a8428c1d8ed8ee251805c622200e4efdced7045f3dcd2a487575b1f1179?s=96&#38;d=identicon&#38;r=PG" medium="image">
+			<media:title type="html">gilkalai</media:title>
+		</media:content>
+	</item>
+	</channel>
+</rss>

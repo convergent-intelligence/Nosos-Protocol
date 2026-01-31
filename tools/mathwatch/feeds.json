@@ -1,0 +1,47 @@
+{
+  "version": "0.1",
+  "feeds": [
+    {
+      "id": "tao",
+      "name": "Terry Tao",
+      "url": "https://terrytao.wordpress.com/feed/",
+      "tags": ["analysis", "additive", "exposition"]
+    },
+    {
+      "id": "gowers",
+      "name": "Gowers",
+      "url": "https://gowers.wordpress.com/feed/",
+      "tags": ["combinatorics", "exposition"]
+    },
+    {
+      "id": "kalai",
+      "name": "Gil Kalai",
+      "url": "https://gilkalai.wordpress.com/feed/",
+      "tags": ["combinatorics", "complexity", "quantum"]
+    },
+    {
+      "id": "quanta",
+      "name": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/feed/",
+      "tags": ["math", "science", "exposition"]
+    },
+    {
+      "id": "mathoverflow",
+      "name": "MathOverflow",
+      "url": "https://mathoverflow.net/feeds",
+      "tags": ["problems", "research"]
+    },
+    {
+      "id": "arxiv_math",
+      "name": "arXiv math (all)",
+      "url": "https://arxiv.org/rss/math",
+      "tags": ["arxiv", "preprints"]
+    },
+    {
+      "id": "arxiv_cs_cc",
+      "name": "arXiv cs.CC",
+      "url": "https://arxiv.org/rss/cs.CC",
+      "tags": ["complexity", "theory", "preprints"]
+    }
+  ]
+}

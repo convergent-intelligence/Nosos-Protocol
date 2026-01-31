@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/BurntSushi/ripgrep/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/BurntSushi/ripgrep/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/BurntSushi/ripgrep/releases.atom"/>
+  <title>Release notes from ripgrep</title>
+  <updated>2025-10-30T17:30:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/ignore-0.4.25</id>
+    <updated>2025-10-30T17:30:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/ignore-0.4.25"/>
+    <title>ignore-0.4.25</title>
+    <content type="html">&lt;p&gt;ignore-0.4.25&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/15.1.0</id>
+    <updated>2025-10-22T13:00:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/15.1.0"/>
+    <title>15.1.0</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/sponsors/BurntSushi/&quot;&gt;Sponsorship is appreciated!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This is a small release that fixes a bug with how ripgrep handles line&lt;br&gt;
+buffering. This might manifest as ripgrep printing output later than you&lt;br&gt;
+expect or not working correctly with &lt;code&gt;tail -f&lt;/code&gt; (even if you&#39;re using the&lt;br&gt;
+&lt;code&gt;--line-buffered&lt;/code&gt; flag).&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&#39;t heard of it before, ripgrep is a line-oriented search&lt;br&gt;
+tool that recursively searches the current directory for a regex pattern.&lt;br&gt;
+By default, ripgrep will respect gitignore rules and automatically skip&lt;br&gt;
+hidden files/directories and binary files.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Bug fixes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3194&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3194/hovercard&quot;&gt;BUG #3194&lt;/a&gt;:&lt;br&gt;
+Fix a regression with &lt;code&gt;--line-buffered&lt;/code&gt; introduced in ripgrep 15.0.0.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feature enhancements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3192&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/3192/hovercard&quot;&gt;FEATURE #3192&lt;/a&gt;:&lt;br&gt;
+Add hyperlink alias for Cursor.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/grep-searcher-0.1.16</id>
+    <updated>2025-10-22T12:25:01Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/grep-searcher-0.1.16"/>
+    <title>grep-searcher-0.1.16</title>
+    <content type="html">&lt;p&gt;grep-searcher-0.1.16&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/grep-printer-0.3.1</id>
+    <updated>2025-10-22T12:28:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/grep-printer-0.3.1"/>
+    <title>grep-printer-0.3.1</title>
+    <content type="html">&lt;p&gt;grep-printer-0.3.1&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/grep-0.4.1</id>
+    <updated>2025-10-22T12:28:53Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/grep-0.4.1"/>
+    <title>grep-0.4.1</title>
+    <content type="html">&lt;p&gt;grep-0.4.1&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/globset-0.4.18</id>
+    <updated>2025-10-22T12:23:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/globset-0.4.18"/>
+    <title>globset-0.4.18</title>
+    <content type="html">&lt;p&gt;globset-0.4.18&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/15.0.0</id>
+    <updated>2025-10-16T03:26:46Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0"/>
+    <title>15.0.0</title>
+    <content type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/sponsors/BurntSushi/&quot;&gt;Sponsorship is appreciated!&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ripgrep 15 is a new major version release of ripgrep that mostly has bug fixes,&lt;br&gt;
+some minor performance improvements and minor new features.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In case you haven&#39;t heard of it before, ripgrep is a line-oriented search&lt;br&gt;
+tool that recursively searches the current directory for a regex pattern.&lt;br&gt;
+By default, ripgrep will respect gitignore rules and automatically skip&lt;br&gt;
+hidden files/directories and binary files.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here are some highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Several bugs around gitignore matching have been fixed. This includes&lt;br&gt;
+a commonly reported bug related to applying gitignore rules from parent&lt;br&gt;
+directories.&lt;/li&gt;
+&lt;li&gt;A memory usage regression when handling very large gitignore files has been&lt;br&gt;
+fixed.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;rg -vf file&lt;/code&gt;, where &lt;code&gt;file&lt;/code&gt; is empty, now matches everything.&lt;/li&gt;
+&lt;li&gt;The &lt;code&gt;-r/--replace&lt;/code&gt; flag now works with &lt;code&gt;--json&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;A subset of Jujutsu (&lt;code&gt;jj&lt;/code&gt;) repositories are now treated as if they were git&lt;br&gt;
+repositories. That is, ripgrep will respect &lt;code&gt;jj&lt;/code&gt;&#39;s gitignores.&lt;/li&gt;
+&lt;li&gt;Globs can now use nested curly braces.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Platform support:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;aarch64&lt;/code&gt; for Windows now has release artifacts.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;powerpc64&lt;/code&gt; no longer has release artifacts generated for it. The CI&lt;br&gt;
+release workflow stopped working, and I didn&#39;t deem it worth my time to&lt;br&gt;
+debug it. If someone wants this and can test it, I&#39;d be happy to add it&lt;br&gt;
+back.&lt;/li&gt;
+&lt;li&gt;ripgrep binaries are now compiled with full LTO enabled. You may notice&lt;br&gt;
+small performance improvements from this and a modest decrease in binary&lt;br&gt;
+size.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Performance improvements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2111&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2111/hovercard&quot;&gt;PERF #2111&lt;/a&gt;:&lt;br&gt;
+Don&#39;t resolve helper binaries on Windows when &lt;code&gt;-z/--search-zip&lt;/code&gt; isn&#39;t used.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2865&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2865/hovercard&quot;&gt;PERF #2865&lt;/a&gt;:&lt;br&gt;
+Avoid using path canonicalization on Windows when emitting hyperlinks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3184&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3184/hovercard&quot;&gt;PERF #3184&lt;/a&gt;:&lt;br&gt;
+Improve performance of large values with &lt;code&gt;-A/--after-context&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Bug fixes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/829&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/829/hovercard&quot;&gt;BUG #829&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2731&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2731/hovercard&quot;&gt;BUG #2731&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2747&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2747/hovercard&quot;&gt;BUG #2747&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2770&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2770/hovercard&quot;&gt;BUG #2770&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2778&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2778/hovercard&quot;&gt;BUG #2778&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2836&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2836/hovercard&quot;&gt;BUG #2836&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2933&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2933/hovercard&quot;&gt;BUG #2933&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3067&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3067/hovercard&quot;&gt;BUG #3067&lt;/a&gt;:&lt;br&gt;
+Fix bug related to gitignores from parent directories.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/1332&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/1332/hovercard&quot;&gt;BUG #1332&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3001&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3001/hovercard&quot;&gt;BUG #3001&lt;/a&gt;:&lt;br&gt;
+Make &lt;code&gt;rg -vf file&lt;/code&gt; where &lt;code&gt;file&lt;/code&gt; is empty match everything.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2177&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2177/hovercard&quot;&gt;BUG #2177&lt;/a&gt;:&lt;br&gt;
+Ignore a UTF-8 BOM marker at the start of &lt;code&gt;.gitignore&lt;/code&gt; (and similar files).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2750&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2750/hovercard&quot;&gt;BUG #2750&lt;/a&gt;:&lt;br&gt;
+Fix memory usage regression for some truly large gitignore files.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2944&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2944/hovercard&quot;&gt;BUG #2944&lt;/a&gt;:&lt;br&gt;
+Fix a bug where the &quot;bytes searched&quot; in &lt;code&gt;--stats&lt;/code&gt; output could be incorrect.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2990&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2990/hovercard&quot;&gt;BUG #2990&lt;/a&gt;:&lt;br&gt;
+Fix a bug where ripgrep would mishandle globs that ended with a &lt;code&gt;.&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2094&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2094/hovercard&quot;&gt;BUG #2094&lt;/a&gt;,&lt;br&gt;
+&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3076&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3076/hovercard&quot;&gt;BUG #3076&lt;/a&gt;:&lt;br&gt;
+Fix bug with &lt;code&gt;-m/--max-count&lt;/code&gt; and &lt;code&gt;-U/--multiline&lt;/code&gt; showing too many matches.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3100&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/3100/hovercard&quot;&gt;BUG #3100&lt;/a&gt;:&lt;br&gt;
+Preserve line terminators when using &lt;code&gt;-r/--replace&lt;/code&gt; flag.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3108&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3108/hovercard&quot;&gt;BUG #3108&lt;/a&gt;:&lt;br&gt;
+Fix a bug where &lt;code&gt;-q --files-without-match&lt;/code&gt; inverted the exit code.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3131&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3131/hovercard&quot;&gt;BUG #3131&lt;/a&gt;:&lt;br&gt;
+Document inconsistency between &lt;code&gt;-c/--count&lt;/code&gt; and &lt;code&gt;--files-with-matches&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3135&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3135/hovercard&quot;&gt;BUG #3135&lt;/a&gt;:&lt;br&gt;
+Fix rare panic for some classes of large regexes on large haystacks.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3140&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3140/hovercard&quot;&gt;BUG #3140&lt;/a&gt;:&lt;br&gt;
+Ensure hyphens in flag names are escaped in the roff text for the man page.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3155&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3155/hovercard&quot;&gt;BUG #3155&lt;/a&gt;:&lt;br&gt;
+Statically compile PCRE2 into macOS release artifacts on &lt;code&gt;aarch64&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3173&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3173/hovercard&quot;&gt;BUG #3173&lt;/a&gt;:&lt;br&gt;
+Fix ancestor ignore filter bug when searching whitelisted hidden files.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/discussions/3178&quot;&gt;BUG #3178&lt;/a&gt;:&lt;br&gt;
+Fix bug causing incorrect summary statistics with &lt;code&gt;--json&lt;/code&gt; flag.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3179&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3179/hovercard&quot;&gt;BUG #3179&lt;/a&gt;:&lt;br&gt;
+Fix gitignore bug when searching absolute paths with global gitignores.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3180&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3180/hovercard&quot;&gt;BUG #3180&lt;/a&gt;:&lt;br&gt;
+Fix a panicking bug when using &lt;code&gt;-U/--multiline&lt;/code&gt; and &lt;code&gt;-r/--replace&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feature enhancements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Many enhancements to the default set of file types available for filtering.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/1872&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/1872/hovercard&quot;&gt;FEATURE #1872&lt;/a&gt;:&lt;br&gt;
+Make &lt;code&gt;-r/--replace&lt;/code&gt; work with &lt;code&gt;--json&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2708&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2708/hovercard&quot;&gt;FEATURE #2708&lt;/a&gt;:&lt;br&gt;
+Completions for the fish shell take ripgrep&#39;s config file into account.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2841&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2841/hovercard&quot;&gt;FEATURE #2841&lt;/a&gt;:&lt;br&gt;
+Add &lt;code&gt;italic&lt;/code&gt; to the list of available style attributes in &lt;code&gt;--color&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2842&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2842/hovercard&quot;&gt;FEATURE #2842&lt;/a&gt;:&lt;br&gt;
+Directories containing &lt;code&gt;.jj&lt;/code&gt; are now treated as git repositories.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/2849&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/2849/hovercard&quot;&gt;FEATURE #2849&lt;/a&gt;:&lt;br&gt;
+When using multithreading, schedule files to search in order given on CLI.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/2943&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/2943/hovercard&quot;&gt;FEATURE #2943&lt;/a&gt;:&lt;br&gt;
+Add &lt;code&gt;aarch64&lt;/code&gt; release artifacts for Windows.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/issues/3024&quot; data-hovercard-type=&quot;issue&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/issues/3024/hovercard&quot;&gt;FEATURE #3024&lt;/a&gt;:&lt;br&gt;
+Add &lt;code&gt;highlight&lt;/code&gt; color type, for styling non-matching text in a matching line.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3048&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/3048/hovercard&quot;&gt;FEATURE #3048&lt;/a&gt;:&lt;br&gt;
+Globs in ripgrep (and the &lt;code&gt;globset&lt;/code&gt; crate) now support nested alternates.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3096&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/3096/hovercard&quot;&gt;FEATURE #3096&lt;/a&gt;:&lt;br&gt;
+Improve completions for &lt;code&gt;--hyperlink-format&lt;/code&gt; in bash and fish.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/BurntSushi/ripgrep/pull/3102&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/BurntSushi/ripgrep/pull/3102/hovercard&quot;&gt;FEATURE #3102&lt;/a&gt;:&lt;br&gt;
+Improve completions for &lt;code&gt;--hyperlink-format&lt;/code&gt; in zsh.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>github-actions[bot]</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/in/15368?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/ignore-0.4.24</id>
+    <updated>2025-10-16T02:57:51Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/ignore-0.4.24"/>
+    <title>ignore-0.4.24</title>
+    <content type="html">&lt;p&gt;ignore-0.4.24&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/grep-searcher-0.1.15</id>
+    <updated>2025-10-16T03:02:33Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/grep-searcher-0.1.15"/>
+    <title>grep-searcher-0.1.15</title>
+    <content type="html">&lt;p&gt;grep-searcher-0.1.15&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/53631945/grep-regex-0.1.14</id>
+    <updated>2025-10-16T03:00:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/BurntSushi/ripgrep/releases/tag/grep-regex-0.1.14"/>
+    <title>grep-regex-0.1.14</title>
+    <content type="html">&lt;p&gt;grep-regex-0.1.14&lt;/p&gt;</content>
+    <author>
+      <name>BurntSushi</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/456674?s=60&amp;v=4"/>
+  </entry>
+</feed>

@@ -1,0 +1,34 @@
+version: 0.1
+
+constants:
+  - name: "system_name"
+    value: "Protocol-First Scaffold"
+    description: "Name of the system framework"
+
+  - name: "system_version"
+    value: "0.1.0"
+    description: "Current version of the framework"
+
+  - name: "phase_level"
+    value: 1
+    description: "Current phase level (0=Foundation, 1=Atomic Autonomy, 2+=Advanced)"
+
+  - name: "max_signal_age_hours"
+    value: 24
+    description: "Maximum age of signals before considered stale"
+
+  - name: "default_lease_duration_minutes"
+    value: 30
+    description: "Default duration for resource leases"
+
+  - name: "minimum_confidence_threshold"
+    value: 0.7
+    description: "Minimum confidence for automated actions"
+
+  - name: "audit_retention_days"
+    value: 90
+    description: "Number of days to retain audit logs"
+
+  - name: "max_blob_size_mb"
+    value: 100
+    description: "Maximum size of blobs that can be ingested"

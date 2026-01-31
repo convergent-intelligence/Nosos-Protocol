@@ -1,0 +1,24 @@
+{
+  "version": "0.1",
+  "domain": "biology",
+  "name": "Biology",
+  "description": "Biology and life-science preprints.",
+  "teams": [
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_q_bio", "name": "arXiv q-bio", "url": "https://arxiv.org/rss/q-bio", "tags": ["arxiv"]},
+        {"id": "arxiv_q_bio_nc", "name": "arXiv q-bio.NC", "url": "https://arxiv.org/rss/q-bio.NC", "tags": ["neuro", "arxiv"]},
+        {"id": "arxiv_q_bio_gn", "name": "arXiv q-bio.GN", "url": "https://arxiv.org/rss/q-bio.GN", "tags": ["genomics", "arxiv"]}
+      ]
+    },
+    {
+      "id": "journals",
+      "name": "Journals",
+      "feeds": [
+        {"id": "pnas", "name": "PNAS", "url": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas", "tags": ["journal"]}
+      ]
+    }
+  ]
+}

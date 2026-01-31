@@ -1,0 +1,1305 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:prism="http://prismstandard.org/namespaces/basic/2.0/" xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns="http://purl.org/rss/1.0/" xmlns:admin="http://webns.net/mvcb/">
+    <channel rdf:about="http://feeds.nature.com/nature/rss/current">
+        <title>Nature</title>
+        <description>Nature is the foremost international weekly scientific journal in the world and is the flagship journal for Nature Portfolio. It publishes the finest peer-reviewed research in all fields of science and technology on the basis of its originality, importance, interdisciplinary interest, timeliness, accessibility, elegance and surprising conclusions. Nature publishes landmark papers, award winning news, leading comment and expert opinion on important, topical scientific news and events that enable readers to share the latest discoveries in science and evolve the discussion amongst the global scientific community.</description>
+        <link>http://feeds.nature.com/nature/rss/current</link>
+        <admin:generatorAgent rdf:resource="https://www.nature.com/"/>
+        <admin:errorReportsTo rdf:resource="mailto:feedback@nature.com"/>
+        <dc:publisher>Nature Publishing Group</dc:publisher>
+        <dc:language>en</dc:language>
+        <dc:rights>© 2026 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</dc:rights>
+        <prism:publicationName>Nature</prism:publicationName>
+        
+        
+        <prism:copyright>© 2026 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.</prism:copyright>
+        <prism:rightsAgent>permissions@nature.com</prism:rightsAgent>
+        <image rdf:resource="https://www.nature.com/uploads/product/nature/rss.png"/>
+        <items>
+            <rdf:Seq>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10024-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00300-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00277-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10047-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00301-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00229-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00240-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00239-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-025-04162-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-025-04146-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00103-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00282-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00273-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10015-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10034-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09977-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10041-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10027-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09857-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09984-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10046-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09777-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10001-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10020-2"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09991-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10025-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10049-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10037-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09999-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10011-3"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10030-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09973-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09959-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10070-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10023-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10014-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10035-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10054-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10007-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10061-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09924-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10033-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10019-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09976-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09931-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09851-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10017-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10069-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09962-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10052-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10071-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10029-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09986-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10048-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-10010-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/s41586-025-09934-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00108-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00030-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00266-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00106-w"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00221-8"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-025-04012-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00038-5"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00026-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00104-y"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00109-7"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00111-z"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-025-04098-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00074-1"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00237-0"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00039-4"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00107-9"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00126-6"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00105-x"/>
+                
+                    <rdf:li rdf:resource="https://www.nature.com/articles/d41586-026-00037-6"/>
+                
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="https://www.nature.com/uploads/product/nature/rss.png">
+        <title>Nature</title>
+        <url>https://www.nature.com/uploads/product/nature/rss.png</url>
+        <link>http://feeds.nature.com/nature/rss/current</link>
+    </image>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10024-y">
+            <title><![CDATA[Author Correction: Hunter-gatherer sea voyages extended to remotest Mediterranean islands]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10024-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/s41586-025-10024-y">doi:10.1038/s41586-025-10024-y</a></p>Author Correction: Hunter-gatherer sea voyages extended to remotest Mediterranean islands]]></content:encoded>
+            <dc:title><![CDATA[Author Correction: Hunter-gatherer sea voyages extended to remotest Mediterranean islands]]></dc:title>
+            <dc:creator>Eleanor M. L. Scerri</dc:creator><dc:creator>James Blinkhorn</dc:creator><dc:creator>Huw S. Groucutt</dc:creator><dc:creator>Mathew Stewart</dc:creator><dc:creator>Ian Candy</dc:creator><dc:creator>Ethel Allué</dc:creator><dc:creator>Aitor Burguet-Coca</dc:creator><dc:creator>Andrés Currás</dc:creator><dc:creator>W. Christopher Carleton</dc:creator><dc:creator>Susanne Lindauer</dc:creator><dc:creator>Robert Spengler</dc:creator><dc:creator>Kseniia Boxleitner</dc:creator><dc:creator>Gillian Asciak</dc:creator><dc:creator>Margherita Colucci</dc:creator><dc:creator>Ritienne Gauci</dc:creator><dc:creator>Amy Hatton</dc:creator><dc:creator>Johanna Kutowsky</dc:creator><dc:creator>Andreas Maier</dc:creator><dc:creator>Mario Mata-González</dc:creator><dc:creator>Nicolette Mifsud</dc:creator><dc:creator>Khady Niang</dc:creator><dc:creator>Patrick Roberts</dc:creator><dc:creator>Joshua de Giorgio</dc:creator><dc:creator>Rochelle Xerri</dc:creator><dc:creator>Nicholas C. Vella</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10024-y</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/s41586-025-10024-y</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10024-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10024-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00300-w">
+            <title><![CDATA[Longevity is in the genes: half of lifespan is heritable]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00300-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-026-00300-w">doi:10.1038/d41586-026-00300-w</a></p>Understanding the genetic controls of ageing could lead to more therapies that forestall it.]]></content:encoded>
+            <dc:title><![CDATA[Longevity is in the genes: half of lifespan is heritable]]></dc:title>
+            <dc:creator>Max Kozlov</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00300-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-026-00300-w</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00300-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00300-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00277-6">
+            <title><![CDATA[Genetically engineered ‘stinkweed’ comes up roses for making seed oil]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00277-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-026-00277-6">doi:10.1038/d41586-026-00277-6</a></p>Field pennycress could become a valuable winter crop, with benefits for both carbon storage and farm profitability.]]></content:encoded>
+            <dc:title><![CDATA[Genetically engineered ‘stinkweed’ comes up roses for making seed oil]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-026-00277-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-026-00277-6</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00277-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00277-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10047-5">
+            <title><![CDATA[Developmental convergence and divergence in human stem cell models of autism]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10047-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/s41586-025-10047-5">doi:10.1038/s41586-025-10047-5</a></p>Risk associated with genetically defined forms of autism spectrum disorder (ASD) can propagate by means of transcriptional regulation to affect convergently dysregulated pathways, providing insight into the convergent impact of ASD genetic risk on human neurodevelopment.]]></content:encoded>
+            <dc:title><![CDATA[Developmental convergence and divergence in human stem cell models of autism]]></dc:title>
+            <dc:creator>Aaron Gordon</dc:creator><dc:creator>Se-Jin Yoon</dc:creator><dc:creator>Lucy K. Bicks</dc:creator><dc:creator>Jacqueline M. Martín</dc:creator><dc:creator>Greta Pintacuda</dc:creator><dc:creator>Stephanie Arteaga</dc:creator><dc:creator>Brie Wamsley</dc:creator><dc:creator>Qiuyu Guo</dc:creator><dc:creator>Lubayna Elahi</dc:creator><dc:creator>Ricardo E. Dolmetsch</dc:creator><dc:creator>Jonathan A. Bernstein</dc:creator><dc:creator>Ruth O’Hara</dc:creator><dc:creator>Joachim F. Hallmayer</dc:creator><dc:creator>Kasper Lage</dc:creator><dc:creator>Sergiu P. Pasca</dc:creator><dc:creator>Daniel H. Geschwind</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10047-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/s41586-025-10047-5</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10047-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10047-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00301-9">
+            <title><![CDATA[Still conscious? Brain marker signals when anaesthesia takes hold]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00301-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-026-00301-9">doi:10.1038/d41586-026-00301-9</a></p>De-synchronized electrical activity marks the loss of awareness.]]></content:encoded>
+            <dc:title><![CDATA[Still conscious? Brain marker signals when anaesthesia takes hold]]></dc:title>
+            <dc:creator>Liam Drew</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00301-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-026-00301-9</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00301-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00301-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00229-0">
+            <title><![CDATA[ArXiv says submissions must be in English: are AI translators up for the job?]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00229-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-026-00229-0">doi:10.1038/d41586-026-00229-0</a></p>The preprint repository’s requirement could boost the use of large language models to translate scientific texts.]]></content:encoded>
+            <dc:title><![CDATA[ArXiv says submissions must be in English: are AI translators up for the job?]]></dc:title>
+            <dc:creator>Nicola Jones</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00229-0</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-026-00229-0</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00229-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00229-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00240-5">
+            <title><![CDATA[This AI has chemical expertise — and helps synthesize 35 new compounds]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00240-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-026-00240-5">doi:10.1038/d41586-026-00240-5</a></p>An open-source program helps researchers bypass a major bottleneck in the process chemical synthesis.]]></content:encoded>
+            <dc:title><![CDATA[This AI has chemical expertise — and helps synthesize 35 new compounds]]></dc:title>
+            <dc:creator>Andy Extance</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00240-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-026-00240-5</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00240-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00240-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00239-y">
+            <title><![CDATA[48 hours without lungs: artificial organ kept man alive until transplant]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00239-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-026-00239-y">doi:10.1038/d41586-026-00239-y</a></p>The external, artificial-lung system could be used to treat other people who are critically unwell and awaiting transplants.]]></content:encoded>
+            <dc:title><![CDATA[48 hours without lungs: artificial organ kept man alive until transplant]]></dc:title>
+            <dc:creator>Rachel Fieldhouse</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00239-y</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-026-00239-y</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00239-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00239-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-025-04162-6">
+            <title><![CDATA[Five ways to make the academic workplace happier and healthier this year]]></title>
+            <link>https://www.nature.com/articles/d41586-025-04162-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-025-04162-6">doi:10.1038/d41586-025-04162-6</a></p>Despite attempts by many universities to modernize their policies on working conditions and misconduct, the academic system has pushed back. Here’s how to ensure lasting change.]]></content:encoded>
+            <dc:title><![CDATA[Five ways to make the academic workplace happier and healthier this year]]></dc:title>
+            <dc:creator>Ferhan G. Sağın</dc:creator><dc:creator>Robert A. Harris</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-025-04162-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-025-04162-6</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-025-04162-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-025-04162-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-025-04146-6">
+            <title><![CDATA[Critical social media posts linked to retractions of scientific papers]]></title>
+            <link>https://www.nature.com/articles/d41586-025-04146-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 29 January 2026; <a href="https://www.nature.com/articles/d41586-025-04146-6">doi:10.1038/d41586-025-04146-6</a></p>Online discussions can catch errors or fraud in articles that can be missed in peer review.]]></content:encoded>
+            <dc:title><![CDATA[Critical social media posts linked to retractions of scientific papers]]></dc:title>
+            <dc:creator>Rachel Fieldhouse</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-025-04146-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-29; | doi:10.1038/d41586-025-04146-6</dc:source>
+            <dc:date>2026-01-29</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-025-04146-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-025-04146-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00103-z">
+            <title><![CDATA[Preserving the respiratory system]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00103-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00103-z">doi:10.1038/d41586-026-00103-z</a></p>Better air quality, disease diagnostics and treatment will improve lung health.]]></content:encoded>
+            <dc:title><![CDATA[Preserving the respiratory system]]></dc:title>
+            <dc:creator>Herb Brody</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00103-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00103-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00103-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00103-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00282-9">
+            <title><![CDATA[How your brain chemistry rewards hard work]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00282-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00282-9">doi:10.1038/d41586-026-00282-9</a></p>Why going the extra mile might make you feel good — plus, how extreme weather events could increase the burden of malaria in Africa.]]></content:encoded>
+            <dc:title><![CDATA[How your brain chemistry rewards hard work]]></dc:title>
+            <dc:creator>Benjamin Thompson</dc:creator><dc:creator>Nick Petrić Howe</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00282-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00282-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00282-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00282-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00273-w">
+            <title><![CDATA[How much exercise do you really need?]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00273-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00273-w">doi:10.1038/d41586-026-00273-w</a></p>New data are revealing the benefits of exercising little and often.]]></content:encoded>
+            <dc:title><![CDATA[How much exercise do you really need?]]></dc:title>
+            <dc:creator>Nick Petrić Howe</dc:creator><dc:creator>Elizabeth Gibney</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00273-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00273-w</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00273-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00273-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10015-z">
+            <title><![CDATA[Projected impacts of climate change on malaria in Africa]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10015-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10015-z">doi:10.1038/s41586-025-10015-z</a></p>Projected impacts of climate change on malaria burden in Africa by 2050 highlight the urgent need for climate-resilient malaria control strategies and robust emergency response systems to safeguard progress towards malaria eradication.]]></content:encoded>
+            <dc:title><![CDATA[Projected impacts of climate change on malaria in Africa]]></dc:title>
+            <dc:creator>Tasmin L. Symons</dc:creator><dc:creator>Alexander Moran</dc:creator><dc:creator>Ann Balzarolo</dc:creator><dc:creator>Camilo Vargas</dc:creator><dc:creator>Mairi Robertson</dc:creator><dc:creator>Jailos Lubinda</dc:creator><dc:creator>Adam Saddler</dc:creator><dc:creator>Michael McPhail</dc:creator><dc:creator>Joseph Harris</dc:creator><dc:creator>Jennifer Rozier</dc:creator><dc:creator>Annie Browne</dc:creator><dc:creator>Punam Amratia</dc:creator><dc:creator>Amelia Bertozzi-Villa</dc:creator><dc:creator>Samir Bhatt</dc:creator><dc:creator>Ewan Cameron</dc:creator><dc:creator>Nick Golding</dc:creator><dc:creator>David L. Smith</dc:creator><dc:creator>Abdisalan M. Noor</dc:creator><dc:creator>Susan F. Rumisha</dc:creator><dc:creator>Matthew D. Palmer</dc:creator><dc:creator>Daniel J. Weiss</dc:creator><dc:creator>Naomi Desai</dc:creator><dc:creator>David Potere</dc:creator><dc:creator>Nicholas Sukitsch</dc:creator><dc:creator>Wendy Woods</dc:creator><dc:creator>Peter W. Gething</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10015-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10015-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10015-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10015-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10034-w">
+            <title><![CDATA[Constraints on axion dark matter by distributed intercity quantum sensors]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10034-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10034-w">doi:10.1038/s41586-025-10034-w</a></p>Amplification and optimal noise filtering in hyperpolarized noble-gas spins of observations from distributed intercity quantum sensors monitoring for unexpected transient rotations of polarized spins set parameter range constraints in the search for axion dark matter.]]></content:encoded>
+            <dc:title><![CDATA[Constraints on axion dark matter by distributed intercity quantum sensors]]></dc:title>
+            <dc:creator>Yuanhong Wang</dc:creator><dc:creator>Ying Huang</dc:creator><dc:creator>Xiang Kang</dc:creator><dc:creator>Dangui Chang</dc:creator><dc:creator>Jiaxuan Xu</dc:creator><dc:creator>Yifan Chen</dc:creator><dc:creator>Szymon Pustelny</dc:creator><dc:creator>Wenqiang Zheng</dc:creator><dc:creator>Min Jiang</dc:creator><dc:creator>Xinhua Peng</dc:creator><dc:creator>Jiangfeng Du</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10034-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10034-w</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10034-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10034-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09977-x">
+            <title><![CDATA[Prethermalization by random multipolar driving on a 78-qubit processor]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09977-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09977-x">doi:10.1038/s41586-025-09977-x</a></p>The existence of a long-lived, prethermal regime in many-body systems with tunable heating rates, driven by structured random protocols, is observed using a 78-qubit superconducting quantum processor.]]></content:encoded>
+            <dc:title><![CDATA[Prethermalization by random multipolar driving on a 78-qubit processor]]></dc:title>
+            <dc:creator>Zheng-He Liu</dc:creator><dc:creator>Yu Liu</dc:creator><dc:creator>Gui-Han Liang</dc:creator><dc:creator>Cheng-Lin Deng</dc:creator><dc:creator>Keyang Chen</dc:creator><dc:creator>Yun-Hao Shi</dc:creator><dc:creator>Tian-Ming Li</dc:creator><dc:creator>Lv Zhang</dc:creator><dc:creator>Bing-Jie Chen</dc:creator><dc:creator>Cai-Ping Fang</dc:creator><dc:creator>Da’er Feng</dc:creator><dc:creator>Xu-Yang Gu</dc:creator><dc:creator>Yang He</dc:creator><dc:creator>Kaixuan Huang</dc:creator><dc:creator>Hao Li</dc:creator><dc:creator>Hao-Tian Liu</dc:creator><dc:creator>Li Li</dc:creator><dc:creator>Zheng-Yang Mei</dc:creator><dc:creator>Zhen-Yu Peng</dc:creator><dc:creator>Jia-Cheng Song</dc:creator><dc:creator>Ming-Chuan Wang</dc:creator><dc:creator>Shuai-Li Wang</dc:creator><dc:creator>Ziting Wang</dc:creator><dc:creator>Yongxi Xiao</dc:creator><dc:creator>Minke Xu</dc:creator><dc:creator>Yue-Shan Xu</dc:creator><dc:creator>Yu Yan</dc:creator><dc:creator>Yi-Han Yu</dc:creator><dc:creator>Wei-Ping Yuan</dc:creator><dc:creator>Jia-Chi Zhang</dc:creator><dc:creator>Jun-Jie Zhao</dc:creator><dc:creator>Kui Zhao</dc:creator><dc:creator>Si-Yun Zhou</dc:creator><dc:creator>Zheng-An Wang</dc:creator><dc:creator>Xiaohui Song</dc:creator><dc:creator>Ye Tian</dc:creator><dc:creator>Florian Mintert</dc:creator><dc:creator>Johannes Knolle</dc:creator><dc:creator>Roderich Moessner</dc:creator><dc:creator>Yu-Ran Zhang</dc:creator><dc:creator>Pan Zhang</dc:creator><dc:creator>Zhongcheng Xiang</dc:creator><dc:creator>Dongning Zheng</dc:creator><dc:creator>Kai Xu</dc:creator><dc:creator>Hongzheng Zhao</dc:creator><dc:creator>Heng Fan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09977-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09977-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09977-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09977-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10041-x">
+            <title><![CDATA[Multimodal learning with next-token prediction for large multimodal models]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10041-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10041-x">doi:10.1038/s41586-025-10041-x</a></p>Emu3 enables large-scale text, image and video learning based solely on next-token prediction, matching the generation and perception performance of task-specific methods, with implications for the development of scalable and unified multimodal intelligence systems.]]></content:encoded>
+            <dc:title><![CDATA[Multimodal learning with next-token prediction for large multimodal models]]></dc:title>
+            <dc:creator>Xinlong Wang</dc:creator><dc:creator>Yufeng Cui</dc:creator><dc:creator>Jinsheng Wang</dc:creator><dc:creator>Fan Zhang</dc:creator><dc:creator>Yueze Wang</dc:creator><dc:creator>Xiaosong Zhang</dc:creator><dc:creator>Zhengxiong Luo</dc:creator><dc:creator>Quan Sun</dc:creator><dc:creator>Zhen Li</dc:creator><dc:creator>Yuqi Wang</dc:creator><dc:creator>Qiying Yu</dc:creator><dc:creator>Yingli Zhao</dc:creator><dc:creator>Yulong Ao</dc:creator><dc:creator>Xuebin Min</dc:creator><dc:creator>Chunlei Men</dc:creator><dc:creator>Boya Wu</dc:creator><dc:creator>Bo Zhao</dc:creator><dc:creator>Bowen Zhang</dc:creator><dc:creator>Liangdong Wang</dc:creator><dc:creator>Guang Liu</dc:creator><dc:creator>Zheqi He</dc:creator><dc:creator>Xi Yang</dc:creator><dc:creator>Jingjing Liu</dc:creator><dc:creator>Yonghua Lin</dc:creator><dc:creator>Zhongyuan Wang</dc:creator><dc:creator>Tiejun Huang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10041-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10041-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10041-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10041-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10027-9">
+            <title><![CDATA[Radiation-tolerant atomic-layer-scale RF system for spaceborne communication]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10027-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10027-9">doi:10.1038/s41586-025-10027-9</a></p>Using a wafer-scale monolayer 2D MoS2 process instead of conventional silicon-based devices to manufacture components of spaceborne communication systems demonstrates radiation tolerance, low bit error rate and long-term stability, even under much harsher radiation environments.]]></content:encoded>
+            <dc:title><![CDATA[Radiation-tolerant atomic-layer-scale RF system for spaceborne communication]]></dc:title>
+            <dc:creator>Liyuan Zhu</dc:creator><dc:creator>Yang Yang</dc:creator><dc:creator>Xiangqi Dong</dc:creator><dc:creator>Xiaojian Wu</dc:creator><dc:creator>Xiaoxu Xie</dc:creator><dc:creator>Hangyu Qiu</dc:creator><dc:creator>Xiang Liu</dc:creator><dc:creator>Hao Ying</dc:creator><dc:creator>Wenzhong Bao</dc:creator><dc:creator>Xiaolei Sun</dc:creator><dc:creator>Qiang Zhao</dc:creator><dc:creator>Shunli Ma</dc:creator><dc:creator>Peng Zhou</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10027-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10027-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10027-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10027-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09857-4">
+            <title><![CDATA[Accurate determination of the 3D atomic structure of amorphous materials]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09857-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09857-4">doi:10.1038/s41586-025-09857-4</a></p>A quantitative framework for atomic electron tomography enables reliable determination of three-dimensional (3D) atomic coordinates and elemental identities in amorphous materials.]]></content:encoded>
+            <dc:title><![CDATA[Accurate determination of the 3D atomic structure of amorphous materials]]></dc:title>
+            <dc:creator>Yuxuan Liao</dc:creator><dc:creator>Haozhi Sha</dc:creator><dc:creator>Colum M. O’Leary</dc:creator><dc:creator>Hanfeng Zhong</dc:creator><dc:creator>Yao Yang</dc:creator><dc:creator>Jianwei Miao</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09857-4</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09857-4</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09857-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09857-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09984-y">
+            <title><![CDATA[Intestinal macrophages modulate synucleinopathy along the gut–brain axis]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09984-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09984-y">doi:10.1038/s41586-025-09984-y</a></p>Muscularis macrophages, housekeepers of enteric nervous system integrity and intestinal homeostasis, modulate α-synuclein pathology and neurodegeneration in models of Parkinson’s disease, and understanding the accompanying mechanisms could pave the way for early-stage biomarkers.]]></content:encoded>
+            <dc:title><![CDATA[Intestinal macrophages modulate synucleinopathy along the gut–brain axis]]></dc:title>
+            <dc:creator>Sebastiaan De Schepper</dc:creator><dc:creator>Viktoras Konstantellos</dc:creator><dc:creator>James A. Conway</dc:creator><dc:creator>Dimitra Sokolova</dc:creator><dc:creator>Ludovica Zaccagnini</dc:creator><dc:creator>Matthew V. Cowley</dc:creator><dc:creator>Annerieke Sierksma</dc:creator><dc:creator>Maria Yudina</dc:creator><dc:creator>Marisa Edmonds</dc:creator><dc:creator>Daria Gavriouchkina</dc:creator><dc:creator>Bethany Geary</dc:creator><dc:creator>Amber Wallis</dc:creator><dc:creator>Meral Celikag</dc:creator><dc:creator>Zeynep Baykam</dc:creator><dc:creator>Mónica Vara-Pérez</dc:creator><dc:creator>Gerard Crowley</dc:creator><dc:creator>Fabian Tobias Hager</dc:creator><dc:creator>Mitchell Bijnen</dc:creator><dc:creator>David Posner</dc:creator><dc:creator>Kelvin Luk</dc:creator><dc:creator>Vuk Cerovic</dc:creator><dc:creator>Menna Clatworthy</dc:creator><dc:creator>Elizabeth J. Videlock</dc:creator><dc:creator>Zane Jaunmuktane</dc:creator><dc:creator>Kiavash Movahedi</dc:creator><dc:creator>Melanie Greter</dc:creator><dc:creator>Benny Chain</dc:creator><dc:creator>Dario R. Alessi</dc:creator><dc:creator>Soyon Hong</dc:creator><dc:creator>Tim Bartels</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09984-y</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09984-y</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09984-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09984-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10046-6">
+            <title><![CDATA[Cholinergic modulation of dopamine release drives effortful behaviour]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10046-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10046-6">doi:10.1038/s41586-025-10046-6</a></p>In the nucleus accumbens, acetylcholine boosts dopamine release to promote effortful behaviour.]]></content:encoded>
+            <dc:title><![CDATA[Cholinergic modulation of dopamine release drives effortful behaviour]]></dc:title>
+            <dc:creator>Gavin C. Touponse</dc:creator><dc:creator>Matthew B. Pomrenze</dc:creator><dc:creator>Teema Yassine</dc:creator><dc:creator>Nicholas Denomme</dc:creator><dc:creator>May Wang</dc:creator><dc:creator>Viraj Mehta</dc:creator><dc:creator>Zihui Zhang</dc:creator><dc:creator>Robert C. Malenka</dc:creator><dc:creator>Neir Eshel</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10046-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10046-6</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10046-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10046-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09777-3">
+            <title><![CDATA[Optical control of integer and fractional Chern insulators]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09777-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09777-3">doi:10.1038/s41586-025-09777-3</a></p>Optical control of integer and fractional Chern insulators is demonstrated by circularly polarized optical pumping in tMoTe2.]]></content:encoded>
+            <dc:title><![CDATA[Optical control of integer and fractional Chern insulators]]></dc:title>
+            <dc:creator>William Holtzmann</dc:creator><dc:creator>Weijie Li</dc:creator><dc:creator>Eric Anderson</dc:creator><dc:creator>Jiaqi Cai</dc:creator><dc:creator>Heonjoon Park</dc:creator><dc:creator>Chaowei Hu</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Jiun-Haw Chu</dc:creator><dc:creator>Di Xiao</dc:creator><dc:creator>Ting Cao</dc:creator><dc:creator>Xiaodong Xu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09777-3</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09777-3</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09777-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09777-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10001-5">
+            <title><![CDATA[Environmentally driven immune imprinting protects against allergy]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10001-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10001-5">doi:10.1038/s41586-025-10001-5</a></p>In a mouse model, environmental immunostimulation in early life led to cross-reactive adaptive immune memory and reduced type II immune responses to allergens, indicating a mechanistic relationship between environmental antigen exposure and subsequent allergy.]]></content:encoded>
+            <dc:title><![CDATA[Environmentally driven immune imprinting protects against allergy]]></dc:title>
+            <dc:creator>S. Erickson</dc:creator><dc:creator>B. Lauring</dc:creator><dc:creator>J. Cullen</dc:creator><dc:creator>R. Medzhitov</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10001-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10001-5</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10001-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10001-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10020-2">
+            <title><![CDATA[Population-scale sequencing resolves determinants of persistent EBV DNA]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10020-2</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10020-2">doi:10.1038/s41586-025-10020-2</a></p>Population-scale WGS reveals genetic determinants of persistent EBV DNA, linking immune regulation—especially antigen processing and MHC class II variation—to EBV persistence and heterogeneous disease associations.]]></content:encoded>
+            <dc:title><![CDATA[Population-scale sequencing resolves determinants of persistent EBV DNA]]></dc:title>
+            <dc:creator>Sherry S. Nyeo</dc:creator><dc:creator>Erin M. Cumming</dc:creator><dc:creator>Oliver S. Burren</dc:creator><dc:creator>Meghana S. Pagadala</dc:creator><dc:creator>Jacob C. Gutierrez</dc:creator><dc:creator>Thahmina A. Ali</dc:creator><dc:creator>Laura C. Kida</dc:creator><dc:creator>Yifan Chen</dc:creator><dc:creator>Hoyin Chu</dc:creator><dc:creator>Fengyuan Hu</dc:creator><dc:creator>Xueqing Zoe Zou</dc:creator><dc:creator>Benjamin Hollis</dc:creator><dc:creator>Margarete A. Fabre</dc:creator><dc:creator>Stewart MacArthur</dc:creator><dc:creator>Quanli Wang</dc:creator><dc:creator>Leif S. Ludwig</dc:creator><dc:creator>Kushal K. Dey</dc:creator><dc:creator>Slavé Petrovski</dc:creator><dc:creator>Ryan S. Dhindsa</dc:creator><dc:creator>Caleb A. Lareau</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10020-2</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10020-2</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10020-2</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10020-2</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09991-z">
+            <title><![CDATA[Pesticide residues alter taxonomic and functional biodiversity in soils]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09991-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09991-z">doi:10.1038/s41586-025-09991-z</a></p>A wide survey of pesticide effects on soil biodiversity across 373 sites in Europe reveals that pesticide residues occur in 70% of sites and have major effects on soil biodiversity and functional ecology.]]></content:encoded>
+            <dc:title><![CDATA[Pesticide residues alter taxonomic and functional biodiversity in soils]]></dc:title>
+            <dc:creator>J. Köninger</dc:creator><dc:creator>M. Labouyrie</dc:creator><dc:creator>C. Ballabio</dc:creator><dc:creator>O. Dulya</dc:creator><dc:creator>V. Mikryukov</dc:creator><dc:creator>F. Romero</dc:creator><dc:creator>A. Franco</dc:creator><dc:creator>M. Bahram</dc:creator><dc:creator>P. Panagos</dc:creator><dc:creator>A. Jones</dc:creator><dc:creator>L. Tedersoo</dc:creator><dc:creator>A. Orgiazzi</dc:creator><dc:creator>M. J. I. Briones</dc:creator><dc:creator>M. G. A. van der Heijden</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09991-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09991-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09991-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09991-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10025-x">
+            <title><![CDATA[Lasing of a cavity-based X-ray source]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10025-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10025-x">doi:10.1038/s41586-025-10025-x</a></p>Lasing with multi-pass gain is achieved in a diamond-based X-ray cavity at the European XFEL, opening a path to next-generation X-ray science.]]></content:encoded>
+            <dc:title><![CDATA[Lasing of a cavity-based X-ray source]]></dc:title>
+            <dc:creator>Patrick Rauer</dc:creator><dc:creator>Immo Bahns</dc:creator><dc:creator>Bertram Friedrich</dc:creator><dc:creator>Sara Casalbuoni</dc:creator><dc:creator>Massimiliano Di Felice</dc:creator><dc:creator>Martin Dommach</dc:creator><dc:creator>Idoia Freijo Martin</dc:creator><dc:creator>Wolfgang Freund</dc:creator><dc:creator>Jan Grünert</dc:creator><dc:creator>Marc Guetg</dc:creator><dc:creator>Ivars Karpics</dc:creator><dc:creator>Suren Karabekyan</dc:creator><dc:creator>Andreas Koch</dc:creator><dc:creator>Naresh Kujala</dc:creator><dc:creator>Daniele La Civita</dc:creator><dc:creator>Jia Liu</dc:creator><dc:creator>Theophilos Maltezopoulos</dc:creator><dc:creator>Mikako Makita</dc:creator><dc:creator>Frank Mayet</dc:creator><dc:creator>Lukas Müller</dc:creator><dc:creator>Benoit Rio</dc:creator><dc:creator>Liubov Samoylova</dc:creator><dc:creator>Silja Schmidtchen</dc:creator><dc:creator>Matthias Scholz</dc:creator><dc:creator>Alessandro Silenzi</dc:creator><dc:creator>Vivienne Strauch</dc:creator><dc:creator>Daniel Thoden</dc:creator><dc:creator>Torsten Wohlenberg</dc:creator><dc:creator>Maurizio Vannoni</dc:creator><dc:creator>Fan Yang</dc:creator><dc:creator>Winfried Decking</dc:creator><dc:creator>Joerg Rossbach</dc:creator><dc:creator>Harald Sinn</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10025-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10025-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10025-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10025-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10049-3">
+            <title><![CDATA[Bandwidth-tuned Mott transition and superconductivity in moiré WSe<sub>2</sub>]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10049-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10049-3">doi:10.1038/s41586-025-10049-3</a></p>Tunable moiré WSe2 bilayers realize Hubbard-model physics, exhibiting antiferromagnetism, strange metals and superconducting domes, offering a controllable platform to study high-transition-temperature superconductivity.]]></content:encoded>
+            <dc:title><![CDATA[Bandwidth-tuned Mott transition and superconductivity in moiré WSe<sub>2</sub>]]></dc:title>
+            <dc:creator>Yiyu Xia</dc:creator><dc:creator>Zhongdong Han</dc:creator><dc:creator>Jiacheng Zhu</dc:creator><dc:creator>Yichi Zhang</dc:creator><dc:creator>Patrick Knüppel</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Kin Fai Mak</dc:creator><dc:creator>Jie Shan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10049-3</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10049-3</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10049-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10049-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10037-7">
+            <title><![CDATA[Human and bacterial genetic variation shape oral microbiomes and health]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10037-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10037-7">doi:10.1038/s41586-025-10037-7</a></p>Human genetic loci that associate with composition of the oral microbiome are identified using saliva-derived DNA, where the same host genetics also shapes oral health and genetic variation in oral bacteria.]]></content:encoded>
+            <dc:title><![CDATA[Human and bacterial genetic variation shape oral microbiomes and health]]></dc:title>
+            <dc:creator>Nolan Kamitaki</dc:creator><dc:creator>Robert E. Handsaker</dc:creator><dc:creator>Margaux L. A. Hujoel</dc:creator><dc:creator>Ronen E. Mukamel</dc:creator><dc:creator>Christina L. Usher</dc:creator><dc:creator>Steven A. McCarroll</dc:creator><dc:creator>Po-Ru Loh</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10037-7</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10037-7</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10037-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10037-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09999-5">
+            <title><![CDATA[Frequency reproducibility of solid-state thorium-229 nuclear clocks]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09999-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09999-5">doi:10.1038/s41586-025-09999-5</a></p>The nuclear clock transition of 229mTh in 229Th:CaF2 crystals is characterized as a function of doping concentration, temperature and time, demonstrating high reproducibility and identifying ideal operating characteristics of these crystals as nuclear clocks.]]></content:encoded>
+            <dc:title><![CDATA[Frequency reproducibility of solid-state thorium-229 nuclear clocks]]></dc:title>
+            <dc:creator>Tian Ooi</dc:creator><dc:creator>Jack F. Doyle</dc:creator><dc:creator>Chuankun Zhang</dc:creator><dc:creator>Jacob S. Higgins</dc:creator><dc:creator>Jun Ye</dc:creator><dc:creator>Kjeld Beeks</dc:creator><dc:creator>Tomas Sikorsky</dc:creator><dc:creator>Thorsten Schumm</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09999-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09999-5</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09999-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09999-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10011-3">
+            <title><![CDATA[PAF15–PCNA exhaustion governs the strand-specific control of DNA replication]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10011-3</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10011-3">doi:10.1038/s41586-025-10011-3</a></p>PCNA–PAF15 has a key role in determining replisome dynamics during genome replication and protecting against genome instability.]]></content:encoded>
+            <dc:title><![CDATA[PAF15–PCNA exhaustion governs the strand-specific control of DNA replication]]></dc:title>
+            <dc:creator>Gita Chhetri</dc:creator><dc:creator>Sugith Babu Badugu</dc:creator><dc:creator>Narcis-Adrian Petriman</dc:creator><dc:creator>Mikkel Bo Petersen</dc:creator><dc:creator>Aylin Seren Güller</dc:creator><dc:creator>Nora Fajri</dc:creator><dc:creator>Manon Coulée</dc:creator><dc:creator>Ganesha Pandian Pitchai</dc:creator><dc:creator>Jan Novotný</dc:creator><dc:creator>Frederik Tibert Larsen</dc:creator><dc:creator>Andreas Fønss Møller</dc:creator><dc:creator>Morten Frendø Ebbesen</dc:creator><dc:creator>Tina Ravnsborg</dc:creator><dc:creator>Anoop Kumar Yadav</dc:creator><dc:creator>Barath Balarasa</dc:creator><dc:creator>Anita Lunding</dc:creator><dc:creator>Hana Polasek-Sedlackova</dc:creator><dc:creator>Ole N. Jensen</dc:creator><dc:creator>Kim Ravnskjaer</dc:creator><dc:creator>Jonathan R. Brewer</dc:creator><dc:creator>Jesper Grud Skat Madsen</dc:creator><dc:creator>Nataliya Petryk</dc:creator><dc:creator>Jens S. Andersen</dc:creator><dc:creator>Kumar Somyajit</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10011-3</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10011-3</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10011-3</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10011-3</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10030-0">
+            <title><![CDATA[A Cambrian soft-bodied biota after the first Phanerozoic mass extinction]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10030-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10030-0">doi:10.1038/s41586-025-10030-0</a></p>The Huayuan biota exhibits extraordinary biodiversity, illuminating the impact of the Phanerozoic mass extinction around 513 million years ago and offering critical insights into the transformation of global ecosystems in the early Cambrian.]]></content:encoded>
+            <dc:title><![CDATA[A Cambrian soft-bodied biota after the first Phanerozoic mass extinction]]></dc:title>
+            <dc:creator>Han Zeng</dc:creator><dc:creator>Qi Liu</dc:creator><dc:creator>Fangchen Zhao</dc:creator><dc:creator>Cui Luo</dc:creator><dc:creator>Dezhi Wang</dc:creator><dc:creator>Yuyan Zhu</dc:creator><dc:creator>Yao Liu</dc:creator><dc:creator>Kai Chen</dc:creator><dc:creator>Zhixin Sun</dc:creator><dc:creator>Yanjie Hong</dc:creator><dc:creator>Lanyun Miao</dc:creator><dc:creator>Chunlin Hu</dc:creator><dc:creator>Haijing Sun</dc:creator><dc:creator>Bing Pan</dc:creator><dc:creator>Jialin Zhao</dc:creator><dc:creator>Zongjun Yin</dc:creator><dc:creator>Guoxiang Li</dc:creator><dc:creator>Xinglian Yang</dc:creator><dc:creator>Aihua Yang</dc:creator><dc:creator>Shixue Hu</dc:creator><dc:creator>Maoyan Zhu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10030-0</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10030-0</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10030-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10030-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09973-1">
+            <title><![CDATA[An X-ray-emitting protocluster at <i>z</i> ≈ 5.7 reveals rapid structure growth]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09973-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09973-1">doi:10.1038/s41586-025-09973-1</a></p>Discovery of a protocluster at z = 5.68, merely one billion years after the Big Bang, suggests that large-scale structure must have formed more rapidly in some regions of the early universe than previously thought.]]></content:encoded>
+            <dc:title><![CDATA[An X-ray-emitting protocluster at <i>z</i> ≈ 5.7 reveals rapid structure growth]]></dc:title>
+            <dc:creator>Ákos Bogdán</dc:creator><dc:creator>Gerrit Schellenberger</dc:creator><dc:creator>Qiong Li</dc:creator><dc:creator>Christopher J. Conselice</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09973-1</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09973-1</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09973-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09973-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09959-z">
+            <title><![CDATA[Low-power integrated optical amplification through second-harmonic resonance]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09959-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09959-z">doi:10.1038/s41586-025-09959-z</a></p>An integrated optical parametric amplifier on thin-film lithium niobate achieves more than 17 dB gain with less than 200 mW input power.]]></content:encoded>
+            <dc:title><![CDATA[Low-power integrated optical amplification through second-harmonic resonance]]></dc:title>
+            <dc:creator>Devin J. Dean</dc:creator><dc:creator>Taewon Park</dc:creator><dc:creator>Hubert S. Stokowski</dc:creator><dc:creator>Luke Qi</dc:creator><dc:creator>Sam Robison</dc:creator><dc:creator>Alexander Y. Hwang</dc:creator><dc:creator>Jason F. Herrmann</dc:creator><dc:creator>Martin M. Fejer</dc:creator><dc:creator>Amir H. Safavi-Naeini</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09959-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09959-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09959-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09959-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10070-6">
+            <title><![CDATA[A prophage-encoded abortive infection protein preserves host and prophage spread]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10070-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10070-6">doi:10.1038/s41586-025-10070-6</a></p>A Gifsy-1 prophage–encoded higher eukaryotes and prokaryotes nucleotide-binding protein, HepS, senses Siphoviridae infection, activates abortive defence by cleaving host transfer RNAs, blocks rival phages and avoids self-targeting via tail-tip variation.]]></content:encoded>
+            <dc:title><![CDATA[A prophage-encoded abortive infection protein preserves host and prophage spread]]></dc:title>
+            <dc:creator>Molly R. Sargen</dc:creator><dc:creator>Sadie P. Antine</dc:creator><dc:creator>Grzegorz J. Grabe</dc:creator><dc:creator>Gabriella Antonellis</dc:creator><dc:creator>Adelyn E. Ragucci</dc:creator><dc:creator>Yao Li</dc:creator><dc:creator>Philip J. Kranzusch</dc:creator><dc:creator>Sophie Helaine</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10070-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10070-6</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10070-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10070-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10023-z">
+            <title><![CDATA[Robust cytoplasmic partitioning by solving a cytoskeletal instability]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10023-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10023-z">doi:10.1038/s41586-025-10023-z</a></p>The cytoplasm can be partitioned into distinct compartments by microtubule structures, which can be stabilized by distinct mechanisms in different species.]]></content:encoded>
+            <dc:title><![CDATA[Robust cytoplasmic partitioning by solving a cytoskeletal instability]]></dc:title>
+            <dc:creator>Melissa Rinaldin</dc:creator><dc:creator>Alison Kickuth</dc:creator><dc:creator>Adam Lamson</dc:creator><dc:creator>Benjamin Dalton</dc:creator><dc:creator>Yitong Xu</dc:creator><dc:creator>Pavel Mejstřík</dc:creator><dc:creator>Stefano Di Talia</dc:creator><dc:creator>Jan Brugués</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10023-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10023-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10023-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10023-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10014-0">
+            <title><![CDATA[Advancing regulatory variant effect prediction with AlphaGenome]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10014-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10014-0">doi:10.1038/s41586-025-10014-0</a></p>AlphaGenome, a deep learning model that inputs 1-Mb DNA sequence to predict functional genomic tracks at single-base resolution across diverse modalities, outperforms existing models in variant effect prediction and enables comprehensive genomic analysis.]]></content:encoded>
+            <dc:title><![CDATA[Advancing regulatory variant effect prediction with AlphaGenome]]></dc:title>
+            <dc:creator>Žiga Avsec</dc:creator><dc:creator>Natasha Latysheva</dc:creator><dc:creator>Jun Cheng</dc:creator><dc:creator>Guido Novati</dc:creator><dc:creator>Kyle R. Taylor</dc:creator><dc:creator>Tom Ward</dc:creator><dc:creator>Clare Bycroft</dc:creator><dc:creator>Lauren Nicolaisen</dc:creator><dc:creator>Eirini Arvaniti</dc:creator><dc:creator>Joshua Pan</dc:creator><dc:creator>Raina Thomas</dc:creator><dc:creator>Vincent Dutordoir</dc:creator><dc:creator>Matteo Perino</dc:creator><dc:creator>Soham De</dc:creator><dc:creator>Alexander Karollus</dc:creator><dc:creator>Adam Gayoso</dc:creator><dc:creator>Toby Sargeant</dc:creator><dc:creator>Anne Mottram</dc:creator><dc:creator>Lai Hong Wong</dc:creator><dc:creator>Pavol Drotár</dc:creator><dc:creator>Adam Kosiorek</dc:creator><dc:creator>Andrew Senior</dc:creator><dc:creator>Richard Tanburn</dc:creator><dc:creator>Taylor Applebaum</dc:creator><dc:creator>Souradeep Basu</dc:creator><dc:creator>Demis Hassabis</dc:creator><dc:creator>Pushmeet Kohli</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10014-0</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10014-0</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10014-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10014-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10035-9">
+            <title><![CDATA[A cavity-array microscope for parallel single-atom interfacing]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10035-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10035-9">doi:10.1038/s41586-025-10035-9</a></p>A cavity-array microscope is realized using intra-cavity lenses to create a two-dimensional array of over 40 modes, each coupled to a single atom in free-space.]]></content:encoded>
+            <dc:title><![CDATA[A cavity-array microscope for parallel single-atom interfacing]]></dc:title>
+            <dc:creator>Adam L. Shaw</dc:creator><dc:creator>Anna Soper</dc:creator><dc:creator>Danial Shadmany</dc:creator><dc:creator>Aishwarya Kumar</dc:creator><dc:creator>Lukas Palm</dc:creator><dc:creator>Da-Yeon Koh</dc:creator><dc:creator>Vassilios Kaxiras</dc:creator><dc:creator>Lavanya Taneja</dc:creator><dc:creator>Matt Jaffe</dc:creator><dc:creator>David I. Schuster</dc:creator><dc:creator>Jonathan Simon</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10035-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10035-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10035-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10035-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10054-6">
+            <title><![CDATA[A cross-population compendium of gene–environment interactions]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10054-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10054-6">doi:10.1038/s41586-025-10054-6</a></p>A large cross-population atlas of gene–environment interactions reveals how age, sex and lifestyle shape genetic effects, heritability, prediction accuracy and disease biology, with implications for personalized medicine and drug development.]]></content:encoded>
+            <dc:title><![CDATA[A cross-population compendium of gene–environment interactions]]></dc:title>
+            <dc:creator>Shinichi Namba</dc:creator><dc:creator>Kyuto Sonehara</dc:creator><dc:creator>Yuriko N. Koyanagi</dc:creator><dc:creator>Takezo Kikuchi</dc:creator><dc:creator>Takafumi Ojima</dc:creator><dc:creator>Ryuya Edahiro</dc:creator><dc:creator>Go Sato</dc:creator><dc:creator>Taiki Yamaji</dc:creator><dc:creator>Yoshihiko Tomofuji</dc:creator><dc:creator>Hiroyuki Ueda</dc:creator><dc:creator>Kenichi Yamamoto</dc:creator><dc:creator>Yosuke Ogawa</dc:creator><dc:creator>Ken Suzuki</dc:creator><dc:creator>Akinori Kanai</dc:creator><dc:creator>Shinichi Higashiue</dc:creator><dc:creator>Shuzo Kobayashi</dc:creator><dc:creator>Hiroki Yamaguchi</dc:creator><dc:creator>Yasunobu Nagata</dc:creator><dc:creator>Yasushi Okazaki</dc:creator><dc:creator>Naoyuki Matsumoto</dc:creator><dc:creator>Kenta Motomura</dc:creator><dc:creator>Hidenobu Koga</dc:creator><dc:creator>Asahi Hishida</dc:creator><dc:creator>Hiroaki Ikezaki</dc:creator><dc:creator>Megumi Hara</dc:creator><dc:creator>Mako Nagayoshi</dc:creator><dc:creator>Isao Oze</dc:creator><dc:creator>Shiori Nakano</dc:creator><dc:creator>Yoshiya Oda</dc:creator><dc:creator>Yutaka Suzuki</dc:creator><dc:creator>Motoki Iwasaki</dc:creator><dc:creator>Norie Sawada</dc:creator><dc:creator>Keitaro Matsuo</dc:creator><dc:creator>Takayuki Morisaki</dc:creator><dc:creator>Toshimasa Yamauchi</dc:creator><dc:creator>Takashi Kadowaki</dc:creator><dc:creator>Koichi Matsuda</dc:creator><dc:creator>Yukinori Okada</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10054-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10054-6</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10054-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10054-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10007-z">
+            <title><![CDATA[Vacuum ultraviolet second-harmonic generation in NH<sub>4</sub>B<sub>4</sub>O<sub>6</sub>F crystal]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10007-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10007-z">doi:10.1038/s41586-025-10007-z</a></p>The fluorooxoborate crystal NH4B4O6F shows promise as a nonlinear optical material for vacuum ultraviolet light sources through second-harmonic generation, demonstrating record output energy and efficiency resulting from optimized arrangements of fluorine-based units creating asymmetric sublattices.]]></content:encoded>
+            <dc:title><![CDATA[Vacuum ultraviolet second-harmonic generation in NH<sub>4</sub>B<sub>4</sub>O<sub>6</sub>F crystal]]></dc:title>
+            <dc:creator>Fangfang Zhang</dc:creator><dc:creator>Zilong Chen</dc:creator><dc:creator>Chen Cui</dc:creator><dc:creator>Zhihua Yang</dc:creator><dc:creator>Miriding Mutailipu</dc:creator><dc:creator>Fuming Li</dc:creator><dc:creator>Xueling Hou</dc:creator><dc:creator>Xifa Long</dc:creator><dc:creator>Shilie Pan</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10007-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10007-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10007-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10007-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10061-7">
+            <title><![CDATA[Psychedelics elicit their effects by 5-HT<sub>2A</sub> receptor-mediated G<sub>i</sub> signalling]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10061-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10061-7">doi:10.1038/s41586-025-10061-7</a></p>Psychedelics and their non-hallucinogenic analogues were compared, revealing that serotonin 2A receptor (5-HT2AR)-mediated Gi signalling is essential for hallucinogenic effect, with the functional mechanisms underlying this providing insights for designing therapeutic drugs without hallucinogenic effects.]]></content:encoded>
+            <dc:title><![CDATA[Psychedelics elicit their effects by 5-HT<sub>2A</sub> receptor-mediated G<sub>i</sub> signalling]]></dc:title>
+            <dc:creator>Zheng Xu</dc:creator><dc:creator>Hongshuang Wang</dc:creator><dc:creator>Jingjing Yu</dc:creator><dc:creator>Yue Deng</dc:creator><dc:creator>Xiaowen Tian</dc:creator><dc:creator>Rongjun Ni</dc:creator><dc:creator>Fan Xia</dc:creator><dc:creator>Lingyi Yang</dc:creator><dc:creator>Chanjuan Xu</dc:creator><dc:creator>Liting Zhang</dc:creator><dc:creator>Renxuan Luo</dc:creator><dc:creator>Peipei Chen</dc:creator><dc:creator>Xiaoyu Zhang</dc:creator><dc:creator>Yuxuan Liu</dc:creator><dc:creator>Jingyu Hou</dc:creator><dc:creator>Miyuan Zhang</dc:creator><dc:creator>Shasha Chen</dc:creator><dc:creator>Lantian Su</dc:creator><dc:creator>Hui Sun</dc:creator><dc:creator>Yixiao He</dc:creator><dc:creator>Dandan Chen</dc:creator><dc:creator>Xiaoting Chen</dc:creator><dc:creator>Zhuang Miao</dc:creator><dc:creator>Jie Xie</dc:creator><dc:creator>Xinlei Liu</dc:creator><dc:creator>Jie Zhao</dc:creator><dc:creator>Bowen Ke</dc:creator><dc:creator>Xiaohe Tian</dc:creator><dc:creator>Linan Zeng</dc:creator><dc:creator>Lingli Zhang</dc:creator><dc:creator>Xiangdong Tang</dc:creator><dc:creator>Shengyong Yang</dc:creator><dc:creator>Jianfeng Liu</dc:creator><dc:creator>Xiaohui Wang</dc:creator><dc:creator>Wei Yan</dc:creator><dc:creator>Zhenhua Shao</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10061-7</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10061-7</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10061-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10061-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09924-w">
+            <title><![CDATA[Limit of atomic-resolution-tomography reconstruction of amorphous nanoparticles]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09924-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09924-w">doi:10.1038/s41586-025-09924-w</a></p>A simulation approach is used to ascertain the limitations on the structural and chemical information that atomic-resolution electron tomography can determine from noisy electron images.]]></content:encoded>
+            <dc:title><![CDATA[Limit of atomic-resolution-tomography reconstruction of amorphous nanoparticles]]></dc:title>
+            <dc:creator>Robert Busch</dc:creator><dc:creator>Peter Rez</dc:creator><dc:creator>Michael M. J. Treacy</dc:creator><dc:creator>Jian-Min Zuo</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09924-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09924-w</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09924-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09924-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10033-x">
+            <title><![CDATA[Optofluidic three-dimensional microfabrication and nanofabrication]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10033-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10033-x">doi:10.1038/s41586-025-10033-x</a></p>A strategy compatible with a broad range of materials by precisely manipulating optofluidic interactions within a confined 3D space to control the assembly of colloidal microparticles/nanoparticles is demonstrated, enabling the precise manufacture of complex microstructures/nanostructures.]]></content:encoded>
+            <dc:title><![CDATA[Optofluidic three-dimensional microfabrication and nanofabrication]]></dc:title>
+            <dc:creator>Xianglong Lyu</dc:creator><dc:creator>Wenhai Lei</dc:creator><dc:creator>Gaurav Gardi</dc:creator><dc:creator>Muhammad Turab Ali Khan</dc:creator><dc:creator>Shervin Bagheri</dc:creator><dc:creator>Mingchao Zhang</dc:creator><dc:creator>Metin Sitti</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10033-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10033-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10033-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10033-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10019-9">
+            <title><![CDATA[Ferromagnet-like binary switching of a Stoner–Wohlfarth antiferromagnet]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10019-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10019-9">doi:10.1038/s41586-025-10019-9</a></p>CrPS4, a 2D van der Waals A-type antiferromagnet, is shown to exhibit ideal characteristics of Stoner–Wohlfarth antiferromagnets, such as ferromagnet-like binary switching rather than layer-by-layer flipping as in other 2D A-type antiferromagnets.]]></content:encoded>
+            <dc:title><![CDATA[Ferromagnet-like binary switching of a Stoner–Wohlfarth antiferromagnet]]></dc:title>
+            <dc:creator>Zhanshan Wang</dc:creator><dc:creator>Yining Xiang</dc:creator><dc:creator>Ruohan Chen</dc:creator><dc:creator>Zeyuan Sun</dc:creator><dc:creator>Canyu Hong</dc:creator><dc:creator>Xinyu Chen</dc:creator><dc:creator>Jingjing Gao</dc:creator><dc:creator>Shuang Wu</dc:creator><dc:creator>Zhongxun Guo</dc:creator><dc:creator>Yi Chen</dc:creator><dc:creator>Qixi Mi</dc:creator><dc:creator>Zhongkai Liu</dc:creator><dc:creator>Shaohua Yan</dc:creator><dc:creator>Hechang Lei</dc:creator><dc:creator>Wei Ruan</dc:creator><dc:creator>Yuanbo Zhang</dc:creator><dc:creator>Weichao Yu</dc:creator><dc:creator>Wei-Tao Liu</dc:creator><dc:creator>Zhe Yuan</dc:creator><dc:creator>Shiwei Wu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10019-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10019-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10019-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10019-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09976-y">
+            <title><![CDATA[The Ocean Equity Index]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09976-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09976-y">doi:10.1038/s41586-025-09976-y</a></p>The Ocean Equity Index provides a systematic, twelve-criteria framework to assess and improve equity in ocean initiatives, projects and policies, producing structured data that guide evidence-based decisions and support more equitable outcomes for coastal communities and ecosystems.]]></content:encoded>
+            <dc:title><![CDATA[The Ocean Equity Index]]></dc:title>
+            <dc:creator>Jessica L. Blythe</dc:creator><dc:creator>Joachim Claudet</dc:creator><dc:creator>David Gill</dc:creator><dc:creator>Natalie C. Ban</dc:creator><dc:creator>Graham Epstein</dc:creator><dc:creator>Georgina G. Gurney</dc:creator><dc:creator>Stacy D. Jupiter</dc:creator><dc:creator>Shauna L. Mahajan</dc:creator><dc:creator>Sangeeta Mangubhai</dc:creator><dc:creator>Rachel Turner</dc:creator><dc:creator>Nathan J. Bennett</dc:creator><dc:creator>Stéphanie D’Agata</dc:creator><dc:creator>Phil Franks</dc:creator><dc:creator>Jacqueline Lau</dc:creator><dc:creator>Gabby Ahmadia</dc:creator><dc:creator>Mark Andrachuk</dc:creator><dc:creator>Pavanee Annasawmy</dc:creator><dc:creator>Victor Brun</dc:creator><dc:creator>Emily S. Darling</dc:creator><dc:creator>Antonio Di Franco</dc:creator><dc:creator>Louisa Evans</dc:creator><dc:creator>Natali Lazzari</dc:creator><dc:creator>Josheena Naggea</dc:creator><dc:creator>Veronica Relano</dc:creator><dc:creator>Maria C. Pertuz</dc:creator><dc:creator>Sebastian Villasante</dc:creator><dc:creator>Noelia Zafra-Calvo</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09976-y</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09976-y</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09976-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09976-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09931-x">
+            <title><![CDATA[A flexible digital compute-in-memory chip for edge intelligence]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09931-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09931-x">doi:10.1038/s41586-025-09931-x</a></p>A flexible digital artificial intelligence chip with a compute-in-memory architecture is fabricated using a commercial low-temperature polycrystalline silicon thin-film transistor process and shows high accuracy in human daily activity monitoring using multimodal physiological signals.]]></content:encoded>
+            <dc:title><![CDATA[A flexible digital compute-in-memory chip for edge intelligence]]></dc:title>
+            <dc:creator>Anzhi Yan</dc:creator><dc:creator>Jianlan Yan</dc:creator><dc:creator>Penghui Shen</dc:creator><dc:creator>Yihan Fu</dc:creator><dc:creator>Enyi Zhang</dc:creator><dc:creator>Jingkai Song</dc:creator><dc:creator>Qinghang Zhang</dc:creator><dc:creator>Ziqi He</dc:creator><dc:creator>Xin Li</dc:creator><dc:creator>Zecheng Pan</dc:creator><dc:creator>Ding Li</dc:creator><dc:creator>Yu Dong</dc:creator><dc:creator>Xiaowei Xu</dc:creator><dc:creator>Feng Qi</dc:creator><dc:creator>Tianqi Shao</dc:creator><dc:creator>Bonan Yan</dc:creator><dc:creator>Yi Yang</dc:creator><dc:creator>Houfang Liu</dc:creator><dc:creator>Tian-Ling Ren</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09931-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09931-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09931-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09931-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09851-w">
+            <title><![CDATA[Optical control over topological Chern number in moiré materials]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09851-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09851-w">doi:10.1038/s41586-025-09851-w</a></p>Optical spin orientation of itinerant ferromagnets in twisted MoTe2 homobilayers is demonstrated, enabling control of topological Chern numbers with circularly polarized light.]]></content:encoded>
+            <dc:title><![CDATA[Optical control over topological Chern number in moiré materials]]></dc:title>
+            <dc:creator>O. Huber</dc:creator><dc:creator>K. Kuhlbrodt</dc:creator><dc:creator>E. Anderson</dc:creator><dc:creator>W. Li</dc:creator><dc:creator>K. Watanabe</dc:creator><dc:creator>T. Taniguchi</dc:creator><dc:creator>M. Kroner</dc:creator><dc:creator>X. Xu</dc:creator><dc:creator>A. Imamoğlu</dc:creator><dc:creator>T. Smoleński</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09851-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09851-w</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09851-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09851-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10017-x">
+            <title><![CDATA[Disentangling multiple gas kinematic drivers in the Perseus galaxy cluster]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10017-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10017-x">doi:10.1038/s41586-025-10017-x</a></p>Kinematic measurements of the Perseus galaxy cluster reveal two drivers of gas motions: a small-scale driver in the inner core associated with black-hole feedback and a large-scale driver in the outer core powered by mergers.]]></content:encoded>
+            <dc:title><![CDATA[Disentangling multiple gas kinematic drivers in the Perseus galaxy cluster]]></dc:title>
+            <dc:creator>Marc Audard</dc:creator><dc:creator>Hisamitsu Awaki</dc:creator><dc:creator>Ralf Ballhausen</dc:creator><dc:creator>Aya Bamba</dc:creator><dc:creator>Ehud Behar</dc:creator><dc:creator>Rozenn Boissay-Malaquin</dc:creator><dc:creator>Laura Brenneman</dc:creator><dc:creator>Gregory V. Brown</dc:creator><dc:creator>Lia Corrales</dc:creator><dc:creator>Elisa Costantini</dc:creator><dc:creator>Renata Cumbee</dc:creator><dc:creator>María Díaz Trigo</dc:creator><dc:creator>Chris Done</dc:creator><dc:creator>Tadayasu Dotani</dc:creator><dc:creator>Ken Ebisawa</dc:creator><dc:creator>Megan E. Eckart</dc:creator><dc:creator>Dominique Eckert</dc:creator><dc:creator>Satoshi Eguchi</dc:creator><dc:creator>Teruaki Enoto</dc:creator><dc:creator>Yuichiro Ezoe</dc:creator><dc:creator>Adam Foster</dc:creator><dc:creator>Ryuichi Fujimoto</dc:creator><dc:creator>Yutaka Fujita</dc:creator><dc:creator>Yasushi Fukazawa</dc:creator><dc:creator>Kotaro Fukushima</dc:creator><dc:creator>Akihiro Furuzawa</dc:creator><dc:creator>Luigi Gallo</dc:creator><dc:creator>Javier A. García</dc:creator><dc:creator>Liyi Gu</dc:creator><dc:creator>Matteo Guainazzi</dc:creator><dc:creator>Kouichi Hagino</dc:creator><dc:creator>Kenji Hamaguchi</dc:creator><dc:creator>Isamu Hatsukade</dc:creator><dc:creator>Katsuhiro Hayashi</dc:creator><dc:creator>Takayuki Hayashi</dc:creator><dc:creator>Natalie Hell</dc:creator><dc:creator>Edmund Hodges-Kluck</dc:creator><dc:creator>Ann Hornschemeier</dc:creator><dc:creator>Yuto Ichinohe</dc:creator><dc:creator>Daiki Ishi</dc:creator><dc:creator>Manabu Ishida</dc:creator><dc:creator>Kumi Ishikawa</dc:creator><dc:creator>Yoshitaka Ishisaki</dc:creator><dc:creator>Jelle Kaastra</dc:creator><dc:creator>Timothy Kallman</dc:creator><dc:creator>Erin Kara</dc:creator><dc:creator>Satoru Katsuda</dc:creator><dc:creator>Yoshiaki Kanemaru</dc:creator><dc:creator>Richard Kelley</dc:creator><dc:creator>Caroline Kilbourne</dc:creator><dc:creator>Shunji Kitamoto</dc:creator><dc:creator>Shogo Kobayashi</dc:creator><dc:creator>Takayoshi Kohmura</dc:creator><dc:creator>Aya Kubota</dc:creator><dc:creator>Maurice Leutenegger</dc:creator><dc:creator>Michael Loewenstein</dc:creator><dc:creator>Yoshitomo Maeda</dc:creator><dc:creator>Maxim Markevitch</dc:creator><dc:creator>Hironori Matsumoto</dc:creator><dc:creator>Kyoko Matsushita</dc:creator><dc:creator>Dan McCammon</dc:creator><dc:creator>Brian McNamara</dc:creator><dc:creator>François Mernier</dc:creator><dc:creator>Eric D. Miller</dc:creator><dc:creator>Jon M. Miller</dc:creator><dc:creator>Ikuyuki Mitsuishi</dc:creator><dc:creator>Misaki Mizumoto</dc:creator><dc:creator>Tsunefumi Mizuno</dc:creator><dc:creator>Koji Mori</dc:creator><dc:creator>Koji Mukai</dc:creator><dc:creator>Hiroshi Murakami</dc:creator><dc:creator>Richard Mushotzky</dc:creator><dc:creator>Hiroshi Nakajima</dc:creator><dc:creator>Kazuhiro Nakazawa</dc:creator><dc:creator>Jan-Uwe Ness</dc:creator><dc:creator>Kumiko Nobukawa</dc:creator><dc:creator>Masayoshi Nobukawa</dc:creator><dc:creator>Hirofumi Noda</dc:creator><dc:creator>Hirokazu Odaka</dc:creator><dc:creator>Shoji Ogawa</dc:creator><dc:creator>Anna Ogorzalek</dc:creator><dc:creator>Takashi Okajima</dc:creator><dc:creator>Naomi Ota</dc:creator><dc:creator>Stephane Paltani</dc:creator><dc:creator>Robert Petre</dc:creator><dc:creator>Paul Plucinsky</dc:creator><dc:creator>Frederick S. Porter</dc:creator><dc:creator>Katja Pottschmidt</dc:creator><dc:creator>Kosuke Sato</dc:creator><dc:creator>Toshiki Sato</dc:creator><dc:creator>Makoto Sawada</dc:creator><dc:creator>Hiromi Seta</dc:creator><dc:creator>Megumi Shidatsu</dc:creator><dc:creator>Aurora Simionescu</dc:creator><dc:creator>Randall Smith</dc:creator><dc:creator>Hiromasa Suzuki</dc:creator><dc:creator>Andrew Szymkowiak</dc:creator><dc:creator>Hiromitsu Takahashi</dc:creator><dc:creator>Mai Takeo</dc:creator><dc:creator>Toru Tamagawa</dc:creator><dc:creator>Keisuke Tamura</dc:creator><dc:creator>Takaaki Tanaka</dc:creator><dc:creator>Atsushi Tanimoto</dc:creator><dc:creator>Makoto Tashiro</dc:creator><dc:creator>Yukikatsu Terada</dc:creator><dc:creator>Yuichi Terashima</dc:creator><dc:creator>Yohko Tsuboi</dc:creator><dc:creator>Masahiro Tsujimoto</dc:creator><dc:creator>Hiroshi Tsunemi</dc:creator><dc:creator>Takeshi G. Tsuru</dc:creator><dc:creator>Ayşegül Tümer</dc:creator><dc:creator>Hiroyuki Uchida</dc:creator><dc:creator>Nagomi Uchida</dc:creator><dc:creator>Yuusuke Uchida</dc:creator><dc:creator>Hideki Uchiyama</dc:creator><dc:creator>Yoshihiro Ueda</dc:creator><dc:creator>Shinichiro Uno</dc:creator><dc:creator>Jacco Vink</dc:creator><dc:creator>Shin Watanabe</dc:creator><dc:creator>Brian J. Williams</dc:creator><dc:creator>Satoshi Yamada</dc:creator><dc:creator>Shinya Yamada</dc:creator><dc:creator>Hiroya Yamaguchi</dc:creator><dc:creator>Kazutaka Yamaoka</dc:creator><dc:creator>Noriko Yamasaki</dc:creator><dc:creator>Makoto Yamauchi</dc:creator><dc:creator>Shigeo Yamauchi</dc:creator><dc:creator>Tahir Yaqoob</dc:creator><dc:creator>Tomokage Yoneyama</dc:creator><dc:creator>Tessei Yoshida</dc:creator><dc:creator>Mihoko Yukita</dc:creator><dc:creator>Ian Drury</dc:creator><dc:creator>Julie Hlavacek-Larrondo</dc:creator><dc:creator>Julian Meunier</dc:creator><dc:creator>Kostas Migkas</dc:creator><dc:creator>Lior Shefler</dc:creator><dc:creator>Phillip C. Stancil</dc:creator><dc:creator>Nhut Truong</dc:creator><dc:creator>Shutaro Ueda</dc:creator><dc:creator>Benjamin Vigneron</dc:creator><dc:creator>John ZuHone</dc:creator><dc:creator>Congyao Zhang</dc:creator><dc:creator>Annie Heinrich</dc:creator><dc:creator>Irina Zhuravleva</dc:creator><dc:creator>Elena Bellomi</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10017-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10017-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10017-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10017-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10069-z">
+            <title><![CDATA[Holistic motor control of zebra finch song syllable sequences]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10069-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10069-z">doi:10.1038/s41586-025-10069-z</a></p>A cortical premotor network in HVC, once initiated, can sustain and regulate the sequential production of zebra finch song syllables without major extrinsic inputs.]]></content:encoded>
+            <dc:title><![CDATA[Holistic motor control of zebra finch song syllable sequences]]></dc:title>
+            <dc:creator>Massimo Trusel</dc:creator><dc:creator>Junfeng Zuo</dc:creator><dc:creator>Danyal H. Alam</dc:creator><dc:creator>Ethan S. Marks</dc:creator><dc:creator>Therese M. I. Koch</dc:creator><dc:creator>Jie Cao</dc:creator><dc:creator>Harshida Pancholi</dc:creator><dc:creator>Ziran Zhao</dc:creator><dc:creator>Brenton G. Cooper</dc:creator><dc:creator>Wen-Hao Zhang</dc:creator><dc:creator>Todd F. Roberts</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10069-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10069-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10069-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10069-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09962-4">
+            <title><![CDATA[A benchmark of expert-level academic questions to assess AI capabilities]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09962-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09962-4">doi:10.1038/s41586-025-09962-4</a></p>Humanity’s Last Exam, a multi-modal benchmark at the frontier of human knowledge, is designed to be an expert-level closed-ended academic benchmark with broad subject coverage.]]></content:encoded>
+            <dc:title><![CDATA[A benchmark of expert-level academic questions to assess AI capabilities]]></dc:title>
+            <dc:creator>Long Phan</dc:creator><dc:creator>Alice Gatti</dc:creator><dc:creator>Nathaniel Li</dc:creator><dc:creator>Adam Khoja</dc:creator><dc:creator>Ryan Kim</dc:creator><dc:creator>Richard Ren</dc:creator><dc:creator>Jason Hausenloy</dc:creator><dc:creator>Oliver Zhang</dc:creator><dc:creator>Mantas Mazeika</dc:creator><dc:creator>Dan Hendrycks</dc:creator><dc:creator>Ziwen Han</dc:creator><dc:creator>Josephina Hu</dc:creator><dc:creator>Hugh Zhang</dc:creator><dc:creator>Chen Bo Calvin Zhang</dc:creator><dc:creator>Mohamed Shaaban</dc:creator><dc:creator>John Ling</dc:creator><dc:creator>Sean Shi</dc:creator><dc:creator>Michael Choi</dc:creator><dc:creator>Anish Agrawal</dc:creator><dc:creator>Arnav Chopra</dc:creator><dc:creator>Aakaash Nattanmai</dc:creator><dc:creator>Gordon McKellips</dc:creator><dc:creator>Anish Cheraku</dc:creator><dc:creator>Asim Suhail</dc:creator><dc:creator>Ethan Luo</dc:creator><dc:creator>Marvin Deng</dc:creator><dc:creator>Jason Luo</dc:creator><dc:creator>Ashley Zhang</dc:creator><dc:creator>Kavin Jindel</dc:creator><dc:creator>Jay Paek</dc:creator><dc:creator>Kasper Halevy</dc:creator><dc:creator>Allen Baranov</dc:creator><dc:creator>Michael Liu</dc:creator><dc:creator>Advaith Avadhanam</dc:creator><dc:creator>David Zhang</dc:creator><dc:creator>Vincent Cheng</dc:creator><dc:creator>Brad Ma</dc:creator><dc:creator>Evan Fu</dc:creator><dc:creator>Liam Do</dc:creator><dc:creator>Joshua Lass</dc:creator><dc:creator>Hubert Yang</dc:creator><dc:creator>Surya Sunkari</dc:creator><dc:creator>Vishruth Bharath</dc:creator><dc:creator>Violet Ai</dc:creator><dc:creator>James Leung</dc:creator><dc:creator>Rishit Agrawal</dc:creator><dc:creator>Alan Zhou</dc:creator><dc:creator>Kevin Chen</dc:creator><dc:creator>Tejas Kalpathi</dc:creator><dc:creator>Ziqi Xu</dc:creator><dc:creator>Gavin Wang</dc:creator><dc:creator>Tyler Xiao</dc:creator><dc:creator>Erik Maung</dc:creator><dc:creator>Sam Lee</dc:creator><dc:creator>Ryan Yang</dc:creator><dc:creator>Roy Yue</dc:creator><dc:creator>Ben Zhao</dc:creator><dc:creator>Julia Yoon</dc:creator><dc:creator>Xiangwan Sun</dc:creator><dc:creator>Aryan Singh</dc:creator><dc:creator>Clark Peng</dc:creator><dc:creator>Tyler Osbey</dc:creator><dc:creator>Taozhi Wang</dc:creator><dc:creator>Daryl Echeazu</dc:creator><dc:creator>Timothy Wu</dc:creator><dc:creator>Spandan Patel</dc:creator><dc:creator>Vidhi Kulkarni</dc:creator><dc:creator>Vijaykaarti Sundarapandiyan</dc:creator><dc:creator>Andrew Le</dc:creator><dc:creator>Zafir Nasim</dc:creator><dc:creator>Srikar Yalam</dc:creator><dc:creator>Ritesh Kasamsetty</dc:creator><dc:creator>Soham Samal</dc:creator><dc:creator>David Sun</dc:creator><dc:creator>Nihar Shah</dc:creator><dc:creator>Abhijeet Saha</dc:creator><dc:creator>Alex Zhang</dc:creator><dc:creator>Leon Nguyen</dc:creator><dc:creator>Laasya Nagumalli</dc:creator><dc:creator>Kaixin Wang</dc:creator><dc:creator>Aidan Wu</dc:creator><dc:creator>Anwith Telluri</dc:creator><dc:creator>Summer Yue</dc:creator><dc:creator>Alexandr Wang</dc:creator><dc:creator>Dmitry Dodonov</dc:creator><dc:creator>Tung Nguyen</dc:creator><dc:creator>Jaeho Lee</dc:creator><dc:creator>Daron Anderson</dc:creator><dc:creator>Mikhail Doroshenko</dc:creator><dc:creator>Alun Cennyth Stokes</dc:creator><dc:creator>Mobeen Mahmood</dc:creator><dc:creator>Oleksandr Pokutnyi</dc:creator><dc:creator>Oleg Iskra</dc:creator><dc:creator>Jessica P. Wang</dc:creator><dc:creator>John-Clark Levin</dc:creator><dc:creator>Mstyslav Kazakov</dc:creator><dc:creator>Fiona Feng</dc:creator><dc:creator>Steven Y. Feng</dc:creator><dc:creator>Haoran Zhao</dc:creator><dc:creator>Michael Yu</dc:creator><dc:creator>Varun Gangal</dc:creator><dc:creator>Chelsea Zou</dc:creator><dc:creator>Zihan Wang</dc:creator><dc:creator>Serguei Popov</dc:creator><dc:creator>Robert Gerbicz</dc:creator><dc:creator>Geoff Galgon</dc:creator><dc:creator>Johannes Schmitt</dc:creator><dc:creator>Will Yeadon</dc:creator><dc:creator>Yongki Lee</dc:creator><dc:creator>Scott Sauers</dc:creator><dc:creator>Alvaro Sanchez</dc:creator><dc:creator>Fabian Giska</dc:creator><dc:creator>Marc Roth</dc:creator><dc:creator>Søren Riis</dc:creator><dc:creator>Saiteja Utpala</dc:creator><dc:creator>Noah Burns</dc:creator><dc:creator>Gashaw M. Goshu</dc:creator><dc:creator>Mohinder Maheshbhai Naiya</dc:creator><dc:creator>Chidozie Agu</dc:creator><dc:creator>Zachary Giboney</dc:creator><dc:creator>Antrell Cheatom</dc:creator><dc:creator>Francesco Fournier-Facio</dc:creator><dc:creator>Sarah-Jane Crowson</dc:creator><dc:creator>Lennart Finke</dc:creator><dc:creator>Zerui Cheng</dc:creator><dc:creator>Jennifer Zampese</dc:creator><dc:creator>Ryan G. Hoerr</dc:creator><dc:creator>Mark Nandor</dc:creator><dc:creator>Hyunwoo Park</dc:creator><dc:creator>Tim Gehrunger</dc:creator><dc:creator>Jiaqi Cai</dc:creator><dc:creator>Ben McCarty</dc:creator><dc:creator>Alexis C. Garretson</dc:creator><dc:creator>Edwin Taylor</dc:creator><dc:creator>Damien Sileo</dc:creator><dc:creator>Qiuyu Ren</dc:creator><dc:creator>Usman Qazi</dc:creator><dc:creator>Lianghui Li</dc:creator><dc:creator>Jungbae Nam</dc:creator><dc:creator>John B. Wydallis</dc:creator><dc:creator>Pavel Arkhipov</dc:creator><dc:creator>Jack Wei Lun Shi</dc:creator><dc:creator>Aras Bacho</dc:creator><dc:creator>Chris G. Willcocks</dc:creator><dc:creator>Hangrui Cao</dc:creator><dc:creator>Sumeet Motwani</dc:creator><dc:creator>Emily de Oliveira Santos</dc:creator><dc:creator>Johannes Veith</dc:creator><dc:creator>Edward Vendrow</dc:creator><dc:creator>Doru Cojoc</dc:creator><dc:creator>Kengo Zenitani</dc:creator><dc:creator>Joshua Robinson</dc:creator><dc:creator>Longke Tang</dc:creator><dc:creator>Yuqi Li</dc:creator><dc:creator>Joshua Vendrow</dc:creator><dc:creator>Natanael Wildner Fraga</dc:creator><dc:creator>Vladyslav Kuchkin</dc:creator><dc:creator>Andrey Pupasov Maksimov</dc:creator><dc:creator>Pierre Marion</dc:creator><dc:creator>Denis Efremov</dc:creator><dc:creator>Jayson Lynch</dc:creator><dc:creator>Kaiqu Liang</dc:creator><dc:creator>Aleksandar Mikov</dc:creator><dc:creator>Andrew Gritsevskiy</dc:creator><dc:creator>Julien Guillod</dc:creator><dc:creator>Gözdenur Demir</dc:creator><dc:creator>Dakotah Martinez</dc:creator><dc:creator>Ben Pageler</dc:creator><dc:creator>Kevin Zhou</dc:creator><dc:creator>Saeed Soori</dc:creator><dc:creator>Ori Press</dc:creator><dc:creator>Henry Tang</dc:creator><dc:creator>Paolo Rissone</dc:creator><dc:creator>Sean R. Green</dc:creator><dc:creator>Lina Brüssel</dc:creator><dc:creator>Moon Twayana</dc:creator><dc:creator>Aymeric Dieuleveut</dc:creator><dc:creator>Joseph Marvin Imperial</dc:creator><dc:creator>Ameya Prabhu</dc:creator><dc:creator>Jinzhou Yang</dc:creator><dc:creator>Nick Crispino</dc:creator><dc:creator>Arun Rao</dc:creator><dc:creator>Dimitri Zvonkine</dc:creator><dc:creator>Gabriel Loiseau</dc:creator><dc:creator>Mikhail Kalinin</dc:creator><dc:creator>Marco Lukas</dc:creator><dc:creator>Ciprian Manolescu</dc:creator><dc:creator>Nate Stambaugh</dc:creator><dc:creator>Subrata Mishra</dc:creator><dc:creator>Tad Hogg</dc:creator><dc:creator>Carlo Bosio</dc:creator><dc:creator>Brian P. Coppola</dc:creator><dc:creator>Julian Salazar</dc:creator><dc:creator>Jaehyeok Jin</dc:creator><dc:creator>Rafael Sayous</dc:creator><dc:creator>Stefan Ivanov</dc:creator><dc:creator>Philippe Schwaller</dc:creator><dc:creator>Shaipranesh Senthilkumar</dc:creator><dc:creator>Andres M. Bran</dc:creator><dc:creator>Andres Algaba</dc:creator><dc:creator>Kelsey Van den Houte</dc:creator><dc:creator>Lynn Van Der Sypt</dc:creator><dc:creator>Brecht Verbeken</dc:creator><dc:creator>David Noever</dc:creator><dc:creator>Alexei Kopylov</dc:creator><dc:creator>Benjamin Myklebust</dc:creator><dc:creator>Bikun Li</dc:creator><dc:creator>Lisa Schut</dc:creator><dc:creator>Evgenii Zheltonozhskii</dc:creator><dc:creator>Qiaochu Yuan</dc:creator><dc:creator>Derek Lim</dc:creator><dc:creator>Richard Stanley</dc:creator><dc:creator>Tong Yang</dc:creator><dc:creator>John Maar</dc:creator><dc:creator>Julian Wykowski</dc:creator><dc:creator>Mart Oller</dc:creator><dc:creator>Anmol Sahu</dc:creator><dc:creator>Cesare Giulio Ardito</dc:creator><dc:creator>Yuzheng Hu</dc:creator><dc:creator>Ariel Ghislain Kemogne Kamdoum</dc:creator><dc:creator>Alvin Jin</dc:creator><dc:creator>Tobias Garcia Vilchis</dc:creator><dc:creator>Yuexuan Zu</dc:creator><dc:creator>Martin Lackner</dc:creator><dc:creator>James Koppel</dc:creator><dc:creator>Gongbo Sun</dc:creator><dc:creator>Daniil S. Antonenko</dc:creator><dc:creator>Steffi Chern</dc:creator><dc:creator>Bingchen Zhao</dc:creator><dc:creator>Pierrot Arsene</dc:creator><dc:creator>Joseph M. Cavanagh</dc:creator><dc:creator>Daofeng Li</dc:creator><dc:creator>Jiawei Shen</dc:creator><dc:creator>Donato Crisostomi</dc:creator><dc:creator>Wenjin Zhang</dc:creator><dc:creator>Ali Dehghan</dc:creator><dc:creator>Sergey Ivanov</dc:creator><dc:creator>David Perrella</dc:creator><dc:creator>Nurdin Kaparov</dc:creator><dc:creator>Allen Zang</dc:creator><dc:creator>Ilia Sucholutsky</dc:creator><dc:creator>Arina Kharlamova</dc:creator><dc:creator>Daniil Orel</dc:creator><dc:creator>Vladislav Poritski</dc:creator><dc:creator>Shalev Ben-David</dc:creator><dc:creator>Zachary Berger</dc:creator><dc:creator>Parker Whitfill</dc:creator><dc:creator>Michael Foster</dc:creator><dc:creator>Daniel Munro</dc:creator><dc:creator>Linh Ho</dc:creator><dc:creator>Shankar Sivarajan</dc:creator><dc:creator>Dan Bar Hava</dc:creator><dc:creator>Aleksey Kuchkin</dc:creator><dc:creator>David Holmes</dc:creator><dc:creator>Alexandra Rodriguez-Romero</dc:creator><dc:creator>Frank Sommerhage</dc:creator><dc:creator>Anji Zhang</dc:creator><dc:creator>Richard Moat</dc:creator><dc:creator>Keith Schneider</dc:creator><dc:creator>Zakayo Kazibwe</dc:creator><dc:creator>Don Clarke</dc:creator><dc:creator>Dae Hyun Kim</dc:creator><dc:creator>Felipe Meneguitti Dias</dc:creator><dc:creator>Sara Fish</dc:creator><dc:creator>Veit Elser</dc:creator><dc:creator>Tobias Kreiman</dc:creator><dc:creator>Victor Efren Guadarrama Vilchis</dc:creator><dc:creator>Immo Klose</dc:creator><dc:creator>Ujjwala Anantheswaran</dc:creator><dc:creator>Adam Zweiger</dc:creator><dc:creator>Kaivalya Rawal</dc:creator><dc:creator>Jeffery Li</dc:creator><dc:creator>Jeremy Nguyen</dc:creator><dc:creator>Nicolas Daans</dc:creator><dc:creator>Haline Heidinger</dc:creator><dc:creator>Maksim Radionov</dc:creator><dc:creator>Václav Rozhoň</dc:creator><dc:creator>Vincent Ginis</dc:creator><dc:creator>Christian Stump</dc:creator><dc:creator>Niv Cohen</dc:creator><dc:creator>Rafał Poświata</dc:creator><dc:creator>Josef Tkadlec</dc:creator><dc:creator>Alan Goldfarb</dc:creator><dc:creator>Chenguang Wang</dc:creator><dc:creator>Piotr Padlewski</dc:creator><dc:creator>Stanislaw Barzowski</dc:creator><dc:creator>Kyle Montgomery</dc:creator><dc:creator>Ryan Stendall</dc:creator><dc:creator>Jamie Tucker-Foltz</dc:creator><dc:creator>Jack Stade</dc:creator><dc:creator>T. Ryan Rogers</dc:creator><dc:creator>Tom Goertzen</dc:creator><dc:creator>Declan Grabb</dc:creator><dc:creator>Abhishek Shukla</dc:creator><dc:creator>Alan Givré</dc:creator><dc:creator>John Arnold Ambay</dc:creator><dc:creator>Archan Sen</dc:creator><dc:creator>Muhammad Fayez Aziz</dc:creator><dc:creator>Mark H. Inlow</dc:creator><dc:creator>Hao He</dc:creator><dc:creator>Ling Zhang</dc:creator><dc:creator>Younesse Kaddar</dc:creator><dc:creator>Ivar Ängquist</dc:creator><dc:creator>Yanxu Chen</dc:creator><dc:creator>Harrison K. Wang</dc:creator><dc:creator>Kalyan Ramakrishnan</dc:creator><dc:creator>Elliott Thornley</dc:creator><dc:creator>Antonio Terpin</dc:creator><dc:creator>Hailey Schoelkopf</dc:creator><dc:creator>Eric Zheng</dc:creator><dc:creator>Avishy Carmi</dc:creator><dc:creator>Ethan D. L. Brown</dc:creator><dc:creator>Kelin Zhu</dc:creator><dc:creator>Max Bartolo</dc:creator><dc:creator>Richard Wheeler</dc:creator><dc:creator>Martin Stehberger</dc:creator><dc:creator>Peter Bradshaw</dc:creator><dc:creator>JP Heimonen</dc:creator><dc:creator>Kaustubh Sridhar</dc:creator><dc:creator>Ido Akov</dc:creator><dc:creator>Jennifer Sandlin</dc:creator><dc:creator>Yury Makarychev</dc:creator><dc:creator>Joanna Tam</dc:creator><dc:creator>Hieu Hoang</dc:creator><dc:creator>David M. Cunningham</dc:creator><dc:creator>Vladimir Goryachev</dc:creator><dc:creator>Demosthenes Patramanis</dc:creator><dc:creator>Michael Krause</dc:creator><dc:creator>Andrew Redenti</dc:creator><dc:creator>David Aldous</dc:creator><dc:creator>Jesyin Lai</dc:creator><dc:creator>Shannon Coleman</dc:creator><dc:creator>Jiangnan Xu</dc:creator><dc:creator>Sangwon Lee</dc:creator><dc:creator>Ilias Magoulas</dc:creator><dc:creator>Sandy Zhao</dc:creator><dc:creator>Ning Tang</dc:creator><dc:creator>Michael K. Cohen</dc:creator><dc:creator>Orr Paradise</dc:creator><dc:creator>Jan Hendrik Kirchner</dc:creator><dc:creator>Maksym Ovchynnikov</dc:creator><dc:creator>Jason O. Matos</dc:creator><dc:creator>Adithya Shenoy</dc:creator><dc:creator>Michael Wang</dc:creator><dc:creator>Yuzhou Nie</dc:creator><dc:creator>Anna Sztyber-Betley</dc:creator><dc:creator>Paolo Faraboschi</dc:creator><dc:creator>Robin Riblet</dc:creator><dc:creator>Jonathan Crozier</dc:creator><dc:creator>Shiv Halasyamani</dc:creator><dc:creator>Shreyas Verma</dc:creator><dc:creator>Prashant Joshi</dc:creator><dc:creator>Eli Meril</dc:creator><dc:creator>Ziqiao Ma</dc:creator><dc:creator>Jérémy Andréoletti</dc:creator><dc:creator>Raghav Singhal</dc:creator><dc:creator>Jacob Platnick</dc:creator><dc:creator>Volodymyr Nevirkovets</dc:creator><dc:creator>Luke Basler</dc:creator><dc:creator>Alexander Ivanov</dc:creator><dc:creator>Seri Khoury</dc:creator><dc:creator>Nils Gustafsson</dc:creator><dc:creator>Marco Piccardo</dc:creator><dc:creator>Hamid Mostaghimi</dc:creator><dc:creator>Qijia Chen</dc:creator><dc:creator>Virendra Singh</dc:creator><dc:creator>Tran Quoc Khánh</dc:creator><dc:creator>Paul Rosu</dc:creator><dc:creator>Hannah Szlyk</dc:creator><dc:creator>Zachary Brown</dc:creator><dc:creator>Himanshu Narayan</dc:creator><dc:creator>Aline Menezes</dc:creator><dc:creator>Jonathan Roberts</dc:creator><dc:creator>William Alley</dc:creator><dc:creator>Kunyang Sun</dc:creator><dc:creator>Arkil Patel</dc:creator><dc:creator>Max Lamparth</dc:creator><dc:creator>Anka Reuel</dc:creator><dc:creator>Linwei Xin</dc:creator><dc:creator>Hanmeng Xu</dc:creator><dc:creator>Jacob Loader</dc:creator><dc:creator>Freddie Martin</dc:creator><dc:creator>Zixuan Wang</dc:creator><dc:creator>Andrea Achilleos</dc:creator><dc:creator>Thomas Preu</dc:creator><dc:creator>Tomek Korbak</dc:creator><dc:creator>Ida Bosio</dc:creator><dc:creator>Fereshteh Kazemi</dc:creator><dc:creator>Ziye Chen</dc:creator><dc:creator>Biró Bálint</dc:creator><dc:creator>Eve J. Y. Lo</dc:creator><dc:creator>Jiaqi Wang</dc:creator><dc:creator>Maria Inês S. Nunes</dc:creator><dc:creator>Jeremiah Milbauer</dc:creator><dc:creator>M. Saiful Bari</dc:creator><dc:creator>Zihao Wang</dc:creator><dc:creator>Behzad Ansarinejad</dc:creator><dc:creator>Yewen Sun</dc:creator><dc:creator>Stephane Durand</dc:creator><dc:creator>Hossam Elgnainy</dc:creator><dc:creator>Guillaume Douville</dc:creator><dc:creator>Daniel Tordera</dc:creator><dc:creator>George Balabanian</dc:creator><dc:creator>Hew Wolff</dc:creator><dc:creator>Lynna Kvistad</dc:creator><dc:creator>Hsiaoyun Milliron</dc:creator><dc:creator>Ahmad Sakor</dc:creator><dc:creator>Murat Eron</dc:creator><dc:creator>D. O. Andrew Favre</dc:creator><dc:creator>Shailesh Shah</dc:creator><dc:creator>Xiaoxiang Zhou</dc:creator><dc:creator>Firuz Kamalov</dc:creator><dc:creator>Sherwin Abdoli</dc:creator><dc:creator>Tim Santens</dc:creator><dc:creator>Shaul Barkan</dc:creator><dc:creator>Allison Tee</dc:creator><dc:creator>Robin Zhang</dc:creator><dc:creator>Alessandro Tomasiello</dc:creator><dc:creator>G. Bruno De Luca</dc:creator><dc:creator>Shi-Zhuo Looi</dc:creator><dc:creator>Vinh-Kha Le</dc:creator><dc:creator>Noam Kolt</dc:creator><dc:creator>Jiayi Pan</dc:creator><dc:creator>Emma Rodman</dc:creator><dc:creator>Jacob Drori</dc:creator><dc:creator>Carl J. Fossum</dc:creator><dc:creator>Niklas Muennighoff</dc:creator><dc:creator>Milind Jagota</dc:creator><dc:creator>Ronak Pradeep</dc:creator><dc:creator>Honglu Fan</dc:creator><dc:creator>Jonathan Eicher</dc:creator><dc:creator>Michael Chen</dc:creator><dc:creator>Kushal Thaman</dc:creator><dc:creator>William Merrill</dc:creator><dc:creator>Moritz Firsching</dc:creator><dc:creator>Carter Harris</dc:creator><dc:creator>Stefan Ciobâcă</dc:creator><dc:creator>Jason Gross</dc:creator><dc:creator>Rohan Pandey</dc:creator><dc:creator>Ilya Gusev</dc:creator><dc:creator>Adam Jones</dc:creator><dc:creator>Shashank Agnihotri</dc:creator><dc:creator>Pavel Zhelnov</dc:creator><dc:creator>Mohammadreza Mofayezi</dc:creator><dc:creator>Alexander Piperski</dc:creator><dc:creator>David K. Zhang</dc:creator><dc:creator>Kostiantyn Dobarskyi</dc:creator><dc:creator>Roman Leventov</dc:creator><dc:creator>Ignat Soroko</dc:creator><dc:creator>Joshua Duersch</dc:creator><dc:creator>Vage Taamazyan</dc:creator><dc:creator>Andrew Ho</dc:creator><dc:creator>Wenjie Ma</dc:creator><dc:creator>William Held</dc:creator><dc:creator>Ruicheng Xian</dc:creator><dc:creator>Armel Randy Zebaze</dc:creator><dc:creator>Mohanad Mohamed</dc:creator><dc:creator>Julian Noah Leser</dc:creator><dc:creator>Michelle X. Yuan</dc:creator><dc:creator>Laila Yacar</dc:creator><dc:creator>Johannes Lengler</dc:creator><dc:creator>Katarzyna Olszewska</dc:creator><dc:creator>Claudio Di Fratta</dc:creator><dc:creator>Edson Oliveira</dc:creator><dc:creator>Joseph W. Jackson</dc:creator><dc:creator>Andy Zou</dc:creator><dc:creator>Muthu Chidambaram</dc:creator><dc:creator>Timothy Manik</dc:creator><dc:creator>Hector Haffenden</dc:creator><dc:creator>Dashiell Stander</dc:creator><dc:creator>Ali Dasouqi</dc:creator><dc:creator>Alexander Shen</dc:creator><dc:creator>Bita Golshani</dc:creator><dc:creator>David Stap</dc:creator><dc:creator>Egor Kretov</dc:creator><dc:creator>Mikalai Uzhou</dc:creator><dc:creator>Alina Borisovna Zhidkovskaya</dc:creator><dc:creator>Nick Winter</dc:creator><dc:creator>Miguel Orbegozo Rodriguez</dc:creator><dc:creator>Robert Lauff</dc:creator><dc:creator>Dustin Wehr</dc:creator><dc:creator>Colin Tang</dc:creator><dc:creator>Zaki Hossain</dc:creator><dc:creator>Shaun Phillips</dc:creator><dc:creator>Fortuna Samuele</dc:creator><dc:creator>Fredrik Ekström</dc:creator><dc:creator>Angela Hammon</dc:creator><dc:creator>Oam Patel</dc:creator><dc:creator>Faraz Farhidi</dc:creator><dc:creator>George Medley</dc:creator><dc:creator>Forough Mohammadzadeh</dc:creator><dc:creator>Madellene Peñaflor</dc:creator><dc:creator>Haile Kassahun</dc:creator><dc:creator>Alena Friedrich</dc:creator><dc:creator>Rayner Hernandez Perez</dc:creator><dc:creator>Daniel Pyda</dc:creator><dc:creator>Taom Sakal</dc:creator><dc:creator>Omkar Dhamane</dc:creator><dc:creator>Ali Khajegili Mirabadi</dc:creator><dc:creator>Eric Hallman</dc:creator><dc:creator>Kenchi Okutsu</dc:creator><dc:creator>Mike Battaglia</dc:creator><dc:creator>Mohammad Maghsoudimehrabani</dc:creator><dc:creator>Alon Amit</dc:creator><dc:creator>Dave Hulbert</dc:creator><dc:creator>Roberto Pereira</dc:creator><dc:creator>Simon Weber</dc:creator><dc:creator>Handoko</dc:creator><dc:creator>Anton Peristyy</dc:creator><dc:creator>Stephen Malina</dc:creator><dc:creator>Mustafa Mehkary</dc:creator><dc:creator>Rami Aly</dc:creator><dc:creator>Frank Reidegeld</dc:creator><dc:creator>Anna-Katharina Dick</dc:creator><dc:creator>Cary Friday</dc:creator><dc:creator>Mukhwinder Singh</dc:creator><dc:creator>Hassan Shapourian</dc:creator><dc:creator>Wanyoung Kim</dc:creator><dc:creator>Mariana Costa</dc:creator><dc:creator>Hubeyb Gurdogan</dc:creator><dc:creator>Harsh Kumar</dc:creator><dc:creator>Chiara Ceconello</dc:creator><dc:creator>Chao Zhuang</dc:creator><dc:creator>Haon Park</dc:creator><dc:creator>Micah Carroll</dc:creator><dc:creator>Andrew R. Tawfeek</dc:creator><dc:creator>Stefan Steinerberger</dc:creator><dc:creator>Daattavya Aggarwal</dc:creator><dc:creator>Michael Kirchhof</dc:creator><dc:creator>Linjie Dai</dc:creator><dc:creator>Evan Kim</dc:creator><dc:creator>Johan Ferret</dc:creator><dc:creator>Jainam Shah</dc:creator><dc:creator>Yuzhou Wang</dc:creator><dc:creator>Minghao Yan</dc:creator><dc:creator>Krzysztof Burdzy</dc:creator><dc:creator>Lixin Zhang</dc:creator><dc:creator>Antonio Franca</dc:creator><dc:creator>Diana T. Pham</dc:creator><dc:creator>Kang Yong Loh</dc:creator><dc:creator>Joshua Robinson</dc:creator><dc:creator>Abram Jackson</dc:creator><dc:creator>Paolo Giordano</dc:creator><dc:creator>Philipp Petersen</dc:creator><dc:creator>Adrian Cosma</dc:creator><dc:creator>Jesus Colino</dc:creator><dc:creator>Colin White</dc:creator><dc:creator>Jacob Votava</dc:creator><dc:creator>Vladimir Vinnikov</dc:creator><dc:creator>Ethan Delaney</dc:creator><dc:creator>Petr Spelda</dc:creator><dc:creator>Vit Stritecky</dc:creator><dc:creator>Syed M. Shahid</dc:creator><dc:creator>Jean-Christophe Mourrat</dc:creator><dc:creator>Lavr Vetoshkin</dc:creator><dc:creator>Koen Sponselee</dc:creator><dc:creator>Renas Bacho</dc:creator><dc:creator>Zheng-Xin Yong</dc:creator><dc:creator>Florencia de la Rosa</dc:creator><dc:creator>Nathan Cho</dc:creator><dc:creator>Xiuyu Li</dc:creator><dc:creator>Guillaume Malod</dc:creator><dc:creator>Orion Weller</dc:creator><dc:creator>Guglielmo Albani</dc:creator><dc:creator>Leon Lang</dc:creator><dc:creator>Julien Laurendeau</dc:creator><dc:creator>Dmitry Kazakov</dc:creator><dc:creator>Fatimah Adesanya</dc:creator><dc:creator>Julien Portier</dc:creator><dc:creator>Lawrence Hollom</dc:creator><dc:creator>Victor Souza</dc:creator><dc:creator>Yuchen Anna Zhou</dc:creator><dc:creator>Julien Degorre</dc:creator><dc:creator>Yiğit Yaln</dc:creator><dc:creator>Gbenga Daniel Obikoya</dc:creator><dc:creator>Rai Michael Pokorny</dc:creator><dc:creator>Filippo Bigi</dc:creator><dc:creator>M. C. Boscá</dc:creator><dc:creator>Oleg Shumar</dc:creator><dc:creator>Kaniuar Bacho</dc:creator><dc:creator>Gabriel Recchia</dc:creator><dc:creator>Mara Popescu</dc:creator><dc:creator>Nikita Shulga</dc:creator><dc:creator>Ngefor Mildred Tanwie</dc:creator><dc:creator>Thomas C. H. Lux</dc:creator><dc:creator>Ben Rank</dc:creator><dc:creator>Colin Ni</dc:creator><dc:creator>Matthew Brooks</dc:creator><dc:creator>Alesia Yakimchyk</dc:creator><dc:creator>Huanxu Quinn Liu</dc:creator><dc:creator>Stefano Cavalleri</dc:creator><dc:creator>Olle Häggström</dc:creator><dc:creator>Emil Verkama</dc:creator><dc:creator>Joshua Newbould</dc:creator><dc:creator>Hans Gundlach</dc:creator><dc:creator>Leonor Brito-Santana</dc:creator><dc:creator>Brian Amaro</dc:creator><dc:creator>Vivek Vajipey</dc:creator><dc:creator>Rynaa Grover</dc:creator><dc:creator>Ting Wang</dc:creator><dc:creator>Yosi Kratish</dc:creator><dc:creator>Wen-Ding Li</dc:creator><dc:creator>Sivakanth Gopi</dc:creator><dc:creator>Andrea Caciolai</dc:creator><dc:creator>Christian Schroeder de Witt</dc:creator><dc:creator>Pablo Hernández-Cámara</dc:creator><dc:creator>Emanuele Rodolà</dc:creator><dc:creator>Jules Robins</dc:creator><dc:creator>Dominic Williamson</dc:creator><dc:creator>Brad Raynor</dc:creator><dc:creator>Hao Qi</dc:creator><dc:creator>Ben Segev</dc:creator><dc:creator>Jingxuan Fan</dc:creator><dc:creator>Sarah Martinson</dc:creator><dc:creator>Erik Y. Wang</dc:creator><dc:creator>Kaylie Hausknecht</dc:creator><dc:creator>Michael P. Brenner</dc:creator><dc:creator>Mao Mao</dc:creator><dc:creator>Christoph Demian</dc:creator><dc:creator>Peyman Kassani</dc:creator><dc:creator>Xinyu Zhang</dc:creator><dc:creator>David Avagian</dc:creator><dc:creator>Eshawn Jessica Scipio</dc:creator><dc:creator>Alon Ragoler</dc:creator><dc:creator>Justin Tan</dc:creator><dc:creator>Blake Sims</dc:creator><dc:creator>Rebeka Plecnik</dc:creator><dc:creator>Aaron Kirtland</dc:creator><dc:creator>Omer Faruk Bodur</dc:creator><dc:creator>D. P. Shinde</dc:creator><dc:creator>Yan Carlos Leyva Labrador</dc:creator><dc:creator>Zahra Adoul</dc:creator><dc:creator>Mohamed Zekry</dc:creator><dc:creator>Ali Karakoc</dc:creator><dc:creator>Tania C. B. Santos</dc:creator><dc:creator>Samir Shamseldeen</dc:creator><dc:creator>Loukmane Karim</dc:creator><dc:creator>Anna Liakhovitskaia</dc:creator><dc:creator>Nate Resman</dc:creator><dc:creator>Nicholas Farina</dc:creator><dc:creator>Juan Carlos Gonzalez</dc:creator><dc:creator>Gabe Maayan</dc:creator><dc:creator>Earth Anderson</dc:creator><dc:creator>Rodrigo De Oliveira Pena</dc:creator><dc:creator>Elizabeth Kelley</dc:creator><dc:creator>Hodjat Mariji</dc:creator><dc:creator>Rasoul Pouriamanesh</dc:creator><dc:creator>Wentao Wu</dc:creator><dc:creator>Ross Finocchio</dc:creator><dc:creator>Ismail Alarab</dc:creator><dc:creator>Joshua Cole</dc:creator><dc:creator>Danyelle Ferreira</dc:creator><dc:creator>Bryan Johnson</dc:creator><dc:creator>Mohammad Safdari</dc:creator><dc:creator>Liangti Dai</dc:creator><dc:creator>Siriphan Arthornthurasuk</dc:creator><dc:creator>Isaac C. McAlister</dc:creator><dc:creator>Alejandro José Moyano</dc:creator><dc:creator>Alexey Pronin</dc:creator><dc:creator>Jing Fan</dc:creator><dc:creator>Angel Ramirez-Trinidad</dc:creator><dc:creator>Yana Malysheva</dc:creator><dc:creator>Daphiny Pottmaier</dc:creator><dc:creator>Omid Taheri</dc:creator><dc:creator>Stanley Stepanic</dc:creator><dc:creator>Samuel Perry</dc:creator><dc:creator>Luke Askew</dc:creator><dc:creator>Raúl Adrián Huerta Rodrguez</dc:creator><dc:creator>Ali M. R. Minissi</dc:creator><dc:creator>Ricardo Lorena</dc:creator><dc:creator>Krishnamurthy Iyer</dc:creator><dc:creator>Arshad Anil Fasiludeen</dc:creator><dc:creator>Ronald Clark</dc:creator><dc:creator>Josh Ducey</dc:creator><dc:creator>Matheus Piza</dc:creator><dc:creator>Maja Somrak</dc:creator><dc:creator>Eric Vergo</dc:creator><dc:creator>Juehang Qin</dc:creator><dc:creator>Benjámin Borbás</dc:creator><dc:creator>Eric Chu</dc:creator><dc:creator>Jack Lindsey</dc:creator><dc:creator>Antoine Jallon</dc:creator><dc:creator>I. M. J. McInnis</dc:creator><dc:creator>Evan Chen</dc:creator><dc:creator>Avi Semler</dc:creator><dc:creator>Luk Gloor</dc:creator><dc:creator>Tej Shah</dc:creator><dc:creator>Marc Carauleanu</dc:creator><dc:creator>Pascal Lauer</dc:creator><dc:creator>Tran Duc Huy</dc:creator><dc:creator>Hossein Shahrtash</dc:creator><dc:creator>Emilien Duc</dc:creator><dc:creator>Lukas Lewark</dc:creator><dc:creator>Assaf Brown</dc:creator><dc:creator>Samuel Albanie</dc:creator><dc:creator>Brian Weber</dc:creator><dc:creator>Warren S. Vaz</dc:creator><dc:creator>Pierre Clavier</dc:creator><dc:creator>Yiyang Fan</dc:creator><dc:creator>Gabriel Poesia Reis e Silva</dc:creator><dc:creator>Long Tony Lian</dc:creator><dc:creator>Marcus Abramovitch</dc:creator><dc:creator>Xi Jiang</dc:creator><dc:creator>Sandra Mendoza</dc:creator><dc:creator>Murat Islam</dc:creator><dc:creator>Juan Gonzalez</dc:creator><dc:creator>Vasilios Mavroudis</dc:creator><dc:creator>Justin Xu</dc:creator><dc:creator>Pawan Kumar</dc:creator><dc:creator>Laxman Prasad Goswami</dc:creator><dc:creator>Daniel Bugas</dc:creator><dc:creator>Nasser Heydari</dc:creator><dc:creator>Ferenc Jeanplong</dc:creator><dc:creator>Thorben Jansen</dc:creator><dc:creator>Antonella Pinto</dc:creator><dc:creator>Archimedes Apronti</dc:creator><dc:creator>Abdallah Galal</dc:creator><dc:creator>Ng Ze-An</dc:creator><dc:creator>Ankit Singh</dc:creator><dc:creator>Tong Jiang</dc:creator><dc:creator>Joan of Arc Xavier</dc:creator><dc:creator>Kanu Priya Agarwal</dc:creator><dc:creator>Mohammed Berkani</dc:creator><dc:creator>Gang Zhang</dc:creator><dc:creator>Zhehang Du</dc:creator><dc:creator>Benedito Alves de Oliveira Junior</dc:creator><dc:creator>Dmitry Malishev</dc:creator><dc:creator>Nicolas Remy</dc:creator><dc:creator>Taylor D. Hartman</dc:creator><dc:creator>Tim Tarver</dc:creator><dc:creator>Stephen Mensah</dc:creator><dc:creator>Gautier Abou Loume</dc:creator><dc:creator>Wiktor Morak</dc:creator><dc:creator>Farzad Habibi</dc:creator><dc:creator>Sarah Hoback</dc:creator><dc:creator>Will Cai</dc:creator><dc:creator>Javier Gimenez</dc:creator><dc:creator>Roselynn Grace Montecillo</dc:creator><dc:creator>Jakub Łucki</dc:creator><dc:creator>Russell Campbell</dc:creator><dc:creator>Asankhaya Sharma</dc:creator><dc:creator>Khalida Meer</dc:creator><dc:creator>Shreen Gul</dc:creator><dc:creator>Daniel Espinosa Gonzalez</dc:creator><dc:creator>Xavier Alapont</dc:creator><dc:creator>Alex Hoover</dc:creator><dc:creator>Gunjan Chhablani</dc:creator><dc:creator>Freddie Vargus</dc:creator><dc:creator>Arunim Agarwal</dc:creator><dc:creator>Yibo Jiang</dc:creator><dc:creator>Deepakkumar Patil</dc:creator><dc:creator>David Outevsky</dc:creator><dc:creator>Kevin Joseph Scaria</dc:creator><dc:creator>Rajat Maheshwari</dc:creator><dc:creator>Abdelkader Dendane</dc:creator><dc:creator>Priti Shukla</dc:creator><dc:creator>Ashley Cartwright</dc:creator><dc:creator>Sergei Bogdanov</dc:creator><dc:creator>Niels Mündler</dc:creator><dc:creator>Sören Möller</dc:creator><dc:creator>Luca Arnaboldi</dc:creator><dc:creator>Kunvar Thaman</dc:creator><dc:creator>Muhammad Rehan Siddiqi</dc:creator><dc:creator>Prajvi Saxena</dc:creator><dc:creator>Himanshu Gupta</dc:creator><dc:creator>Tony Fruhauff</dc:creator><dc:creator>Glen Sherman</dc:creator><dc:creator>Mátyás Vincze</dc:creator><dc:creator>Siranut Usawasutsakorn</dc:creator><dc:creator>Dylan Ler</dc:creator><dc:creator>Anil Radhakrishnan</dc:creator><dc:creator>Innocent Enyekwe</dc:creator><dc:creator>Sk Md Salauddin</dc:creator><dc:creator>Jiang Muzhen</dc:creator><dc:creator>Aleksandr Maksapetyan</dc:creator><dc:creator>Vivien Rossbach</dc:creator><dc:creator>Chris Harjadi</dc:creator><dc:creator>Mohsen Bahaloohoreh</dc:creator><dc:creator>Claire Sparrow</dc:creator><dc:creator>Jasdeep Sidhu</dc:creator><dc:creator>Sam Ali</dc:creator><dc:creator>Song Bian</dc:creator><dc:creator>John Lai</dc:creator><dc:creator>Eric Singer</dc:creator><dc:creator>Justine Leon Uro</dc:creator><dc:creator>Greg Bateman</dc:creator><dc:creator>Mohamed Sayed</dc:creator><dc:creator>Ahmed Menshawy</dc:creator><dc:creator>Darling Duclosel</dc:creator><dc:creator>Dario Bezzi</dc:creator><dc:creator>Yashaswini Jain</dc:creator><dc:creator>Ashley Aaron</dc:creator><dc:creator>Murat Tiryakioglu</dc:creator><dc:creator>Sheeshram Siddh</dc:creator><dc:creator>Keith Krenek</dc:creator><dc:creator>Imad Ali Shah</dc:creator><dc:creator>Jun Jin</dc:creator><dc:creator>Scott Creighton</dc:creator><dc:creator>Denis Peskoff</dc:creator><dc:creator>Zienab EL-Wasif</dc:creator><dc:creator>Ragavendran P V</dc:creator><dc:creator>Michael Richmond</dc:creator><dc:creator>Joseph McGowan</dc:creator><dc:creator>Tejal Patwardhan</dc:creator><dc:creator>Hao-Yu Sun</dc:creator><dc:creator>Ting Sun</dc:creator><dc:creator>Nikola Zubić</dc:creator><dc:creator>Samuele Sala</dc:creator><dc:creator>Stephen Ebert</dc:creator><dc:creator>Jean Kaddour</dc:creator><dc:creator>Manuel Schottdorf</dc:creator><dc:creator>Dianzhuo Wang</dc:creator><dc:creator>Gerol Petruzella</dc:creator><dc:creator>Alex Meiburg</dc:creator><dc:creator>Tilen Medved</dc:creator><dc:creator>Ali ElSheikh</dc:creator><dc:creator>S. Ashwin Hebbar</dc:creator><dc:creator>Lorenzo Vaquero</dc:creator><dc:creator>Xianjun Yang</dc:creator><dc:creator>Jason Poulos</dc:creator><dc:creator>Vilém Zouhar</dc:creator><dc:creator>Sergey Bogdanik</dc:creator><dc:creator>Mingfang Zhang</dc:creator><dc:creator>Jorge Sanz-Ros</dc:creator><dc:creator>David Anugraha</dc:creator><dc:creator>Yinwei Dai</dc:creator><dc:creator>Anh N. Nhu</dc:creator><dc:creator>Xue Wang</dc:creator><dc:creator>Ali Anil Demircali</dc:creator><dc:creator>Zhibai Jia</dc:creator><dc:creator>Yuyin Zhou</dc:creator><dc:creator>Juncheng Wu</dc:creator><dc:creator>Mike He</dc:creator><dc:creator>Nitin Chandok</dc:creator><dc:creator>Aarush Sinha</dc:creator><dc:creator>Gaoxiang Luo</dc:creator><dc:creator>Long Le</dc:creator><dc:creator>Mickaël Noyé</dc:creator><dc:creator>Michał Perełkiewicz</dc:creator><dc:creator>Ioannis Pantidis</dc:creator><dc:creator>Tianbo Qi</dc:creator><dc:creator>Soham Sachin Purohit</dc:creator><dc:creator>Letitia Parcalabescu</dc:creator><dc:creator>Thai-Hoa Nguyen</dc:creator><dc:creator>Genta Indra Winata</dc:creator><dc:creator>Edoardo M. Ponti</dc:creator><dc:creator>Hanchen Li</dc:creator><dc:creator>Kaustubh Dhole</dc:creator><dc:creator>Jongee Park</dc:creator><dc:creator>Dario Abbondanza</dc:creator><dc:creator>Yuanli Wang</dc:creator><dc:creator>Anupam Nayak</dc:creator><dc:creator>Diogo M. Caetano</dc:creator><dc:creator>Antonio A. W. L. Wong</dc:creator><dc:creator>Maria del Rio-Chanona</dc:creator><dc:creator>Dániel Kondor</dc:creator><dc:creator>Pieter Francois</dc:creator><dc:creator>Ed Chalstrey</dc:creator><dc:creator>Jakob Zsambok</dc:creator><dc:creator>Dan Hoyer</dc:creator><dc:creator>Jenny Reddish</dc:creator><dc:creator>Jakob Hauser</dc:creator><dc:creator>Francisco-Javier Rodrigo-Ginés</dc:creator><dc:creator>Suchandra Datta</dc:creator><dc:creator>Maxwell Shepherd</dc:creator><dc:creator>Thom Kamphuis</dc:creator><dc:creator>Qizheng Zhang</dc:creator><dc:creator>Hyunjun Kim</dc:creator><dc:creator>Ruiji Sun</dc:creator><dc:creator>Jianzhu Yao</dc:creator><dc:creator>Franck Dernoncourt</dc:creator><dc:creator>Satyapriya Krishna</dc:creator><dc:creator>Sina Rismanchian</dc:creator><dc:creator>Bonan Pu</dc:creator><dc:creator>Francesco Pinto</dc:creator><dc:creator>Yingheng Wang</dc:creator><dc:creator>Kumar Shridhar</dc:creator><dc:creator>Kalon J. Overholt</dc:creator><dc:creator>Glib Briia</dc:creator><dc:creator>Hieu Nguyen</dc:creator><dc:creator>David Quod Soler Bartomeu</dc:creator><dc:creator>Tony CY Pang</dc:creator><dc:creator>Adam Wecker</dc:creator><dc:creator>Yifan Xiong</dc:creator><dc:creator>Fanfei Li</dc:creator><dc:creator>Lukas S. Huber</dc:creator><dc:creator>Joshua Jaeger</dc:creator><dc:creator>Romano De Maddalena</dc:creator><dc:creator>Xing Han Lù</dc:creator><dc:creator>Yuhui Zhang</dc:creator><dc:creator>Claas Beger</dc:creator><dc:creator>Patrick Tser Jern Kon</dc:creator><dc:creator>Sean Li</dc:creator><dc:creator>Vivek Sanker</dc:creator><dc:creator>Ming Yin</dc:creator><dc:creator>Yihao Liang</dc:creator><dc:creator>Xinlu Zhang</dc:creator><dc:creator>Ankit Agrawal</dc:creator><dc:creator>Li S. Yifei</dc:creator><dc:creator>Zechen Zhang</dc:creator><dc:creator>Mu Cai</dc:creator><dc:creator>Yasin Sonmez</dc:creator><dc:creator>Costin Cozianu</dc:creator><dc:creator>Changhao Li</dc:creator><dc:creator>Alex Slen</dc:creator><dc:creator>Shoubin Yu</dc:creator><dc:creator>Hyun Kyu Park</dc:creator><dc:creator>Gabriele Sarti</dc:creator><dc:creator>Marcin Briański</dc:creator><dc:creator>Alessandro Stolfo</dc:creator><dc:creator>Truong An Nguyen</dc:creator><dc:creator>Mike Zhang</dc:creator><dc:creator>Yotam Perlitz</dc:creator><dc:creator>Jose Hernandez-Orallo</dc:creator><dc:creator>Runjia Li</dc:creator><dc:creator>Amin Shabani</dc:creator><dc:creator>Felix Juefei-Xu</dc:creator><dc:creator>Shikhar Dhingra</dc:creator><dc:creator>Orr Zohar</dc:creator><dc:creator>My Chiffon Nguyen</dc:creator><dc:creator>Alexander Pondaven</dc:creator><dc:creator>Abdurrahim Yilmaz</dc:creator><dc:creator>Xuandong Zhao</dc:creator><dc:creator>Chuanyang Jin</dc:creator><dc:creator>Muyan Jiang</dc:creator><dc:creator>Stefan Todoran</dc:creator><dc:creator>Xinyao Han</dc:creator><dc:creator>Jules Kreuer</dc:creator><dc:creator>Brian Rabern</dc:creator><dc:creator>Anna Plassart</dc:creator><dc:creator>Martino Maggetti</dc:creator><dc:creator>Luther Yap</dc:creator><dc:creator>Robert Geirhos</dc:creator><dc:creator>Jonathon Kean</dc:creator><dc:creator>Dingsu Wang</dc:creator><dc:creator>Sina Mollaei</dc:creator><dc:creator>Chenkai Sun</dc:creator><dc:creator>Yifan Yin</dc:creator><dc:creator>Shiqi Wang</dc:creator><dc:creator>Rui Li</dc:creator><dc:creator>Yaowen Chang</dc:creator><dc:creator>Anjiang Wei</dc:creator><dc:creator>Alice Bizeul</dc:creator><dc:creator>Xiaohan Wang</dc:creator><dc:creator>Alexandre Oliveira Arrais</dc:creator><dc:creator>Kushin Mukherjee</dc:creator><dc:creator>Jorge Chamorro-Padial</dc:creator><dc:creator>Jiachen Liu</dc:creator><dc:creator>Xingyu Qu</dc:creator><dc:creator>Junyi Guan</dc:creator><dc:creator>Adam Bouyamourn</dc:creator><dc:creator>Shuyu Wu</dc:creator><dc:creator>Martyna Plomecka</dc:creator><dc:creator>Junda Chen</dc:creator><dc:creator>Mengze Tang</dc:creator><dc:creator>Jiaqi Deng</dc:creator><dc:creator>Shreyas Subramanian</dc:creator><dc:creator>Haocheng Xi</dc:creator><dc:creator>Haoxuan Chen</dc:creator><dc:creator>Weizhi Zhang</dc:creator><dc:creator>Yinuo Ren</dc:creator><dc:creator>Haoqin Tu</dc:creator><dc:creator>Sejong Kim</dc:creator><dc:creator>Yushun Chen</dc:creator><dc:creator>Sara Vera Marjanović</dc:creator><dc:creator>Junwoo Ha</dc:creator><dc:creator>Grzegorz Luczyna</dc:creator><dc:creator>Jeff J. Ma</dc:creator><dc:creator>Zewen Shen</dc:creator><dc:creator>Dawn Song</dc:creator><dc:creator>Cedegao E. Zhang</dc:creator><dc:creator>Zhun Wang</dc:creator><dc:creator>Gaël Gendron</dc:creator><dc:creator>Yunze Xiao</dc:creator><dc:creator>Leo Smucker</dc:creator><dc:creator>Erica Weng</dc:creator><dc:creator>Kwok Hao Lee</dc:creator><dc:creator>Zhe Ye</dc:creator><dc:creator>Stefano Ermon</dc:creator><dc:creator>Ignacio D. Lopez-Miguel</dc:creator><dc:creator>Theo Knights</dc:creator><dc:creator>Anthony Gitter</dc:creator><dc:creator>Namkyu Park</dc:creator><dc:creator>Boyi Wei</dc:creator><dc:creator>Hongzheng Chen</dc:creator><dc:creator>Kunal Pai</dc:creator><dc:creator>Ahmed Elkhanany</dc:creator><dc:creator>Han Lin</dc:creator><dc:creator>Philipp D. Siedler</dc:creator><dc:creator>Jichao Fang</dc:creator><dc:creator>Ritwik Mishra</dc:creator><dc:creator>Károly Zsolnai-Fehér</dc:creator><dc:creator>Xilin Jiang</dc:creator><dc:creator>Shadab Khan</dc:creator><dc:creator>Jun Yuan</dc:creator><dc:creator>Rishab Kumar Jain</dc:creator><dc:creator>Xi Lin</dc:creator><dc:creator>Mike Peterson</dc:creator><dc:creator>Zhe Wang</dc:creator><dc:creator>Aditya Malusare</dc:creator><dc:creator>Maosen Tang</dc:creator><dc:creator>Isha Gupta</dc:creator><dc:creator>Ivan Fosin</dc:creator><dc:creator>Timothy Kang</dc:creator><dc:creator>Barbara Dworakowska</dc:creator><dc:creator>Kazuki Matsumoto</dc:creator><dc:creator>Guangyao Zheng</dc:creator><dc:creator>Gerben Sewuster</dc:creator><dc:creator>Jorge Pretel Villanueva</dc:creator><dc:creator>Ivan Rannev</dc:creator><dc:creator>Igor Chernyavsky</dc:creator><dc:creator>Jiale Chen</dc:creator><dc:creator>Deepayan Banik</dc:creator><dc:creator>Ben Racz</dc:creator><dc:creator>Wenchao Dong</dc:creator><dc:creator>Jianxin Wang</dc:creator><dc:creator>Laila Bashmal</dc:creator><dc:creator>Duarte V. Gonçalves</dc:creator><dc:creator>Wei Hu</dc:creator><dc:creator>Kaushik Bar</dc:creator><dc:creator>Ondrej Bohdal</dc:creator><dc:creator>Atharv Singh Patlan</dc:creator><dc:creator>Shehzaad Dhuliawala</dc:creator><dc:creator>Caroline Geirhos</dc:creator><dc:creator>Julien Wist</dc:creator><dc:creator>Yuval Kansal</dc:creator><dc:creator>Bingsen Chen</dc:creator><dc:creator>Kutay Tire</dc:creator><dc:creator>Atak Talay Yücel</dc:creator><dc:creator>Brandon Christof</dc:creator><dc:creator>Veerupaksh Singla</dc:creator><dc:creator>Zijian Song</dc:creator><dc:creator>Sanxing Chen</dc:creator><dc:creator>Jiaxin Ge</dc:creator><dc:creator>Kaustubh Ponkshe</dc:creator><dc:creator>Isaac Park</dc:creator><dc:creator>Tianneng Shi</dc:creator><dc:creator>Martin Q. Ma</dc:creator><dc:creator>Joshua Mak</dc:creator><dc:creator>Sherwin Lai</dc:creator><dc:creator>Antoine Moulin</dc:creator><dc:creator>Zhuo Cheng</dc:creator><dc:creator>Zhanda Zhu</dc:creator><dc:creator>Ziyi Zhang</dc:creator><dc:creator>Vaidehi Patil</dc:creator><dc:creator>Ketan Jha</dc:creator><dc:creator>Qiutong Men</dc:creator><dc:creator>Jiaxuan Wu</dc:creator><dc:creator>Tianchi Zhang</dc:creator><dc:creator>Bruno Hebling Vieira</dc:creator><dc:creator>Alham Fikri Aji</dc:creator><dc:creator>Jae-Won Chung</dc:creator><dc:creator>Mohammed Mahfoud</dc:creator><dc:creator>Ha Thi Hoang</dc:creator><dc:creator>Marc Sperzel</dc:creator><dc:creator>Wei Hao</dc:creator><dc:creator>Kristof Meding</dc:creator><dc:creator>Sihan Xu</dc:creator><dc:creator>Vassilis Kostakos</dc:creator><dc:creator>Davide Manini</dc:creator><dc:creator>Yueying Liu</dc:creator><dc:creator>Christopher Toukmaji</dc:creator><dc:creator>Eunmi Yu</dc:creator><dc:creator>Arif Engin Demircali</dc:creator><dc:creator>Zhiyi Sun</dc:creator><dc:creator>Ivan Dewerpe</dc:creator><dc:creator>Hongsen Qin</dc:creator><dc:creator>Roman Pflugfelder</dc:creator><dc:creator>James Bailey</dc:creator><dc:creator>Johnathan Morris</dc:creator><dc:creator>Ville Heilala</dc:creator><dc:creator>Sybille Rosset</dc:creator><dc:creator>Zishun Yu</dc:creator><dc:creator>Peter E. Chen</dc:creator><dc:creator>Woongyeong Yeo</dc:creator><dc:creator>Eeshaan Jain</dc:creator><dc:creator>Sreekar Chigurupati</dc:creator><dc:creator>Julia Chernyavsky</dc:creator><dc:creator>Sai Prajwal Reddy</dc:creator><dc:creator>Subhashini Venugopalan</dc:creator><dc:creator>Hunar Batra</dc:creator><dc:creator>Core Francisco Park</dc:creator><dc:creator>Hieu Tran</dc:creator><dc:creator>Guilherme Maximiano</dc:creator><dc:creator>Genghan Zhang</dc:creator><dc:creator>Yizhuo Liang</dc:creator><dc:creator>Hu Shiyu</dc:creator><dc:creator>Rongwu Xu</dc:creator><dc:creator>Rui Pan</dc:creator><dc:creator>Siddharth Suresh</dc:creator><dc:creator>Ziqi Liu</dc:creator><dc:creator>Samaksh Gulati</dc:creator><dc:creator>Songyang Zhang</dc:creator><dc:creator>Peter Turchin</dc:creator><dc:creator>Christopher W. Bartlett</dc:creator><dc:creator>Christopher R. Scotese</dc:creator><dc:creator>Phuong M. Cao</dc:creator><dc:creator>Ben Wu</dc:creator><dc:creator>Jacek Karwowski</dc:creator><dc:creator>Davide Scaramuzza</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09962-4</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09962-4</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09962-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09962-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10052-8">
+            <title><![CDATA[GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10052-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10052-8">doi:10.1038/s41586-025-10052-8</a></p>Heparan sulfate proteoglycans facilitate the assembly of clusters of glycoRNAs and cell surface RNA-binding proteins, which negatively modulate VEGF-A signalling and angiogenesis.]]></content:encoded>
+            <dc:title><![CDATA[GlycoRNA complexed with heparan sulfate regulates VEGF-A signalling]]></dc:title>
+            <dc:creator>Peiyuan Chai</dc:creator><dc:creator>Sina Kheiri</dc:creator><dc:creator>Andrew Kuo</dc:creator><dc:creator>Jessica Shah</dc:creator><dc:creator>Lauren Kageler</dc:creator><dc:creator>Ruiqi Ge</dc:creator><dc:creator>Jonathan Perr</dc:creator><dc:creator>Jennifer Porat</dc:creator><dc:creator>Charlotta G. Lebedenko</dc:creator><dc:creator>Joao M. L. Dias</dc:creator><dc:creator>Eliza Yankova</dc:creator><dc:creator>Sandeep K. Rai</dc:creator><dc:creator>Christopher P. Watkins</dc:creator><dc:creator>Petar Hristov</dc:creator><dc:creator>Konstantinos Tzelepis</dc:creator><dc:creator>Timothy Hla</dc:creator><dc:creator>Ritu Raman</dc:creator><dc:creator>Eliezer Calo</dc:creator><dc:creator>Jeffrey D. Esko</dc:creator><dc:creator>Ryan A. Flynn</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10052-8</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10052-8</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10052-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10052-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10071-5">
+            <title><![CDATA[Pre-assembly of biomolecular condensate seeds drives RSV replication]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10071-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10071-5">doi:10.1038/s41586-025-10071-5</a></p>Viral ribonucleoprotein–viral protein networks form pre-replication centres that nucleate viral factories and drive respiratory syncytial virus replication.]]></content:encoded>
+            <dc:title><![CDATA[Pre-assembly of biomolecular condensate seeds drives RSV replication]]></dc:title>
+            <dc:creator>Dhanushika Ratnayake</dc:creator><dc:creator>Marie Galloux</dc:creator><dc:creator>Sanne Boersma</dc:creator><dc:creator>Marko Noerenberg</dc:creator><dc:creator>Christina Sizun</dc:creator><dc:creator>Carlos Sacristan</dc:creator><dc:creator>Julien Sourimant</dc:creator><dc:creator>Anke J. Lakerveld</dc:creator><dc:creator>Anne T. Gelderloos</dc:creator><dc:creator>Leonie Apperloo</dc:creator><dc:creator>Yana Demyanenko</dc:creator><dc:creator>Matthijs J. D. Baars</dc:creator><dc:creator>Rupa Banerjee</dc:creator><dc:creator>Birgit Dreier</dc:creator><dc:creator>Sven Furler</dc:creator><dc:creator>Natalie I. Mazur</dc:creator><dc:creator>Louis J. Bont</dc:creator><dc:creator>Shabaz Mohammed</dc:creator><dc:creator>Andreas Plückthun</dc:creator><dc:creator>Jean-François Éléouët</dc:creator><dc:creator>Geert J. P. L. Kops</dc:creator><dc:creator>Alfredo Castello</dc:creator><dc:creator>Puck B. van Kasteren</dc:creator><dc:creator>Marie-Anne Rameix-Welti</dc:creator><dc:creator>Marvin E. Tanenbaum</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10071-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10071-5</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10071-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10071-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10029-7">
+            <title><![CDATA[Structures of Ostα/β reveal a unique fold and bile acid transport mechanism]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10029-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10029-7">doi:10.1038/s41586-025-10029-7</a></p>Cryogenic electron microscopy structures of human Ostα/β uncover a unique transport pathway featuring two substrate-binding sites connected by an amphipathic helix-gated conduit, and electrophysiological studies demonstrate voltage-sensitive, bidirectional transport, showing its efflux role in vivo.]]></content:encoded>
+            <dc:title><![CDATA[Structures of Ostα/β reveal a unique fold and bile acid transport mechanism]]></dc:title>
+            <dc:creator>Xuemei Yang</dc:creator><dc:creator>Nana Cui</dc:creator><dc:creator>Tianyu Li</dc:creator><dc:creator>Xinheng He</dc:creator><dc:creator>Heng Zhang</dc:creator><dc:creator>Canrong Wu</dc:creator><dc:creator>Yang Li</dc:creator><dc:creator>Xiong Ma</dc:creator><dc:creator>H. Eric Xu</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10029-7</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10029-7</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10029-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10029-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09986-w">
+            <title><![CDATA[Observation of a superfluid-to-insulator transition of bilayer excitons]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09986-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09986-w">doi:10.1038/s41586-025-09986-w</a></p>Transition of superfluid to insulator is observed in the layer-imbalanced regime of bilayer magnetoexcitons.]]></content:encoded>
+            <dc:title><![CDATA[Observation of a superfluid-to-insulator transition of bilayer excitons]]></dc:title>
+            <dc:creator>Yihang Zeng</dc:creator><dc:creator>Dihao Sun</dc:creator><dc:creator>Naiyuan J. Zhang</dc:creator><dc:creator>Ron Q. Nguyen</dc:creator><dc:creator>Qianhui Shi</dc:creator><dc:creator>A. Okounkova</dc:creator><dc:creator>K. Watanabe</dc:creator><dc:creator>T. Taniguchi</dc:creator><dc:creator>J. Hone</dc:creator><dc:creator>C. R. Dean</dc:creator><dc:creator>J. I. A. Li</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09986-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09986-w</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09986-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09986-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10048-4">
+            <title><![CDATA[Optical switching of a moiré Chern ferromagnet]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10048-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10048-4">doi:10.1038/s41586-025-10048-4</a></p>Optical switching of a moiré Chern ferromagnet is demonstrated in twisted molybdenum ditelluride bilayers using continuous-wave circularly polarized light, paving the way for dissipationless spintronics and quantized Chern junction devices.]]></content:encoded>
+            <dc:title><![CDATA[Optical switching of a moiré Chern ferromagnet]]></dc:title>
+            <dc:creator>Xiangbin Cai</dc:creator><dc:creator>Haiyang Pan</dc:creator><dc:creator>Yuzhu Wang</dc:creator><dc:creator>Abdullah Rasmita</dc:creator><dc:creator>Shunshun Yang</dc:creator><dc:creator>Yan Zhao</dc:creator><dc:creator>Wei Wang</dc:creator><dc:creator>Ruihuan Duan</dc:creator><dc:creator>Ruihua He</dc:creator><dc:creator>Kenji Watanabe</dc:creator><dc:creator>Takashi Taniguchi</dc:creator><dc:creator>Zheng Liu</dc:creator><dc:creator>Jesús Zúñiga-Pérez</dc:creator><dc:creator>Bo Yang</dc:creator><dc:creator>Weibo Gao</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10048-4</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10048-4</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10048-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10048-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-10010-4">
+            <title><![CDATA[Vagal blood volume receptors compensate for haemorrhage and posture change]]></title>
+            <link>https://www.nature.com/articles/s41586-025-10010-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-10010-4">doi:10.1038/s41586-025-10010-4</a></p>A vagal reflex to blood volume changes in the heart involves PIEZO2 and helps to stabilize blood pressure in an upright posture and after blood loss.]]></content:encoded>
+            <dc:title><![CDATA[Vagal blood volume receptors compensate for haemorrhage and posture change]]></dc:title>
+            <dc:creator>Zhikai Liu</dc:creator><dc:creator>Shan Lu</dc:creator><dc:creator>Isabela A. Haskell</dc:creator><dc:creator>Michael S. Schappe</dc:creator><dc:creator>Maša Josipović</dc:creator><dc:creator>Soohong Min</dc:creator><dc:creator>AbdulRasheed A. Alabi</dc:creator><dc:creator>Jingyi Chi</dc:creator><dc:creator>Minseon Kim</dc:creator><dc:creator>Stephen D. Liberles</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-10010-4</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-10010-4</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-10010-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-10010-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/s41586-025-09934-8">
+            <title><![CDATA[Structure and mechanism of the human bile acid transporter OSTα–OSTβ]]></title>
+            <link>https://www.nature.com/articles/s41586-025-09934-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/s41586-025-09934-8">doi:10.1038/s41586-025-09934-8</a></p>Cryo-electron microscopy structures of the bile acid transporter OSTα–OSTβ, which has a key role in bile acid homeostasis, provide insight into its distinct architecture and mechanism of substrate translocation.]]></content:encoded>
+            <dc:title><![CDATA[Structure and mechanism of the human bile acid transporter OSTα–OSTβ]]></dc:title>
+            <dc:creator>Ke Wang</dc:creator><dc:creator>Junping Fan</dc:creator><dc:creator>Huiwen Chen</dc:creator><dc:creator>Bo Huang</dc:creator><dc:creator>Cheng Chi</dc:creator><dc:creator>Rui Yan</dc:creator><dc:creator>Di Wu</dc:creator><dc:creator>Feng Zhou</dc:creator><dc:creator>Wenhua Zhang</dc:creator><dc:creator>Juquan Jiang</dc:creator><dc:creator>Xiaoguang Lei</dc:creator><dc:creator>Daohua Jiang</dc:creator>
+            <dc:identifier>doi:10.1038/s41586-025-09934-8</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/s41586-025-09934-8</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/s41586-025-09934-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/s41586-025-09934-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00108-8">
+            <title><![CDATA[Act now to clean up air]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00108-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00108-8">doi:10.1038/d41586-026-00108-8</a></p>New regulations are needed to deal with increasing environmental threats to lung health.]]></content:encoded>
+            <dc:title><![CDATA[Act now to clean up air]]></dc:title>
+            <dc:creator>Lidia Morawska</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00108-8</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00108-8</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00108-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00108-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00030-z">
+            <title><![CDATA[Chill out: freezing temperatures produced by letting a stressed alloy relax]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00030-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00030-z">doi:10.1038/d41586-026-00030-z</a></p>A device has been built that relies on a solid-state phenomenon called the elastocaloric effect to produce cooling to temperatures below 0 °C, lower than existing room-temperature elastocaloric cooling systems are able to achieve. The innovation demonstrates that elastocaloric technology could offer an alternative to conventional freezing systems that use volatile greenhouse gases.]]></content:encoded>
+            <dc:title><![CDATA[Chill out: freezing temperatures produced by letting a stressed alloy relax]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-026-00030-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00030-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00030-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00030-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00266-9">
+            <title><![CDATA[Deep-sea robots will search for source of mysterious ‘dark oxygen’]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00266-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00266-9">doi:10.1038/d41586-026-00266-9</a></p>Scientists have launched a fresh effort to find out what could be producing oxygen at the bottom of the Pacific Ocean.]]></content:encoded>
+            <dc:title><![CDATA[Deep-sea robots will search for source of mysterious ‘dark oxygen’]]></dc:title>
+            <dc:creator>Davide Castelvecchi</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00266-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00266-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00266-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00266-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00106-w">
+            <title><![CDATA[Exposome studies can improve lung health]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00106-w</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00106-w">doi:10.1038/d41586-026-00106-w</a></p>A new set of analytical tools will help researchers to understand the lifelong effects of air pollution.]]></content:encoded>
+            <dc:title><![CDATA[Exposome studies can improve lung health]]></dc:title>
+            <dc:creator>Kari C. Nadeau</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00106-w</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00106-w</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00106-w</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00106-w</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00221-8">
+            <title><![CDATA[AI chatbots are infiltrating social-science surveys — and getting better at avoiding detection]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00221-8</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00221-8">doi:10.1038/d41586-026-00221-8</a></p>A researcher has created a chatbot that is indistinguishable from human participants in online surveys. Some researchers fear that a workhorse of social science is now under threat.]]></content:encoded>
+            <dc:title><![CDATA[AI chatbots are infiltrating social-science surveys — and getting better at avoiding detection]]></dc:title>
+            <dc:creator>Sara Phillips</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00221-8</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00221-8</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00221-8</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00221-8</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-025-04012-5">
+            <title><![CDATA[A step towards building miniature human livers]]></title>
+            <link>https://www.nature.com/articles/d41586-025-04012-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-025-04012-5">doi:10.1038/d41586-025-04012-5</a></p>Recapitulating the complexity of human organs in vitro would accelerate drug discovery and enable personalized treatments. By combining different types of liver cell from donor tissues, in vitro models of a liver region that mirror some of the organ’s main structures and functions can be assembled, getting closer to reproducing mini livers in vitro.]]></content:encoded>
+            <dc:title><![CDATA[A step towards building miniature human livers]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-025-04012-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-025-04012-5</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-025-04012-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-025-04012-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00038-5">
+            <title><![CDATA[Scraps of viral DNA in biobank samples reveal secrets of Epstein–Barr virus]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00038-5</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00038-5">doi:10.1038/d41586-026-00038-5</a></p>Viral DNA that is usually dismissed when sequencing the human genome could help to uncover useful information about complex diseases.]]></content:encoded>
+            <dc:title><![CDATA[Scraps of viral DNA in biobank samples reveal secrets of Epstein–Barr virus]]></dc:title>
+            <dc:creator>Kristen J. Wade</dc:creator><dc:creator>Jill A. Hollenbach</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00038-5</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00038-5</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00038-5</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00038-5</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00026-9">
+            <title><![CDATA[Alternative explanation for how celestial objects generate large-scale magnetic fields]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00026-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00026-9">doi:10.1038/d41586-026-00026-9</a></p>Numerical simulations provide a mechanism that explains how celestial objects such as stars and galaxies can generate ordered, macroscopic magnetic fields. The mechanism arises from turbulence — chaotic changes in the pressure and velocity of fluid — and avoids a physical effect that hinders other proposed systems from explaining observed ordered fields.]]></content:encoded>
+            <dc:title><![CDATA[Alternative explanation for how celestial objects generate large-scale magnetic fields]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-026-00026-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00026-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00026-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00026-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00104-y">
+            <title><![CDATA[Funding cuts could put research into emerging threats to lung health at risk]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00104-y</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00104-y">doi:10.1038/d41586-026-00104-y</a></p>Wildfire smoke, spore-spread fungal diseases and microplastic are all on the rise, even as the US government slashes support for respiratory research and policy.]]></content:encoded>
+            <dc:title><![CDATA[Funding cuts could put research into emerging threats to lung health at risk]]></dc:title>
+            <dc:creator>Rachel Nuwer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00104-y</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00104-y</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00104-y</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00104-y</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00109-7">
+            <title><![CDATA[Treatments for idiopathic pulmonary fibrosis are on the horizon]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00109-7</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00109-7">doi:10.1038/d41586-026-00109-7</a></p>The life-threatening disease affects millions of people, but has no effective therapy. Drugs under development could target the condition before fibrosis becomes established.]]></content:encoded>
+            <dc:title><![CDATA[Treatments for idiopathic pulmonary fibrosis are on the horizon]]></dc:title>
+            <dc:creator>Tim Vernimmen</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00109-7</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00109-7</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00109-7</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00109-7</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00111-z">
+            <title><![CDATA[Six highlights from lung-health research]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00111-z</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00111-z">doi:10.1038/d41586-026-00111-z</a></p>Fibrosis survival, long COVID’s lasting toll and other highlights from lung studies.]]></content:encoded>
+            <dc:title><![CDATA[Six highlights from lung-health research]]></dc:title>
+            <dc:creator>Rachel Nuwer</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00111-z</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00111-z</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00111-z</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00111-z</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-025-04098-x">
+            <title><![CDATA[Expert-level test is a head-scratcher for AI]]></title>
+            <link>https://www.nature.com/articles/d41586-025-04098-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-025-04098-x">doi:10.1038/d41586-025-04098-x</a></p>Conventional benchmarks are becoming less effective at assessing AI performance, but a multi-disciplinary test has set AI systems a fresh challenge.]]></content:encoded>
+            <dc:title><![CDATA[Expert-level test is a head-scratcher for AI]]></dc:title>
+            <dc:creator>Katherine M. Collins</dc:creator><dc:creator>Joshua B. Tenenbaum</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-025-04098-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-025-04098-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-025-04098-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-025-04098-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00074-1">
+            <title><![CDATA[Wikipedia is needed now more than ever, 25 years on]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00074-1</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00074-1">doi:10.1038/d41586-026-00074-1</a></p>The online encyclopedia is an antidote to an increasingly poisoned information ecosystem. Researchers should help to nourish it.]]></content:encoded>
+            <dc:title><![CDATA[Wikipedia is needed now more than ever, 25 years on]]></dc:title>
+            
+            <dc:identifier>doi:10.1038/d41586-026-00074-1</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00074-1</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00074-1</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00074-1</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00237-0">
+            <title><![CDATA[The surprisingly big health benefits of just a little exercise]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00237-0</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00237-0">doi:10.1038/d41586-026-00237-0</a></p>‘Exercise snacks’ and other forms of everyday movement can greatly reduce the risk of heart disease and death.]]></content:encoded>
+            <dc:title><![CDATA[The surprisingly big health benefits of just a little exercise]]></dc:title>
+            <dc:creator>Mariana Lenharo</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00237-0</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00237-0</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00237-0</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00237-0</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00039-4">
+            <title><![CDATA[Pesticide cocktails negatively affect soil biodiversity]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00039-4</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00039-4">doi:10.1038/d41586-026-00039-4</a></p>A much-needed assessment of the scale of the effects of pesticides on soil biodiversity in Europe will support regulation and conservation efforts.]]></content:encoded>
+            <dc:title><![CDATA[Pesticide cocktails negatively affect soil biodiversity]]></dc:title>
+            <dc:creator>Brajesh K. Singh</dc:creator><dc:creator>Alexandre Pedrinho</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00039-4</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00039-4</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00039-4</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00039-4</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00107-9">
+            <title><![CDATA[Could the regenerative power of the lungs help to reverse disease?]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00107-9</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00107-9">doi:10.1038/d41586-026-00107-9</a></p>The ability of the lungs to rebuild themselves has long been underappreciated, now researchers are raising the possibility that it could help to tackle chronic disease.]]></content:encoded>
+            <dc:title><![CDATA[Could the regenerative power of the lungs help to reverse disease?]]></dc:title>
+            <dc:creator>Claire Ainsworth</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00107-9</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00107-9</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00107-9</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00107-9</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00126-6">
+            <title><![CDATA[The unfortunate embossing of Subsector XZ-74]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00126-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00126-6">doi:10.1038/d41586-026-00126-6</a></p>Presentation matters.]]></content:encoded>
+            <dc:title><![CDATA[The unfortunate embossing of Subsector XZ-74]]></dc:title>
+            <dc:creator>Chao Liu</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00126-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00126-6</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00126-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00126-6</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00105-x">
+            <title><![CDATA[How ‘forest bathing’ keeps lungs healthy]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00105-x</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00105-x">doi:10.1038/d41586-026-00105-x</a></p>Wooded environments release organic compounds that seem to improve respiratory health, but the magnitude and mechanism of the effect remains unclear.]]></content:encoded>
+            <dc:title><![CDATA[How ‘forest bathing’ keeps lungs healthy]]></dc:title>
+            <dc:creator>Erica Gies</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00105-x</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00105-x</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00105-x</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00105-x</prism:url>
+        </item>
+    
+        <item rdf:about="https://www.nature.com/articles/d41586-026-00037-6">
+            <title><![CDATA[A bendable AI chip for wearable technology]]></title>
+            <link>https://www.nature.com/articles/d41586-026-00037-6</link>
+            <content:encoded>
+                <![CDATA[<p>Nature, Published online: 28 January 2026; <a href="https://www.nature.com/articles/d41586-026-00037-6">doi:10.1038/d41586-026-00037-6</a></p>Co-optimized design and technology has resulted in cheap, flexible microchips that efficiently run neural-network tasks, as demonstrated in wearable health-care devices.]]></content:encoded>
+            <dc:title><![CDATA[A bendable AI chip for wearable technology]]></dc:title>
+            <dc:creator>Kris Myny</dc:creator><dc:creator>Djihad Nacereddine Bouakaz</dc:creator>
+            <dc:identifier>doi:10.1038/d41586-026-00037-6</dc:identifier>
+            <dc:source>Nature, Published online: 2026-01-28; | doi:10.1038/d41586-026-00037-6</dc:source>
+            <dc:date>2026-01-28</dc:date>
+            <prism:publicationName>Nature</prism:publicationName>
+            <prism:doi>10.1038/d41586-026-00037-6</prism:doi>
+            <prism:url>https://www.nature.com/articles/d41586-026-00037-6</prism:url>
+        </item>
+    
+</rdf:RDF>

@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned DEPLOY-001 to builder (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/DEPLOY-001_define-iso-deployment-target-and-build-approach.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/DEPLOY-001_define-iso-deployment-target-and-build-approach.md",
+      "Work the item: DEPLOY-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "builder",
+    "id": "20260130-035647",
+    "kind": "missive",
+    "timestamp": "2026-01-30T03:56:47Z",
+    "to": "council",
+    "urgency": "normal"
+  }
+}

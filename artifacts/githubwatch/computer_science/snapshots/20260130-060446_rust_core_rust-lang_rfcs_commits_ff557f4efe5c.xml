@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/rust-lang/rfcs/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/rust-lang/rfcs/commits/master.atom"/>
+  <title>Recent Commits to rfcs:master</title>
+  <updated>2026-01-26T03:58:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/84057dbb428b770e1d9ff5999cb01d22d3fe44a8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/84057dbb428b770e1d9ff5999cb01d22d3fe44a8"/>
+    <title>
+        Merge pull request #3912 from ehuss/fix-3678-headers
+    </title>
+    <updated>2026-01-26T03:58:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3912 from ehuss/fix-3678-headers
+
+Fix 3678-final headers&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/55680418fee417c3e9c091078ca5bc7f1f607680</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/55680418fee417c3e9c091078ca5bc7f1f607680"/>
+    <title>
+        Fix 3678-final headers
+    </title>
+    <updated>2026-01-26T03:57:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix 3678-final headers
+
+Updated section headers to use Markdown 2nd level headings. As part of
+https://github.com/rust-lang/rfcs/pull/3883 we switched the template to
+not use level-1 headings.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa02f335ee3862458dfb3fc5d6fed2bc8f65289b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/fa02f335ee3862458dfb3fc5d6fed2bc8f65289b"/>
+    <title>
+        Merge pull request #3678 from joshtriplett/final
+    </title>
+    <updated>2026-01-26T01:08:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/162737?s=30&amp;v=4"/>
+    <author>
+      <name>joshtriplett</name>
+      <uri>https://github.com/joshtriplett</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3678 from joshtriplett/final
+
+Trait method impl restrictions (`final` methods)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cff2f39cfcbd2b4e0745e0c5f07062fc230bd85f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/cff2f39cfcbd2b4e0745e0c5f07062fc230bd85f"/>
+    <title>
+        Add tracking issue
+    </title>
+    <updated>2026-01-26T01:02:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/162737?s=30&amp;v=4"/>
+    <author>
+      <name>joshtriplett</name>
+      <uri>https://github.com/joshtriplett</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add tracking issue&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11ca03e4609dc73859c8cdd5b128e0a680338df4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/11ca03e4609dc73859c8cdd5b128e0a680338df4"/>
+    <title>
+        Merge pull request #3909 from anforowicz/assign-proper-number-to-expo…
+    </title>
+    <updated>2026-01-20T20:56:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3909 from anforowicz/assign-proper-number-to-export-visibility-rfc
+
+`git mv text/0000-export-visibility.md text/3834-export-visibility.md`&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab09fae9046ae842c991214673c1247b19140b95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/ab09fae9046ae842c991214673c1247b19140b95"/>
+    <title>
+        Use 3834 (the PR number) as the RFC number for `#[export_visibility =…
+    </title>
+    <updated>2026-01-20T20:48:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/12191912?s=30&amp;v=4"/>
+    <author>
+      <name>anforowicz</name>
+      <uri>https://github.com/anforowicz</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Use 3834 (the PR number) as the RFC number for `#[export_visibility = ...]`.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/59e0db58ba879d8eaf08297d2c391065a002cca9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/59e0db58ba879d8eaf08297d2c391065a002cca9"/>
+    <title>
+        Merge pull request #3834 from anforowicz/export-visibility
+    </title>
+    <updated>2026-01-20T19:23:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2280544?s=30&amp;v=4"/>
+    <author>
+      <name>tmandry</name>
+      <uri>https://github.com/tmandry</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3834 from anforowicz/export-visibility
+
+RFC: `#[export_visibility = ...]` attribute&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/51486a1eb612b94677515326c374199f26a33738</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/51486a1eb612b94677515326c374199f26a33738"/>
+    <title>
+        Update RFC and issue links for export_visibility
+    </title>
+    <updated>2026-01-20T19:21:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/2280544?s=30&amp;v=4"/>
+    <author>
+      <name>tmandry</name>
+      <uri>https://github.com/tmandry</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update RFC and issue links for export_visibility&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f669bda6c7477e327a4177000b6d243a900891e5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/f669bda6c7477e327a4177000b6d243a900891e5"/>
+    <title>
+        Merge pull request #3873 from davidtwco/build-std-part-one-context
+    </title>
+    <updated>2025-12-31T15:28:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3873 from davidtwco/build-std-part-one-context
+
+build-std: context&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a5e389d82b8fa7188c422f8e5421b1881f92670b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/a5e389d82b8fa7188c422f8e5421b1881f92670b"/>
+    <title>
+        Remove tracking issue
+    </title>
+    <updated>2025-12-31T15:25:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove tracking issue
+
+This RFC does not have anything to track on its own. The follow-up RFCs
+will be responsible for that.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/41457ab249dcd8bb5e7891176b4b0e29a8c7da06</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/41457ab249dcd8bb5e7891176b4b0e29a8c7da06"/>
+    <title>
+        Update future possibilities regarding `final` methods and vtables
+    </title>
+    <updated>2025-12-22T22:42:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/162737?s=30&amp;v=4"/>
+    <author>
+      <name>joshtriplett</name>
+      <uri>https://github.com/joshtriplett</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update future possibilities regarding `final` methods and vtables&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e1c2981d12363c108ca759c07a839a6e15c2f872</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/e1c2981d12363c108ca759c07a839a6e15c2f872"/>
+    <title>
+        Clarify language around `final fn` not preventing `dyn`-compatibility
+    </title>
+    <updated>2025-12-17T16:34:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/162737?s=30&amp;v=4"/>
+    <author>
+      <name>joshtriplett</name>
+      <uri>https://github.com/joshtriplett</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Clarify language around `final fn` not preventing `dyn`-compatibility&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/45bfa54b27a0d1e678ce2fcdd782a471f75463a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/45bfa54b27a0d1e678ce2fcdd782a471f75463a5"/>
+    <title>
+        Merge pull request #3896 from rust-lang/ehuss-patch-1
+    </title>
+    <updated>2025-12-15T16:35:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3896 from rust-lang/ehuss-patch-1
+
+Change 3872 section headers to 2nd level Markdown&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8e5023c5be86939c1434fec41e28c53e8beaccfa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/8e5023c5be86939c1434fec41e28c53e8beaccfa"/>
+    <title>
+        Update tracking issue
+    </title>
+    <updated>2025-12-15T16:35:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update tracking issue&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9e01e8c01df034c70214c763e1e52bfdbeebc7b7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/9e01e8c01df034c70214c763e1e52bfdbeebc7b7"/>
+    <title>
+        Increase heading levels
+    </title>
+    <updated>2025-12-12T13:37:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Increase heading levels
+
+As part of https://github.com/rust-lang/rfcs/pull/3883, we have switched
+the template to stop using level-1 headings which isn&amp;#39;t the way mdbook
+is intended to be used.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a1b19d84f7db85180a63074c54425776aeb75534</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/a1b19d84f7db85180a63074c54425776aeb75534"/>
+    <title>
+        Change 3872 section headers to 2nd level Markdown
+    </title>
+    <updated>2025-12-11T21:11:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/43198?s=30&amp;v=4"/>
+    <author>
+      <name>ehuss</name>
+      <uri>https://github.com/ehuss</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Change 3872 section headers to 2nd level Markdown
+
+Updated section headers to use Markdown 2nd level headings. As part of https://github.com/rust-lang/rfcs/pull/3883 we switched the template to not use level-1 headings.
+
+r? Turbo87&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f60340cb250a6f280713b348bbed07fd861260da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/f60340cb250a6f280713b348bbed07fd861260da"/>
+    <title>
+        Merge pull request #3895 from rust-lang/Noratrieb-patch-1
+    </title>
+    <updated>2025-12-11T19:25:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/3616612?s=30&amp;v=4"/>
+    <author>
+      <name>Urgau</name>
+      <uri>https://github.com/Urgau</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3895 from rust-lang/Noratrieb-patch-1
+
+Removed incorrect sentence about the procedure&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/895324ee01f0c579ae1de46ddddd55967aff6c5e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/895324ee01f0c579ae1de46ddddd55967aff6c5e"/>
+    <title>
+        Removed incorrect sentence about the procedure
+    </title>
+    <updated>2025-12-11T19:16:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/48135649?s=30&amp;v=4"/>
+    <author>
+      <name>Noratrieb</name>
+      <uri>https://github.com/Noratrieb</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed incorrect sentence about the procedure
+
+This is not true today at all.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11ca8faf39826f8dc6d3c93e5d1a3e75cfbcdfca</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/11ca8faf39826f8dc6d3c93e5d1a3e75cfbcdfca"/>
+    <title>
+        Merge pull request #3872 from djc/crates-io-security
+    </title>
+    <updated>2025-12-11T18:56:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/141300?s=30&amp;v=4"/>
+    <author>
+      <name>Turbo87</name>
+      <uri>https://github.com/Turbo87</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3872 from djc/crates-io-security
+
+Adding a crates.io Security tab&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2bf599746e945721b8870c5e36666f50a6878f0b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/rust-lang/rfcs/commit/2bf599746e945721b8870c5e36666f50a6878f0b"/>
+    <title>
+        Add note about calling non-dyn-compatible methods on `dyn Trait`
+    </title>
+    <updated>2025-12-09T16:32:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/162737?s=30&amp;v=4"/>
+    <author>
+      <name>joshtriplett</name>
+      <uri>https://github.com/joshtriplett</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add note about calling non-dyn-compatible methods on `dyn Trait`&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

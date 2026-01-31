@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "domain": "computer_science",
+  "name": "Computer Science",
+  "description": "Theory, systems, and ML (preprints + high-signal blogs).",
+  "teams": [
+    {
+      "id": "blogs",
+      "name": "Blogs",
+      "feeds": [
+        {"id": "morning_paper", "name": "The Morning Paper", "url": "https://blog.acolyer.org/feed/", "tags": ["papers", "systems"]}
+      ]
+    },
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_cs", "name": "arXiv cs", "url": "https://arxiv.org/rss/cs", "tags": ["arxiv"]},
+        {"id": "arxiv_cs_ai", "name": "arXiv cs.AI", "url": "https://arxiv.org/rss/cs.AI", "tags": ["ai"]},
+        {"id": "arxiv_cs_lg", "name": "arXiv cs.LG", "url": "https://arxiv.org/rss/cs.LG", "tags": ["ml"]},
+        {"id": "arxiv_cs_cc", "name": "arXiv cs.CC", "url": "https://arxiv.org/rss/cs.CC", "tags": ["complexity"]},
+        {"id": "arxiv_cs_cr", "name": "arXiv cs.CR", "url": "https://arxiv.org/rss/cs.CR", "tags": ["security"]}
+      ]
+    }
+  ]
+}

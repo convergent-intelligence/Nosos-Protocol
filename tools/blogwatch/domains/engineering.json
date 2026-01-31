@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "domain": "engineering",
+  "name": "Engineering",
+  "description": "Engineering and applied systems preprints.",
+  "teams": [
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_eess", "name": "arXiv eess", "url": "https://arxiv.org/rss/eess", "tags": ["engineering", "arxiv"]}
+      ]
+    }
+  ]
+}

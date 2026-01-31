@@ -1,0 +1,11 @@
+version: 0.1
+
+handshake:
+  goal: "Agree on how we collaborate and what 'healthy' means"
+  agreements:
+    - "Where decisions are recorded (docs/decisions)"
+    - "How to communicate updates (signal-format.yaml)"
+    - "Safety boundaries (what is allowed to change)"
+  outputs:
+    - "STATUS.md"
+    - "docs/runbook.md"

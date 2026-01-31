@@ -1,0 +1,15 @@
+{
+  "version": "0.1",
+  "domain": "earth_science",
+  "name": "Earth Science",
+  "description": "Earth, climate, and geophysics-adjacent sources.",
+  "teams": [
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_geo_ph", "name": "arXiv physics.geo-ph", "url": "https://arxiv.org/rss/physics.geo-ph", "tags": ["geophysics", "arxiv"]}
+      ]
+    }
+  ]
+}

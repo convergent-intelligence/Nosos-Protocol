@@ -1,0 +1,11 @@
+version: 0.1
+
+discovery:
+  goal: "Find other components, owners, and interfaces"
+  methods:
+    - "Inventory entry points (executables, services, cron/jobs)"
+    - "Locate the state surface (.substrate/state, db, external stores)"
+    - "Identify public interfaces (ports, routes, queues, files)"
+  outputs:
+    - "docs/system-brief.md"
+    - "tools/dependency-graph/graph.yaml"

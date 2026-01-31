@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned ODYSSEY-001 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/ODYSSEY-001_odyssey-roadmap-2y-5000y.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/ODYSSEY-001_odyssey-roadmap-2y-5000y.md",
+      "Work the item: ODYSSEY-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-044642",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:46:42Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

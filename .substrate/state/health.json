@@ -1,0 +1,13 @@
+{
+  "ts": "2026-01-31T00:11:05Z",
+  "health": "yellow",
+  "inbox_failed": 0,
+  "autofile": {
+    "root": "/home/kristopherrichards/frameworks/protocol-first-scaffold",
+    "blobs": 6,
+    "units": 7,
+    "attachments": 7,
+    "quarantined_units": 2,
+    "db": "/home/kristopherrichards/frameworks/protocol-first-scaffold/index/autofile.sqlite"
+  }
+}

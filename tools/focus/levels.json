@@ -1,0 +1,151 @@
+{
+  "version": "0.1",
+  "default_level": 2,
+  "levels": {
+    "1": {
+      "name": "stabilize",
+      "intent": "stabilize",
+      "weights": {"safety": 1.0, "verify": 0.8, "execute": 0.3, "explore": 0.2},
+      "rituals": ["health", "field", "synthesize", "budgets", "leases_gc"]
+    },
+    "2": {
+      "name": "operate",
+      "intent": "operate",
+      "weights": {"safety": 0.8, "verify": 0.7, "execute": 0.7, "explore": 0.4},
+      "rituals": ["health", "field", "budgets"]
+    },
+    "3": {
+      "name": "translate",
+      "intent": "translate",
+      "weights": {"safety": 0.7, "verify": 0.6, "execute": 0.9, "explore": 0.3},
+      "rituals": ["focus_snapshot", "route"]
+    },
+    "4": {
+      "name": "explore",
+      "intent": "explore",
+      "weights": {"safety": 0.6, "verify": 0.5, "execute": 0.4, "explore": 1.0},
+      "rituals": ["synthesize", "stubs", "measurements"]
+    },
+    "5": {
+      "name": "ship",
+      "intent": "ship",
+      "weights": {"safety": 0.9, "verify": 1.0, "execute": 0.8, "explore": 0.2},
+      "rituals": ["synthesize", "build_distro", "verify_distro", "decision_note"]
+    },
+
+    "6": {
+      "name": "carbon_backbone",
+      "intent": "stabilize",
+      "weights": {"safety": 0.9, "verify": 0.8, "execute": 0.6, "explore": 0.2},
+      "rituals": ["capsules", "signals", "leases"]
+    },
+    "7": {
+      "name": "naming",
+      "intent": "operate",
+      "weights": {"safety": 0.7, "verify": 0.6, "execute": 0.6, "explore": 0.6},
+      "rituals": ["lexicon", "synthesize"]
+    },
+    "8": {
+      "name": "oxygen_control",
+      "intent": "stabilize",
+      "weights": {"safety": 1.0, "verify": 0.8, "execute": 0.5, "explore": 0.2},
+      "rituals": ["leases", "budgets", "quarantine_review"]
+    },
+    "9": {
+      "name": "friction",
+      "intent": "stabilize",
+      "weights": {"safety": 1.0, "verify": 0.9, "execute": 0.4, "explore": 0.2},
+      "rituals": ["stop_conditions", "no_scope_creep"]
+    },
+    "10": {
+      "name": "closed_shell",
+      "intent": "ship",
+      "weights": {"safety": 0.95, "verify": 1.0, "execute": 0.7, "explore": 0.1},
+      "rituals": ["synthesize", "build_distro", "verify_distro", "decision_note"]
+    },
+
+    "11": {
+      "name": "defaults",
+      "intent": "operate",
+      "weights": {"safety": 0.7, "verify": 0.7, "execute": 0.8, "explore": 0.3},
+      "rituals": ["install_helpers", "docs"]
+    },
+
+    "12": {
+      "name": "ignition",
+      "intent": "operate",
+      "weights": {"safety": 0.7, "verify": 0.6, "execute": 0.9, "explore": 0.3},
+      "rituals": ["locks", "idempotence", "health"]
+    },
+
+    "13": {
+      "name": "lightweight",
+      "intent": "operate",
+      "weights": {"safety": 0.7, "verify": 0.6, "execute": 0.7, "explore": 0.5},
+      "rituals": ["views", "exports"]
+    },
+    "14": {
+      "name": "interfaces",
+      "intent": "stabilize",
+      "weights": {"safety": 0.9, "verify": 0.9, "execute": 0.5, "explore": 0.3},
+      "rituals": ["schema_versioning", "compat"]
+    },
+    "15": {
+      "name": "memory",
+      "intent": "operate",
+      "weights": {"safety": 0.8, "verify": 0.7, "execute": 0.6, "explore": 0.6},
+      "rituals": ["decisions", "stubs", "archaeology"]
+    },
+    "16": {
+      "name": "sanitation",
+      "intent": "stabilize",
+      "weights": {"safety": 1.0, "verify": 0.9, "execute": 0.4, "explore": 0.3},
+      "rituals": ["quarantine_review", "secret_policy", "audit"]
+    },
+
+    "17": {
+      "name": "purification",
+      "intent": "stabilize",
+      "weights": {"safety": 1.0, "verify": 0.9, "execute": 0.4, "explore": 0.3},
+      "rituals": ["quarantine_review", "leases_gc", "reduce_drift"]
+    },
+    "18": {
+      "name": "inert_ops",
+      "intent": "ship",
+      "weights": {"safety": 0.95, "verify": 1.0, "execute": 0.6, "explore": 0.1},
+      "rituals": ["synthesize", "restore_drill", "runbook", "build_distro", "verify_distro"]
+    },
+
+    "19": {
+      "name": "expansion",
+      "intent": "explore",
+      "weights": {"safety": 0.6, "verify": 0.6, "execute": 0.5, "explore": 0.9},
+      "rituals": ["hypotheses", "measurements"]
+    },
+    "20": {
+      "name": "calibration",
+      "intent": "stabilize",
+      "weights": {"safety": 0.9, "verify": 0.9, "execute": 0.4, "explore": 0.4},
+      "rituals": ["synthesize", "update_weights"]
+    },
+    "21": {
+      "name": "composition",
+      "intent": "translate",
+      "weights": {"safety": 0.7, "verify": 0.7, "execute": 0.8, "explore": 0.5},
+      "rituals": ["compose", "route"]
+    },
+
+    "26": {
+      "name": "iron_threshold",
+      "intent": "stabilize",
+      "weights": {"safety": 1.0, "verify": 1.0, "execute": 0.4, "explore": 0.2},
+      "rituals": ["tighten_budgets", "restore_drill", "governance"]
+    },
+    "36": {
+      "name": "krypton_plateau",
+      "intent": "ship",
+      "weights": {"safety": 0.95, "verify": 1.0, "execute": 0.6, "explore": 0.1},
+      "rituals": ["synthesize", "build_distro", "verify_distro", "decision_note"]
+    }
+  }
+}

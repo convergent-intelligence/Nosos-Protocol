@@ -1,0 +1,37 @@
+version: 0.1
+
+name: "agent-systems-framework"
+
+# This manifest is descriptive (Phase 0).
+# The build script is the enforcement mechanism; keep them aligned.
+
+include:
+  - "README.md"
+  - "STATUS.md"
+  - "PHASE-0.md"
+  - "docs/"
+  - ".agents/"
+  - ".bridges/"
+  - ".substrate/"
+  - ".synthesis/"
+  - ".pantheon/"
+  - ".tavern/"
+  - "quests/"
+  - "artifacts/"
+  - "tools/"
+  - "scripts/"
+  - "rules/"
+  - "distro/"
+
+exclude:
+  - "dist/"
+  - "inbox/"
+  - "store/blobs/"
+  - "store/derived/"
+  - "index/*.sqlite"
+  - "index/*.sqlite-*"
+  - "index/audit.jsonl"
+  - "units/*/attachments.jsonl"
+  - "artifacts/issues/*.md"
+  - "artifacts/stubs/*.md"
+  - "artifacts/contexts/*.md"

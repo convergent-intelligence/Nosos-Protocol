@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/pytorch/pytorch/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/pytorch/pytorch/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/pytorch/pytorch/releases.atom"/>
+  <title>Release notes from pytorch</title>
+  <updated>2026-01-30T00:30:03Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/08610c3c6294ac2aaa6e6f88b4e831469fc61aa6</id>
+    <updated>2026-01-30T00:30:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F08610c3c6294ac2aaa6e6f88b4e831469fc61aa6"/>
+    <title>trunk/08610c3c6294ac2aaa6e6f88b4e831469fc61aa6: remove assert in torchgen/model.py and gen_variable_type (#173813)</title>
+    <content type="html">&lt;p&gt;Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3871814191&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173813&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173813/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173813&quot;&gt;#173813&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/soulitzer&quot;&gt;https://github.com/soulitzer&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>albanD</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6359743?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/3973caa67e0d5ffeb58cfc7cf80bcfc5b9fc3440</id>
+    <updated>2026-01-30T00:24:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F3973caa67e0d5ffeb58cfc7cf80bcfc5b9fc3440"/>
+    <title>trunk/3973caa67e0d5ffeb58cfc7cf80bcfc5b9fc3440: [map] fix accidently specializing mapped dim (#173432)</title>
+    <content type="html">&lt;p&gt;_unstack_pytree calls zip(*tensors) that accidentally triggers specialization. Change to _first_slice_copy and make it consistent with scan.&lt;/p&gt;
+&lt;p&gt;Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3858022141&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173432&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173432/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173432&quot;&gt;#173432&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/aorenste&quot;&gt;https://github.com/aorenste&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>ydwu4</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/11565780?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/443c98ecd625c95314343bc13125b0cb61a9a478</id>
+    <updated>2026-01-30T00:22:38Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F443c98ecd625c95314343bc13125b0cb61a9a478"/>
+    <title>trunk/443c98ecd625c95314343bc13125b0cb61a9a478</title>
+    <content type="html">&lt;p&gt;Revert &quot;[nativert] implicit fastresizetozero for reused output buffer…&lt;/p&gt;</content>
+    <author>
+      <name>pytorchmergebot</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/97764156?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/307a15f35b01075b82b360be3b6515456862e177</id>
+    <updated>2026-01-30T00:30:03Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F307a15f35b01075b82b360be3b6515456862e177"/>
+    <title>trunk/307a15f35b01075b82b360be3b6515456862e177: Start fixing torchgen asserts (#173814)</title>
+    <content type="html">&lt;p&gt;Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3871814594&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173814&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173814/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173814&quot;&gt;#173814&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/soulitzer&quot;&gt;https://github.com/soulitzer&lt;/a&gt;&lt;br&gt;
+ghstack dependencies: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3871814191&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173813&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173813/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173813&quot;&gt;#173813&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>albanD</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6359743?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/55a7c2df473152e04063e1cc20405e24b680fb2a</id>
+    <updated>2026-01-30T00:29:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2F55a7c2df473152e04063e1cc20405e24b680fb2a"/>
+    <title>trunk/55a7c2df473152e04063e1cc20405e24b680fb2a</title>
+    <content type="html">&lt;p&gt;[Inductor] Optimal Epilogue fusion overlapping with Async Pipelined A…&lt;/p&gt;</content>
+    <author>
+      <name>PaulZhang12</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/28608314?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/fcd165b811edf1d3c3f31ef4074fb7829653736a</id>
+    <updated>2026-01-30T02:07:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2Ffcd165b811edf1d3c3f31ef4074fb7829653736a"/>
+    <title>trunk/fcd165b811edf1d3c3f31ef4074fb7829653736a: [BE][Functorch] Add type hints to torch/_functorch files pt 3 (#173543)</title>
+    <content type="html">&lt;p&gt;Add comprehensive type annotations to 7 files in torch/_functorch that were previously missing type coverage. Each file now passes pyrefly check with stricter sub-config settings (implicit-any=true).&lt;/p&gt;
+&lt;p&gt;Files updated:&lt;/p&gt;
+&lt;p&gt;apis.py&lt;br&gt;
+autograd_function.py&lt;br&gt;
+deprecated.py&lt;br&gt;
+functional_call.py&lt;br&gt;
+make_functional.py&lt;br&gt;
+partitioners.py&lt;br&gt;
+pyfunctorch.py&lt;/p&gt;
+&lt;p&gt;Authored with help of Claude Code&lt;/p&gt;
+&lt;p&gt;Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3862099358&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173543&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173543/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173543&quot;&gt;#173543&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/aorenste&quot;&gt;https://github.com/aorenste&lt;/a&gt;, &lt;a href=&quot;https://github.com/zou3519&quot;&gt;https://github.com/zou3519&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>Lucaskabela</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/20960393?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/f50e264a8688b966989efab4fbbe547d5eaf3c5b</id>
+    <updated>2026-01-30T04:57:21Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2Ff50e264a8688b966989efab4fbbe547d5eaf3c5b"/>
+    <title>trunk/f50e264a8688b966989efab4fbbe547d5eaf3c5b: [vision hash update] update the pinned vision hash (#173875)</title>
+    <content type="html">&lt;p&gt;This PR is auto-generated nightly by &lt;a href=&quot;https://github.com/pytorch/pytorch/blob/main/.github/workflows/nightly.yml&quot;&gt;this action&lt;/a&gt;.&lt;br&gt;
+Update the pinned vision hash.&lt;br&gt;
+Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3873236342&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173875&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173875/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173875&quot;&gt;#173875&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/pytorchbot&quot;&gt;https://github.com/pytorchbot&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>pytorchupdatebot</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/133916390?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/eddfd8d178d672f123ecc3f3924d8b277dfd2e1f</id>
+    <updated>2026-01-30T05:36:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2Feddfd8d178d672f123ecc3f3924d8b277dfd2e1f"/>
+    <title>trunk/eddfd8d178d672f123ecc3f3924d8b277dfd2e1f: [vllm hash update] update the pinned vllm hash (#173874)</title>
+    <content type="html">&lt;p&gt;This PR is auto-generated nightly by &lt;a href=&quot;https://github.com/pytorch/pytorch/blob/main/.github/workflows/nightly.yml&quot;&gt;this action&lt;/a&gt;.&lt;br&gt;
+Update the pinned vllm hash.&lt;br&gt;
+Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3873233699&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173874&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173874/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173874&quot;&gt;#173874&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/pytorchbot&quot;&gt;https://github.com/pytorchbot&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>pytorchupdatebot</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/133916390?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/c7d863a8fa78b651986c0334fa3d04ff715fe49f</id>
+    <updated>2026-01-30T03:29:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2Fc7d863a8fa78b651986c0334fa3d04ff715fe49f"/>
+    <title>trunk/c7d863a8fa78b651986c0334fa3d04ff715fe49f: [dtensor] fix flatten mesh dims arg relative to submesh (#173790)</title>
+    <content type="html">&lt;p&gt;Treat mesh_dims arg in _get_flattened_mesh_by_layout relative to submesh&lt;/p&gt;
+&lt;p&gt;Test:&lt;/p&gt;
+&lt;div class=&quot;snippet-clipboard-content notranslate position-relative overflow-auto&quot; data-snippet-clipboard-copy-content=&quot;python test/distributed/tensor/test_redistribute.py -k test_get_flattened_mesh_by_layout_with_submesh&quot;&gt;&lt;pre class=&quot;notranslate&quot;&gt;&lt;code&gt;python test/distributed/tensor/test_redistribute.py -k test_get_flattened_mesh_by_layout_with_submesh
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3870824996&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173790&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173790/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173790&quot;&gt;#173790&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/wconstab&quot;&gt;https://github.com/wconstab&lt;/a&gt;, &lt;a href=&quot;https://github.com/fegin&quot;&gt;https://github.com/fegin&lt;/a&gt;, &lt;a href=&quot;https://github.com/jathu&quot;&gt;https://github.com/jathu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Co-authored-by: Will Constable &lt;a href=&quot;mailto:whc@meta.com&quot;&gt;whc@meta.com&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>wconstab</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/4984825?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/65600975/trunk/a182b08a0458e6c43676d041009e758bd384ca94</id>
+    <updated>2026-01-30T03:07:10Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/pytorch/pytorch/releases/tag/trunk%2Fa182b08a0458e6c43676d041009e758bd384ca94"/>
+    <title>trunk/a182b08a0458e6c43676d041009e758bd384ca94: Beef up cache bypass reason (#173832)</title>
+    <content type="html">&lt;p&gt;When we encounter unpicklable type, we used to silently bypass it causing cryptic error downstream. This PR makes the logging little more loud and attach some more debug info.&lt;/p&gt;
+&lt;p&gt;Pull Request resolved: &lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3872269734&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/pytorch/pytorch/issues/173832&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/pytorch/pytorch/pull/173832/hovercard&quot; href=&quot;https://github.com/pytorch/pytorch/pull/173832&quot;&gt;#173832&lt;/a&gt;&lt;br&gt;
+Approved by: &lt;a href=&quot;https://github.com/bobrenjc93&quot;&gt;https://github.com/bobrenjc93&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>tugsbayasgalan</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/16603271?s=60&amp;v=4"/>
+  </entry>
+</feed>

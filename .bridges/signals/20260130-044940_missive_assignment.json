@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned P1-003 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/P1-003_rules-engine-apply-routingyaml-to-unit-defaults.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/P1-003_rules-engine-apply-routingyaml-to-unit-defaults.md",
+      "Work the item: P1-003"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-044940",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:49:40Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

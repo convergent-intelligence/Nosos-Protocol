@@ -1,0 +1,38 @@
+{
+  "version": "0.1",
+  "domain": "mathematics",
+  "name": "Mathematics",
+  "description": "Research math and high-signal exposition.",
+  "teams": [
+    {
+      "id": "bloggers",
+      "name": "Bloggers",
+      "feeds": [
+        {"id": "tao", "name": "Terry Tao", "url": "https://terrytao.wordpress.com/feed/", "tags": ["analysis", "exposition"]},
+        {"id": "gowers", "name": "Gowers", "url": "https://gowers.wordpress.com/feed/", "tags": ["combinatorics", "exposition"]},
+        {"id": "kalai", "name": "Gil Kalai", "url": "https://gilkalai.wordpress.com/feed/", "tags": ["combinatorics", "complexity"]}
+      ]
+    },
+    {
+      "id": "magazines",
+      "name": "Magazines",
+      "feeds": [
+        {"id": "quanta", "name": "Quanta", "url": "https://www.quantamagazine.org/feed/", "tags": ["exposition"]}
+      ]
+    },
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_math", "name": "arXiv math", "url": "https://arxiv.org/rss/math", "tags": ["arxiv"]}
+      ]
+    },
+    {
+      "id": "communities",
+      "name": "Communities",
+      "feeds": [
+        {"id": "mathoverflow", "name": "MathOverflow", "url": "https://mathoverflow.net/feeds", "tags": ["problems"]}
+      ]
+    }
+  ]
+}

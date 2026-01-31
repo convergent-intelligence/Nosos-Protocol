@@ -1,0 +1,71 @@
+version: 0.1
+
+components:
+  - id: "autofile"
+    kind: "cli"
+    depends_on:
+      - "python3"
+      - "file_cmd"
+      - "sqlite"
+    owners:
+      - "scribe"
+      - "guardian"
+    notes: "Ingestion + blob store + unit folders + quarantine markers"
+
+  - id: "orchestrator"
+    kind: "cli"
+    depends_on:
+      - "python3"
+    owners:
+      - "scribe"
+    notes: "Reads plan registry + state surfaces; suggests next work"
+
+  - id: "health"
+    kind: "job"
+    depends_on:
+      - "autofile"
+      - "python3"
+    owners:
+      - "watcher"
+    notes: "Writes .substrate/state/health.json based on ingestion state"
+
+  - id: "backup"
+    kind: "job"
+    depends_on:
+      - "tar"
+    owners:
+      - "builder"
+    notes: "Backs up scaffold + index + units; optionally blobs"
+
+  - id: "distro_builder"
+    kind: "job"
+    depends_on:
+      - "tar"
+    owners:
+      - "builder"
+      - "scribe"
+    notes: "Builds a clean distro tarball excluding user data"
+
+  - id: "python3"
+    kind: "external"
+    depends_on: []
+    owners: []
+    notes: "Python runtime"
+
+  - id: "file_cmd"
+    kind: "external"
+    depends_on: []
+    owners: []
+    notes: "file(1) for mime detection (optional but preferred)"
+
+  - id: "sqlite"
+    kind: "external"
+    depends_on: []
+    owners: []
+    notes: "SQLite (via Python stdlib)"
+
+  - id: "tar"
+    kind: "external"
+    depends_on: []
+    owners: []
+    notes: "tar for backups and distro packaging"

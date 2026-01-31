@@ -1,0 +1,14 @@
+version: 0.1
+
+dependency_graph_schema:
+  component:
+    required:
+      - id
+      - kind
+      - depends_on
+    fields:
+      id: "string"
+      kind: "service|library|job|cli|data|external"
+      depends_on: "list"
+      owners: "list"
+      notes: "string"

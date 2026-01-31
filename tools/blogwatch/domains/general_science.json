@@ -1,0 +1,24 @@
+{
+  "version": "0.1",
+  "domain": "general_science",
+  "name": "General Science",
+  "description": "Broad science sources that are cross-domain.",
+  "teams": [
+    {
+      "id": "journals",
+      "name": "Journals",
+      "feeds": [
+        {"id": "nature", "name": "Nature", "url": "https://www.nature.com/nature.rss", "tags": ["journal"]},
+        {"id": "science", "name": "Science", "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", "tags": ["journal"]},
+        {"id": "pnas", "name": "PNAS", "url": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas", "tags": ["journal"]}
+      ]
+    },
+    {
+      "id": "magazines",
+      "name": "Magazines",
+      "feeds": [
+        {"id": "quanta", "name": "Quanta", "url": "https://www.quantamagazine.org/feed/", "tags": ["exposition"]}
+      ]
+    }
+  ]
+}

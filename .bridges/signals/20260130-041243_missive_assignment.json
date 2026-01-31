@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned ELEMENTS-001 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/ELEMENTS-001_elemental-matrix-9x9-roles.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/ELEMENTS-001_elemental-matrix-9x9-roles.md",
+      "Work the item: ELEMENTS-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-041243",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:12:43Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

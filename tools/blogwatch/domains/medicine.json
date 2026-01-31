@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "domain": "medicine",
+  "name": "Medicine",
+  "description": "High-level medicine and biomedical science sources.",
+  "teams": [
+    {
+      "id": "journals",
+      "name": "Journals",
+      "feeds": [
+        {"id": "science", "name": "Science", "url": "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", "tags": ["journal"]},
+        {"id": "nature", "name": "Nature", "url": "https://www.nature.com/nature.rss", "tags": ["journal"]}
+      ]
+    }
+  ]
+}

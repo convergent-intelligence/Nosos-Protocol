@@ -1,0 +1,28 @@
+version: 0.1
+
+# A deliberately small, explicit message format.
+# Treat this as a stable interface: update with version bumps.
+
+signal:
+  header:
+    id: "<uuid-or-monotonic>"
+    timestamp: "<rfc3339>"
+    from: "<actor>"
+    to: "<actor|group>"
+    kind: "proclamation|missive|council_call"
+    urgency: "low|normal|high|critical"
+
+  body:
+    topic: "<short-topic>"
+    claim: "<what you assert>"
+    evidence:
+      - "<path|url|command-output-ref>"
+    confidence: "low|medium|high"
+    asks:
+      - "<question-or-request>"
+    next_actions:
+      - "<what happens next>"
+
+  footer:
+    expects_response: false
+    response_by: "<rfc3339-or-empty>"

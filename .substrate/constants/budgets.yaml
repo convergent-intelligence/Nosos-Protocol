@@ -1,0 +1,5 @@
+version: 0.1
+
+budgets:
+  max_in_progress_per_domain: 2
+  max_leases_per_domain: 2

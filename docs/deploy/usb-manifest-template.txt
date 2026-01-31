@@ -1,0 +1,43 @@
+USB Rescue Kit Manifest
+
+Date:
+Operator:
+Host:
+Target USB label:
+
+Contents:
+- iso/debian/debian-12.x.x-amd64-netinst.iso
+- iso/debian/debian-12.x.x-amd64-DVD-1.iso
+- iso/gentoo/install-amd64-minimal-YYYYMMDD.iso
+- iso/arch/archlinux-YYYY.MM.DD-x86_64.iso
+- gentoo/stages/stage3-amd64-openrc-YYYYMMDD.tar.xz
+- gentoo/stages/stage3-amd64-systemd-YYYYMMDD.tar.xz
+- asf/agent-systems-framework-YYYYMMDD.tar.gz
+- asf/install-asf.sh
+- browsers/brave/
+- llm/ollama/
+- llm/koboldcpp/
+- llm/llama.cpp/
+- llm/models/
+- llm/prompts/
+- docs/deploy/prompts/emergent-dm.txt
+- docs/deploy/emergent-agent.md
+- toolchains/
+- knowledge/
+- search/
+- docs/lost-user-guide.md
+- docs/install-asf-offline.md
+- docs/boot-companion.html
+- docs/learning-arc.html
+- docs/knowledge-archive.md
+- knowledge/games/index.html
+- knowledge/index.html
+- docs/content-stubs.md
+- scripts/deploy/install-brave-offline.sh
+- scripts/deploy/snapshot-dev-env.sh
+- scripts/deploy/install-koboldcpp-daemon.sh
+
+Checksums:
+- sha256 manifest file: manifest.sha256
+
+Notes:

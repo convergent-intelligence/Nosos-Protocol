@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned WATER-001 to council (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/WATER-001_water-loop-hardening.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/WATER-001_water-loop-hardening.md",
+      "Work the item: WATER-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-041918",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:19:18Z",
+    "to": "council",
+    "urgency": "normal"
+  }
+}

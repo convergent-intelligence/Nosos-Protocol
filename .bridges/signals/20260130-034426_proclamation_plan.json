@@ -1,0 +1,22 @@
+{
+  "body": {
+    "asks": [],
+    "claim": "Set P1-002 status=done owner=scribe",
+    "confidence": "high",
+    "evidence": [],
+    "next_actions": [],
+    "topic": "plan"
+  },
+  "footer": {
+    "expects_response": false,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-034426",
+    "kind": "proclamation",
+    "timestamp": "2026-01-30T03:44:26Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

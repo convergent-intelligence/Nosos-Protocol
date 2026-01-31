@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/tokio-rs/axum/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/tokio-rs/axum/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/tokio-rs/axum/releases.atom"/>
+  <title>Release notes from axum</title>
+  <updated>2025-12-27T14:33:30Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-extra-v0.12.5</id>
+    <updated>2025-12-27T14:33:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.12.5"/>
+    <title>axum-extra-v0.12.5</title>
+    <content type="html">&lt;p&gt;axum-extra v0.12.5&lt;/p&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-extra-v0.12.4</id>
+    <updated>2025-12-27T09:36:12Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.12.4"/>
+    <title>axum-extra-v0.12.4</title>
+    <content type="html">&lt;p&gt;axum-extra v0.12.4&lt;/p&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-core-v0.5.6</id>
+    <updated>2025-12-27T09:20:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-core-v0.5.6"/>
+    <title>axum-core v0.5.6</title>
+    <content type="html">&lt;p&gt;Improve error messages with &lt;code&gt;#[diagnostic::do_not_recommend]&lt;/code&gt;.&lt;/p&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-v0.8.8</id>
+    <updated>2025-12-20T16:30:57Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-v0.8.8"/>
+    <title>axum v0.8.8</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Clarify documentation for &lt;code&gt;Router::route_layer&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3567&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3567/hovercard&quot;&gt;#3567&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-extra-v0.12.3</id>
+    <updated>2025-12-20T16:31:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.12.3"/>
+    <title>axum-extra v0.12.3</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;changed:&lt;/strong&gt; Make the &lt;code&gt;typed-routing&lt;/code&gt; feature enable the &lt;code&gt;routing&lt;/code&gt; feature (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3514&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3514/hovercard&quot;&gt;#3514&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;changed:&lt;/strong&gt; Add trailing newline to &lt;code&gt;ErasedJson::pretty&lt;/code&gt; response bodies (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3526&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3526/hovercard&quot;&gt;#3526&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;fixed:&lt;/strong&gt; Fix integer underflow in &lt;code&gt;FileStream::try_range_response&lt;/code&gt; for empty files (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3566&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3566/hovercard&quot;&gt;#3566&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-v0.8.7</id>
+    <updated>2025-11-14T21:21:07Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-v0.8.7"/>
+    <title>axum v0.8.7</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Relax implicit &lt;code&gt;Send&lt;/code&gt; / &lt;code&gt;Sync&lt;/code&gt; bounds on &lt;code&gt;RouterAsService&lt;/code&gt;, &lt;code&gt;RouterIntoService&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3555&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3555/hovercard&quot;&gt;#3555&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Make it easier to visually scan for default features (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3550&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3550/hovercard&quot;&gt;#3550&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Fix some documentation typos&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-extra-v0.12.2</id>
+    <updated>2025-11-14T21:22:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.12.2"/>
+    <title>axum-extra v0.12.2</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;Make it easier to visually scan for default features (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3550&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3550/hovercard&quot;&gt;#3550&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-extra-v0.12.0</id>
+    <updated>2025-10-31T20:28:26Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.12.0"/>
+    <title>axum-extra v0.12.0</title>
+    <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;breaking:&lt;/strong&gt; Remove unused &lt;code&gt;async-stream&lt;/code&gt; feature, which was accidentally&lt;br&gt;
+introduced as an implicit feature through an optional dependency which was no&lt;br&gt;
+longer being used (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3298&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3298/hovercard&quot;&gt;#3298&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;breaking:&lt;/strong&gt; &lt;code&gt;option_layer&lt;/code&gt; now maps the &lt;code&gt;Response&lt;/code&gt; body type to &lt;code&gt;axum::body::Body&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3469&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3469/hovercard&quot;&gt;#3469&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;breaking:&lt;/strong&gt; Some new features are added which need to be opted in (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3485&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3485/hovercard&quot;&gt;#3485&lt;/a&gt;).
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;Cached&lt;/code&gt; extractor requires &lt;code&gt;cached&lt;/code&gt; feature.&lt;/li&gt;
+&lt;li&gt;The handler utilities require &lt;code&gt;handler&lt;/code&gt; feature.&lt;/li&gt;
+&lt;li&gt;The middleware utilities require &lt;code&gt;middleware&lt;/code&gt; feature.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;OptionalPath&lt;/code&gt; extractor requires &lt;code&gt;optional-path&lt;/code&gt; feature.&lt;/li&gt;
+&lt;li&gt;The routing utilities require &lt;code&gt;routing&lt;/code&gt; feature.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;WithRejection&lt;/code&gt; extractor requires &lt;code&gt;with-rejection&lt;/code&gt; feature.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;breaking:&lt;/strong&gt; Upgraded &lt;code&gt;prost&lt;/code&gt; dependency to v0.14. (&lt;a href=&quot;https://github.com/tokio-rs/axum/pull/3517&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/axum/pull/3517/hovercard&quot;&gt;#3517&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-v0.8.6</id>
+    <updated>2025-09-30T12:53:18Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-v0.8.6"/>
+    <title>axum-v0.8.6</title>
+    <content type="html">&lt;p&gt;axum v0.8.6&lt;/p&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/372172254/axum-extra-v0.10.3</id>
+    <updated>2025-09-30T12:53:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.10.3"/>
+    <title>axum-extra-v0.10.3</title>
+    <content type="html">&lt;p&gt;axum-extra v0.10.3&lt;/p&gt;</content>
+    <author>
+      <name>jplatte</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/951129?s=60&amp;v=4"/>
+  </entry>
+</feed>

@@ -1,0 +1,15 @@
+{
+  "last_run_ts": "2026-01-30T06:04:44Z",
+  "seen": {
+    "BurntSushi/ripgrep:releases": "tag:github.com,2008:Repository/53631945/ignore-0.4.25",
+    "huggingface/transformers:releases": "tag:github.com,2008:Repository/155220641/v5.0.0",
+    "hyperium/hyper:releases": "tag:github.com,2008:Repository/23500865/v1.8.1",
+    "pytorch/pytorch:releases": "tag:github.com,2008:Repository/65600975/trunk/08610c3c6294ac2aaa6e6f88b4e831469fc61aa6",
+    "rust-lang/cargo:releases": "tag:github.com,2008:Repository/17420913/0.94.0",
+    "rust-lang/rfcs:commits": "tag:github.com,2008:Grit::Commit/84057dbb428b770e1d9ff5999cb01d22d3fe44a8",
+    "rust-lang/rust:releases": "tag:github.com,2008:Repository/724712/1.93.0",
+    "sharkdp/fd:releases": "tag:github.com,2008:Repository/90793418/v10.3.0",
+    "tokio-rs/axum:releases": "tag:github.com,2008:Repository/372172254/axum-extra-v0.12.5",
+    "tokio-rs/tokio:releases": "tag:github.com,2008:Repository/67836789/tokio-util-0.7.18"
+  }
+}

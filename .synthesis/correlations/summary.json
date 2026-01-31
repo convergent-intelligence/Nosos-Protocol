@@ -1,0 +1,88 @@
+{
+  "active": [
+    {
+      "depends_on": [
+        "DEPLOY-001"
+      ],
+      "domain": "builder",
+      "id": "DEPLOY-002",
+      "kind": "plan",
+      "links": [
+        "scripts/build-iso.sh",
+        "docs/deploy/iso-build.md",
+        "docs/deploy/image-spec.md",
+        "scripts/deploy/install-asf.sh",
+        "docs/deploy/debian-preseed.md",
+        "scripts/deploy/build-debian-preseed-iso.sh",
+        "artifacts/contexts/DEPLOY-002_implement-iso-build-automation.md"
+      ],
+      "mode": "phase",
+      "notes": "Create a bootable ISO that installs OS + unpacks distro + validates",
+      "owner": "builder",
+      "priority": "high",
+      "status": "in_progress",
+      "title": "Implement ISO build automation"
+    }
+  ],
+  "budgets": {
+    "budgets": {
+      "max_in_progress_per_domain": 2,
+      "max_leases_per_domain": 2
+    },
+    "in_progress_by_domain": {
+      "builder": 1
+    }
+  },
+  "drift": {
+    "capsules_created_last_24h": 20
+  },
+  "field": {
+    "blocked": null,
+    "next_is_noble_gas": false,
+    "next_z": 13,
+    "table_version": "0.1",
+    "ts": "2026-01-30T05:06:26Z",
+    "z_current": 12
+  },
+  "health": {
+    "autofile": {
+      "attachments": 6,
+      "blobs": 5,
+      "db": "/home/kristopherrichards/frameworks/protocol-first-scaffold/index/autofile.sqlite",
+      "quarantined_units": 2,
+      "root": "/home/kristopherrichards/frameworks/protocol-first-scaffold",
+      "units": 6
+    },
+    "health": "yellow",
+    "inbox_failed": 0
+  },
+  "leases": {
+    "count": 0,
+    "items": []
+  },
+  "next": [],
+  "signals": {
+    "recent": [
+      ".bridges/signals/20260130-050544_proclamation_plan.json",
+      ".bridges/signals/20260130-050543_missive_assignment.json",
+      ".bridges/signals/20260130-050543_proclamation_plan.json",
+      ".bridges/signals/20260130-045658_proclamation_plan.json",
+      ".bridges/signals/20260130-045658_missive_assignment.json",
+      ".bridges/signals/20260130-044940_proclamation_plan.json",
+      ".bridges/signals/20260130-044940_missive_assignment.json",
+      ".bridges/signals/20260130-044643_proclamation_plan.json",
+      ".bridges/signals/20260130-044642_missive_assignment.json",
+      ".bridges/signals/20260130-044642_proclamation_plan.json",
+      ".bridges/signals/20260130-044618_proclamation_plan.json",
+      ".bridges/signals/20260130-044618_missive_assignment.json"
+    ],
+    "summary": {
+      "by_kind": {
+        "missive": 5,
+        "proclamation": 7
+      },
+      "total": 38
+    }
+  },
+  "ts": "2026-01-30T05:06:26Z"
+}

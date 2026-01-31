@@ -1,0 +1,396 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Convergence Protocol | Games Index</title>
+  <style>
+    :root {
+      --bg: #050b14;
+      --bg-2: #0a1628;
+      --text: #e8ecf4;
+      --muted: #9aa4b5;
+      --card: #0f1a2f;
+      --border: #1f2b44;
+      --prim-1: #87CEEB;
+      --prim-2: #5F9EA0;
+      --prim-3: #B0E0E6;
+      --comp-1: #B76E79;
+      --comp-2: #E0A899;
+      --comp-3: #C9A0A0;
+    }
+
+    html[data-theme="focus-1"] {
+      --bg: #050b14;
+      --bg-2: #0a1628;
+      --text: #e8ecf4;
+      --muted: #9aa4b5;
+      --card: #0f1a2f;
+      --border: #1f2b44;
+      --prim-1: #87CEEB;
+      --prim-2: #5F9EA0;
+      --prim-3: #B0E0E6;
+      --comp-1: #B76E79;
+      --comp-2: #E0A899;
+      --comp-3: #C9A0A0;
+    }
+
+    html[data-theme="focus-2"] {
+      --bg: #050d1a;
+      --bg-2: #0b1c34;
+      --text: #e7edf8;
+      --muted: #8ea3c0;
+      --card: #0f203e;
+      --border: #1b3356;
+      --prim-1: #6cc6ff;
+      --prim-2: #3e8fb0;
+      --prim-3: #a9ddff;
+      --comp-1: #bf7aa8;
+      --comp-2: #e1a3c6;
+      --comp-3: #cda2bc;
+    }
+
+    html[data-theme="focus-3"] {
+      --bg: #0c0a0a;
+      --bg-2: #1a1111;
+      --text: #f2e9e7;
+      --muted: #b6a3a0;
+      --card: #1a1414;
+      --border: #2d1f1f;
+      --prim-1: #ffb36b;
+      --prim-2: #d07f5a;
+      --prim-3: #ffd9b3;
+      --comp-1: #7bd4c7;
+      --comp-2: #9fe6dc;
+      --comp-3: #8ccdc3;
+    }
+
+    html[data-theme="focus-4"] {
+      --bg: #f3f7fb;
+      --bg-2: #e6eef6;
+      --text: #1a2632;
+      --muted: #4e5f6f;
+      --card: #ffffff;
+      --border: #ccd8e5;
+      --prim-1: #4a90e2;
+      --prim-2: #2f6fb6;
+      --prim-3: #7bb7ff;
+      --comp-1: #b76e79;
+      --comp-2: #c78a7c;
+      --comp-3: #b07b85;
+    }
+
+    html[data-theme="focus-5"] {
+      --bg: #fbf5eb;
+      --bg-2: #f1e6d6;
+      --text: #2d251d;
+      --muted: #6a5b4a;
+      --card: #fffaf3;
+      --border: #e3d3be;
+      --prim-1: #c7882a;
+      --prim-2: #9b6a2a;
+      --prim-3: #e3b067;
+      --comp-1: #3f7f8c;
+      --comp-2: #5fa3b2;
+      --comp-3: #5b8e9a;
+    }
+
+    html[data-theme="focus-6"] {
+      --bg: #f2f7f1;
+      --bg-2: #e0ede3;
+      --text: #1d2a22;
+      --muted: #556b5f;
+      --card: #ffffff;
+      --border: #cfe0d5;
+      --prim-1: #3ba372;
+      --prim-2: #2f7d5a;
+      --prim-3: #77c9a2;
+      --comp-1: #7c6fb7;
+      --comp-2: #9a8fd1;
+      --comp-3: #8b7fbf;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    a { color: var(--prim-3); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+      background: var(--bg-2);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .brand { font-weight: 700; letter-spacing: 0.5px; }
+    .nav a { margin-left: 14px; color: var(--muted); }
+    .nav a.active, .nav a:hover { color: var(--prim-3); }
+
+    main { padding: 20px; max-width: 1100px; margin: 0 auto; }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 2fr 1fr;
+      align-items: center;
+      background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.03), transparent), var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+    }
+
+    .hero-text h1 { margin: 0 0 8px; }
+    .hero-actions { display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+
+    .btn {
+      display: inline-block;
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--prim-2);
+      background: linear-gradient(135deg, rgba(135,206,235,0.2), rgba(183,110,121,0.2));
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .btn.ghost { background: transparent; border-color: var(--border); }
+
+    .mode-switcher {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .mode-button {
+      padding: 6px 10px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+
+    .mode-button.active {
+      border-color: var(--prim-2);
+      background: linear-gradient(135deg, rgba(135,206,235,0.18), rgba(183,110,121,0.18));
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+      margin: 20px 0;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.18);
+    }
+
+    .card h3 { margin-top: 0; }
+
+    .content-section {
+      margin: 40px 0;
+      padding: 30px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    .content-section h2 {
+      color: var(--prim-3);
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 10px;
+    }
+
+    .content-section h3 {
+      color: var(--prim-2);
+      margin-top: 25px;
+      margin-bottom: 15px;
+      font-size: 1.4rem;
+    }
+
+    .content-section p { line-height: 1.7; margin-bottom: 15px; color: var(--text); }
+
+    .content-section ul,
+    .content-section ol { line-height: 1.8; margin-left: 20px; color: var(--text); }
+
+    .content-section li { margin-bottom: 10px; }
+
+    .quote {
+      font-style: italic;
+      color: var(--muted);
+      border-left: 3px solid var(--comp-1);
+      padding-left: 20px;
+      margin: 15px 0;
+    }
+
+    .footer {
+      margin-top: 60px;
+      padding: 30px 20px;
+      background: var(--bg-2);
+      border-top: 1px solid var(--border);
+      text-align: center;
+    }
+
+    .footer p { color: var(--muted); font-size: 0.9rem; margin: 5px 0; }
+
+    @media (max-width: 800px) {
+      .hero { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Convergence Protocol</div>
+    <nav class="nav">
+      <a href="#overview" class="active">Overview</a>
+      <a href="#logic">Logic</a>
+      <a href="#math">Math</a>
+      <a href="#science">Science</a>
+      <a href="#story">Story</a>
+      <a href="#co-op">Co-op</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="overview">
+      <div class="hero-text">
+        <h1>Games Index</h1>
+        <p>Play is the fastest teacher. Use games to learn logic, math, science, and systems.</p>
+        <div class="hero-actions">
+          <a class="btn" href="../../docs/learning-arc.html#games">Learning Arc</a>
+          <a class="btn ghost" href="../../docs/boot-companion.html">Boot Companion</a>
+        </div>
+        <div class="mode-switcher" aria-label="Focus mode selector">
+          <button class="mode-button" data-theme="focus-1">Focus 1</button>
+          <button class="mode-button" data-theme="focus-2">Focus 2</button>
+          <button class="mode-button" data-theme="focus-3">Focus 3</button>
+          <button class="mode-button" data-theme="focus-4">Focus 4</button>
+          <button class="mode-button" data-theme="focus-5">Focus 5</button>
+          <button class="mode-button" data-theme="focus-6">Focus 6</button>
+        </div>
+        <p class="quote">Let them teach you the game.</p>
+      </div>
+      <div class="card">
+        <h3>How to Use</h3>
+        <ol>
+          <li>Pick a category below.</li>
+          <li>Open a game or puzzle pack.</li>
+          <li>Play together and write down new rules.</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="cards">
+      <div class="card">
+        <h3>Logic Puzzles</h3>
+        <p>Grids, sequences, and deduction challenges.</p>
+      </div>
+      <div class="card">
+        <h3>Math Games</h3>
+        <p>Number sense, patterns, and estimation.</p>
+      </div>
+      <div class="card">
+        <h3>Science Demos</h3>
+        <p>Observation games and tiny experiments.</p>
+      </div>
+      <div class="card">
+        <h3>Story Games</h3>
+        <p>Collaborative stories and role play.</p>
+      </div>
+    </section>
+
+    <section class="content-section" id="logic">
+      <h2>Logic</h2>
+      <ul>
+        <li>Logic grid packs (PDF)</li>
+        <li>Codebreaker puzzles</li>
+        <li>Pattern discovery challenges</li>
+      </ul>
+    </section>
+
+    <section class="content-section" id="math">
+      <h2>Math</h2>
+      <ul>
+        <li>Mental math leagues</li>
+        <li>Geometry draw-and-build games</li>
+        <li>Probability mini-games</li>
+      </ul>
+    </section>
+
+    <section class="content-section" id="science">
+      <h2>Science</h2>
+      <ul>
+        <li>Observation scavenger hunts</li>
+        <li>Simple physics toys</li>
+        <li>Classification and taxonomy games</li>
+      </ul>
+    </section>
+
+    <section class="content-section" id="story">
+      <h2>Story and Myth</h2>
+      <ul>
+        <li>Myth retellings with new rules</li>
+        <li>Design a world and write its laws</li>
+        <li>Role-play with constraints</li>
+      </ul>
+    </section>
+
+    <section class="content-section" id="co-op">
+      <h2>Co-op and Building</h2>
+      <ul>
+        <li>Build a tool, test it, teach it</li>
+        <li>Design a game together and trade roles</li>
+        <li>Keep a shared lab notebook</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Play is the shortest path to understanding.</p>
+  </footer>
+
+  <script>
+    const buttons = Array.from(document.querySelectorAll(".mode-button"));
+    const themes = buttons.map((button) => button.dataset.theme);
+    const stored = localStorage.getItem("cp-focus-theme");
+    const initial = themes.includes(stored) ? stored : "focus-1";
+
+    const setTheme = (theme) => {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem("cp-focus-theme", theme);
+      buttons.forEach((button) => {
+        button.classList.toggle("active", button.dataset.theme === theme);
+      });
+    };
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => setTheme(button.dataset.theme));
+    });
+
+    setTheme(initial);
+  </script>
+</body>
+</html>

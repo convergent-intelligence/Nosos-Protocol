@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "domain": "chemistry",
+  "name": "Chemistry",
+  "description": "Chemistry-adjacent preprints and broad science coverage.",
+  "teams": [
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_chem_ph", "name": "arXiv physics.chem-ph", "url": "https://arxiv.org/rss/physics.chem-ph", "tags": ["chem_ph", "arxiv"]}
+      ]
+    },
+    {
+      "id": "journals",
+      "name": "Journals",
+      "feeds": [
+        {"id": "nature", "name": "Nature", "url": "https://www.nature.com/nature.rss", "tags": ["journal"]}
+      ]
+    }
+  ]
+}

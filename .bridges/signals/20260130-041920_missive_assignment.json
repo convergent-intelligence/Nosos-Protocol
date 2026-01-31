@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned LIFE-001 to council (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/LIFE-001_life-systems-ocwater-baseline.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/LIFE-001_life-systems-ocwater-baseline.md",
+      "Work the item: LIFE-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-041920",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:19:20Z",
+    "to": "council",
+    "urgency": "normal"
+  }
+}

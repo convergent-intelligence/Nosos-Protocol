@@ -1,0 +1,28 @@
+{
+  "body": {
+    "asks": [],
+    "claim": "Atomic Autonomy guardrail: enforced in_progress budgets (max 2 per domain) and rebalanced queue to match",
+    "confidence": "medium",
+    "evidence": [
+      "docs/atomic-autonomy.md",
+      ".substrate/constants/budgets.yaml",
+      "scripts/orchestrate"
+    ],
+    "next_actions": [
+      "Use ./scripts/orchestrate budgets to monitor"
+    ],
+    "topic": "autonomy"
+  },
+  "footer": {
+    "expects_response": false,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-044119",
+    "kind": "proclamation",
+    "timestamp": "2026-01-30T04:41:19Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

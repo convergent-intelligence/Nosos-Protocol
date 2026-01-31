@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned FIELD-001 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/FIELD-001_orchestration-field-meter.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/FIELD-001_orchestration-field-meter.md",
+      "Work the item: FIELD-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-045658",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:56:58Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

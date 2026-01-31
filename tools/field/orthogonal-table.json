@@ -1,0 +1,114 @@
+{
+  "version": "0.1",
+  "elements": [
+    {
+      "z": 1,
+      "symbol": "H",
+      "name": "Existence",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/validate.sh"},
+        {"kind": "file_exists", "path": "tools/plan-registry/plans.yaml"}
+      ]
+    },
+    {
+      "z": 2,
+      "symbol": "He",
+      "name": "Redundancy",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/backup.sh"},
+        {"kind": "file_exists", "path": "scripts/restore.sh"}
+      ]
+    },
+    {
+      "z": 3,
+      "symbol": "Li",
+      "name": "Relay",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/signal"},
+        {"kind": "file_exists", "path": ".bridges/protocols/signal-format.yaml"}
+      ]
+    },
+    {
+      "z": 4,
+      "symbol": "Be",
+      "name": "Cell",
+      "checks": [
+        {"kind": "file_exists", "path": "docs/beryllium-scheme.md"},
+        {"kind": "file_exists", "path": "scripts/orchestrate"}
+      ]
+    },
+    {
+      "z": 5,
+      "symbol": "B",
+      "name": "Boundaries",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/oxygen"},
+        {"kind": "file_exists", "path": "docs/oxygen-protocol.md"}
+      ]
+    },
+    {
+      "z": 6,
+      "symbol": "C",
+      "name": "Backbone",
+      "checks": [
+        {"kind": "file_exists", "path": "docs/carbon-scheme.md"},
+        {"kind": "file_exists", "path": "docs/context-protocol.md"}
+      ]
+    },
+    {
+      "z": 7,
+      "symbol": "N",
+      "name": "Naming",
+      "checks": [
+        {"kind": "file_exists", "path": ".bridges/lexicon/core-terms.yaml"}
+      ]
+    },
+    {
+      "z": 8,
+      "symbol": "O",
+      "name": "Oxidation",
+      "checks": [
+        {"kind": "file_exists", "path": ".substrate/constants/budgets.yaml"},
+        {"kind": "file_exists", "path": "docs/atomic-autonomy.md"}
+      ]
+    },
+    {
+      "z": 9,
+      "symbol": "F",
+      "name": "Friction",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/context"},
+        {"kind": "file_exists", "path": "tools/context/context.py"}
+      ]
+    },
+    {
+      "z": 10,
+      "symbol": "Ne",
+      "name": "Closed Shell",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/build-distro.sh"},
+        {"kind": "file_exists", "path": "scripts/verify-distro.sh"},
+        {"kind": "glob_exists", "pattern": "dist/agent-systems-framework-*.tar.gz"}
+      ]
+    },
+    {
+      "z": 11,
+      "symbol": "Na",
+      "name": "Defaults",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/deploy/install-asf.sh"},
+        {"kind": "file_exists", "path": "docs/deploy/image-spec.md"}
+      ]
+    },
+    {
+      "z": 12,
+      "symbol": "Mg",
+      "name": "Ignition",
+      "checks": [
+        {"kind": "file_exists", "path": "scripts/autofile"}
+      ]
+    }
+  ],
+  "noble_gases": [2, 10, 18, 36, 54, 86, 118],
+  "iron_threshold": 26
+}

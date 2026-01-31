@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned ORTHO-001 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/ORTHO-001_orthogonal-periodic-table-mapping.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/ORTHO-001_orthogonal-periodic-table-mapping.md",
+      "Work the item: ORTHO-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-050543",
+    "kind": "missive",
+    "timestamp": "2026-01-30T05:05:43Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

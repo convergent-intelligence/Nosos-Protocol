@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>q-bio updates on arXiv.org</title>
+    <link>http://rss.arxiv.org/rss/q-bio</link>
+    <description>q-bio updates on the arXiv.org e-print archive.</description>
+    <atom:link href="http://rss.arxiv.org/rss/q-bio" rel="self" type="application/rss+xml"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jan 2026 05:00:24 +0000</lastBuildDate>
+    <managingEditor>rss-help@arxiv.org</managingEditor>
+    <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+    <skipDays>
+      <day>Saturday</day>
+      <day>Sunday</day>
+    </skipDays>
+    <item>
+      <title>Integrating Color Histogram Analysis and Convolutional Neural Network for Skin Lesion Classification</title>
+      <link>https://arxiv.org/abs/2601.20869</link>
+      <description>arXiv:2601.20869v1 Announce Type: new 
+Abstract: The color of skin lesions is an important diagnostic feature for identifying malignant melanoma and other skin diseases. Typical colors associated with melanocytic lesions include tan, brown, black, red, white, and blue gray. This study introduces a novel feature: the number of colors present in a lesion, which can indicate the severity of disease and help distinguish melanomas from benign lesions. We propose a color histogram analysis method to examine lesion pixel values from three publicly available datasets: PH2, ISIC2016, and Med Node. The PH2 dataset contains ground truth annotations of lesion colors, while ISIC2016 and Med Node do not; our algorithm estimates the ground truth using color histogram analysis based on PH2. We then design and train a 19 layer Convolutional Neural Network (CNN) with residual skip connections to classify lesions into three categories based on the number of colors present. DeepDream visualization is used to interpret features learned by the network, and multiple CNN configurations are tested. The best model achieves a weighted F1 score of 75 percent. LIME is applied to identify important regions influencing model decisions. The results show that the number of colors in a lesion is a significant feature for describing skin conditions, and the proposed CNN with three skip connections demonstrates strong potential for clinical diagnostic support.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.20869v1</guid>
+      <category>q-bio.QM</category>
+      <category>cs.AI</category>
+      <category>eess.IV</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <arxiv:DOI>10.1016/j.compbiomed.2024.109250</arxiv:DOI>
+      <arxiv:journal_reference>Computers in Biology and Medicine (2024), 109250</arxiv:journal_reference>
+      <dc:creator>M. A. Rasel, Sameem Abdul Kareem, Unaizah Obaidellah</dc:creator>
+    </item>
+    <item>
+      <title>Log Focal Frequency Loss for Bioimage Restoration</title>
+      <link>https://arxiv.org/abs/2601.20878</link>
+      <description>arXiv:2601.20878v1 Announce Type: new 
+Abstract: Image restoration of biological structures in microscopy poses unique challenges for preserving fine textures and sharp edges. While recent GAN-based image restoration formulations have introduced frequency-domain losses for natural images, microscopy images pose distinct challenges with large dynamic ranges and sparse but critical structures with spatially-variable contrast. Inspired by the principle of logarithmic perception in human vision, we propose a log focal frequency loss (LFFL) tailored for microscopy restoration. This loss combines adaptive spectral weighting from log-space differences with log-dampened error measurement, ensuring balanced reconstruction across all frequency bands while preserving both structural coherence and fine details. We tested our GAN-based framework on two use-cases with real ground-truths: deblurring of fluorescence images of cell nuclei on microgroove substrates and denoising of zebrafish embryo images from the FMD dataset. Compared to training with only spatial-domain losses and with existing frequency-domain losses, our method achieves improvements across several quality metrics. Code is available at github.com/xjzhaang/log-focal-frequency-loss.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.20878v1</guid>
+      <category>q-bio.QM</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Xingjian Zhang, Claire Leclech, Louison Blivet-Bailly, Abdul I. Barakat, Elsa D. Angelini</dc:creator>
+    </item>
+    <item>
+      <title>ATTNSOM: Learning Cross-Isoform Attention for Cytochrome P450 Site-of-Metabolism</title>
+      <link>https://arxiv.org/abs/2601.20891</link>
+      <description>arXiv:2601.20891v1 Announce Type: new 
+Abstract: Identifying metabolic sites where cytochrome P450 enzymes metabolize small-molecule drugs is essential for drug discovery. Although existing computational approaches have been proposed for site-of-metabolism prediction, they typically ignore cytochrome P450 isoform identity or model isoforms independently, thereby failing to fully capture inherent cross-isoform metabolic patterns. In addition, prior evaluations often rely on top-k metrics, where false positive atoms may be included among the top predictions, underscoring the need for complementary metrics that more directly assess binary atom-level discrimination under severe class imbalance. We propose ATTNSOM, an atom-level site-of-metabolism prediction framework that integrates intrinsic molecular reactivity with cross-isoform relationships. The model combines a shared graph encoder, molecule-conditioned atom representations, and a cross-attention mechanism to capture correlated metabolic patterns across cytochrome P450 isoforms. The model is evaluated on two benchmark datasets annotated with site-of-metabolism labels at atom resolution. Across these benchmarks, the model achieves consistently strong top-k performance across multiple cytochrome P450 isoforms. Relative to ablated variants, the model yields higher Matthews correlation coefficient, indicating improved discrimination of true metabolic sites. These results support the importance of explicitly modeling cross-isoform relationships for site-of-metabolism prediction. The code and datasets are available at https://github.com/dmis-lab/ATTNSOM.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.20891v1</guid>
+      <category>q-bio.QM</category>
+      <category>cs.LG</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Hajung Kim, Eunha Lee, Sohyun Chung, Jueon Park, Seungheun Baek, Jaewoo Kang</dc:creator>
+    </item>
+    <item>
+      <title>Differential Dynamic Causal Nets: Model Construction, Identification and Group Comparisons</title>
+      <link>https://arxiv.org/abs/2601.21478</link>
+      <description>arXiv:2601.21478v1 Announce Type: new 
+Abstract: Pathophysiolpgical modelling of brain systems from microscale to macroscale remains difficult in group comparisons partly because of the infeasibility of modelling the interactions of thousands of neurons at the scales involved. Here, to address the challenge, we present a novel approach to construct differential causal networks directly from electroencephalogram (EEG) data. The proposed network is based on conditionally coupled neuronal circuits which describe the average behaviour of interacting neuron populations that contribute to observed EEG data. In the network, each node represents a parameterised local neural system while directed edges stand for node-wise connections with transmission parameters. The network is hierarchically structured in the sense that node and edge parameters are varying in subjects but follow a mixed-effects model. A novel evolutionary optimisation algorithm for parameter inference in the proposed method is developed using a loss function derived from Chen-Fliess expansions of stochastic differential equations. The method is demonstrated by application to the fitting of coupled Jansen-Rit local models. The performance of the proposed method is evaluated on both synthetic and real EEG data. In the real EEG data analysis, we track changes in the parameters that characterise dynamic causality within brains that demonstrate epileptic activity. We show evidence of network functional disruptions, due to imbalance of excitatory-inhibitory interneurons and altered epileptic brain connectivity, before and during seizure periods.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21478v1</guid>
+      <category>q-bio.NC</category>
+      <category>stat.AP</category>
+      <category>stat.ML</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Kang You, Gary Green, Jian Zhang</dc:creator>
+    </item>
+    <item>
+      <title>Long-term evolution of regulatory DNA sequences. Part 2: Theory and future challenges</title>
+      <link>https://arxiv.org/abs/2601.21480</link>
+      <description>arXiv:2601.21480v1 Announce Type: new 
+Abstract: Promoters and enhancers are cis-regulatory elements (CREs), DNA sequences that bind transcription factor (TF) proteins to up- or down-regulate target genes. Decades-long efforts yielded TF-DNA interaction models that predict how strongly an individual TF binds arbitrary DNA sequences and how individual binding events on the CRE combine to affect gene expression. These insights can be synthesized into a global, biophysically-realistic, and quantitative genotype-phenotype (GP) map for gene regulation, a "holy grail" for the application of evolutionary theory. A global map provides a rare opportunity to simulate long-term evolution of regulatory sequences and pose several fundamental questions: How long does it take to evolve CREs de novo? How many non-trivial regulatory functions exist in sequence space? How connected are they? For which regulatory architecture is CRE evolution most rapid and evolvable? In this article, the second of a two-part series, we review the application of evolutionary concepts - epistasis, robustness, evolvability, tunability, plasticity, and bet-hedging - to the evolution of gene regulatory sequences. We then evaluate the potential for a unifying theory for the evolution of regulatory sequences, and identify key open challenges.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21480v1</guid>
+      <category>q-bio.PE</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Elia Mascolo, R\'eka Borb\'ely, Noa Ottilie Borst, Nicholas H Barton, Justin Crocker, Ga\v{s}per Tka\v{c}ik</dc:creator>
+    </item>
+    <item>
+      <title>How 'Neural' is a Neural Foundation Model?</title>
+      <link>https://arxiv.org/abs/2601.21508</link>
+      <description>arXiv:2601.21508v1 Announce Type: new 
+Abstract: Foundation models have shown remarkable success in fitting biological visual systems; however, their black-box nature inherently limits their utility for understanding brain function. Here, we peek inside a SOTA foundation model of neural activity (Wang et al., 2025) as a physiologist might, characterizing each 'neuron' based on its temporal response properties to parametric stimuli. We analyze how different stimuli are represented in neural activity space by building decoding manifolds, and we analyze how different neurons are represented in stimulus-response space by building neural encoding manifolds. We find that the different processing stages of the model (i.e., the feedforward encoder, recurrent, and readout modules) each exhibit qualitatively different representational structures in these manifolds. The recurrent module shows a jump in capabilities over the encoder module by 'pushing apart' the representations of different temporal stimulus patterns. Our 'tubularity' metric quantifies this stimulus-dependent development of neural activity as biologically plausible. The readout module achieves high fidelity by using numerous specialized feature maps rather than biologically plausible mechanisms. Overall, this study provides a window into the inner workings of a prominent neural foundation model, gaining insights into the biological relevance of its internals through the novel analysis of its neurons' joint temporal response patterns. Our findings suggest design changes that could bring neural foundation models into closer alignment with biological systems: introducing recurrence in early encoder stages, and constraining features in the readout module.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21508v1</guid>
+      <category>q-bio.NC</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Johannes Bertram, Luciano Dyballa, Anderson Keller, Savik Kinger, Steven W. Zucker</dc:creator>
+    </item>
+    <item>
+      <title>Computational investigation of single herbal drugs in Ayurveda for diabetes and obesity using knowledge graph and network pharmacology</title>
+      <link>https://arxiv.org/abs/2601.21643</link>
+      <description>arXiv:2601.21643v1 Announce Type: new 
+Abstract: Metabolic diseases such as type 2 diabetes and obesity represent a rapidly escalating global health burden, yet current therapeutic strategies largely target isolated symptoms or single molecular pathways. To this end, we developed an integrated computational pipeline leveraging knowledge graph, pathway analysis and network pharmacology to elucidate the multi-target mechanisms of Ayurvedic Single Herbal Drugs (SHDs). SHDs associated with diabetes and obesity were curated from the Ayurvedic Pharmacopoeia of India, followed by phytochemical identification using IMPPAT database, yielding a shortlist of 11 SHDs and their 188 phytochemicals after drug-likeness and bioavailability filtering. Subsequently, molecular targets of the phytochemicals in SHDs, disease-associated genes and therapeutic targets of FDA-approved drugs, were curated via integration of data from several databases. Pathway enrichment analysis revealed significant functional overlap between SHD-associated and disease-associated pathways. All curated data were embedded into a Neo4j-based knowledge graph, enabling SHD-disease intersection analysis that prioritized key disease-relevant targets, including PTPN1, GLP1R, and DPP4. Also, the SHD-Target-FDA-approved drug profile elucidated the molecular and mechanistic aspects of the SHDs as a phytochemical cocktail, and is in alignment with the clinically studied synergistic FDA-approved drug combinations. Network pharmacology based protein-protein interaction analysis identified PPARG as another central regulator. Using a quantitative framework, we identified phytochemical pairs within SHDs, which were structurally dissimilar and target-wise distinct, yet acted on shared or different disease-associated pathways, indicating complementary and potentially synergistic interactions. Molecular docking analysis of two selected druggable targets identified putative lead phytochemicals.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21643v1</guid>
+      <category>q-bio.MN</category>
+      <category>q-bio.SC</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>new</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Priyotosh Sil, Rahul Tiwari, Vasavi Garisetti, Shanmuga Priya Baskaran, Fenita Hephzibah Dhanaseelan, Smita Srivastava, Areejit Samal</dc:creator>
+    </item>
+    <item>
+      <title>Diversifying Toxicity Search in Large Language Models Through Speciation</title>
+      <link>https://arxiv.org/abs/2601.20981</link>
+      <description>arXiv:2601.20981v1 Announce Type: cross 
+Abstract: Evolutionary prompt search is a practical black-box approach for red teaming large language models (LLMs), but existing methods often collapse onto a small family of high-performing prompts, limiting coverage of distinct failure modes. We present a speciated quality-diversity (QD) extension of ToxSearch that maintains multiple high-toxicity prompt niches in parallel rather than optimizing a single best prompt. ToxSearch-S introduces unsupervised prompt speciation via a search methodology that maintains capacity-limited species with exemplar leaders, a reserve pool for outliers and emerging niches, and species-aware parent selection that trades off within-niche exploitation and cross-niche exploration. ToxSearch-S is found to reach higher peak toxicity ($\approx 0.73$ vs.\ $\approx 0.47$) and a extreme heavier tail (top-10 median $0.66$ vs.\ $0.45$) than the baseline, while maintaining comparable performance on moderately toxic prompts. Speciation also yields broader semantic coverage under a topic-as-species analysis (higher effective topic diversity $N_1$ and larger unique topic coverage $K$). Finally, species formed are well-separated in embedding space (mean separation ratio $\approx 1.93$) and exhibit distinct toxicity distributions, indicating that speciation partitions the adversarial space into behaviorally differentiated niches rather than superficial lexical variants. This suggests our approach uncovers a wider range of attack strategies.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.20981v1</guid>
+      <category>cs.NE</category>
+      <category>q-bio.PE</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Onkar Shelar, Travis Desell</dc:creator>
+    </item>
+    <item>
+      <title>The quenched structured coalescent for diploid population models on finite graphs with large migrations and uneven offspring distributions</title>
+      <link>https://arxiv.org/abs/2601.21079</link>
+      <description>arXiv:2601.21079v1 Announce Type: cross 
+Abstract: In this work we describe a new model for the evolution of a diploid structured population backwards in time that allows for large migrations and uneven offspring distributions. The model generalizes both the mean-field model of Birkner et al. [\textit{Electron. J. Probab.} 23: 1-44 (2018)] and the haploid structured model of M\"{o}hle [\textit{Theor. Popul. Biol.} 2024 Apr:156:103-116]. We show convergence, with mild conditions on the joint distribution of offspring frequencies and migrations, of gene genealogies conditional on the pedigree to a time-inhomogeneous coalescent process driven by a Poisson point process $\Psi$ that records the timing and scale of large migrations and uneven offspring distributions. This quenched scaling limit demonstrates a significant difference in the predictions of the classical annealed theory of structured coalescent processes. In particular, the annealed and quenched scaling limits coincide if and only if these large migrations and uneven offspring distributions are absent. The proof proceeds by the method of moments and utilizes coupling techniques from the theory of random walks in random environments. Several examples are given and their quenched scaling limits established.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21079v1</guid>
+      <category>math.PR</category>
+      <category>q-bio.PE</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/publicdomain/zero/1.0/</dc:rights>
+      <dc:creator>Maximillian Newman</dc:creator>
+    </item>
+    <item>
+      <title>Multiple binding modes of AKT on PIP$_3$-containing membranes</title>
+      <link>https://arxiv.org/abs/2601.21216</link>
+      <description>arXiv:2601.21216v1 Announce Type: cross 
+Abstract: The PI3K/AKT signaling pathway is triggered by recruitment of AKT to cellular membranes. Although AKT is a multidomain serine/threonine kinase composed of an N-terminal pleckstrin homology (PH) domain and a C-terminal kinase domain, how these domains cooperate to regulate AKT activation on membranes remains unclear at the molecular level. Here, using molecular dynamics simulations of full-length AKT on PIP$_3$-containing lipid bilayers, we identify four distinct membrane-binding modes that differ in the orientations and membrane contacts of the PH and kinase domains. In addition to PIP$_3$ binding to the PH domain, we observe specific PIP$_3$ interactions with basic residues in the kinase domain. In the most stable mode, PIP$_3$ interacts with both the canonical and a secondary binding site in the PH domain, while the kinase domain adopts an orientation in which the activation-loop phosphorylation site is exposed to the solvent. Interestingly, the populations of these binding modes depend on the PIP$_3$ concentration in the membrane, leading to changes in the preferred orientation of AKT. These findings shed light on how lipid recognition by the PH domain and the kinase domain of AKT cooperatively shape its membrane-bound conformations.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21216v1</guid>
+      <category>physics.bio-ph</category>
+      <category>physics.comp-ph</category>
+      <category>q-bio.BM</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Yuki Nakagaki, Eiji Yamamoto</dc:creator>
+    </item>
+    <item>
+      <title>BrainFuse: a unified infrastructure integrating realistic biological modeling and core AI methodology</title>
+      <link>https://arxiv.org/abs/2601.21407</link>
+      <description>arXiv:2601.21407v1 Announce Type: cross 
+Abstract: Neuroscience and artificial intelligence represent distinct yet complementary pathways to general intelligence. However, amid the ongoing boom in AI research and applications, the translational synergy between these two fields has grown increasingly elusive-hampered by a widening infrastructural incompatibility: modern AI frameworks lack native support for biophysical realism, while neural simulation tools are poorly suited for gradient-based optimization and neuromorphic hardware deployment. To bridge this gap, we introduce BrainFuse, a unified infrastructure that provides comprehensive support for biophysical neural simulation and gradient-based learning. By addressing algorithmic, computational, and deployment challenges, BrainFuse exhibits three core capabilities: (1) algorithmic integration of detailed neuronal dynamics into a differentiable learning framework; (2) system-level optimization that accelerates customizable ion-channel dynamics by up to 3,000x on GPUs; and (3) scalable computation with highly compatible pipelines for neuromorphic hardware deployment. We demonstrate this full-stack design through both AI and neuroscience tasks, from foundational neuron simulation and functional cylinder modeling to real-world deployment and application scenarios. For neuroscience, BrainFuse supports multiscale biological modeling, enabling the deployment of approximately 38,000 Hodgkin-Huxley neurons with 100 million synapses on a single neuromorphic chip while consuming as low as 1.98 W. For AI, BrainFuse facilitates the synergistic application of realistic biological neuron models, demonstrating enhanced robustness to input noise and improved temporal processing endowed by complex HH dynamics. BrainFuse therefore serves as a foundational engine to facilitate cross-disciplinary research and accelerate the development of next-generation bio-inspired intelligent systems.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21407v1</guid>
+      <category>cs.NE</category>
+      <category>q-bio.NC</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Baiyu Chen, Yujie Wu, Siyuan Xu, Peng Qu, Dehua Wu, Xu Chu, Haodong Bian, Shuo Zhang, Bo Xu, Youhui Zhang, Zhengyu Ma, Guoqi Li</dc:creator>
+    </item>
+    <item>
+      <title>Impact of behavioral heterogeneity on epidemic outcome and its mapping into effective network topologies</title>
+      <link>https://arxiv.org/abs/2601.21743</link>
+      <description>arXiv:2601.21743v1 Announce Type: cross 
+Abstract: Human behavior plays a critical role in shaping epidemic trajectories. During health crises, people respond in diverse ways in terms of self-protection and adherence to recommended measures, largely reflecting differences in how individuals assess risk. This behavioral variability induces effective heterogeneity into key epidemic parameters, such as infectivity and susceptibility. We introduce a minimal extension of the susceptible-infected-removed~(SIR) model, denoted HeSIR, that captures these effects through a simple bimodal scheme, where individuals may have higher or lower transmission--related traits. We derive a closed-form expression for the epidemic threshold in terms of the model parameters, and the network's degree distribution and homophily, defined as the tendency of like--risk individuals to preferentially interact. We identify a resurgence regime just beyond the classical threshold, where the number of infected individuals may initially decline before surging into large-scale transmission. Through simulations on homogeneous and heterogeneous network topologies we corroborate the analytical results and highlight how variations in susceptibility and infectivity influence the epidemic dynamics. We further show that, under suitable assumptions, the HeSIR model maps onto a standard SIR process on an appropriately modified contact network, providing a unified interpretation in terms of structural connectivity. Our findings quantify the effect of heterogeneous behavioral responses, especially in the presence of homophily, and caution against underestimating epidemic potential in fragmented populations, which may undermine timely containment efforts. The results also extend to heterogeneity arising from biological or other non-behavioral sources.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.21743v1</guid>
+      <category>physics.soc-ph</category>
+      <category>q-bio.PE</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <arxiv:DOI>10.1103/xps9-qqvp</arxiv:DOI>
+      <dc:creator>Fabio Mazza, Gabriele Ricci, Francesca Colaiori, Stefano Guarino, Sandro Meloni, Fabio Saracco</dc:creator>
+    </item>
+    <item>
+      <title>The Patient is not a Moving Document: A World Model Training Paradigm for Longitudinal EHR</title>
+      <link>https://arxiv.org/abs/2601.22128</link>
+      <description>arXiv:2601.22128v1 Announce Type: cross 
+Abstract: Large language models (LLMs) trained with next-word-prediction have achieved success as clinical foundation models. Representations from these language backbones yield strong linear probe performance across biomedical tasks, suggesting that patient semantics emerge from next-token prediction at scale. However, this paradigm treats patients as a document to be summarized rather than a dynamical system to be simulated; a patient's trajectory emerges from their state evolving under interventions and time, requiring models that simulate dynamics rather than predict tokens. To address this, we introduce SMB-Structure, a world model for structured EHR that grounds a joint-embedding prediction architecture (JEPA) with next-token prediction (SFT). SFT grounds our model to reconstruct future patient states in token space, while JEPA predicts those futures in latent space from the initial patient representation alone, forcing trajectory dynamics to be encoded before the next state is observed. We validate across two large-scale cohorts: Memorial Sloan Kettering (23,319 oncology patients; 323,000+ patient-years) and INSPECT (19,402 pulmonary embolism patients). Using a linear probe evaluated at multiple points along the disease trajectory, we demonstrate that our training paradigm learns embeddings that capture disease dynamics not recoverable by autoregressive baselines, enabling SMB-Structure to achieve competitive performance on complex tasks characterized by high patient heterogeneity. Model weights are available at https://huggingface.co/standardmodelbio/SMB-v1-1.7B-Structure.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.22128v1</guid>
+      <category>cs.AI</category>
+      <category>cs.CE</category>
+      <category>q-bio.QM</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Irsyad Adam, Zekai Chen, David Laprade, Shaun Porwal, David Laub, Erik Reinertsen, Arda Pekis, Kevin Brown</dc:creator>
+    </item>
+    <item>
+      <title>Models of attractor dynamics in the brain</title>
+      <link>https://arxiv.org/abs/2505.01098</link>
+      <description>arXiv:2505.01098v2 Announce Type: replace 
+Abstract: Attractor dynamics are a fundamental computational motif in neural circuits, supporting diverse cognitive functions through stable, self-sustaining patterns of neural activity. In these lecture notes, we review four key examples that demonstrate how autoassociative neural network models can elucidate the computational mechanisms underlying attractor-based information processing in biological neural systems performing cognitive functions. Drawing on empirical evidence, we explore hippocampal spatial representations, visual classification in the inferotemporal cortex, perceptual adaptation and priming, and working-memory biases shaped by sensory history. Across these domains, attractor network models reveal common computational principles and provide analytical insights into how experience shapes neural activity and behavior. Our synthesis underscores the value of attractor models as powerful tools for probing the neural basis of cognition and behavior.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2505.01098v2</guid>
+      <category>q-bio.NC</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Tala Fakhoury, Elia Turner, Sushrut Thorat, Athena Akrami</dc:creator>
+    </item>
+    <item>
+      <title>RNAGenScape: Property-Guided, Optimized Generation of mRNA Sequences with Manifold Langevin Dynamics</title>
+      <link>https://arxiv.org/abs/2510.24736</link>
+      <description>arXiv:2510.24736v2 Announce Type: replace 
+Abstract: Generating property-optimized mRNA sequences is central to applications such as vaccine design and protein replacement therapy, but remains challenging due to limited data, complex sequence-function relationships, and the narrow space of biologically viable sequences. Generative methods that drift away from the data manifold can yield sequences that fail to fold, translate poorly, or are otherwise nonfunctional. We present RNAGenScape, a property-guided manifold Langevin dynamics framework for mRNA sequence generation that operates directly on a learned manifold of real data. By performing iterative local optimization constrained to this manifold, RNAGenScape preserves biological viability, accesses reliable guidance, and avoids excursions into nonfunctional regions of the ambient sequence space. The framework integrates three components: (1) an autoencoder jointly trained with a property predictor to learn a property-organized latent manifold, (2) a denoising autoencoder that projects updates back onto the manifold, and (3) a property-guided Langevin dynamics procedure that performs optimization along the manifold. Across three real-world mRNA datasets spanning two orders of magnitude in size, RNAGenScape increases median property gain by up to 148% and success rate by up to 30% while ensuring biological viability of generated sequences, and achieves competitive inference efficiency relative to existing generative approaches.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2510.24736v2</guid>
+      <category>q-bio.QM</category>
+      <category>cs.LG</category>
+      <category>q-bio.BM</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Danqi Liao, Chen Liu, Xingzhi Sun, Di\'e Tang, Haochen Wang, Scott Youlten, Srikar Krishna Gopinath, Haejeong Lee, Ethan C. Strayer, Antonio J. Giraldez, Smita Krishnaswamy</dc:creator>
+    </item>
+    <item>
+      <title>A thermoinformational formulation for the description of neuropsychological systems</title>
+      <link>https://arxiv.org/abs/2511.09506</link>
+      <description>arXiv:2511.09506v3 Announce Type: replace 
+Abstract: Complex systems produce high-dimensional signals that lack macroscopic variables analogous to entropy, temperature, or free energy. This work introduces a thermoinformational formulation that derives entropy, internal energy, temperature, and Helmholtz free energy directly from empirical microstate distributions of arbitrary datasets. The approach provides a data-driven description of how a system reorganizes, exchanges information, and moves between stable and unstable states. Applied to dual-EEG recordings from mother-infant dyads performing the A-not-B task, the formulation captures increases in informational heat during switches and errors, and reveals that correct choices arise from more stable, low-temperature states. In an independent optogenetic dam-pup experiment, the same variables separate stimulation conditions and trace coherent trajectories in thermodynamic state space. Across both human and rodent systems, this thermoinformational formulation yields compact and physically interpretable macroscopic variables that generalize across species, modalities, and experimental paradigms.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2511.09506v3</guid>
+      <category>q-bio.NC</category>
+      <category>stat.AP</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>George-Rafael Domenikos, Victoria Leong</dc:creator>
+    </item>
+    <item>
+      <title>Numerical Twin with Two Dimensional Ornstein--Uhlenbeck Processes of Transient Oscillations in EEG signal</title>
+      <link>https://arxiv.org/abs/2512.21768</link>
+      <description>arXiv:2512.21768v2 Announce Type: replace 
+Abstract: Stochastic burst-like oscillations are common in physiological signals, yet there are few compact generative models that capture their transient structure. We propose a numerical-twin framework that represents transient narrowband activity as a two-dimensional Ornstein-Uhlenbeck (OU) process with three interpretable parameters: decay rate, mean frequency, and noise amplitude. We develop two complementary estimation strategies. The first fits the power spectral density, amplitude distribution, and autocorrelation to recover OU-parameters. The second segments burst events and performs a statistical match between empirical spindle statistics (duration, amplitude, inter-event interval) and simulated OU output via grid search, resolving parameter degeneracies by including event counts. We extend the framework to multiple frequency bands and piecewise-stationary dynamics to track slow parameter drifts. Applied to electroencephalography (EEG) recorded during general anesthesia, the method identifies OU models that reproduce alpha-spindle (8-12 Hz) morphology and band-limited spectra with low residual error, enabling real-time tracking of state changes that are not apparent from band power alone. This decomposition yields a sparse, interpretable representation of transient oscillations and provides interpretable metrics for brain monitoring.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2512.21768v2</guid>
+      <category>q-bio.NC</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>P. O. Michel, C. Sun, S. Jaffard, D. Longrois, D. Holcman</dc:creator>
+    </item>
+    <item>
+      <title>AI Developments for T and B Cell Receptor Modeling and Therapeutic Design</title>
+      <link>https://arxiv.org/abs/2601.17138</link>
+      <description>arXiv:2601.17138v2 Announce Type: replace 
+Abstract: Artificial intelligence (AI) is accelerating progress in modeling T and B cell receptors by enabling predictive and generative frameworks grounded in sequence data and immune context. This chapter surveys recent advances in the use of protein language models, machine learning, and multimodal integration for immune receptor modeling. We highlight emerging strategies to leverage single-cell and repertoire-scale datasets, and optimize immune receptor candidates for therapeutic design. These developments point toward a new generation of data-efficient, generalizable, and clinically relevant models that better capture the diversity and complexity of adaptive immunity.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2601.17138v2</guid>
+      <category>q-bio.BM</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-nd/4.0/</dc:rights>
+      <dc:creator>Linhui Xie, Aurelien Pelissier, Yanjun Shao, Maria Rodriguez Martinez</dc:creator>
+    </item>
+    <item>
+      <title>scDataset: Scalable Data Loading for Deep Learning on Large-Scale Single-Cell Omics</title>
+      <link>https://arxiv.org/abs/2506.01883</link>
+      <description>arXiv:2506.01883v2 Announce Type: replace-cross 
+Abstract: Training deep learning models on single-cell datasets with hundreds of millions of cells requires loading data from disk, as these datasets exceed available memory. While random sampling provides the data diversity needed for effective training, it is prohibitively slow due to the random access pattern overhead, whereas sequential streaming achieves high throughput but introduces biases that degrade model performance. We present scDataset, a PyTorch data loader that enables efficient training from on-disk data with seamless integration across diverse storage formats. Our approach combines block sampling and batched fetching to achieve quasi-random sampling that balances I/O efficiency with minibatch diversity. On Tahoe-100M, a dataset of 100 million cells, scDataset achieves more than two orders of magnitude speedup compared to true random sampling while working directly with AnnData files. We provide theoretical bounds on minibatch diversity and empirically show that scDataset matches the performance of true random sampling across multiple classification tasks.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2506.01883v2</guid>
+      <category>cs.LG</category>
+      <category>cs.AI</category>
+      <category>cs.DB</category>
+      <category>q-bio.GN</category>
+      <category>q-bio.QM</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace-cross</arxiv:announce_type>
+      <dc:rights>http://arxiv.org/licenses/nonexclusive-distrib/1.0/</dc:rights>
+      <dc:creator>Davide D'Ascenzo, Sebastiano Cultrera di Montesano</dc:creator>
+    </item>
+    <item>
+      <title>Kinetic formulation of compartmental epidemic models</title>
+      <link>https://arxiv.org/abs/2506.13551</link>
+      <description>arXiv:2506.13551v2 Announce Type: replace-cross 
+Abstract: We introduce a kinetic model that couples the movement of a population of individuals with the dynamics of a pathogen in the same population. We consider that transmission occurs when a susceptible and an infectious individual are sufficiently close for a sufficiently long time. We show that the model is formally compatible with the well-known SIRS model in mathematical epidemiology. Namely, after identifying an appropriate dimensionless variable and considering the limit when that variable is small, we introduce a partial differential equation model of advection-drift-diffusion type (mesoscopic model), which for spatially homogeneous solutions reduces to the SIRS model. We prove the existence and uniqueness of solutions in appropriate spaces for particular instances of the model. We finish with some examples and discuss possible applications and generalisation of this modelling approach, linking kinetic models, evolutionary game theory, and mathematical epidemiology.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2506.13551v2</guid>
+      <category>math.AP</category>
+      <category>q-bio.PE</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace-cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by/4.0/</dc:rights>
+      <dc:creator>Carolina Strecht-Fernandes, Fabio A. C. C. Chalub</dc:creator>
+    </item>
+    <item>
+      <title>What the flock knows that the birds do not: exploring the emergence of joint agency in multi-agent active inference</title>
+      <link>https://arxiv.org/abs/2511.10835</link>
+      <description>arXiv:2511.10835v2 Announce Type: replace-cross 
+Abstract: Collective behavior pervades biological systems, from flocks of birds to neural assemblies and human societies. Yet, how such collectives acquire functional properties -- such as joint agency or knowledge -- that transcend those of their individual components remains an open question. Here, we combine active inference and information-theoretic analyses to explore how a minimal system of interacting agents can give rise to joint agency and collective knowledge. We model flocking dynamics using multiple active inference agents, each minimizing its own free energy while coupling reciprocally with its neighbors. We show that as agents self-organize, their interactions define higher-order statistical boundaries (Markov blankets) enclosing a ``flock'' that can be treated as an emergent agent with its own sensory, active, and internal states. When exposed to external perturbations (a ``predator''), the flock exhibits faster, coordinated responses than individual agents, reflecting collective sensitivity to environmental change. Crucially, analyses of synergistic information reveal that the flock encodes information about the predator's location that is not accessible to every individual bird, demonstrating implicit collective knowledge. Together, these results show how informational coupling among active inference agents can generate new levels of autonomy and inference, providing a framework for understanding the emergence of (implicit) collective knowledge and joint agency.</description>
+      <guid isPermaLink="false">oai:arXiv.org:2511.10835v2</guid>
+      <category>nlin.AO</category>
+      <category>cs.MA</category>
+      <category>math.OC</category>
+      <category>q-bio.NC</category>
+      <pubDate>Fri, 30 Jan 2026 00:00:00 -0500</pubDate>
+      <arxiv:announce_type>replace-cross</arxiv:announce_type>
+      <dc:rights>http://creativecommons.org/licenses/by-nc-sa/4.0/</dc:rights>
+      <dc:creator>Domenico Maisto, Davide Nuzzi, Giovanni Pezzulo</dc:creator>
+    </item>
+  </channel>
+</rss>

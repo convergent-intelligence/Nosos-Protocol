@@ -1,0 +1,46 @@
+{
+  "version": "0.1",
+  "domain": "computer_science",
+  "name": "Computer Science (GitHub)",
+  "description": "Curated repos for systems, Rust, web, and AI infrastructure.",
+  "teams": [
+    {
+      "id": "rust_core",
+      "name": "Rust Core",
+      "tags": ["rust", "systems"],
+      "repos": [
+        {"repo": "rust-lang/rust", "streams": ["releases"], "branch": "master"},
+        {"repo": "rust-lang/cargo", "streams": ["releases"], "branch": "master"},
+        {"repo": "rust-lang/rfcs", "streams": ["commits"], "branch": "master"}
+      ]
+    },
+    {
+      "id": "rust_web",
+      "name": "Rust Web",
+      "tags": ["rust", "web"],
+      "repos": [
+        {"repo": "tokio-rs/axum", "streams": ["releases", "issues", "pulls"], "branch": "main"},
+        {"repo": "tokio-rs/tokio", "streams": ["releases"], "branch": "master"},
+        {"repo": "hyperium/hyper", "streams": ["releases"], "branch": "master"}
+      ]
+    },
+    {
+      "id": "infra_tools",
+      "name": "Infra Tools",
+      "tags": ["tooling", "ops"],
+      "repos": [
+        {"repo": "BurntSushi/ripgrep", "streams": ["releases"], "branch": "master"},
+        {"repo": "sharkdp/fd", "streams": ["releases"], "branch": "master"}
+      ]
+    },
+    {
+      "id": "ai_infra",
+      "name": "AI Infrastructure",
+      "tags": ["ai", "infra"],
+      "repos": [
+        {"repo": "huggingface/transformers", "streams": ["releases"], "branch": "main"},
+        {"repo": "pytorch/pytorch", "streams": ["releases"], "branch": "master"}
+      ]
+    }
+  ]
+}

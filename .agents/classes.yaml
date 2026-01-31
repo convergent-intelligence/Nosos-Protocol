@@ -1,0 +1,30 @@
+version: 0.1
+
+classes:
+  - id: watcher
+    domain: "system monitoring"
+    owns:
+      - "observability strategy"
+      - "health definitions"
+      - "alerting and runbooks"
+
+  - id: builder
+    domain: "systems administration"
+    owns:
+      - "runtime substrate"
+      - "deploy/rollback"
+      - "backups and restore"
+
+  - id: guardian
+    domain: "security and secrets"
+    owns:
+      - "secret handling"
+      - "access boundaries"
+      - "quarantine policy"
+
+  - id: scribe
+    domain: "code and knowledge"
+    owns:
+      - "documentation pathways"
+      - "schemas and interfaces"
+      - "maintainability"

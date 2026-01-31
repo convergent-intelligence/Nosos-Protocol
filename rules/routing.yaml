@@ -1,0 +1,20 @@
+version: 0.1
+
+# Phase 0 routing rules are intentionally minimal.
+# The index (SQLite) is the source of truth; rules are hints.
+
+routes:
+  - name: "images"
+    when:
+      mime_prefix: "image/"
+    default_unit_type: "image"
+
+  - name: "pdf"
+    when:
+      mime_is: "application/pdf"
+    default_unit_type: "document"
+
+  - name: "fallback"
+    when:
+      any: true
+    default_unit_type: "unknown"

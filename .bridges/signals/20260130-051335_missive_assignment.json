@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned FOCUS-001 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/FOCUS-001_focus-ritual-shortcut.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/FOCUS-001_focus-ritual-shortcut.md",
+      "Work the item: FOCUS-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-051335",
+    "kind": "missive",
+    "timestamp": "2026-01-30T05:13:35Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

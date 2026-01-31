@@ -1,0 +1,29 @@
+{
+  "body": {
+    "asks": [
+      "Which IONOS product (Cloud Server/VPS/Dedicated)?",
+      "Installer ISO (autoinstall) vs Live ISO?",
+      "Base OS + version?"
+    ],
+    "claim": "Need ISO target decision to automate IONOS image",
+    "confidence": "medium",
+    "evidence": [
+      "docs/deploy/ionos-iso.md",
+      "docs/decisions/0002-iso-build-approach.md"
+    ],
+    "next_actions": [],
+    "topic": "deploy"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "builder",
+    "id": "20260130-034638",
+    "kind": "council_call",
+    "timestamp": "2026-01-30T03:46:38Z",
+    "to": "council",
+    "urgency": "normal"
+  }
+}

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/tokio-rs/tokio/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/tokio-rs/tokio/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/tokio-rs/tokio/releases.atom"/>
+  <title>Release notes from tokio</title>
+  <updated>2026-01-04T12:53:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-util-0.7.18</id>
+    <updated>2026-01-04T12:53:14Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-util-0.7.18"/>
+    <title>tokio-util-0.7.18</title>
+    <content type="html">&lt;p&gt;chore: prepare tokio-util 0.7.18 (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3779177125&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/tokio-rs/tokio/issues/7829&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7829/hovercard&quot; href=&quot;https://github.com/tokio-rs/tokio/pull/7829&quot;&gt;#7829&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-test-0.4.5</id>
+    <updated>2026-01-04T12:53:43Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-test-0.4.5"/>
+    <title>tokio-test-0.4.5</title>
+    <content type="html">&lt;p&gt;chore: prepare tokio-test 0.4.5 (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3779185090&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/tokio-rs/tokio/issues/7831&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7831/hovercard&quot; href=&quot;https://github.com/tokio-rs/tokio/pull/7831&quot;&gt;#7831&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-stream-0.1.18</id>
+    <updated>2026-01-04T12:53:30Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-stream-0.1.18"/>
+    <title>tokio-stream-0.1.18</title>
+    <content type="html">&lt;p&gt;chore: prepare tokio-stream 0.1.18 (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3779183386&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/tokio-rs/tokio/issues/7830&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7830/hovercard&quot; href=&quot;https://github.com/tokio-rs/tokio/pull/7830&quot;&gt;#7830&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-1.49.0</id>
+    <updated>2026-01-03T10:00:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-1.49.0"/>
+    <title>Tokio v1.49.0</title>
+    <content type="html">&lt;h1&gt;1.49.0 (January 3rd, 2026)&lt;/h1&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;net: add support for &lt;code&gt;TCLASS&lt;/code&gt; option on IPv6 (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7781&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7781/hovercard&quot;&gt;#7781&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: stabilize &lt;code&gt;runtime::id::Id&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7125&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7125/hovercard&quot;&gt;#7125&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: implement &lt;code&gt;Extend&lt;/code&gt; for &lt;code&gt;JoinSet&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7195&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7195/hovercard&quot;&gt;#7195&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: stabilize the &lt;code&gt;LocalSet::id()&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7776&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7776/hovercard&quot;&gt;#7776&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;net: deprecate &lt;code&gt;{TcpStream,TcpSocket}::set_linger&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7752&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7752/hovercard&quot;&gt;#7752&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;macros: fix the hygiene issue of &lt;code&gt;join!&lt;/code&gt; and &lt;code&gt;try_join!&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7766&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7766/hovercard&quot;&gt;#7766&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: revert &quot;replace manual vtable definitions with Wake&quot; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7699&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7699/hovercard&quot;&gt;#7699&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: return &lt;code&gt;TryRecvError::Disconnected&lt;/code&gt; from &lt;code&gt;Receiver::try_recv&lt;/code&gt; after &lt;code&gt;Receiver::close&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7686&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7686/hovercard&quot;&gt;#7686&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: remove unnecessary trait bounds on the &lt;code&gt;Debug&lt;/code&gt; implementation (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7720&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7720/hovercard&quot;&gt;#7720&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unstable&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fs: handle &lt;code&gt;EINTR&lt;/code&gt; in &lt;code&gt;fs::write&lt;/code&gt; for io-uring (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7786&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7786/hovercard&quot;&gt;#7786&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fs: support io-uring with &lt;code&gt;tokio::fs::read&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7696&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7696/hovercard&quot;&gt;#7696&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: disable io-uring on &lt;code&gt;EPERM&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7724&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7724/hovercard&quot;&gt;#7724&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;time: add alternative timer for better multicore scalability (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7467&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7467/hovercard&quot;&gt;#7467&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documented&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;docs: fix a typos in &lt;code&gt;bounded.rs&lt;/code&gt; and &lt;code&gt;park.rs&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7817&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7817/hovercard&quot;&gt;#7817&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;io: add &lt;code&gt;SyncIoBridge&lt;/code&gt; cross-references to &lt;code&gt;copy&lt;/code&gt; and &lt;code&gt;copy_buf&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7798&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7798/hovercard&quot;&gt;#7798&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;io: doc that &lt;code&gt;AsyncWrite&lt;/code&gt; does not inherit from &lt;code&gt;std::io::Write&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7705&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7705/hovercard&quot;&gt;#7705&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;metrics: clarify that &lt;code&gt;num_alive_tasks&lt;/code&gt; is not strongly consistent (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7614&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7614/hovercard&quot;&gt;#7614&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: clarify the cancellation safety of the &lt;code&gt;TcpStream::peek&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7305&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7305/hovercard&quot;&gt;#7305&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: clarify the drop behavior of &lt;code&gt;unix::OwnedWriteHalf&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7742&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7742/hovercard&quot;&gt;#7742&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: clarify the platform-dependent backlog in &lt;code&gt;TcpSocket&lt;/code&gt; docs (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7738&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7738/hovercard&quot;&gt;#7738&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: mention &lt;code&gt;LocalRuntime&lt;/code&gt; in &lt;code&gt;new_current_thread&lt;/code&gt; docs (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7820&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7820/hovercard&quot;&gt;#7820&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: add missing period to &lt;code&gt;mpsc::Sender::try_send&lt;/code&gt; docs (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7721&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7721/hovercard&quot;&gt;#7721&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: clarify the cancellation safety of &lt;code&gt;oneshot::Receiver&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7780&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7780/hovercard&quot;&gt;#7780&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: improve the docs for the &lt;code&gt;errors&lt;/code&gt; of mpsc (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7722&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7722/hovercard&quot;&gt;#7722&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: add example for &lt;code&gt;spawn_local&lt;/code&gt; usage on local runtime (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7689&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7689/hovercard&quot;&gt;#7689&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-1.47.3</id>
+    <updated>2026-01-02T20:07:41Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-1.47.3"/>
+    <title>tokio-1.47.3</title>
+    <content type="html">&lt;p&gt;chore: prepare Tokio v1.47.3 (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3777105568&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/tokio-rs/tokio/issues/7823&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7823/hovercard&quot; href=&quot;https://github.com/tokio-rs/tokio/pull/7823&quot;&gt;#7823&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-1.43.4</id>
+    <updated>2026-01-02T17:52:06Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-1.43.4"/>
+    <title>tokio-1.43.4</title>
+    <content type="html">&lt;p&gt;chore: prepare Tokio v1.43.4 (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3776816898&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/tokio-rs/tokio/issues/7821&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7821/hovercard&quot; href=&quot;https://github.com/tokio-rs/tokio/pull/7821&quot;&gt;#7821&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>ADD-SP</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44437200?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-util-0.7.17</id>
+    <updated>2025-11-02T14:33:25Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-util-0.7.17"/>
+    <title>tokio-util-0.7.17: chore: prepare tokio-util v0.7.17 (#7719)</title>
+    <content type="html">&lt;p&gt;Signed-off-by: ADD-SP &lt;a href=&quot;mailto:qiqi.zhang@konghq.com&quot;&gt;qiqi.zhang@konghq.com&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>ADD-SP</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44437200?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-macros-2.6.0</id>
+    <updated>2025-10-14T12:24:54Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-macros-2.6.0"/>
+    <title>tokio-macros-2.6.0</title>
+    <content type="html">&lt;p&gt;chore: prepare tokio-macros v2.6.0 (&lt;a class=&quot;issue-link js-issue-link&quot; data-error-text=&quot;Failed to load title&quot; data-id=&quot;3513496891&quot; data-permission-text=&quot;Title is private&quot; data-url=&quot;https://github.com/tokio-rs/tokio/issues/7676&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7676/hovercard&quot; href=&quot;https://github.com/tokio-rs/tokio/pull/7676&quot;&gt;#7676&lt;/a&gt;)&lt;/p&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-1.48.0</id>
+    <updated>2025-10-14T13:09:34Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-1.48.0"/>
+    <title>Tokio v1.48.0</title>
+    <content type="html">&lt;h1&gt;1.48.0 (October 14th, 2025)&lt;/h1&gt;
+&lt;p&gt;The MSRV is increased to 1.71.&lt;/p&gt;
+&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;fs: add &lt;code&gt;File::max_buf_size&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7594&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7594/hovercard&quot;&gt;#7594&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;io: export &lt;code&gt;Chain&lt;/code&gt; of &lt;code&gt;AsyncReadExt::chain&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7599&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7599/hovercard&quot;&gt;#7599&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: add &lt;code&gt;SocketAddr::as_abstract_name&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7491&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7491/hovercard&quot;&gt;#7491&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: add &lt;code&gt;TcpStream::quickack&lt;/code&gt; and &lt;code&gt;TcpStream::set_quickack&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7490&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7490/hovercard&quot;&gt;#7490&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: implement &lt;code&gt;AsRef&amp;lt;Self&amp;gt;&lt;/code&gt; for &lt;code&gt;TcpStream&lt;/code&gt; and &lt;code&gt;UnixStream&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7573&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7573/hovercard&quot;&gt;#7573&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: add &lt;code&gt;LocalKey::try_get&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7666&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7666/hovercard&quot;&gt;#7666&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: implement &lt;code&gt;Ord&lt;/code&gt; for &lt;code&gt;task::Id&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7530&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7530/hovercard&quot;&gt;#7530&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;deps: bump windows-sys to version 0.61 (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7645&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7645/hovercard&quot;&gt;#7645&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fs: preserve &lt;code&gt;max_buf_size&lt;/code&gt; when cloning a &lt;code&gt;File&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7593&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7593/hovercard&quot;&gt;#7593&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;macros: suppress &lt;code&gt;clippy::unwrap_in_result&lt;/code&gt; in &lt;code&gt;#[tokio::main]&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7651&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7651/hovercard&quot;&gt;#7651&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: remove &lt;code&gt;PollEvented&lt;/code&gt; noise from Debug formats (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7675&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7675/hovercard&quot;&gt;#7675&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;process: upgrade &lt;code&gt;Command::spawn_with&lt;/code&gt; to use &lt;code&gt;FnOnce&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7511&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7511/hovercard&quot;&gt;#7511&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: remove inner mutex in &lt;code&gt;SetOnce&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7554&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7554/hovercard&quot;&gt;#7554&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: use &lt;code&gt;UnsafeCell::get_mut&lt;/code&gt; in &lt;code&gt;Mutex::get_mut&lt;/code&gt; and &lt;code&gt;RwLock::get_mut&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7569&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7569/hovercard&quot;&gt;#7569&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;time: reduce the generated code size of &lt;code&gt;Timeout&amp;lt;T&amp;gt;::poll&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7535&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7535/hovercard&quot;&gt;#7535&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;macros: fix hygiene issue in &lt;code&gt;join!&lt;/code&gt; and &lt;code&gt;try_join!&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7638&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7638/hovercard&quot;&gt;#7638&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: fix copy/paste errors in udp peek methods (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7604&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7604/hovercard&quot;&gt;#7604&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;process: fix error when runtime is shut down on nightly-2025-10-12 (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7672&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7672/hovercard&quot;&gt;#7672&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: use release ordering in &lt;code&gt;wake_by_ref()&lt;/code&gt; even if already woken (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7622&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7622/hovercard&quot;&gt;#7622&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: close the &lt;code&gt;broadcast::Sender&lt;/code&gt; in &lt;code&gt;broadcast::Sender::new()&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7629&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7629/hovercard&quot;&gt;#7629&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: fix implementation of unused &lt;code&gt;RwLock::try_*&lt;/code&gt; methods (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7587&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7587/hovercard&quot;&gt;#7587&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Unstable&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;tokio: use cargo features instead of &lt;code&gt;--cfg&lt;/code&gt; flags for &lt;code&gt;taskdump&lt;/code&gt; and &lt;code&gt;io_uring&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7655&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7655/hovercard&quot;&gt;#7655&lt;/a&gt;, &lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7621&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7621/hovercard&quot;&gt;#7621&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fs: support &lt;code&gt;io_uring&lt;/code&gt; in &lt;code&gt;fs::write&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7567&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7567/hovercard&quot;&gt;#7567&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fs: support &lt;code&gt;io_uring&lt;/code&gt; with &lt;code&gt;File::open()&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7617&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7617/hovercard&quot;&gt;#7617&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;fs: support &lt;code&gt;io_uring&lt;/code&gt; with &lt;code&gt;OpenOptions&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7321&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7321/hovercard&quot;&gt;#7321&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;macros: add &lt;code&gt;local&lt;/code&gt; runtime flavor (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7375&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7375/hovercard&quot;&gt;#7375&lt;/a&gt;, &lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7597&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7597/hovercard&quot;&gt;#7597&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Documented&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;io: clarify the zero capacity case of &lt;code&gt;AsyncRead::poll_read&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7580&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7580/hovercard&quot;&gt;#7580&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;io: fix typos in the docs of &lt;code&gt;AsyncFd&lt;/code&gt; readiness guards (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7583&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7583/hovercard&quot;&gt;#7583&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: clarify socket gets closed on drop (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7526&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7526/hovercard&quot;&gt;#7526&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: clarify the behavior of &lt;code&gt;UCred::pid()&lt;/code&gt; on Cygwin (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7611&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7611/hovercard&quot;&gt;#7611&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: clarify the supported platform of &lt;code&gt;set_reuseport()&lt;/code&gt; and &lt;code&gt;reuseport()&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7628&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7628/hovercard&quot;&gt;#7628&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;net: qualify that &lt;code&gt;SO_REUSEADDR&lt;/code&gt; is only set on Unix (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7533&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7533/hovercard&quot;&gt;#7533&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: add guide for choosing between runtime types (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7635&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7635/hovercard&quot;&gt;#7635&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: clarify the behavior of &lt;code&gt;Handle::block_on&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7665&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7665/hovercard&quot;&gt;#7665&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;runtime: clarify the edge case of &lt;code&gt;Builder::global_queue_interval()&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7605&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7605/hovercard&quot;&gt;#7605&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: clarify bounded channel panic behavior (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7641&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7641/hovercard&quot;&gt;#7641&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: clarify the behavior of &lt;code&gt;tokio::sync::watch::Receiver&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7584&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7584/hovercard&quot;&gt;#7584&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: document cancel safety on &lt;code&gt;SetOnce::wait&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7506&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7506/hovercard&quot;&gt;#7506&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: fix the docs of &lt;code&gt;parking_lot&lt;/code&gt; feature flag (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7663&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7663/hovercard&quot;&gt;#7663&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: improve the docs of &lt;code&gt;UnboundedSender::send&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7661&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7661/hovercard&quot;&gt;#7661&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: improve the docs of &lt;code&gt;sync::watch&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7601&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7601/hovercard&quot;&gt;#7601&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;sync: reword allocation failure paragraph in broadcast docs (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7595&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7595/hovercard&quot;&gt;#7595&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: clarify the behavior of several &lt;code&gt;spawn_local&lt;/code&gt; methods (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7669&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7669/hovercard&quot;&gt;#7669&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: clarify the task ID reuse guarantees (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7577&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7577/hovercard&quot;&gt;#7577&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;task: improve the example of &lt;code&gt;poll_proceed&lt;/code&gt; (&lt;a href=&quot;https://github.com/tokio-rs/tokio/pull/7586&quot; data-hovercard-type=&quot;pull_request&quot; data-hovercard-url=&quot;/tokio-rs/tokio/pull/7586/hovercard&quot;&gt;#7586&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <author>
+      <name>Darksonn</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/928074?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/67836789/tokio-1.47.2</id>
+    <updated>2025-10-14T17:12:04Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/tokio-rs/tokio/releases/tag/tokio-1.47.2"/>
+    <title>tokio-1.47.2: chore: prepare Tokio v1.47.2 (#7681)</title>
+    <content type="html">&lt;p&gt;Signed-off-by: ADD-SP &lt;a href=&quot;mailto:qiqi.zhang@konghq.com&quot;&gt;qiqi.zhang@konghq.com&lt;/a&gt;&lt;/p&gt;</content>
+    <author>
+      <name>ADD-SP</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/44437200?s=60&amp;v=4"/>
+  </entry>
+</feed>

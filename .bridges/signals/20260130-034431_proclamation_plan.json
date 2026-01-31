@@ -1,0 +1,22 @@
+{
+  "body": {
+    "asks": [],
+    "claim": "Set P1-002 status=pending owner=unassigned",
+    "confidence": "high",
+    "evidence": [],
+    "next_actions": [],
+    "topic": "plan"
+  },
+  "footer": {
+    "expects_response": false,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-034431",
+    "kind": "proclamation",
+    "timestamp": "2026-01-30T03:44:31Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

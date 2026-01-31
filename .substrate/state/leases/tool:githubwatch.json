@@ -1,0 +1,10 @@
+{
+  "created_at": "2026-01-30T06:01:33Z",
+  "domain": "scribe",
+  "expires_at": "2026-01-30T06:31:33Z",
+  "override": false,
+  "override_reason": "",
+  "owner": "scribe",
+  "resource": "tool:githubwatch",
+  "ttl_seconds": 1800
+}

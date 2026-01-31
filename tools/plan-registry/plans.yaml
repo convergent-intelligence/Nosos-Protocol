@@ -1,0 +1,666 @@
+version: 0.1
+
+plans:
+  - id: "P0-001"
+    title: "Fill system brief"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/system-brief.md"
+      - "artifacts/contexts/P0-001_fill-system-brief.md"
+    depends_on: []
+    notes: "Define purpose, users, boundaries, and success criteria"
+
+  - id: "P0-002"
+    title: "Define minimal shared lexicon"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - ".bridges/lexicon/core-terms.yaml"
+      - "artifacts/contexts/P0-002_define-minimal-shared-lexicon.md"
+    depends_on: []
+    notes: "Add 5-15 terms that reduce early ambiguity"
+
+  - id: "P0-003"
+    title: "Draft initial dependency graph"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "tools/dependency-graph/graph.yaml"
+    depends_on: []
+    notes: "List first components and any external dependencies"
+
+  - id: "P0-004"
+    title: "Initialize AutoFile ingestion"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "tools/autofile/README.md"
+      - "scripts/autofile"
+    depends_on: []
+    notes: "Run init, ingest a sample set, and validate views"
+
+  - id: "P1-001"
+    title: "Secret scanning + quarantine routing"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/roadmap-systems-engineering.md"
+      - "tools/autofile/autofile.py"
+      - "quarantine/README.md"
+    domain: "guardian"
+    priority: "high"
+    depends_on:
+      - "P0-004"
+    notes: "Detect obvious tokens/keys; quarantine; do not print secrets"
+
+  - id: "P1-002"
+    title: "Derivations: thumbnails + OCR (optional deps)"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    links:
+      - "docs/roadmap-systems-engineering.md"
+      - "store/derived/"
+      - "tools/autofile/autofile.py"
+      - "artifacts/contexts/P1-002_derivations-thumbnails--ocr-optional-deps.md"
+    domain: "scribe"
+    priority: "medium"
+    depends_on:
+      - "P0-004"
+    notes: "Idempotent derived artifacts keyed by blob hash"
+
+  - id: "P1-003"
+    title: "Rules engine: apply routing.yaml to unit defaults"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    links:
+      - "rules/routing.yaml"
+      - "tools/autofile/autofile.py"
+      - "artifacts/contexts/P1-003_rules-engine-apply-routingyaml-to-unit-defaults.md"
+    domain: "scribe"
+    priority: "medium"
+    depends_on:
+      - "P0-004"
+    notes: "Partial: minimal type defaults for image/pdf done; remaining: evaluate rules/routing.yaml (tags, review_status, audit rule ids)"
+
+  - id: "SE-006"
+    title: "Orchestrator: suggest next work from planning surfaces"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "tools/orchestrator/orchestrator.py"
+      - "docs/workflow.md"
+    depends_on:
+      - "SE-001"
+    notes: "Read-only helper; avoids external dependencies"
+
+  - id: "SE-007"
+    title: "Signals tool: write proclamations/missives/council calls"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    domain: "scribe"
+    priority: "low"
+    links:
+      - "scripts/signal"
+      - ".bridges/signals/README.md"
+    depends_on:
+      - "SE-001"
+    notes: "Writes JSON signals to .bridges/signals/"
+
+  - id: "SE-008"
+    title: "Ops helpers: health snapshot + backup"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    domain: "builder"
+    priority: "medium"
+    links:
+      - "scripts/health.sh"
+      - "scripts/backup.sh"
+      - "docs/runbook.md"
+    depends_on:
+      - "P0-004"
+    notes: "Health writes .substrate/state/health.json; backups create tarballs"
+
+  - id: "P1-004"
+    title: "Query UX: list units, show unit, find blob"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "tools/autofile/autofile.py"
+      - "units/README.md"
+    domain: "scribe"
+    priority: "high"
+    depends_on:
+      - "P0-004"
+    notes: "Make the tool usable without opening SQLite"
+
+  - id: "P1-005"
+    title: "Daemon mode: watch inbox safely"
+    kind: "plan"
+    status: "done"
+    owner: "builder"
+    links:
+      - "tools/autofile/autofile.py"
+      - "inbox/"
+    domain: "builder"
+    priority: "medium"
+    depends_on:
+      - "P1-001"
+    notes: "Polling loop + single-instance lock; crash-safe"
+
+  - id: "SE-001"
+    title: "Adopt four-class agent model"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/agents/classes.md"
+      - ".agents/classes.yaml"
+    domain: "scribe"
+    priority: "high"
+    depends_on: []
+    notes: "Define domain boundaries and handoff expectations"
+
+  - id: "SE-002"
+    title: "Define health model and runbook skeleton"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/runbook.md"
+      - "docs/agents/classes.md"
+      - "docs/ops/health-model.md"
+    domain: "watcher"
+    priority: "high"
+    depends_on: []
+    notes: "Watcher-owned; add minimal health checks + failure triage"
+
+  - id: "SE-003"
+    title: "Define backup/restore policy"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/runbook.md"
+      - "index/README.md"
+      - "scripts/backup.sh"
+      - "scripts/restore.sh"
+    domain: "builder"
+    priority: "high"
+    depends_on: []
+    notes: "Builder-owned; specify backup scope (blobs, sqlite, audit)"
+
+  - id: "SE-004"
+    title: "Define secret-handling invariants"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/roadmap-systems-engineering.md"
+      - "docs/agents/classes.md"
+      - "docs/security/secret-handling.md"
+    domain: "guardian"
+    priority: "high"
+    depends_on:
+      - "P1-001"
+    notes: "Guardian-owned; drives quarantine + access boundaries"
+
+  - id: "SE-005"
+    title: "Define skill ledger + gold evidence format"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/agents/skill-ledger.md"
+    domain: "scribe"
+    priority: "medium"
+    depends_on:
+      - "SE-001"
+    notes: "Scribe-owned; keep it outcome-based and auditable"
+
+  - id: "DIST-001"
+    title: "Ship distro tarball"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "docs/distro-plan.md"
+      - "distro/MANIFEST.yaml"
+      - "scripts/build-distro.sh"
+    domain: "builder"
+    priority: "medium"
+    depends_on:
+      - "P0-004"
+    notes: "Build artifact excludes user data (blobs, sqlite, inbox)"
+
+  - id: "GEMS-001"
+    title: "Define Gems front-end agent charter"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    links:
+      - "gemini.md"
+    domain: "gems"
+    priority: "medium"
+    depends_on:
+      - "SE-001"
+    notes: "Front-end specialist charter + UX missions"
+
+  - id: "TRACK-001"
+    title: "Adopt unified work-item tracking for issues/bugs/dead-ends/stubs"
+    kind: "plan"
+    status: "done"
+    owner: "unassigned"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "docs/tracking.md"
+      - "docs/templates/bug.md"
+      - "docs/templates/issue.md"
+      - "docs/templates/dead-end.md"
+      - "docs/templates/stub.md"
+      - "artifacts/issues/README.md"
+      - "artifacts/stubs/README.md"
+    depends_on:
+      - "SE-001"
+    notes: "Same registry + orchestrator for everything; details in artifacts/"
+
+  - id: "DEPLOY-001"
+    title: "Define ISO deployment target and build approach"
+    kind: "plan"
+    status: "done"
+    owner: "builder"
+    domain: "builder"
+    priority: "high"
+    links:
+      - "docs/deploy/ionos-iso.md"
+      - "docs/decisions/0002-iso-build-approach.md"
+      - "docs/decisions/0003-ionos-target.md"
+      - "artifacts/contexts/DEPLOY-001_define-iso-deployment-target-and-build-approach.md"
+    depends_on:
+      - "DIST-001"
+    notes: "Pick IONOS product + base OS + installer-vs-live; then automate"
+
+  - id: "DEPLOY-002"
+    title: "Implement ISO build automation"
+    kind: "plan"
+    status: "done"
+    owner: "builder"
+    domain: "builder"
+    priority: "high"
+    links:
+      - "scripts/build-iso.sh"
+      - "docs/deploy/iso-build.md"
+      - "docs/deploy/image-spec.md"
+      - "scripts/deploy/install-asf.sh"
+      - "docs/deploy/debian-preseed.md"
+      - "scripts/deploy/build-debian-preseed-iso.sh"
+      - "artifacts/contexts/DEPLOY-002_implement-iso-build-automation.md"
+    depends_on:
+      - "DEPLOY-001"
+    notes: "Create a bootable ISO that installs OS + unpacks distro + validates"
+
+  - id: "ISSUE-001"
+    title: "Choose IONOS ISO build path"
+    kind: "issue"
+    status: "done"
+    owner: "builder"
+    domain: "builder"
+    priority: "high"
+    links:
+      - "artifacts/issues/ISSUE-001_choose-ionos-iso-build-path.md"
+      - "artifacts/contexts/ISSUE-001_choose-ionos-iso-build-path.md"
+    depends_on: []
+    notes: "Need provider target and ISO approach"
+
+  - id: "ODYSSEY-001"
+    title: "Odyssey roadmap 2y-5000y"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/odyssey-5000y.md"
+      - "artifacts/contexts/ODYSSEY-001_odyssey-roadmap-2y-5000y.md"
+    depends_on: []
+    notes: "Dual-path (Singularity Run + Elemental Civilization) with branch lattice and water framework"
+
+  - id: "ELEMENTS-001"
+    title: "Elemental matrix 9x9 roles"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/elemental-matrix.md"
+      - "artifacts/contexts/ELEMENTS-001_elemental-matrix-9x9-roles.md"
+    depends_on: []
+    notes: "Define 9x9 role lattice + scaling rules (hydrogen/helium -> shells)"
+
+  - id: "OXYGEN-001"
+    title: "Oxygen protocol + leases"
+    kind: "plan"
+    status: "done"
+    owner: "builder"
+    domain: "builder"
+    priority: "high"
+    links:
+      - "docs/oxygen-protocol.md"
+      - "scripts/oxygen"
+      - "artifacts/contexts/OXYGEN-001_oxygen-protocol--leases.md"
+    depends_on: []
+    notes: "Define shared resource lease practice; enforce via workflow"
+
+  - id: "CARBON-001"
+    title: "Beryllium (Z=4) 2x2 cell operating model"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/beryllium-scheme.md"
+      - "docs/atomic-lattice.md"
+      - "docs/oxygen-protocol.md"
+      - "artifacts/contexts/CARBON-001_beryllium-z4-2x2-cell-operating-model.md"
+    depends_on: []
+    notes: "Strict periodic: 2x2 is Z=4 (Be). Define stable 2x2 domain model + exit criteria for Carbon/Water"
+
+  - id: "WATER-001"
+    title: "Water loop hardening"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/water-scheme.md"
+      - "docs/context-protocol.md"
+      - "artifacts/contexts/WATER-001_water-loop-hardening.md"
+    depends_on: []
+    notes: "Harden signals->capsules->audit->synthesis loop; reduce drift"
+
+  - id: "LIFE-001"
+    title: "Life systems (O,C,Water) baseline"
+    kind: "plan"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/life-systems.md"
+      - "artifacts/contexts/LIFE-001_life-systems-ocwater-baseline.md"
+    depends_on: []
+    notes: "Integrate oxygen+carbon+water into one coherent life loop"
+
+  - id: "PERIODIC-001"
+    title: "Strict periodic table protocol"
+    kind: "plan"
+    mode: "revolution"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/periodic-table-protocol.md"
+      - "docs/atomic-lattice.md"
+      - "artifacts/contexts/PERIODIC-001_strict-periodic-table-protocol.md"
+    depends_on:
+      - "ATOMS-001"
+    notes: "Adopt Z=count rule, noble gas checkpoints, iron threshold; align naming and scaling"
+
+  - id: "ATOMS-001"
+    title: "Atomic lattice mapping"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/atomic-lattice.md"
+      - "artifacts/contexts/ATOMS-001_atomic-lattice-mapping.md"
+    depends_on: []
+    notes: "Disambiguate Z vs NxN vs valence; align elemental metaphor with scaling"
+
+  - id: "AUTONOMY-001"
+    title: "Atomic Autonomy operational contract"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/atomic-autonomy.md"
+      - "scripts/orchestrate"
+      - "docs/oxygen-protocol.md"
+      - "artifacts/contexts/AUTONOMY-001_atomic-autonomy-operational-contract.md"
+    depends_on: []
+    notes: "Make autonomy enforceable: budgets, leases, capsules, signals"
+
+  - id: "ORTHO-001"
+    title: "Orthogonal periodic table mapping"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/orthogonal-periodic-table.md"
+      - "docs/periodic-table-protocol.md"
+      - "artifacts/contexts/ORTHO-001_orthogonal-periodic-table-mapping.md"
+    depends_on: []
+    notes: "Operationalize Z checkpoints as system capabilities; keep strict periodic rule"
+
+  - id: "FIELD-001"
+    title: "Orchestration field meter"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/orchestration-field.md"
+      - "scripts/field"
+      - "tools/field/orthogonal-table.json"
+      - "artifacts/contexts/FIELD-001_orchestration-field-meter.md"
+    depends_on: []
+    notes: "Make periodic Z checkpoints measurable and written to .substrate/state/field.json"
+
+  - id: "QUANTUM-001"
+    title: "Quantum overlay + convergence"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/quantum-convergence.md"
+      - "docs/atomic-autonomy.md"
+      - "artifacts/contexts/QUANTUM-001_quantum-overlay--convergence.md"
+    depends_on: []
+    notes: "Add probabilistic overlay (stubs/issues with confidence) that collapses via decisions; keep core deterministic"
+
+  - id: "FOCUS-001"
+    title: "Focus ritual shortcut"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "scripts/focus"
+      - "docs/ops/focus.md"
+      - "artifacts/contexts/FOCUS-001_focus-ritual-shortcut.md"
+    depends_on: []
+    notes: "One-command shortcut that writes .substrate/state/focus.json (health+field+budgets+queue)"
+
+  - id: "MATH-001"
+    title: "OrthoBreak math proof"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "docs/math/orthobreak.md"
+      - "artifacts/contexts/MATH-001_orthobreak-math-proof.md"
+    depends_on: []
+    notes: "Novel billiards/Breakout periodicity problem using lcm/gcd and CRT"
+
+  - id: "QAI-001"
+    title: "TSP exact + heuristic + verifier"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/math/tsp-lab.md"
+      - "tools/qai/tsp.py"
+      - "scripts/tsp"
+      - "artifacts/contexts/QAI-001_tsp-exact--heuristic--verifier.md"
+    depends_on: []
+    notes: "Testable proof-of-capability: exact Held-Karp for irrefutable optima; heuristic baseline; solution verifier"
+
+  - id: "MATHWATCH-001"
+    title: "MathWatch feed ingestion"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "docs/math/mathwatch.md"
+      - "scripts/mathwatch"
+      - "tools/mathwatch/feeds.json"
+      - "artifacts/contexts/MATHWATCH-001_mathwatch-feed-ingestion.md"
+    depends_on: []
+    notes: "Fetch math feeds into artifacts/mathwatch for opportunity scanning"
+
+  - id: "SCIENCEWATCH-001"
+    title: "ScienceWatch feed ingestion"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "medium"
+    links:
+      - "docs/science/sciencewatch.md"
+      - "scripts/sciencewatch"
+      - "tools/sciencewatch/feeds.json"
+      - "artifacts/contexts/SCIENCEWATCH-001_sciencewatch-feed-ingestion.md"
+    depends_on: []
+    notes: "Fetch science feeds into artifacts/sciencewatch for opportunity scanning"
+
+  - id: "BLOGWATCH-001"
+    title: "BlogWatch multi-domain scaffold"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/watch/blogwatch.md"
+      - "scripts/blogwatch"
+      - "tools/blogwatch/domains/general_science.json"
+      - "artifacts/contexts/BLOGWATCH-001_blogwatch-multi-domain-scaffold.md"
+    depends_on: []
+    notes: "Unified blogwatch across major fields with team-based categorization and evidence artifacts"
+
+  - id: "DAILY-001"
+    title: "Daily release tooling"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/publish/daily-release.md"
+      - "scripts/daily"
+      - "scripts/publish"
+      - "artifacts/contexts/DAILY-001_daily-release-tooling.md"
+    depends_on: []
+    notes: "One post per day: create draft from blogwatch sources and publish into posts index"
+
+  - id: "WEB3-001"
+    title: "Web3 user system scaffold"
+    kind: "plan"
+    mode: "revolution"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/web3/overview.md"
+      - "docs/web3/siwe.md"
+      - "docs/web3/brave.md"
+      - "docs/web3/rewards.md"
+      - "artifacts/contexts/WEB3-001_web3-user-system-scaffold.md"
+    depends_on: []
+    notes: "Wallet-based pseudonymous auth + rewards/opportunities + Brave integration"
+
+  - id: "PROOF-001"
+    title: "Blockchain proof of discoveries (attestations)"
+    kind: "plan"
+    mode: "revolution"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/web3/proofs.md"
+      - "scripts/proof"
+      - "tools/proofs/proof.py"
+      - "artifacts/contexts/PROOF-001_blockchain-proof-of-discoveries-attestations.md"
+    depends_on: []
+    notes: "Deterministic attestations with evidence hashes + merkle root; wallet signature + on-chain anchor later"
+
+  - id: "PUBLISH-001"
+    title: "Publishing boundaries + social ops"
+    kind: "plan"
+    mode: "phase"
+    status: "done"
+    owner: "scribe"
+    domain: "scribe"
+    priority: "high"
+    links:
+      - "docs/publish/policy.md"
+      - "docs/ops/socials.md"
+      - "artifacts/contexts/PUBLISH-001_publishing-boundaries--social-ops.md"
+    depends_on: []
+    notes: "Publish only to owned domain; socials are mirrors; define human social ops loop"

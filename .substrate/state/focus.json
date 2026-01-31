@@ -1,0 +1,50 @@
+{
+  "active": [],
+  "budgets": {
+    "budgets": {
+      "max_in_progress_per_domain": 2,
+      "max_leases_per_domain": 2
+    },
+    "in_progress_by_domain": {}
+  },
+  "field": {
+    "blocked": null,
+    "next_is_noble_gas": false,
+    "next_z": 13,
+    "table_version": "0.1",
+    "ts": "2026-01-30T05:49:44Z",
+    "z_current": 12
+  },
+  "flags": {
+    "z_is_interesting": true,
+    "z_label": "ignition"
+  },
+  "focus_level": 3,
+  "focus_mode": "translate",
+  "health": {
+    "autofile": {
+      "attachments": 6,
+      "blobs": 5,
+      "db": "/home/kristopherrichards/frameworks/protocol-first-scaffold/index/autofile.sqlite",
+      "quarantined_units": 2,
+      "root": "/home/kristopherrichards/frameworks/protocol-first-scaffold",
+      "units": 6
+    },
+    "health": "yellow",
+    "inbox_failed": 0,
+    "ts": "2026-01-30T05:49:44Z"
+  },
+  "intent": "translate",
+  "next": [],
+  "rituals": [
+    "focus_snapshot",
+    "route"
+  ],
+  "ts": "2026-01-30T05:49:44Z",
+  "weights": {
+    "execute": 0.9,
+    "explore": 0.3,
+    "safety": 0.7,
+    "verify": 0.6
+  }
+}

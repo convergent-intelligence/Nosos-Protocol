@@ -1,0 +1,61 @@
+version: 0.1
+
+terms:
+  - term: "system"
+    meaning: "The thing being built/operated; scope defined in docs/system-brief.md"
+  - term: "protocol"
+    meaning: "A documented interaction pattern with explicit inputs/outputs"
+  - term: "signal"
+    meaning: "A structured message following .bridges/protocols/signal-format.yaml"
+  - term: "artifact"
+    meaning: "A durable output (tool, doc, schema, report) stored under artifacts/"
+  - term: "phase 0"
+    meaning: "Foundation work that makes later work safer and faster"
+
+  - term: "domain"
+    meaning: "A bounded area of authority owned by a class (watcher/builder/guardian/scribe)"
+
+  - term: "handoff"
+    meaning: "An explicit transfer of responsibility across domains, recorded as a signal"
+
+  - term: "quarantine"
+    meaning: "A holding area for risky or low-confidence items requiring review"
+
+  - term: "work item"
+    meaning: "A tracked unit of work in tools/plan-registry/plans.yaml (plan/issue/bug/dead_end/stub)"
+
+  - term: "context capsule"
+    meaning: "A bounded task context packet generated under artifacts/contexts/ and linked from a work item"
+
+  - term: "oxygen"
+    meaning: "Shared resources and cross-domain coupling; accelerates work and can cause collisions"
+
+  - term: "lease"
+    meaning: "A short-lived claim on a shared resource to prevent collisions (.substrate/state/leases)"
+
+  - term: "dead end"
+    meaning: "A path tried that should not be repeated; record the why and the guardrail"
+
+  - term: "stub"
+    meaning: "A cognitive placeholder: a hypothesis or incomplete thought worth preserving"
+
+  - term: "distro"
+    meaning: "A shippable tarball of the framework scaffold excluding user data by default"
+
+  - term: "iso"
+    meaning: "A bootable image used to install or demo a server environment"
+
+  - term: "quarantine marker"
+    meaning: "A file under quarantine/ describing why a unit was quarantined"
+
+  - term: "state surface"
+    meaning: "A file-based interface for sharing state between components (.substrate/state/)"
+
+  - term: "budget"
+    meaning: "Allocated resources (time, compute, attention) for a domain or agent class"
+
+  - term: "focus"
+    meaning: "A temporary state of concentrated attention on a specific task or domain"
+
+  - term: "field"
+    meaning: "The measurable operational state of the system's orchestration capacity"

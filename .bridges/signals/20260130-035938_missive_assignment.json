@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned DEPLOY-002 to builder (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/DEPLOY-002_implement-iso-build-automation.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/DEPLOY-002_implement-iso-build-automation.md",
+      "Work the item: DEPLOY-002"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "builder",
+    "id": "20260130-035938",
+    "kind": "missive",
+    "timestamp": "2026-01-30T03:59:38Z",
+    "to": "council",
+    "urgency": "normal"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "version": "0.1",
+  "domain": "physics",
+  "name": "Physics",
+  "description": "Physics preprints and selected long-form exposition.",
+  "teams": [
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_physics", "name": "arXiv physics", "url": "https://arxiv.org/rss/physics", "tags": ["arxiv"]},
+        {"id": "arxiv_quant_ph", "name": "arXiv quant-ph", "url": "https://arxiv.org/rss/quant-ph", "tags": ["quantum"]},
+        {"id": "arxiv_hep_th", "name": "arXiv hep-th", "url": "https://arxiv.org/rss/hep-th", "tags": ["theory"]},
+        {"id": "arxiv_cond_mat", "name": "arXiv cond-mat", "url": "https://arxiv.org/rss/cond-mat", "tags": ["condensed_matter"]},
+        {"id": "arxiv_astro_ph", "name": "arXiv astro-ph", "url": "https://arxiv.org/rss/astro-ph", "tags": ["astro"]}
+      ]
+    },
+    {
+      "id": "magazines",
+      "name": "Magazines",
+      "feeds": [
+        {"id": "quanta", "name": "Quanta", "url": "https://www.quantamagazine.org/feed/", "tags": ["exposition"]}
+      ]
+    }
+  ]
+}

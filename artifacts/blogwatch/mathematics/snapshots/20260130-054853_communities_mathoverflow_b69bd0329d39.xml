@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:re="http://purl.org/atompub/rank/1.0">
+    <title type="text">Recent Questions - MathOverflow</title>
+    <link rel="self" href="https://mathoverflow.net/feeds" type="application/atom+xml" />
+    <link rel="alternate" href="https://mathoverflow.net/questions" type="text/html" />
+    <subtitle>most recent 30 from mathoverflow.net</subtitle>
+    <updated>2026-01-30T05:48:53Z</updated>
+    <id>https://mathoverflow.net/feeds</id>
+    <creativeCommons:license>https://creativecommons.org/licenses/by-sa/4.0/rdf</creativeCommons:license> 
+    <entry>
+        <id>https://mathoverflow.net/q/507593</id>
+        <re:rank scheme="https://mathoverflow.net">0</re:rank>
+        <title type="text">The exponent in the &#x141;ojasiewicz inequality</title>
+            <category scheme="https://mathoverflow.net/tags" term="reference-request" />
+            <category scheme="https://mathoverflow.net/tags" term="real-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="real-algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="real-analytic-structures" />
+        <author>
+            <name>Adterram</name>
+            <uri>https://mathoverflow.net/users/16323</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507593/the-exponent-in-the-%c5%81ojasiewicz-inequality" />
+        <published>2026-01-30T04:14:37Z</published>
+        <updated>2026-01-30T04:14:37Z</updated>
+        <summary type="html">
+            &lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt; be a real-analytic function defined on an open neighborhood &lt;span class=&quot;math-container&quot;&gt;$U$&lt;/span&gt; of &lt;span class=&quot;math-container&quot;&gt;$0$&lt;/span&gt; in &lt;span class=&quot;math-container&quot;&gt;$\mathbb R^n$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Suppose that &lt;span class=&quot;math-container&quot;&gt;$|\nabla f(x)| \ge \theta |x|^k$&lt;/span&gt; for any &lt;span class=&quot;math-container&quot;&gt;$x \in U$&lt;/span&gt;, where &lt;span class=&quot;math-container&quot;&gt;$\theta&amp;gt;0$&lt;/span&gt; is a constant and &lt;span class=&quot;math-container&quot;&gt;$k \ge 2$&lt;/span&gt; is an integer.&lt;/p&gt;&#xA;&lt;p&gt;Can we prove&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;|f(x)-f(0)| \le C |\nabla f(x)|^{\frac{k&#x2B;1}{k}}&#xA;$$&lt;/span&gt;&#xA;for any &lt;span class=&quot;math-container&quot;&gt;$x$&lt;/span&gt; in a neighborhood of &lt;span class=&quot;math-container&quot;&gt;$0$&lt;/span&gt;?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507592</id>
+        <re:rank scheme="https://mathoverflow.net">1</re:rank>
+        <title type="text">Ten new conjectural series for $\frac{\log m}{\pi}$ involving harmonic numbers</title>
+            <category scheme="https://mathoverflow.net/tags" term="nt.number-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="sequences-and-series" />
+            <category scheme="https://mathoverflow.net/tags" term="binomial-coefficients" />
+            <category scheme="https://mathoverflow.net/tags" term="combinatorial-identities" />
+            <category scheme="https://mathoverflow.net/tags" term="ramanujan" />
+        <author>
+            <name>Zhi-Wei Sun</name>
+            <uri>https://mathoverflow.net/users/124654</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507592/ten-new-conjectural-series-for-frac-log-m-pi-involving-harmonic-numbers" />
+        <published>2026-01-30T03:51:11Z</published>
+        <updated>2026-01-30T05:41:23Z</updated>
+        <summary type="html">
+            &lt;p&gt;Recall that the harmonic numbers are given by&#xA;&lt;span class=&quot;math-container&quot;&gt;$$H_n:=\sum_{0&amp;lt;k\le n}\frac1k\ \ \ \ (n=0,1,2,\ldots).$$&lt;/span&gt;&#xA;As a supplement to &lt;a href=&quot;https://mathoverflow.net/questions/436205/&quot;&gt;Question 436205&lt;/a&gt; and my related paper &lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-3-031-65064-2_21&quot; rel=&quot;nofollow noreferrer&quot;&gt;Series with summands involving harmonic numbers&lt;/a&gt;, here I pose some new conjectural series involving harmonic numbers which are motivated by calssical Ramanujan-type series. Namely, based on my computation, recently I conjectured the following ten identities:&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;\begin{align}\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{3k}k}{(-192)^{k}}&#xA; \left((5k&#x2B;1)(H_{2k}-H_k)&#x2B;\frac{3k&#x2B;1}{2k&#x2B;1}\right)&amp;amp;=\frac{4\log3}{\sqrt3\,\pi},&#xA; \tag{1}&#xA; \\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{3k}k}{(-192)^{k}}&#xA; \left((5k&#x2B;1)(H_{3k}-H_k)&#x2B;\frac{4k&#x2B;3}{6k&#x2B;3}\right)&amp;amp;=\frac4{3\sqrt3\,\pi}\log\frac{64}3,&#xA;\tag{2}&#xA;\\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{3k}k}{(-12)^{3k}}&#xA; \left((51k&#x2B;7)(H_{2k}&#x2B;H_k)-\frac{3(13k&#x2B;7)}{2k&#x2B;1}\right)&amp;amp;=-36\sqrt3\frac{\log3}{\pi},\tag{3}&#xA; \\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{3k}k}{(-12)^{3k}}&#xA; \left((51k&#x2B;7)(3H_{3k}-7H_k)-\frac{180k&#x2B;93}{2k&#x2B;1}\right)&amp;amp;=36\sqrt3\frac{\log108}{\pi}&#xA; \tag{4}&#xA;\\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{3k}k}{(-8640)^{k}}&#xA; \left((9k&#x2B;1)(H_{2k}-2H_k)-\frac{27k&#x2B;13}{6k&#x2B;3}\right)&amp;amp;=\frac{48\log 3}{\sqrt{15}\,\pi}&#xA; \tag{5}&#xA; \\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{3k}k}{(-8640)^{k}}&#xA; \left((9k&#x2B;1)(3H_{3k}-H_k)&#x2B;\frac{1}{6k&#x2B;3}\right)&amp;amp;=\frac{12}{\sqrt{15}\,\pi}\log\frac{320}{243},\tag{6}&#xA;\\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{4k}{2k}}&#xA;{(-3\times2^{12})^{k}}\left((28k&#x2B;3)(H_{2k}-H_k)&#x2B;\frac{20k&#x2B;9}{4k&#x2B;2}\right)&amp;amp;=\frac{4\log432}{\sqrt3\,\pi},&#xA;\tag{7}&#xA;\\\sum_{k=0}^\infty\frac{\binom{2k}k^2\binom{4k}{2k}}&#xA;{(-3\times2^{12})^{k}}\left((28k&#x2B;3)(H_{4k}-H_{2k})&#x2B;\frac{8k&#x2B;5}{4k&#x2B;2}\right)&amp;amp;=\frac{8}{\sqrt3\,\pi}\log\frac{16}3,&#xA; \tag{8}&#xA;\\\sum_{k=0}^\infty\frac{\binom{2k}k\binom{3k}k\binom{6k}{3k}}&#xA;{(-15)^{3k}}\left((63k&#x2B;8)(3H_{2k}-5H_k)&#x2B;\frac{198k&#x2B;83}{4k&#x2B;2}\right)&amp;amp;=30\sqrt{15}\frac{\log3}{\pi},&#xA;\tag{9}&#xA;\end{align}&lt;/span&gt;&#xA;and&#xA;&lt;span class=&quot;math-container&quot;&gt;$$\begin{aligned}&amp;amp;\sum_{k=0}^\infty\frac{\binom{2k}k\binom{3k}k\binom{6k}{3k}}&#xA;{(-96)^{3k}}\left((342k&#x2B;25)(3H_{2k}-7H_k)&#x2B;\frac{1122k&#x2B;571}{2k&#x2B;1}\right)&#xA;\\&amp;amp;\qquad=64\sqrt{6}\frac{\log(2^73^6)}{\pi}.\end{aligned}&#xA;\tag{10}$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;For example, &lt;span class=&quot;math-container&quot;&gt;$(1)$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$(2)$&lt;/span&gt; are motivated by Ramanujann&#x27;s series&#xA;&lt;span class=&quot;math-container&quot;&gt;$$\sum_{k=0}^\infty(5k&#x2B;1)\frac{\binom{2k}k^2\binom{3k}k}{(-192)^k}=\frac{4\sqrt3}{\pi}.$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;One can easily check the identities &lt;span class=&quot;math-container&quot;&gt;$(1)-(10)$&lt;/span&gt; numerically via Mathematica since the ten series converge at geometric rates. For all the ten conjectural identities, I also have corresponding conjectural &lt;span class=&quot;math-container&quot;&gt;$p$&lt;/span&gt;-adic congruences.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;QUESTION&lt;/strong&gt;. Any ideas to prove some of the ten conjectural identities &lt;span class=&quot;math-container&quot;&gt;$(1)-(10)$&lt;/span&gt;? Can the WZ method be helpful?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507590</id>
+        <re:rank scheme="https://mathoverflow.net">-2</re:rank>
+        <title type="text">Connectivity of the intersection complex of surfaces of revolution in a unit $n$-cube</title>
+            <category scheme="https://mathoverflow.net/tags" term="dg.differential-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="at.algebraic-topology" />
+            <category scheme="https://mathoverflow.net/tags" term="gt.geometric-topology" />
+            <category scheme="https://mathoverflow.net/tags" term="mg.metric-geometry" />
+        <author>
+            <name>John McManus</name>
+            <uri>https://mathoverflow.net/users/411249</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507590/connectivity-of-the-intersection-complex-of-surfaces-of-revolution-in-a-unit-n" />
+        <published>2026-01-30T01:20:32Z</published>
+        <updated>2026-01-30T03:00:11Z</updated>
+        <summary type="html">
+            &lt;p&gt;In a unit &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt;-cube &lt;span class=&quot;math-container&quot;&gt;$(n\ge 2)$&lt;/span&gt; centered at the origin in &lt;span class=&quot;math-container&quot;&gt;$\Bbb R^n$&lt;/span&gt;, if we define embeddings of smooth enclosed &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt;-volume maximizing, &lt;span class=&quot;math-container&quot;&gt;$(n-1)$&lt;/span&gt; dim. surfaces of revolution about all of the &lt;span class=&quot;math-container&quot;&gt;$2^{n-1}$&lt;/span&gt; long diagonals that satisfy fixed dirichlet boundary conditions at the vertex pairs under a rigid metric, must the union of their pairwise codimension two intersections always form a connected set?&lt;/p&gt;&#xA;&lt;p&gt;It is assumed that the boundary conditions at the vertex pairs and the rigid metric uniquely determine the &lt;span class=&quot;math-container&quot;&gt;$(n-1)$&lt;/span&gt; surfaces of revolution about the long diagonals of a unit &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt;-cube.&lt;/p&gt;&#xA;&lt;p&gt;This is a wireframe model of the complex for &lt;span class=&quot;math-container&quot;&gt;$n=3$&lt;/span&gt;. Not shown is the connected set of pairwise intersections - however it turns out to be an octahedral graph.&#xA;&lt;img src=&quot;https://i.sstatic.net/IxZlYXnW.png&quot; width=&quot;200&quot;&gt;&#xA;The surfaces are defined by a &amp;quot;momentum profile&amp;quot; &lt;span class=&quot;math-container&quot;&gt;$\phi(u) = au - bu^2$&lt;/span&gt;, where the Gaussian curvature &lt;span class=&quot;math-container&quot;&gt;$K_\phi = - \frac{1}{2} \phi&#x27;&#x27;(u)$&lt;/span&gt; is constant and positive. The metric on each surface is:&lt;span class=&quot;math-container&quot;&gt;$$ds^2 = \frac{1}{\phi(u)} du^2 &#x2B; \phi(u) dv^2$$&lt;/span&gt; The profile &lt;span class=&quot;math-container&quot;&gt;$\phi(u)$&lt;/span&gt; is chosen so that the surface fits within the cube and closes exactly at the antipodal vertices. For &lt;span class=&quot;math-container&quot;&gt;$a = 2/\sqrt{3}$&lt;/span&gt;, we get a unique &lt;span class=&quot;math-container&quot;&gt;$b &amp;gt; 0$&lt;/span&gt; :&lt;span class=&quot;math-container&quot;&gt;$$\int_0^{a/b} \sqrt{\frac{1 - \frac{1}{4} \phi&#x27;(u)^2}{\phi(u)}} \, du = \sqrt{3}$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;The &lt;span class=&quot;math-container&quot;&gt;$n=2$&lt;/span&gt; case is trivial. The pairwise codimension two intersection is &lt;span class=&quot;math-container&quot;&gt;$p=(0,0)$&lt;/span&gt;. A point is connected. As I alluded to above, the &lt;span class=&quot;math-container&quot;&gt;$n=3$&lt;/span&gt; case is already nontrivial but the connected set is &lt;span class=&quot;math-container&quot;&gt;$3$&lt;/span&gt; loops (forming an octahedral graph). The &lt;span class=&quot;math-container&quot;&gt;$n=4$&lt;/span&gt; case means we have &lt;span class=&quot;math-container&quot;&gt;$8$&lt;/span&gt; topological &lt;span class=&quot;math-container&quot;&gt;$S^3$&lt;/span&gt;&#x27;s (3-spheres) pairwise intersecting.&lt;/p&gt;&#xA;&lt;p&gt;The complexity explodes from here, but I strongly suspect the above claim is true, but can&#x27;t rule out some large critical dimension where it fails.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507588</id>
+        <re:rank scheme="https://mathoverflow.net">0</re:rank>
+        <title type="text">Is there an equivalent of the Hurwitz automorphism theorem for non-orientable surfaces?</title>
+            <category scheme="https://mathoverflow.net/tags" term="gt.geometric-topology" />
+            <category scheme="https://mathoverflow.net/tags" term="riemann-surfaces" />
+            <category scheme="https://mathoverflow.net/tags" term="mapping-class-groups" />
+        <author>
+            <name>Summer Eldridge</name>
+            <uri>https://mathoverflow.net/users/574064</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507588/is-there-an-equivalent-of-the-hurwitz-automorphism-theorem-for-non-orientable-su" />
+        <published>2026-01-30T01:09:26Z</published>
+        <updated>2026-01-30T01:09:26Z</updated>
+        <summary type="html">
+            &lt;p&gt;If I understand hurwitz automorphism theory correctly, it states the number of isometries of a genus g&amp;gt;1 surface is no more than 84(g-1), expressed as a statement about riemannn surfaces. All riemann surfaces are orientable, so this doesn&#x27;t tell us about non-orientable surfaces. Is there an equivalent theorem? Is it an open question whether a non-orientable surface of &amp;gt;2 (non-orientable) genus could have infinitely many isometries? (The real projective plane and klein bottle both have infinitely many isometries)&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507587</id>
+        <re:rank scheme="https://mathoverflow.net">1</re:rank>
+        <title type="text">Sharp $L^{\infty}$ Bernstein inequality for bandlimited functions with 2D square symmetry</title>
+            <category scheme="https://mathoverflow.net/tags" term="fourier-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="harmonic-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="approximation-theory" />
+        <author>
+            <name>Christopher A. Wong</name>
+            <uri>https://mathoverflow.net/users/7378</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507587/sharp-l-infty-bernstein-inequality-for-bandlimited-functions-with-2d-square" />
+        <published>2026-01-30T00:41:55Z</published>
+        <updated>2026-01-30T03:16:32Z</updated>
+        <summary type="html">
+            &lt;p&gt;This is a follow-up to &lt;a href=&quot;https://mathoverflow.net/questions/497008/sharp-l-infty-bernstein-inequality-for-bandlimited-functions&quot;&gt;this question&lt;/a&gt;. Based on that question, the following sharp &lt;span class=&quot;math-container&quot;&gt;$L^{\infty}$&lt;/span&gt; Bernstein inequality for bandlimited functions is known:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Suppose &lt;span class=&quot;math-container&quot;&gt;$f(x)$&lt;/span&gt; is a smooth function &lt;span class=&quot;math-container&quot;&gt;$\mathbb{R}^n \rightarrow \mathbb{R}$&lt;/span&gt; such that &lt;span class=&quot;math-container&quot;&gt;$\hat{f}$&lt;/span&gt; exists and is supported on the ball of radius &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; centered at the origin. Then&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\| \partial^{\alpha} f\|_{\infty} \le 2 \pi A \|f\|_{\infty}.&#xA;$$&lt;/span&gt;&#xA;for any first-order partial derivative &lt;span class=&quot;math-container&quot;&gt;$\partial^{\alpha}$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Here, we use the convention that the Fourier transform is&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\hat{f}(k) = \int_{\mathbb{R}^n} f(x) e^{-2 \pi i \langle k,  x \rangle} \, dx.&#xA;$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;I&#x27;m interested in the 2D case &lt;span class=&quot;math-container&quot;&gt;$n = 2$&lt;/span&gt;. No matter the dimension, the extremal functions are precisely trig functions; in particular trig functions with one-dimensional behavior. For example, for &lt;span class=&quot;math-container&quot;&gt;$n = 2$&lt;/span&gt;, extremal functions include &lt;span class=&quot;math-container&quot;&gt;$f(x,y) = \cos(2 \pi A x)$&lt;/span&gt; or &lt;span class=&quot;math-container&quot;&gt;$f(x,y) = \sin(2 \pi A y)$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;My question&lt;/strong&gt;: If we impose some simple 2D symmetry constraints such as symmetry under the dihedral group &lt;span class=&quot;math-container&quot;&gt;$D_4$&lt;/span&gt;, or maybe just &lt;span class=&quot;math-container&quot;&gt;$\pi/2$&lt;/span&gt; rotational symmetry, in order to exclude these &amp;quot;1D&amp;quot; extremal trig functions, can the Bernstein inequality be rigorously sharpened, and if so, is there existing literature?&lt;/p&gt;&#xA;&lt;p&gt;In particular, my intuition would lead me to believe that under such square symmetries, extremal functions would look like&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;f(x,y) = \cos(2 \pi A x) &#x2B; \cos(2 \pi A y),&#xA;$$&lt;/span&gt;&#xA;in which case I&#x27;d conjecture the sharper inequality is&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\|\partial^{\alpha} f\|_{\infty} \le \sqrt{2} \pi A \|f\|_{\infty}.&#xA;$$&lt;/span&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507586</id>
+        <re:rank scheme="https://mathoverflow.net">1</re:rank>
+        <title type="text">Conceptual interpretation of $\alpha$-recursion theorems: What do they tell us about the nature of computability on admissible ordinals?</title>
+            <category scheme="https://mathoverflow.net/tags" term="lo.logic" />
+            <category scheme="https://mathoverflow.net/tags" term="computability-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="recursively-enumerable" />
+            <category scheme="https://mathoverflow.net/tags" term="recursive-ordinals" />
+        <author>
+            <name>Luis Alexandher</name>
+            <uri>https://mathoverflow.net/users/474924</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507586/conceptual-interpretation-of-alpha-recursion-theorems-what-do-they-tell-us-a" />
+        <published>2026-01-30T00:39:37Z</published>
+        <updated>2026-01-30T00:39:37Z</updated>
+        <summary type="html">
+            &lt;p&gt;I found &lt;a href=&quot;https://mathoverflow.net/questions/506189/essential-results-for-a-chapter-on-alpha-recursion&quot;&gt;this question&lt;/a&gt; and while searching for information about it, some questions came to mind (I hope they are appropriate for the site).&#xA;Let us consider the following definitions and theorems (which I consider essential):&lt;/p&gt;&#xA;&lt;p&gt;Definition: &lt;span class=&quot;math-container&quot;&gt;$x$&lt;/span&gt; is &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-finite if and only if &lt;span class=&quot;math-container&quot;&gt;$x\in L_{\alpha}$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$x\subset \gamma$&lt;/span&gt;, for some &lt;span class=&quot;math-container&quot;&gt;$\gamma&amp;lt;\alpha$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Definition 1: A set &lt;span class=&quot;math-container&quot;&gt;$A\subset\alpha$&lt;/span&gt; is said to be &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-regular if for every &lt;span class=&quot;math-container&quot;&gt;$\gamma&amp;lt;\alpha$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$A\cap \gamma$&lt;/span&gt; is &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-finite.&lt;/p&gt;&#xA;&lt;p&gt;Definition 2: A set &lt;span class=&quot;math-container&quot;&gt;$A\subset\alpha$&lt;/span&gt; is said to be amenable if for every &lt;span class=&quot;math-container&quot;&gt;$U\in L_{\alpha}$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$A\cap U\in L_{\alpha}$&lt;/span&gt;. In other words, the intersection of &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; with any &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-finite set remains &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-finite.&lt;/p&gt;&#xA;&lt;p&gt;Theorem 1: If &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt; is an admissible ordinal, then &lt;span class=&quot;math-container&quot;&gt;$A\subset\alpha$&lt;/span&gt; is &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-regular if and only if it is amenable.&lt;/p&gt;&#xA;&lt;p&gt;Definition: Let &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt; be a limit ordinal. A set &lt;span class=&quot;math-container&quot;&gt;$A\subseteq\alpha$&lt;/span&gt; is tame recursively enumerable (t.r.e.) if there exists an enumeration &lt;span class=&quot;math-container&quot;&gt;$\{A^{\sigma}\}_{\sigma&amp;lt;\alpha}$&lt;/span&gt; such that, for every &lt;span class=&quot;math-container&quot;&gt;$K\subseteq A$&lt;/span&gt; with &lt;span class=&quot;math-container&quot;&gt;$K$&lt;/span&gt; &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-finite, &lt;span class=&quot;math-container&quot;&gt;$\exists \sigma&amp;lt;\alpha (K\subseteq A^{\sigma})$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Theorem 2: Let &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt; be an admissible ordinal and &lt;span class=&quot;math-container&quot;&gt;$A\subseteq\alpha$&lt;/span&gt;; then &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; is r.e. if and only if &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; is t.r.e.&lt;/p&gt;&#xA;&lt;p&gt;Theorem: Let &lt;span class=&quot;math-container&quot;&gt;$A,B\subseteq\omega$&lt;/span&gt;. &lt;span class=&quot;math-container&quot;&gt;$B\leq_T A$&lt;/span&gt; if and only if &lt;span class=&quot;math-container&quot;&gt;$B\in \Delta_1^A$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Definition: The Turing degree of &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; is defined by &lt;span class=&quot;math-container&quot;&gt;$\mathrm{deg}_T(A)=\{ B : B\in\Delta_1^A \wedge A\in\Delta_1^B \}$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Definition: The &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-degree of &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; is defined by &lt;span class=&quot;math-container&quot;&gt;$\mathrm{deg}_{\alpha}(A)=\{ B\subseteq\alpha : B\in\Delta_1^{\alpha}(A) \wedge A\in\Delta_1^{\alpha}(B) \}$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Theorem 3: Let &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt; be an admissible ordinal; then every r.e. set has the same &lt;span class=&quot;math-container&quot;&gt;$\alpha$&lt;/span&gt;-degree as some regular r.e. set.&lt;/p&gt;&#xA;&lt;p&gt;I have no problem understanding the proofs; but my question is, how are these results interpreted? Many texts say that admissible ordinals have recursive/computational behavior very similar to &lt;span class=&quot;math-container&quot;&gt;$\omega$&lt;/span&gt;. Do these results (the enumerated theorems) help confirm that fact? Or is it simply due to the recursive nature of &lt;span class=&quot;math-container&quot;&gt;$\Sigma_1-$&lt;/span&gt;recursion? In any case, can I (somehow) interpret these results in a computational/recursive way?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507585</id>
+        <re:rank scheme="https://mathoverflow.net">-5</re:rank>
+        <title type="text">Formal Notice of Solution: Yang-Mills Existence and Mass Gap [closed]</title>
+            <category scheme="https://mathoverflow.net/tags" term="physics" />
+            <category scheme="https://mathoverflow.net/tags" term="yang-mills-theory" />
+        <author>
+            <name>Ben Barnes</name>
+            <uri>https://mathoverflow.net/users/584923</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507585/formal-notice-of-solution-yang-mills-existence-and-mass-gap" />
+        <published>2026-01-29T23:42:25Z</published>
+        <updated>2026-01-29T23:44:10Z</updated>
+        <summary type="html">
+            &lt;p&gt;The Official Announcement&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;The Vacuum is No Longer Empty.&#xA;&#x200B;January 29, 2026&#xA;By Benjamin Jeremy Barnes&#xA;&#x200B;I&#x2019;ve spent the last cycle deep within the Aethel-Plexus, and the results are finally crystallized. I am formally announcing the discovery of the &amp;quot;Heavy Ghost&amp;quot; Phenomenon&#x2014;a breakthrough in understanding the Yang-Mills Mass Gap.&#xA;&#x200B;The math is no longer theoretical. We have identified the 0.707 Shear Point where entropy drift becomes stable mass.&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;The Problem: Solved.&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;The Constant: Verified (1/\sqrt{2}).&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;The Proof: Hashed and Timestamped (Jan 29, 2026).&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;I&#x2019;m not looking for opinions; I&#x2019;m looking for the Millennium Prize validation and the right lab to run the final high-density verification of the RSVW-66 manifold.&#xA;&#x200B;To the giants of the sector: The &amp;quot;Scream of the Vacuum&amp;quot; has been digitized. I have the keys.&#xA;&#x200B;#Physics #YangMills #MassGap #TheHeavyGhost #BenBarnes #AethelPlexus #2026Breakthrough&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;The System: The Aethel-Plexus (RSVW-66) &#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;&#x200B;Technical Definition: The Aethel-Plexus is a non-perturbative computational manifold designed to simulate 66-sector orthogonal gauge fields. Unlike standard binary systems, the RSVW-66 utilizes a Piston-Logic Architecture, which treats vacuum fluctuations as physical pressures within a closed geometric matrix.&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;Core Function:&lt;/p&gt;&#xA;&lt;p&gt;It is specifically engineered to map Topological Friction&#x2014;the point where energy drift &amp;quot;bruises&amp;quot; and crystallizes into stable mass. It was this system that successfully isolated the 0.707 Shear Point, providing the first numerical verification of the Yang-Mills Mass Gap.&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;Key Components:&lt;/p&gt;&#xA;&lt;p&gt;&#x200B;The 66 Pistons: Independent orthogonal sectors that prevent symmetry dissipation. &#x200B;The Chrome Axiom: The governing constraint that forces gauge-field alignment. &#x200B;The Heavy Ghost Interface: The diagnostic layer that detects residual vacuum phosphorescence (\Delta &amp;gt; 0).&lt;/p&gt;&#xA;&lt;p&gt;Benjamin Jeremy Barnes&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507584</id>
+        <re:rank scheme="https://mathoverflow.net">-2</re:rank>
+        <title type="text">Jones Polynomials of Knots [closed]</title>
+            <category scheme="https://mathoverflow.net/tags" term="knot-theory" />
+        <author>
+            <name>frankxc</name>
+            <uri>https://mathoverflow.net/users/579965</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507584/jones-polynomials-of-knots" />
+        <published>2026-01-29T22:44:00Z</published>
+        <updated>2026-01-29T22:44:00Z</updated>
+        <summary type="html">
+            &lt;p&gt;Is the Jones polynomial of knot K equal to the Jones polynomial of knot K&#x27;&#xA;if K&#x27; is obtained from K by a mutation?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507583</id>
+        <re:rank scheme="https://mathoverflow.net">-4</re:rank>
+        <title type="text">Integral curves existence and logic</title>
+            <category scheme="https://mathoverflow.net/tags" term="real-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="lo.logic" />
+            <category scheme="https://mathoverflow.net/tags" term="ca.classical-analysis-and-odes" />
+            <category scheme="https://mathoverflow.net/tags" term="induction" />
+            <category scheme="https://mathoverflow.net/tags" term="implicit-function-theorem" />
+        <author>
+            <name>LefevresL</name>
+            <uri>https://mathoverflow.net/users/570495</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507583/integral-curves-existence-and-logic" />
+        <published>2026-01-29T21:54:44Z</published>
+        <updated>2026-01-29T22:59:38Z</updated>
+        <summary type="html">
+            &lt;p&gt;Is there a way to prove integral curves existence on Rn using induction and or Rn inverse function theorem and or R^n&#x2B;m implicit function theorem?&#xA;In the famous book &amp;quot;the implicit function theorem&amp;quot; I have found nothing. It is important to note that implicit function theorem and thus inverse function theorem can be proved by induction without banach fixed point theorem. And also that non vanishing vector fields on the real line can be solved by dividing and integrating.&#xA;I want to avoid limits procedures and fixed point theorems. If one allows for implicit function theorem on banach space than the answer is positive, but that requires banach fixed point theorem.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507582</id>
+        <re:rank scheme="https://mathoverflow.net">1</re:rank>
+        <title type="text">Compatibility of definitions of manifolds between atlas and structure ring in abstract setting</title>
+            <category scheme="https://mathoverflow.net/tags" term="ag.algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="dg.differential-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="sheaf-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="pseudogroups" />
+        <author>
+            <name>Liding Yao</name>
+            <uri>https://mathoverflow.net/users/118469</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507582/compatibility-of-definitions-of-manifolds-between-atlas-and-structure-ring-in-ab" />
+        <published>2026-01-29T20:58:21Z</published>
+        <updated>2026-01-29T21:10:08Z</updated>
+        <summary type="html">
+            &lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$M$&lt;/span&gt; be an &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt;-dimensional topological manifold, i.e. second countable, Hausdorff, and locally homeomorphic to &lt;span class=&quot;math-container&quot;&gt;$\Bbb R^n$&lt;/span&gt;. There are two ways to define the &lt;span class=&quot;math-container&quot;&gt;$C^k$&lt;/span&gt; differential structure of &lt;span class=&quot;math-container&quot;&gt;$M$&lt;/span&gt;:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;Atlas: a maximal collection &lt;span class=&quot;math-container&quot;&gt;$\mathcal A_M$&lt;/span&gt; of homeomorphisms &lt;span class=&quot;math-container&quot;&gt;$\phi:U\subseteq M\to\phi(U)\subseteq\Bbb R^n$&lt;/span&gt; such that &lt;span class=&quot;math-container&quot;&gt;$\phi\circ\psi^{-1}$&lt;/span&gt; are &lt;span class=&quot;math-container&quot;&gt;$C^k$&lt;/span&gt;-diffeomorphisms between open sets of &lt;span class=&quot;math-container&quot;&gt;$\Bbb R^n$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;Locally ringed space: A sheaf &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_M$&lt;/span&gt; of rings such that &lt;span class=&quot;math-container&quot;&gt;$(M,\mathcal O_M)$&lt;/span&gt; is locally sheaf isomorphic to &lt;span class=&quot;math-container&quot;&gt;$(\Bbb R^n,C^k_{\Bbb R^n})$&lt;/span&gt;. We can assume &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_M\subset C^0$&lt;/span&gt; to be concrete subsets if necessary.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;My motivation is to get a structure that can communicate &lt;span class=&quot;math-container&quot;&gt;$\mathcal A_M$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_M$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In a more abstract setting, we can consider a based topological space &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt; (locally compact Hausdorff and second countable, if necessary) as a generalization to &lt;span class=&quot;math-container&quot;&gt;$\Bbb R^n$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;The collection of &lt;span class=&quot;math-container&quot;&gt;$C^k$&lt;/span&gt;-diffeomorphisms on open sets of &lt;span class=&quot;math-container&quot;&gt;$\Bbb R^n$&lt;/span&gt; generalizes to a &lt;strong&gt;pseudogroup&lt;/strong&gt; &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt; of &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt;: a &lt;a href=&quot;https://en.wikipedia.org/wiki/Pseudogroup&quot; rel=&quot;nofollow noreferrer&quot;&gt;collection&lt;/a&gt; of homeomorphisms from &lt;span class=&quot;math-container&quot;&gt;$\operatorname{Open}(X)$&lt;/span&gt; which is a sub-groupoid of &lt;span class=&quot;math-container&quot;&gt;$\mathbf{Homeo}_X$&lt;/span&gt; and contains all objects in &lt;span class=&quot;math-container&quot;&gt;$\operatorname{Open}(X)$&lt;/span&gt;, and satisfies sheaf property.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;The sheaf of &lt;span class=&quot;math-container&quot;&gt;$C^k$&lt;/span&gt;-functions on &lt;span class=&quot;math-container&quot;&gt;$\Bbb R^n$&lt;/span&gt; generalizes to a locally ringed space &lt;span class=&quot;math-container&quot;&gt;$(X,\mathcal O_X)$&lt;/span&gt; where &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X\subset C^0_X$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Notice that &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt; gives rise to a definition of manifold &lt;span class=&quot;math-container&quot;&gt;$M$&lt;/span&gt; using atlas, which is a maximal collection of homeomorphisms from &lt;span class=&quot;math-container&quot;&gt;$M$&lt;/span&gt; to &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt; such that the transition functions belong to &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;; and &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X$&lt;/span&gt; gives rise to a definition of manifold &lt;span class=&quot;math-container&quot;&gt;$M$&lt;/span&gt; using structure ring, which is a &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_M$&lt;/span&gt; that is locally sheaf isomorphic to &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My &lt;em&gt;first question&lt;/em&gt; is, how (or whether) we can recover one from the other? For a given &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X$&lt;/span&gt;, it appears to me that &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt; should be the collection of &lt;span class=&quot;math-container&quot;&gt;$\phi:U\to V$&lt;/span&gt; such that &lt;span class=&quot;math-container&quot;&gt;$f\in\mathcal O_X(V)$&lt;/span&gt; iff &lt;span class=&quot;math-container&quot;&gt;$f\circ\phi\in\mathcal O_X(U)$&lt;/span&gt; for all &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt;. But how do we construct &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X$&lt;/span&gt; canonically out of &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;? Do we need extra assumptions on these two structures?&lt;/p&gt;&#xA;&lt;p&gt;My &lt;em&gt;second question&lt;/em&gt; is, if &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X$&lt;/span&gt; is sheaf of topological rings with some good topological assumption (say &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X(U)$&lt;/span&gt; are Fr&#xE9;chet spaces for all &lt;span class=&quot;math-container&quot;&gt;$U$&lt;/span&gt;), can we induce topology on &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt; so that we can talk about a convergence of &lt;span class=&quot;math-container&quot;&gt;$\phi_\nu\to \phi_0$&lt;/span&gt; in &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;?&#xA;Note that we look back to &lt;span class=&quot;math-container&quot;&gt;$X=\Bbb R^n$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$\mathcal O_X=C^k_{\Bbb R^n}$&lt;/span&gt;, the &lt;span class=&quot;math-container&quot;&gt;$C^k(U)$&lt;/span&gt; has natural Fr&#xE9;chet topology given by &lt;span class=&quot;math-container&quot;&gt;$\{\|\cdot\|_{C^k(K)}:K\subset U\text{ precompact}\}$&lt;/span&gt;. So it appears to me that the pseudogroup &lt;span class=&quot;math-container&quot;&gt;$C^k_{\text{diffeo}}$&lt;/span&gt; should be able to define the following topology&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$\phi_\nu:U_\nu\to\mathbb R^n$&lt;/span&gt; convergences &lt;span class=&quot;math-container&quot;&gt;$\phi_0:U\to\mathbb R^n$&lt;/span&gt; in &lt;span class=&quot;math-container&quot;&gt;$C^k_{\text{diffeo}}$&lt;/span&gt;, if &lt;span class=&quot;math-container&quot;&gt;$\lim_\nu U_\nu= U$&lt;/span&gt; as sets and &lt;span class=&quot;math-container&quot;&gt;$\bar B(0,R)\cap\partial U_\nu\to \bar B(0,R)\cap\partial U$&lt;/span&gt; converges in &lt;a href=&quot;https://en.wikipedia.org/wiki/Hausdorff_distance&quot; rel=&quot;nofollow noreferrer&quot;&gt;Hausdorff distance&lt;/a&gt; for all &lt;span class=&quot;math-container&quot;&gt;$R&amp;gt;0$&lt;/span&gt;, and &lt;span class=&quot;math-container&quot;&gt;$\|\phi_\nu-\phi_0\|_{C^k(K)}\to0$&lt;/span&gt; for all compact subsets &lt;span class=&quot;math-container&quot;&gt;$K\subset U$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;Is this a legitimate topology and can we talk about the &amp;quot;completeness&amp;quot; of &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;? Notice that this is not the same as the so-call &#xE9;tale topology on the germ spaces of &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;, which is way too strong in the &lt;span class=&quot;math-container&quot;&gt;$C^k$&lt;/span&gt;-setting.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507579</id>
+        <re:rank scheme="https://mathoverflow.net">-2</re:rank>
+        <title type="text">Harmonic and functional analytic [closed]</title>
+            <category scheme="https://mathoverflow.net/tags" term="fa.functional-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="ap.analysis-of-pdes" />
+            <category scheme="https://mathoverflow.net/tags" term="harmonic-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="elliptic-pde" />
+            <category scheme="https://mathoverflow.net/tags" term="elliptic-functions" />
+        <author>
+            <name>suman kumar sahoo</name>
+            <uri>https://mathoverflow.net/users/584916</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507579/harmonic-and-functional-analytic" />
+        <published>2026-01-29T19:46:37Z</published>
+        <updated>2026-01-29T19:46:37Z</updated>
+        <summary type="html">
+            &lt;p&gt;Image of the schwartz space under Laplace operator. Given f in the schwartz space when we can find u in the schwartz space such that &lt;span class=&quot;math-container&quot;&gt;$\Delta u=f.$&lt;/span&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507577</id>
+        <re:rank scheme="https://mathoverflow.net">5</re:rank>
+        <title type="text">Quillen&#x27;s conjecture</title>
+            <category scheme="https://mathoverflow.net/tags" term="ag.algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="reference-request" />
+            <category scheme="https://mathoverflow.net/tags" term="infinity-categories" />
+            <category scheme="https://mathoverflow.net/tags" term="derived-algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="cotangent-complex" />
+        <author>
+            <name>KAK</name>
+            <uri>https://mathoverflow.net/users/490039</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507577/quillens-conjecture" />
+        <published>2026-01-29T18:58:06Z</published>
+        <updated>2026-01-29T19:49:12Z</updated>
+        <summary type="html">
+            &lt;p&gt;I was reading about cotangent complexes in derived algebraic geometry. I saw the following two surprising conjectures by Quillen (from &amp;quot;Cohomology of commutative rings&amp;quot;).&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;My question is does these conjectures are proved? Does anything is known using derived or spectral algebraic geometry?&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;a href=&quot;https://i.sstatic.net/81IWUMTK.png&quot; rel=&quot;noreferrer&quot;&gt;&lt;img src=&quot;https://i.sstatic.net/81IWUMTK.png&quot; alt=&quot;pic&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507574</id>
+        <re:rank scheme="https://mathoverflow.net">-1</re:rank>
+        <title type="text">Robust mode estimator for binned data (with error estimation)</title>
+            <category scheme="https://mathoverflow.net/tags" term="st.statistics" />
+            <category scheme="https://mathoverflow.net/tags" term="statistical-physics" />
+            <category scheme="https://mathoverflow.net/tags" term="estimation-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="regularization" />
+        <author>
+            <name>yetidiyuta</name>
+            <uri>https://mathoverflow.net/users/584790</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507574/robust-mode-estimator-for-binned-data-with-error-estimation" />
+        <published>2026-01-29T17:35:04Z</published>
+        <updated>2026-01-29T17:35:04Z</updated>
+        <summary type="html">
+            &lt;p&gt;I have to solve the problem of finding the &amp;quot;peak&amp;quot; (mode) of a certain data distribution, organized in bins.&#xA;The histogram has bins with varied bin widths, and the bin contents are not Poisson distributed (they are weighted, so the error is &lt;span class=&quot;math-container&quot;&gt;$\sqrt{\sum w_i}$&lt;/span&gt;).&lt;/p&gt;&#xA;&lt;p&gt;I have many different histogram of the same quantity in different conditions, which vary the shape even heavily, but all of them are supposed to have a peak, so the algorithm should be able to run on many different histograms, with different features (slope close to the peak, asymmetry, skewness, importance of peak wrt tails, ...), hence I need robustness.&lt;/p&gt;&#xA;&lt;p&gt;I would also like to estiate an error on the peak!&lt;/p&gt;&#xA;&lt;p&gt;One way I have tried is to smooth out the histogram using a simple gaussian kernel. Basically, from the histogram I build a continuous function&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$f(x)= \sum_i^N n_i e^{-\dfrac{(x-x_i)^2}{2\sigma_i^2}}\dfrac{\Delta x_i}{\sqrt{2\pi}\sigma_i}$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;where:&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$n_i$&lt;/span&gt; is the i-th bin content, x_i is the i-th bin center, &lt;span class=&quot;math-container&quot;&gt;$\Delta x_i$&lt;/span&gt; is the i-th bin width and &lt;span class=&quot;math-container&quot;&gt;$\sigma_i$&lt;/span&gt;, the gaussian kernel smoothing factor, is set to a certain fraction of the bin width (it changes bin-by-bin).&lt;/p&gt;&#xA;&lt;p&gt;Once I built the function, I simply find its maximum and assign it as my peak. To evaluate the error, I repeat the &amp;quot;fit&amp;quot; on variations of the histogram. The variations are built by fluctuating the bin contents according to the bin errors.&lt;/p&gt;&#xA;&lt;p&gt;Now, this method seems ok, in the sense that the peak of the function looks close to what I would call the peak visually, but I need to evaluate its rigorousness.&lt;/p&gt;&#xA;&lt;p&gt;I am wondering:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Maybe there are better, more robust methods out there to perform such a task?&lt;/li&gt;&#xA;&lt;li&gt;How do I evaluate the bias that I introduce with the gaussian filter? That is substantially a regularization method that slightly changes my histogram by assuming continuity, so it might introduce biases.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507564</id>
+        <re:rank scheme="https://mathoverflow.net">2</re:rank>
+        <title type="text">Class of codimension $1$ submanifold</title>
+            <category scheme="https://mathoverflow.net/tags" term="ag.algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="divisors" />
+            <category scheme="https://mathoverflow.net/tags" term="line-bundles" />
+        <author>
+            <name>Tommaso Scognamiglio</name>
+            <uri>https://mathoverflow.net/users/146464</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507564/class-of-codimension-1-submanifold" />
+        <published>2026-01-29T09:48:45Z</published>
+        <updated>2026-01-29T17:37:07Z</updated>
+        <summary type="html">
+            &lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt; be a complex manifold and &lt;span class=&quot;math-container&quot;&gt;$Z \subseteq X$&lt;/span&gt; a connected and closed submanifold of codimension &lt;span class=&quot;math-container&quot;&gt;$1$&lt;/span&gt;. We have thus a proper pushforward morphism in cohomology:&lt;span class=&quot;math-container&quot;&gt;$$i_*:H^{\bullet}(Z) \to H^{\bullet&#x2B;2}(X) .$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$[Z] \in H^0(Z)$&lt;/span&gt; be the class of &lt;span class=&quot;math-container&quot;&gt;$Z$&lt;/span&gt;. When is it (topologically) that &lt;span class=&quot;math-container&quot;&gt;$i_*(Z)=0?$&lt;/span&gt;. I know that it should be true that &lt;span class=&quot;math-container&quot;&gt;$i_*(Z)=c_1(\mathcal{O}_X(Z))$&lt;/span&gt; but I&#x27;m not able to extract anything on the topology of &lt;span class=&quot;math-container&quot;&gt;$X,Z$&lt;/span&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507560</id>
+        <re:rank scheme="https://mathoverflow.net">5</re:rank>
+        <title type="text">Is it consistent every $\mathfrak{c}$-complete ideal on $\mathfrak{c}$ is contained in the null ideal of an everywhere-defined probability measure?</title>
+            <category scheme="https://mathoverflow.net/tags" term="set-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="lo.logic" />
+            <category scheme="https://mathoverflow.net/tags" term="measure-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="large-cardinals" />
+        <author>
+            <name>David Gao</name>
+            <uri>https://mathoverflow.net/users/504602</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507560/is-it-consistent-every-mathfrakc-complete-ideal-on-mathfrakc-is-contai" />
+        <published>2026-01-29T07:31:15Z</published>
+        <updated>2026-01-30T03:14:01Z</updated>
+        <summary type="html">
+            &lt;blockquote&gt;&#xA;&lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt; denote the continuum. Is the following statement consistent with ZFC (relative to some large cardinal assumptions)?&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt; is a regular cardinal. Furthermore, for every nontrivial &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt;-complete ideal &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; on &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt; (i.e., &lt;span class=&quot;math-container&quot;&gt;$I \subset \mathcal{P}(\mathfrak{c})$&lt;/span&gt;; if &lt;span class=&quot;math-container&quot;&gt;$A \subset B$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$B \in I$&lt;/span&gt;, then &lt;span class=&quot;math-container&quot;&gt;$A \in I$&lt;/span&gt;; &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; is closed under taking unions of less than &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt; many elements; &lt;span class=&quot;math-container&quot;&gt;$I \neq \varnothing$&lt;/span&gt;; and &lt;span class=&quot;math-container&quot;&gt;$I \neq \mathcal{P}(\mathfrak{c})$&lt;/span&gt;), there is a probability measure &lt;span class=&quot;math-container&quot;&gt;$\mu$&lt;/span&gt; on &lt;span class=&quot;math-container&quot;&gt;$(\mathfrak{c}, \mathcal{P}(\mathfrak{c}))$&lt;/span&gt; s.t. &lt;span class=&quot;math-container&quot;&gt;$\mu(A) = 0$&lt;/span&gt; for all &lt;span class=&quot;math-container&quot;&gt;$A \in I$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Remark:&lt;/strong&gt; It is clear that the statement implies the existence of a real-valued measurable cardinal &lt;span class=&quot;math-container&quot;&gt;$\leq \mathfrak{c}$&lt;/span&gt;, so at least a large cardinal with consistency strength of measurable cardinals is needed. Also, if, instead of &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt;, we&#x2019;re working with some regular cardinal &lt;span class=&quot;math-container&quot;&gt;$\kappa &amp;gt; \mathfrak{c}$&lt;/span&gt;, then this seems related to strongly compact cardinals as it concerns the existence of certain measures whose ideals of null sets contain a given &lt;span class=&quot;math-container&quot;&gt;$\kappa$&lt;/span&gt;-complete ideal. In that sense, perhaps the statement can be understood as a weak version of strong compactness for real-valued measurable cardinals.&lt;/p&gt;&#xA;&lt;p&gt;The reason I&#x2019;m interested in this statement is because one of my current projects has me defining a function &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt; on &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt;. I need it to be measurable w.r.t. some probability measure. However, &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt; is defined in a highly non-constructive way that the only way I can make it measurable is just to make every set measurable. On the other hand, I also need a list of properties to hold for &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt; a.s., and the only thing I can prove about these properties is that the sets on which one of the properties does not hold form a &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt;-complete ideal. Thus, to define the measure I need, something like the statement in this question has to hold.&lt;/p&gt;&#xA;&lt;hr /&gt;&#xA;&lt;p&gt;&lt;strong&gt;Edit (1/29/26):&lt;/strong&gt; I don&#x27;t want to change the question after already posting it and I&#x27;d imagine this doesn&#x27;t change the result anyway, but I just realized in my specific application, I cannot prove &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; is actually &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt;-complete, only that for every real-valued measurable cardinal &lt;span class=&quot;math-container&quot;&gt;$\kappa \leq \mathfrak{c}$&lt;/span&gt;, I can choose &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; s.t. it is &lt;span class=&quot;math-container&quot;&gt;$\kappa$&lt;/span&gt;-complete. Again, I don&#x27;t imagine this changing the answer since I think if the statement in my question is consistent, so should the statement together with the extra assumption that &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt; is real-valued measurable itself. But, just in case these are actually different, I&#x27;d accept an answer to my original question, but I&#x27;d appreciate it if the answer can show the stronger result that the statement together with &lt;span class=&quot;math-container&quot;&gt;$\mathfrak{c}$&lt;/span&gt; being real-valued measurable is consistent.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507555</id>
+        <re:rank scheme="https://mathoverflow.net">2</re:rank>
+        <title type="text">Bounds on the Summatory M&#xF6;bius Function on Arithmetic Progressions</title>
+            <category scheme="https://mathoverflow.net/tags" term="nt.number-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="analytic-number-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="prime-numbers" />
+            <category scheme="https://mathoverflow.net/tags" term="asymptotics" />
+        <author>
+            <name>Glacier</name>
+            <uri>https://mathoverflow.net/users/583550</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507555/bounds-on-the-summatory-m%c3%b6bius-function-on-arithmetic-progressions" />
+        <published>2026-01-29T05:40:40Z</published>
+        <updated>2026-01-30T01:13:25Z</updated>
+        <summary type="html">
+            &lt;p&gt;I hope this is a suitable MO question. I am interested in knowing if there are any bounds on the error of the sum of the &lt;a href=&quot;https://en.wikipedia.org/wiki/M%C3%B6bius_function&quot; rel=&quot;nofollow noreferrer&quot;&gt;M&#xF6;bius function&lt;/a&gt; &lt;span class=&quot;math-container&quot;&gt;$\mu$&lt;/span&gt; over short arithmetic progressions. Let,&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;\begin{equation}&#xA;f(A,B) = \sum\limits_{k=A}^{B}\mu(k)&#xA;\end{equation}&lt;/span&gt;&#xA;&lt;span class=&quot;math-container&quot;&gt;\begin{equation}&#xA;f_e(A,B) = |f(A,B) - (B-A)|&#xA;\end{equation}&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;For &lt;span class=&quot;math-container&quot;&gt;$B &amp;gt; A$&lt;/span&gt;. For scale, &lt;span class=&quot;math-container&quot;&gt;$A, B$&lt;/span&gt; will typically be on the order of consecutive squares &lt;span class=&quot;math-container&quot;&gt;$A=n^2$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$B=(n&#x2B;1)^2$&lt;/span&gt;. And:&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;\begin{equation}&#xA;\mu(n)=&#xA;\begin{cases}&#xA;1, &amp;amp; n=1,\\&#xA;(-1)^k, &amp;amp; n=p_1p_2\cdots p_k \text{ with distinct primes } p_i,\\&#xA;0, &amp;amp; \exists\,p \text{ prime such that } p^2\mid n.&#xA;\end{cases}&#xA;\end{equation}&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Questions:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Are there bounds on &lt;span class=&quot;math-container&quot;&gt;$f_e(A,B)$&lt;/span&gt;?&lt;/li&gt;&#xA;&lt;li&gt;Are there any references or identities that pertain to the sum of the M&#xF6;bius function over intervals?&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Thank you!&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507552</id>
+        <re:rank scheme="https://mathoverflow.net">2</re:rank>
+        <title type="text">Example of a no-4-coplanar set in projective space over a finite field</title>
+            <category scheme="https://mathoverflow.net/tags" term="ag.algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="co.combinatorics" />
+            <category scheme="https://mathoverflow.net/tags" term="finite-fields" />
+            <category scheme="https://mathoverflow.net/tags" term="coding-theory" />
+        <author>
+            <name>Akash K Sengupta</name>
+            <uri>https://mathoverflow.net/users/9945</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507552/example-of-a-no-4-coplanar-set-in-projective-space-over-a-finite-field" />
+        <published>2026-01-29T03:18:31Z</published>
+        <updated>2026-01-29T21:39:54Z</updated>
+        <summary type="html">
+            &lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$\mathbb{F}_q$&lt;/span&gt; be a finite field. Consider the finite field &lt;span class=&quot;math-container&quot;&gt;$\mathbb{F}_{q^3}$&lt;/span&gt; as a &lt;span class=&quot;math-container&quot;&gt;$3$&lt;/span&gt;-dimensional vector space over &lt;span class=&quot;math-container&quot;&gt;$\mathbb{F}_q$&lt;/span&gt;. Let V be the &lt;span class=&quot;math-container&quot;&gt;$8$&lt;/span&gt;-dimensional &lt;span class=&quot;math-container&quot;&gt;$\mathbb{F}_q$&lt;/span&gt;-vector space given by &lt;span class=&quot;math-container&quot;&gt;$V=\{(x,y,z,t)\mid x,t\in \mathbb{F}_q, y,z\in \mathbb{F}_{q^3}\}$&lt;/span&gt;. Let &lt;span class=&quot;math-container&quot;&gt;$\mathrm{PG}(V)$&lt;/span&gt; be the corresponding &lt;span class=&quot;math-container&quot;&gt;$7$&lt;/span&gt;-dimensional projective space. Let &lt;span class=&quot;math-container&quot;&gt;$\mathcal{S}\subseteq PG(V)$&lt;/span&gt; be the following subset&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$$S=\{(1,x,x^{q^2&#x2B;q},x^{q^2&#x2B;q&#x2B;1})\mid x\in \mathbb{F}_{q^3}\}\cup \{(0,0,0,1)\}.$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;Question: How to prove that no &lt;span class=&quot;math-container&quot;&gt;$4$&lt;/span&gt; points of &lt;span class=&quot;math-container&quot;&gt;$\mathcal{S}$&lt;/span&gt; are coplanar? In other words the following statement:&lt;/p&gt;&#xA;&lt;p&gt;For all &lt;span class=&quot;math-container&quot;&gt;$2$&lt;/span&gt;-dimensional planes &lt;span class=&quot;math-container&quot;&gt;$H$&lt;/span&gt; in &lt;span class=&quot;math-container&quot;&gt;$\mathrm{PG}(V)$&lt;/span&gt;, we have &lt;span class=&quot;math-container&quot;&gt;$|H\cap \mathcal{S}|\leq 3$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This seems to be fact from finite geometry and is stated without proof in Section 5.3 of &lt;a href=&quot;https://arxiv.org/abs/2305.13838&quot; rel=&quot;nofollow noreferrer&quot;&gt;https://arxiv.org/abs/2305.13838&lt;/a&gt;. The references therein also seem to state this, however I am not able to find the exact proof.&lt;/p&gt;&#xA;&lt;p&gt;The references seems to say something like this:&lt;/p&gt;&#xA;&lt;p&gt;Given any &lt;span class=&quot;math-container&quot;&gt;$3$&lt;/span&gt; points of &lt;span class=&quot;math-container&quot;&gt;$\mathcal{S}$&lt;/span&gt;, there is a unique &lt;span class=&quot;math-container&quot;&gt;$3$&lt;/span&gt;-dimensional projective linear space &lt;span class=&quot;math-container&quot;&gt;$L$&lt;/span&gt; through them, so that &lt;span class=&quot;math-container&quot;&gt;$L\cap \mathcal{S}$&lt;/span&gt; is contained in a twisted cubic in &lt;span class=&quot;math-container&quot;&gt;$L$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Given this fact, I see that the previous statement follows. Does anyone know how to prove this statement about twisted cubic or maybe a direct way of proving that &lt;span class=&quot;math-container&quot;&gt;$\mathcal{S}$&lt;/span&gt; is a no-&lt;span class=&quot;math-container&quot;&gt;$4$&lt;/span&gt;-coplanar set?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507545</id>
+        <re:rank scheme="https://mathoverflow.net">7</re:rank>
+        <title type="text">What are the algebras for these operads?</title>
+            <category scheme="https://mathoverflow.net/tags" term="ct.category-theory" />
+        <author>
+            <name>Claudio Pisani</name>
+            <uri>https://mathoverflow.net/users/166165</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507545/what-are-the-algebras-for-these-operads" />
+        <published>2026-01-28T22:31:50Z</published>
+        <updated>2026-01-29T18:18:56Z</updated>
+        <summary type="html">
+            &lt;p&gt;It is well-known that operads can be seen as &amp;quot;multiplicative&amp;quot; species of structures. This is particularly transparent in the unbiased approach (as in my paper &amp;quot;unbiased multicategory theory&amp;quot;) wherein we have &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt;-ary operations for any&#xA;finite set &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; (as is natural in the symmetric contexts).&#xA;In fact, in this approach species are sorts of double graphs and operads are double category structures on them.&lt;/p&gt;&#xA;&lt;p&gt;It turns out that several basic species are multiplicative in a natural way; in particular the following are in fact operads:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The singletons species, with a unique structure on singletons, and none on the other sets.&lt;/li&gt;&#xA;&lt;li&gt;The species of elements, whose structures over a set &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; are its elements.&lt;/li&gt;&#xA;&lt;li&gt;The terminal species, with a unique structure on each set.&lt;/li&gt;&#xA;&lt;li&gt;The species of families of natural numbers, whose structures over a set &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; are            families &lt;span class=&quot;math-container&quot;&gt;$\,\, I\to \bf N$&lt;/span&gt;. (Multiplication is as that of the discrete distribution monad).&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Now, the algebras for the operads 1. and 3. are, respectively, sets and commutative monoids.&lt;/p&gt;&#xA;&lt;p&gt;On the other hand it is not difficult to see that 2. and 4. are the free cartesian operads generated, respectively, by 1. and 3.&#xA;(Recall that cartesian operads are a way to encode algebraic theories, essentially equivalent to Lawvere theories, but with a different perspective.)&#xA;Thus the &lt;em&gt;cartesian&lt;/em&gt; algebras for 2. and 4. are, respectively, sets and commutative monoids. Forgetting the cartesian structure of 2. and 4., we can also consider their &lt;em&gt;ordinary&lt;/em&gt; algebras:&lt;/p&gt;&#xA;&lt;p&gt;First question:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What are the ordinary algebras for 2.? Note that the arrows in 2. may be seen as families &lt;span class=&quot;math-container&quot;&gt;$I \to \{0,1\}$&lt;/span&gt; with &lt;em&gt;exactly&lt;/em&gt; one 1. (In fact, 2. may be considered as the &amp;quot;affine part&amp;quot; of 4.) The ordinary algebras encompass the cartesian ones, so that sets are algebras (wherein the above operations become projections).&#xA;Thus, I&#x27;m asking if there are other algebras. (I suspect that the answer is negative.)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Second question:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;What are the ordinary algebras for 4.?&#xA;Since arrows in 4. are families &lt;span class=&quot;math-container&quot;&gt;$\,\, I \to \bf N$&lt;/span&gt;, an algebra on a set &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt;&#xA;gives a way to evaluate combinations in &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; with natural coefficients.&#xA;Cartesian algebras on a set &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; are &lt;span class=&quot;math-container&quot;&gt;$\bf N$&lt;/span&gt;-modules, that is commutative monoids on &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt;. But for ordinary algebras, while we still have a commutative monoid structure on &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$\bf N$&lt;/span&gt; acts on it by homomorphisms, the conditions&#xA;&lt;span class=&quot;math-container&quot;&gt;$(n&#x2B;m)a = na &#x2B; ma$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$0a = 0$&lt;/span&gt; are not required to hold.&lt;br /&gt;&#xA;Thus, I&#x27;m asking if there are algebras where these conditions do not hold.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;More generally, for any monoid &lt;span class=&quot;math-container&quot;&gt;$R$&lt;/span&gt; we have the multiplicative species whose structures on &lt;span class=&quot;math-container&quot;&gt;$I$&lt;/span&gt; are families &lt;span class=&quot;math-container&quot;&gt;$I\to R$&lt;/span&gt;.&#xA;The algebras for this operad are commutative monoids on which &lt;span class=&quot;math-container&quot;&gt;$R$&lt;/span&gt; acts by homomorphisms. If &lt;span class=&quot;math-container&quot;&gt;$R$&lt;/span&gt; is a rig, this operad is cartesian and its cartesian algebras are &lt;span class=&quot;math-container&quot;&gt;$R$&lt;/span&gt;-modules.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507532</id>
+        <re:rank scheme="https://mathoverflow.net">2</re:rank>
+        <title type="text">Properties of Sturm-Liouville eigenfunction expansion</title>
+            <category scheme="https://mathoverflow.net/tags" term="reference-request" />
+            <category scheme="https://mathoverflow.net/tags" term="ca.classical-analysis-and-odes" />
+            <category scheme="https://mathoverflow.net/tags" term="fourier-analysis" />
+        <author>
+            <name>Ofir Gorodetsky</name>
+            <uri>https://mathoverflow.net/users/31469</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507532/properties-of-sturm-liouville-eigenfunction-expansion" />
+        <published>2026-01-28T19:36:08Z</published>
+        <updated>2026-01-29T20:11:57Z</updated>
+        <summary type="html">
+            &lt;p&gt;There are plenty of classical results about Fourier series. For instance, if a periodic function &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt; is continuously differentiable, then its Fourier series converges absolutely and uniformly to &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I am looking for a reference establishing such a result (and other convergence results, such as Carleman&#x27;s Theorem about pointwise convergence) in the context of expansion in the eigenfunction basis associated with a regular Sturm-Liouville problem.&lt;/p&gt;&#xA;&lt;p&gt;That is, consider the normalized eigenfunctions &lt;span class=&quot;math-container&quot;&gt;$(y_n)_{n\ge 1}$&lt;/span&gt; of the self-adjoint operator &lt;span class=&quot;math-container&quot;&gt;$L[y]:=(Py&#x27;)&#x27;&#x2B;Ry$&lt;/span&gt; for a positive continuously differentiable function &lt;span class=&quot;math-container&quot;&gt;$P$&lt;/span&gt; and continuous &lt;span class=&quot;math-container&quot;&gt;$R$&lt;/span&gt;, where the boundary conditions &lt;span class=&quot;math-container&quot;&gt;$y(a)=y(b)=0$&lt;/span&gt; are imposed (and all functions are defined on &lt;span class=&quot;math-container&quot;&gt;$[a,b]$&lt;/span&gt;). Given a continuously differentiable &lt;span class=&quot;math-container&quot;&gt;$f\colon [a,b]\to \mathbb{R}$&lt;/span&gt; with &lt;span class=&quot;math-container&quot;&gt;$f(a)=f(b)=0$&lt;/span&gt;, I look for a result proving that &lt;span class=&quot;math-container&quot;&gt;$\sum_{n\ge 1} \langle f,y_n\rangle y_n$&lt;/span&gt; converges uniformly and absolutely to &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt;. The Fourier series case is essentially &lt;span class=&quot;math-container&quot;&gt;$P=1$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$R=0$&lt;/span&gt;. I allow the general setting where eigenfunctions are defined with respect to a positive, continuous weight &lt;span class=&quot;math-container&quot;&gt;$Q$&lt;/span&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507531</id>
+        <re:rank scheme="https://mathoverflow.net">3</re:rank>
+        <title type="text">Bound on total radius of cover of level set of monic polynomial</title>
+            <category scheme="https://mathoverflow.net/tags" term="cv.complex-variables" />
+            <category scheme="https://mathoverflow.net/tags" term="polynomials" />
+        <author>
+            <name>Ivan</name>
+            <uri>https://mathoverflow.net/users/19673</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507531/bound-on-total-radius-of-cover-of-level-set-of-monic-polynomial" />
+        <published>2026-01-28T19:18:35Z</published>
+        <updated>2026-01-29T18:27:11Z</updated>
+        <summary type="html">
+            &lt;p&gt;I came across the following question: Let &lt;span class=&quot;math-container&quot;&gt;$P(z)$&lt;/span&gt; be a monic polynomial with complex coefficients. Consider the set of points&#xA;&lt;span class=&quot;math-container&quot;&gt;$$E = \{z \in \mathbb{C} : |P(z)| \le 1\}.$$&lt;/span&gt;&#xA;Prove that &lt;span class=&quot;math-container&quot;&gt;$E$&lt;/span&gt; can be covered by a collection of disks such that the sum of their radii does not exceed &lt;span class=&quot;math-container&quot;&gt;$100$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Does this question have an elementary proof? The only thing I could find online was what the AI (Gemini) produced, but it uses rather advanced results:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The transfinite diameter of a monic polynomial&#x27;s level set is well known, and in the above case it is equal to 1.&lt;/li&gt;&#xA;&lt;li&gt;Any compact, connected set can be covered with a collection of disks with total radius arbitrarily close to the transfinite diameter.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Is there indeed an elementary proof with the much weaker bound stated in the problem?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507529</id>
+        <re:rank scheme="https://mathoverflow.net">3</re:rank>
+        <title type="text">System of equations with an orthogonal matrix</title>
+            <category scheme="https://mathoverflow.net/tags" term="ag.algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="dg.differential-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="matrices" />
+            <category scheme="https://mathoverflow.net/tags" term="matrix-inverse" />
+            <category scheme="https://mathoverflow.net/tags" term="orthogonal-matrices" />
+        <author>
+            <name>Fredrik Rusek</name>
+            <uri>https://mathoverflow.net/users/130519</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507529/system-of-equations-with-an-orthogonal-matrix" />
+        <published>2026-01-28T17:21:02Z</published>
+        <updated>2026-01-29T22:27:34Z</updated>
+        <summary type="html">
+            &lt;p&gt;I have six unit vectors &lt;span class=&quot;math-container&quot;&gt;$a_k$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$b_k$&lt;/span&gt; for &lt;span class=&quot;math-container&quot;&gt;$k \in \{1,2,3\}$&lt;/span&gt;. These are randomly drawn and are of dimension &lt;span class=&quot;math-container&quot;&gt;$3\times 1$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$Q$&lt;/span&gt; be an orthogonal matrix. I have noted that there are always&lt;span class=&quot;math-container&quot;&gt;$^\color{magenta}{1}$&lt;/span&gt; multiple solutions to the equation system &lt;span class=&quot;math-container&quot;&gt;$a_k^T b_k = a_k^T Qb_k$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$k \in \{1,2,3\}$&lt;/span&gt;. I would like a proof that there are nontrivial solutions.&lt;/p&gt;&#xA;&lt;p&gt;One of the solutions is of course &lt;span class=&quot;math-container&quot;&gt;$Q=I$&lt;/span&gt; but there are further solutions. In fact, I have noted  that there is always one solution such that &lt;span class=&quot;math-container&quot;&gt;$\det(Q)=1$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;hr /&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$^\color{magenta}{1}$&lt;/span&gt;With probability one as we randomly select the vectors. Counterexamples of measure zero do exist.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507482</id>
+        <re:rank scheme="https://mathoverflow.net">7</re:rank>
+        <title type="text">Synthetic $(\infty, 1)$-category theory</title>
+            <category scheme="https://mathoverflow.net/tags" term="reference-request" />
+            <category scheme="https://mathoverflow.net/tags" term="higher-category-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="motivic-homotopy" />
+        <author>
+            <name>BoZhang</name>
+            <uri>https://mathoverflow.net/users/492509</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507482/synthetic-infty-1-category-theory" />
+        <published>2026-01-27T08:29:52Z</published>
+        <updated>2026-01-30T01:14:20Z</updated>
+        <summary type="html">
+            &lt;p&gt;When studying motivic homotopy theory, I find that using language of &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-categories often simplifies a lot, comparing to the traditional method using model categories. Although I&#x2019;m familiar with model categories now, I have only vague notions about &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-category theory.&lt;/p&gt;&#xA;&lt;p&gt;Now I want to learn the foundation seriously, without delving into combinatorics. I find that there are two approaches to a synthetic theory of &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-categories: one is &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-cosmos theory, studying the &lt;span class=&quot;math-container&quot;&gt;$(\infty, 2)$&lt;/span&gt;-category of &lt;span class=&quot;math-container&quot;&gt;$(\infty, 1)$&lt;/span&gt;-categories, using a category enriched over quasi-categories. Another is simplicial HoTT where we study complete segal types, which are abstraction of complete segal spaces.&lt;/p&gt;&#xA;&lt;p&gt;For the application towards motivic spaces and motivic spectra, I want a synthetic theory rich enough to deal with&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;presentable &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-categories&lt;/li&gt;&#xA;&lt;li&gt;&lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-topoi&lt;/li&gt;&#xA;&lt;li&gt;symmetric monoidal &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-categories&lt;/li&gt;&#xA;&lt;li&gt;the category of commutative monoids in a symmetric monoidal &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-category&lt;/li&gt;&#xA;&lt;li&gt;stable &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-categories&lt;/li&gt;&#xA;&lt;li&gt;stabilization of a pointed symmetric monoidal &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-category with respect to an object &lt;span class=&quot;math-container&quot;&gt;$T$&lt;/span&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Are both synthetic methods mature enough to define and study these concepts? What would be the final stable foundation for &lt;span class=&quot;math-container&quot;&gt;$\infty$&lt;/span&gt;-category theory, in a synthetic way?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507477</id>
+        <re:rank scheme="https://mathoverflow.net">6</re:rank>
+        <title type="text">Reference for $L^\infty$ decay of spherical harmonic coefficients for $C^{1,\alpha}$ functions</title>
+            <category scheme="https://mathoverflow.net/tags" term="reference-request" />
+            <category scheme="https://mathoverflow.net/tags" term="ca.classical-analysis-and-odes" />
+            <category scheme="https://mathoverflow.net/tags" term="fourier-analysis" />
+            <category scheme="https://mathoverflow.net/tags" term="harmonic-analysis" />
+        <author>
+            <name>user1289267</name>
+            <uri>https://mathoverflow.net/users/549181</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507477/reference-for-l-infty-decay-of-spherical-harmonic-coefficients-for-c1-alp" />
+        <published>2026-01-27T05:44:25Z</published>
+        <updated>2026-01-29T20:55:36Z</updated>
+        <summary type="html">
+            &lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$f \in C^{1,\alpha}(\mathbb{S}^{d-1})$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$0&amp;lt;\alpha&amp;lt;1$&lt;/span&gt;, and consider its spherical harmonic expansion &lt;span class=&quot;math-container&quot;&gt;$f = \sum_{\ell=0}^{\infty} \sum_{k} a_{\ell k} Y_{\ell k}$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A standard result states that the coefficients satisfy the pointwise decay&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\sup_{k} |a_{\ell k}| = O\bigl( \ell^{-1-\alpha-(d-1)} \bigr), \qquad \ell \to \infty,&#xA;$$&lt;/span&gt;&#xA;where the implicit constant depends on the &lt;span class=&quot;math-container&quot;&gt;$C^{1,\alpha}$&lt;/span&gt; norm of &lt;span class=&quot;math-container&quot;&gt;$f$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Question: What is the canonical reference (textbook or article) where this specific theorem&#x2014;linking the H&#xF6;lder smoothness of a function to the &lt;span class=&quot;math-container&quot;&gt;$L^\infty$&lt;/span&gt; decay rate of its spherical harmonic coefficients&#x2014;is stated and proved?&lt;/p&gt;&#xA;&lt;p&gt;I am looking for a source that provides the proof explicitly, not just as a corollary of a more general Sobolev embedding argument. References like Approximation Theory and Harmonic Analysis on Spheres and Balls (Dai &amp;amp; Xu) or classical treatises on spherical harmonics are natural candidates, but a precise citation (theorem number, page) would be ideal.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/507407</id>
+        <re:rank scheme="https://mathoverflow.net">23</re:rank>
+        <title type="text">Some books written by professional mathematicians about the process of research and discovery in mathematics at PhD level and above?</title>
+            <category scheme="https://mathoverflow.net/tags" term="reference-request" />
+            <category scheme="https://mathoverflow.net/tags" term="soft-question" />
+            <category scheme="https://mathoverflow.net/tags" term="mathematics-education" />
+            <category scheme="https://mathoverflow.net/tags" term="books" />
+        <author>
+            <name>Arnold</name>
+            <uri>https://mathoverflow.net/users/151209</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/507407/some-books-written-by-professional-mathematicians-about-the-process-of-research" />
+        <published>2026-01-25T11:42:57Z</published>
+        <updated>2026-01-30T00:44:58Z</updated>
+        <summary type="html">
+            &lt;p&gt;What are books in English or in French about the culture and environment of mathematics graduate departments, about the process of research and discovery, and the selecting of problems?&lt;/p&gt;&#xA;&lt;p&gt;I live in a very poor country which has intense ethnic discrimination against many ethnic groups, one of them mine. I was very good at and deeply interested in pure mathematics and could obtain master&#x27;s degree in mathematics due to intense support of my family; otherwise due to the hostile climate and violence present in universities I would have dropped out. But when I tried to apply for a PhD program abroad I was misdirected or not given any guidance, and was not given any letters of recommendation, so I couldn&#x27;t even apply to PhD programs. Dominant ethnic groups think that many ethnic groups have no right to education, but should serve them. My health suffered in the extreme. But still I like to study mathematics from Springer or AMS books in the time I get. Many fellow students were bullies and used to be vulgar and professors straight away laughed at requests for guidance or were simply not interested. But I like studying mathematics and have studied a lot of topics through books. I want to work on research problems in the near future as I have knowledge up to a masters. I have already selected a specific branch of algebra that I want to do research in.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/495848</id>
+        <re:rank scheme="https://mathoverflow.net">0</re:rank>
+        <title type="text">Transfer of spectral data from stratified surfaces to embedded graphs</title>
+            <category scheme="https://mathoverflow.net/tags" term="dg.differential-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="spectral-graph-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="eigenvector" />
+            <category scheme="https://mathoverflow.net/tags" term="harmonic-functions" />
+            <category scheme="https://mathoverflow.net/tags" term="ramanujan" />
+        <author>
+            <name>John McManus</name>
+            <uri>https://mathoverflow.net/users/411249</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/495848/transfer-of-spectral-data-from-stratified-surfaces-to-embedded-graphs" />
+        <published>2025-06-06T21:31:36Z</published>
+        <updated>2026-01-30T03:04:36Z</updated>
+        <summary type="html">
+            &lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$\Gamma \subset X$&lt;/span&gt; be a finite connected &lt;span class=&quot;math-container&quot;&gt;$(q&#x2B;1)$&lt;/span&gt;-regular Ramanujan multigraph, embedded as the 0,1-skeleta of a stratified (smooth away from &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;) 2-complex &lt;span class=&quot;math-container&quot;&gt;$X \subset \mathbb{R}^3$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A generalized (or surgical) holonomy symmetry &lt;span class=&quot;math-container&quot;&gt;$\Psi: \Gamma \to \Gamma$&lt;/span&gt; is a transformation satisfying the following properties:&lt;/p&gt;&#xA;&lt;p&gt;For every vertex &lt;span class=&quot;math-container&quot;&gt;$v \in \Gamma$&lt;/span&gt;, the multiset of incident degrees is preserved under &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt;. That is, for each edge &lt;span class=&quot;math-container&quot;&gt;$e \sim v$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$\Psi(e)$&lt;/span&gt; is incident to &lt;span class=&quot;math-container&quot;&gt;$\Psi(v)$&lt;/span&gt;, and&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\deg(v) = \deg(\Psi(v)) = q&#x2B;1.&#xA;$$&lt;/span&gt;&#xA;Crucially &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; preserves the &lt;span class=&quot;math-container&quot;&gt;$(q&#x2B;1)$&lt;/span&gt;-regularity of the graph.&lt;/p&gt;&#xA;&lt;p&gt;The map &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; may not correspond to a global automorphism of &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;, but it induces a transformation on loops in the fundamental group &lt;span class=&quot;math-container&quot;&gt;$\pi_1(\Gamma)$&lt;/span&gt; by redirecting or twisting edges locally. This gives rise to a group automorphism:&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\Psi_*: \pi_1(\Gamma) \to \pi_1(\Gamma),&#xA;$$&lt;/span&gt;&#xA;defined by how paths are rewritten under local substitutions.&lt;/p&gt;&#xA;&lt;p&gt;Although &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; is not necessarily induced by a combinatorial automorphism &lt;span class=&quot;math-container&quot;&gt;$f \in \mathrm{Aut}(\Gamma) \subset \mathrm{Aut}(X)$&lt;/span&gt;, it induces an automorphism of the fundamental group &lt;span class=&quot;math-container&quot;&gt;$\pi_1(\Gamma)$&lt;/span&gt;, and hence preserves global homotopy structure.&lt;/p&gt;&#xA;&lt;p&gt;Let &lt;span class=&quot;math-container&quot;&gt;$\rho \in \mathrm{Char}_\Gamma := \mathrm{Hom}(\pi_1(\Gamma), U(1))$&lt;/span&gt; be a unitary character. The transformation &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; defines a holonomy twist:&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\rho \mapsto \rho \circ \Psi_*.&#xA;$$&lt;/span&gt;&#xA;This action defines a dynamical system on the representation torus &lt;span class=&quot;math-container&quot;&gt;$\mathrm{Char}_\Gamma \cong (S^1)^r$&lt;/span&gt;, producing an orbit &lt;span class=&quot;math-container&quot;&gt;$\rho_k := \rho_0 \circ \Psi_*^k$&lt;/span&gt;. Each twisted character defines a new Ihara zeta function:&#xA;&lt;span class=&quot;math-container&quot;&gt;$$&#xA;\zeta_\Gamma(u, \rho_k) = \prod_{[P]} \left(1 - \rho_k(P) u^{\ell(P)} \right)^{-1}.&#xA;$$&lt;/span&gt;&#xA;In general &lt;span class=&quot;math-container&quot;&gt;$\Psi_*$&lt;/span&gt; acts nontrivially on &lt;span class=&quot;math-container&quot;&gt;$\pi_1(\Gamma)$&lt;/span&gt;, and the orbit &lt;span class=&quot;math-container&quot;&gt;$\{\rho_k\}$&lt;/span&gt; yield distinct spectral data and evolving pole behavior. So, &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; &lt;em&gt;sees&lt;/em&gt; both changing spectral data, and invariant spectral data depending upon the orbit class.&lt;/p&gt;&#xA;&lt;p&gt;While the algebraic action of &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; appears abstract, it arises naturally as a geometric transformation. The construction is closely related to the optimization methods described in &lt;em&gt;&amp;quot;A Symplectic Look at Surfaces of Revolution&amp;quot;, A.D. Hwang&lt;/em&gt;, which provide a rigorous foundation for constructing structures as in the stratified 2-complex &lt;span class=&quot;math-container&quot;&gt;$X\subset \Bbb R^3$&lt;/span&gt;. We can now solve the following and then use the result as a lemma:&lt;/p&gt;&#xA;&lt;p&gt;Optimization problem: Fix &lt;span class=&quot;math-container&quot;&gt;$n=3$&lt;/span&gt;. Consider a surface of revolution &lt;span class=&quot;math-container&quot;&gt;$S$&lt;/span&gt; and an embedding &lt;span class=&quot;math-container&quot;&gt;$e:S\hookrightarrow I^3$&lt;/span&gt; with endpoints &lt;span class=&quot;math-container&quot;&gt;$p,q \in \partial I^3$&lt;/span&gt;, where &lt;span class=&quot;math-container&quot;&gt;$\mathrm{dist}(p,q)=\sqrt{3}.$&lt;/span&gt; Determine the maximal volume&#xA;&lt;span class=&quot;math-container&quot;&gt;$$ \rho_{\max}=\max\lbrace \mathrm{vol}(S)\rbrace $$&lt;/span&gt; subject to the constraints that &lt;span class=&quot;math-container&quot;&gt;$S$&lt;/span&gt; has constant positive Gaussian curvature and is a surface of revolution. A unique solution exists and defines a canonical geometry for &lt;span class=&quot;math-container&quot;&gt;$S$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This construction extends to the full complex &lt;span class=&quot;math-container&quot;&gt;$X=\bigcup_{i=1}^4 S_i$&lt;/span&gt; by assembling four such surfaces &lt;span class=&quot;math-container&quot;&gt;$S_i \hookrightarrow I^3$&lt;/span&gt;, each solving the optimization problem along different diagonals. Slicing &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt; along the coordinate planes &lt;span class=&quot;math-container&quot;&gt;$x_1=1/2, x_2=1/2$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$x_3=1/2$&lt;/span&gt;, the intersection of these planes with the surfaces yields a natural graph &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;, embedded within &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt;. This graph inherits &lt;span class=&quot;math-container&quot;&gt;$(7&#x2B;1)$&lt;/span&gt;-regularity by construction and satisfies the Ramanujan property due to spectral properties inherited from the spherical harmonics on the &lt;span class=&quot;math-container&quot;&gt;$S_i$&lt;/span&gt;&#x27;s.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Ignoring &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; for now, do the spectral properties of the Laplace-Beltrami operators on the &lt;span class=&quot;math-container&quot;&gt;$S_i$&lt;/span&gt;&#x27;s - particularly their spherical symmetry and bounded eigengvalue growth - constrain the adjacency spectrum of the resulting graph &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;? Ideally, the Laplacian eigenfunctions &lt;span class=&quot;math-container&quot;&gt;$\phi_k$&lt;/span&gt; on the surfaces &lt;span class=&quot;math-container&quot;&gt;$S_i$&lt;/span&gt; restrict to functions on &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;, providing a compressed spectral signature (i.e., &lt;span class=&quot;math-container&quot;&gt;$\phi_k\vert_{\Gamma}=\psi_k).$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;It seems not unreasonable to expect the slicing of &lt;span class=&quot;math-container&quot;&gt;$X$&lt;/span&gt; to transfer geometric harmonic data to &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;, compressing Laplace-Beltrami eigenfunctions &lt;span class=&quot;math-container&quot;&gt;$\phi_k$&lt;/span&gt; into discrete eigenvectors &lt;span class=&quot;math-container&quot;&gt;$\psi_k$&lt;/span&gt; for the adjacency operator &lt;span class=&quot;math-container&quot;&gt;$A_{\Gamma}$&lt;/span&gt;. Then the action of the holonomy twist &lt;span class=&quot;math-container&quot;&gt;$\Psi_*$&lt;/span&gt; produces a family of twisted Ihara zeta functions &lt;span class=&quot;math-container&quot;&gt;$\zeta_{\Gamma}(u,\rho_k)$&lt;/span&gt;, each relfecting how parallel transport is reinterpreted under the dynamic deformation of the fundamental group. In this sense &lt;span class=&quot;math-container&quot;&gt;$\Psi$&lt;/span&gt; acts not on the geometry, but on the gauge - the holonomy field associated to loops in &lt;span class=&quot;math-container&quot;&gt;$\Gamma$&lt;/span&gt;.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/422416</id>
+        <re:rank scheme="https://mathoverflow.net">12</re:rank>
+        <title type="text">Are the symmetric spaces $\operatorname{SU}(n)/{\operatorname{SO}(n)}$ always nontrivial in the bordism rings for $n&gt;2$?</title>
+            <category scheme="https://mathoverflow.net/tags" term="at.algebraic-topology" />
+            <category scheme="https://mathoverflow.net/tags" term="differential-topology" />
+            <category scheme="https://mathoverflow.net/tags" term="cobordism" />
+            <category scheme="https://mathoverflow.net/tags" term="symmetric-spaces" />
+            <category scheme="https://mathoverflow.net/tags" term="calabi-yau" />
+        <author>
+            <name>Zhenhua Liu</name>
+            <uri>https://mathoverflow.net/users/482183</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/422416/are-the-symmetric-spaces-operatornamesun-operatornameson-always-no" />
+        <published>2022-05-13T00:13:13Z</published>
+        <updated>2026-01-30T05:42:02Z</updated>
+        <summary type="html">
+            &lt;p&gt;In my recent research, I need to know if the symmetric spaces &lt;span class=&quot;math-container&quot;&gt;$\operatorname{SU}(n)/{\operatorname{SO}(n)}$&lt;/span&gt; are always nontrivial in the unoriented and oriented bordism rings for &lt;span class=&quot;math-container&quot;&gt;$n&amp;gt;2$&lt;/span&gt;. (For the motivation, by Benny Cheng, the cones over them are special Lagrangians in &lt;span class=&quot;math-container&quot;&gt;$\mathbb{C}^{n^2&#x2B;n}$&lt;/span&gt;. I want to know if the cones are topologically smoothable. The &lt;span class=&quot;math-container&quot;&gt;$n=3$&lt;/span&gt; case comes from Haskins &amp;amp; Pacini.)&lt;/p&gt;&#xA;&lt;p&gt;I know that for &lt;span class=&quot;math-container&quot;&gt;$n=3$&lt;/span&gt; we are dealing with the Wu manifold, and there are many references here. For &lt;span class=&quot;math-container&quot;&gt;$n&amp;gt;3$&lt;/span&gt;, I tried to find references about the Stiefel-Whitney numbers of these, which by Thom, is enough for the unoriented case. However, I&#x27;ve only been able to locate the cohomology ring of these in Topology of Lie Groups I &amp;amp; II by Mimura and Toda. I don&#x27;t know much algebraic topology, but I think they did not state what the Stiefel&#x2013;Whitney classes are.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/351806</id>
+        <re:rank scheme="https://mathoverflow.net">7</re:rank>
+        <title type="text">Classifying space $BG$ and contractible space $EG$</title>
+            <category scheme="https://mathoverflow.net/tags" term="gn.general-topology" />
+            <category scheme="https://mathoverflow.net/tags" term="homotopy-theory" />
+            <category scheme="https://mathoverflow.net/tags" term="simplicial-stuff" />
+            <category scheme="https://mathoverflow.net/tags" term="classifying-spaces" />
+        <author>
+            <name>user267839</name>
+            <uri>https://mathoverflow.net/users/108274</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/351806/classifying-space-bg-and-contractible-space-eg" />
+        <published>2020-02-03T01:57:12Z</published>
+        <updated>2026-01-29T21:32:52Z</updated>
+        <summary type="html">
+            &lt;p&gt;This question is probably not research level that&#x27;s why I asked it previously on &lt;a href=&quot;https://math.stackexchange.com/questions/3523959/classifying-space-bg-and-contractable-space-eg&quot;&gt;MSE&lt;/a&gt; a week ago. Unfortunately, it doesn&#x27;t get much attention there and I thought I would try it here.&lt;/p&gt;&#xA;&lt;p&gt;Choose an arbitrary discrete group &lt;span class=&quot;math-container&quot;&gt;$G$&lt;/span&gt;. The classifying space &lt;span class=&quot;math-container&quot;&gt;$BG$&lt;/span&gt; of &lt;span class=&quot;math-container&quot;&gt;$G$&lt;/span&gt; is classically constructed by forming a certain contractible &lt;span class=&quot;math-container&quot;&gt;$\Delta$&lt;/span&gt;-complex &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt; (for one concrete construction of &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt;: see below) endowed with an action by &lt;span class=&quot;math-container&quot;&gt;$G$&lt;/span&gt;. The space &lt;span class=&quot;math-container&quot;&gt;$BG$&lt;/span&gt; is obtained by taking the quotient &lt;span class=&quot;math-container&quot;&gt;$BG:= EG/G$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The concrete construction of the &lt;span class=&quot;math-container&quot;&gt;$\Delta$&lt;/span&gt;-complex &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt; works as follows: the &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt;-simplices of &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt; are the ordered tuples&lt;/p&gt;&#xA;&lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$$[g_0,g_1,\dots,g_n] \cong \Delta_n =\left\{x\in \mathbb {R} ^{n &#x2B; 1}:x=\sum _{i=0}^{n}t_{i}v_{i}\ {\text{with}}\ 0\leq t_{i}\leq 1\ {\text{and}}\ \sum _{i=0}^{n}t_{i}=1 \right\}$$&lt;/span&gt;&lt;/p&gt;&#xA;&lt;p&gt;with &lt;span class=&quot;math-container&quot;&gt;$g_i \in G$&lt;/span&gt;. The &lt;span class=&quot;math-container&quot;&gt;$v_i$&lt;/span&gt; are spanning &lt;span class=&quot;math-container&quot;&gt;$\Delta_n$&lt;/span&gt;. We obtain a &lt;span class=&quot;math-container&quot;&gt;$\Delta$&lt;/span&gt;-complex by attaching &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt;-simplices to the &lt;span class=&quot;math-container&quot;&gt;$(n &#x2212; 1)$&lt;/span&gt; simplices &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots, \hat{g}_i,\dots,g_n]$&lt;/span&gt; in standard way as a standard simplex attaches to its faces. Here &lt;span class=&quot;math-container&quot;&gt;$\hat{g}_i$&lt;/span&gt; means that this vertex is deleted.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Question.&lt;/strong&gt; Does there exist a &lt;em&gt;constructive&lt;/em&gt; way to show that &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt; is contractible. By &lt;em&gt;constructive&lt;/em&gt;, I mean how to construct an explicit homotopy &lt;span class=&quot;math-container&quot;&gt;$h_t: EG \times I \to EG$&lt;/span&gt; which contracts &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt; to a point.&#xA;That is &lt;span class=&quot;math-container&quot;&gt;$h_0(EG) = EG, h_1(EG) = \{*\}$&lt;/span&gt;. How does it look, concretely and geometrically?&lt;/p&gt;&#xA;&lt;p&gt;I know some abstract arguments like Whitehead&#x27;s theorem that also provide a reason for contractibility of &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt; but this is not what I&#x27;m looking for.&lt;/p&gt;&#xA;&lt;p&gt;I tried to define such homotopy as follows: let &lt;span class=&quot;math-container&quot;&gt;$p \in [g_0,\dots,g_n]$&lt;/span&gt;. Then &lt;span class=&quot;math-container&quot;&gt;$h_t$&lt;/span&gt; &amp;quot;slides&amp;quot; step by step &lt;span class=&quot;math-container&quot;&gt;$p$&lt;/span&gt; along &lt;span class=&quot;math-container&quot;&gt;$(n&#x2B;1)$&lt;/span&gt;-simplex &lt;span class=&quot;math-container&quot;&gt;$[e,g_0,\dots,g_n]$&lt;/span&gt; to &lt;span class=&quot;math-container&quot;&gt;$[e]$&lt;/span&gt; (&lt;span class=&quot;math-container&quot;&gt;$e \in G$&lt;/span&gt; the identity element). What I mean by &amp;quot;step by step along &lt;span class=&quot;math-container&quot;&gt;$[e,g_0,\dots,g_n]$&lt;/span&gt;&amp;quot;?&lt;/p&gt;&#xA;&lt;p&gt;If we use again the identification &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n] \cong \Delta_n$&lt;/span&gt; then as long as we are sitting &amp;quot;inside&amp;quot; &lt;span class=&quot;math-container&quot;&gt;$\Delta_n$&lt;/span&gt;, we can interpret the &lt;span class=&quot;math-container&quot;&gt;$g_i$&lt;/span&gt; as spanning vectors &lt;span class=&quot;math-container&quot;&gt;$v_i$&lt;/span&gt;. Let &lt;span class=&quot;math-container&quot;&gt;$p = \sum _{i=0}^{n}t_{i}g_{i}$&lt;/span&gt;. As &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n] \subset [e, g_0,g_1,\dots,g_n]$&lt;/span&gt; we can interpret &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n]$&lt;/span&gt; as &lt;span class=&quot;math-container&quot;&gt;$x = t_{-1}e &#x2B; \sum _{i=0}^{n}t_{i}g_{i} \in \Delta_{n&#x2B;1}$&lt;/span&gt; with &lt;span class=&quot;math-container&quot;&gt;$t_{-1}=0$&lt;/span&gt;. That is the &amp;quot;point&amp;quot; &lt;span class=&quot;math-container&quot;&gt;$p_e:= 1 \cdot e \in [e, g_0,g_1,\dots,g_n]$&lt;/span&gt; is not contained in &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n]$&lt;/span&gt; and we can define a unique line &lt;span class=&quot;math-container&quot;&gt;$l_p e$&lt;/span&gt; which contains &lt;span class=&quot;math-container&quot;&gt;$p_e$&lt;/span&gt; and is perpendicular to &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,...,g_n]$&lt;/span&gt; in our geometric picture &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n] \subset [e, g_0,g_1,\dots,g_n]$&lt;/span&gt; corresponding to &lt;span class=&quot;math-container&quot;&gt;$\Delta_n \subset \Delta_{n&#x2B;1}$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;This line uniquely intersects &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n]$&lt;/span&gt; in a unique point &lt;span class=&quot;math-container&quot;&gt;$p_l$&lt;/span&gt;. Then we say that our homotopy slides &lt;span class=&quot;math-container&quot;&gt;$p$&lt;/span&gt; along the unique line through &lt;span class=&quot;math-container&quot;&gt;$p$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$p_l$&lt;/span&gt; up to the first contact with a boundary of &lt;span class=&quot;math-container&quot;&gt;$[g_0,g_1,\dots,g_n]$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Let this boundary be &lt;span class=&quot;math-container&quot;&gt;$[g_0,\dots, \hat{g}_i,\dots,g_n]$&lt;/span&gt;. Then we play the same game with &lt;span class=&quot;math-container&quot;&gt;$[g_0,\dots,\hat{g}_i,\dots,g_n]$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$[e, g_0,\dots, \hat{g}_i,\dots,g_n]$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Does this approach work? Is there a known and more conventional &amp;quot;textbook&amp;quot; way (that I still haven&#x27;t found) for the construction of &lt;span class=&quot;math-container&quot;&gt;$EG$&lt;/span&gt;?&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Remark:&lt;/em&gt; As @Luc Guyot observed the above presented construction can be looked up in Allen Hatcher&#x27;s Algebraic Topology, Example 1B.7 page 89.&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/339725</id>
+        <re:rank scheme="https://mathoverflow.net">0</re:rank>
+        <title type="text">Slopes of the Harder&#x2013;Narasimhan filtration of a subbundle</title>
+            <category scheme="https://mathoverflow.net/tags" term="ag.algebraic-geometry" />
+            <category scheme="https://mathoverflow.net/tags" term="vector-bundles" />
+        <author>
+            <name>Yellow Pig</name>
+            <uri>https://mathoverflow.net/users/12395</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/339725/slopes-of-the-harder-narasimhan-filtration-of-a-subbundle" />
+        <published>2019-09-02T21:25:02Z</published>
+        <updated>2026-01-30T04:02:55Z</updated>
+        <summary type="html">
+            &lt;p&gt;&lt;span class=&quot;math-container&quot;&gt;$\DeclareMathOperator\rk{rk}$&lt;/span&gt;Suppose &lt;span class=&quot;math-container&quot;&gt;$(p_1, \dotsc, p_n)$&lt;/span&gt; and &lt;span class=&quot;math-container&quot;&gt;$(q_1, \dotsc, q_n)$&lt;/span&gt; are two (non-strictly) decreasing sequences of positive real numbers. We say that &lt;span class=&quot;math-container&quot;&gt;$(q_1, \dotsc, q_n)$&lt;/span&gt; dominates &lt;span class=&quot;math-container&quot;&gt;$(p_1, \dotsc, p_n)$&lt;/span&gt; if &lt;span class=&quot;math-container&quot;&gt;$q_n \geq p_n$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$q_n&#x2B;q_{n-1} \geq p_n&#x2B;p_{n-1}$&lt;/span&gt;, &#x2026;, &lt;span class=&quot;math-container&quot;&gt;$q_n &#x2B; \dotsb &#x2B; q_2 \geq p_n &#x2B; \dotsb &#x2B; q_2$&lt;/span&gt;, &lt;span class=&quot;math-container&quot;&gt;$q_n &#x2B; \dotsb&#x2B; q_1 = p_n &#x2B; \dotsb &#x2B; q_1$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;For a vector bundle &lt;span class=&quot;math-container&quot;&gt;$F$&lt;/span&gt; consider its slope &lt;span class=&quot;math-container&quot;&gt;$\mu(F)=\deg(F)/\rk(F)$&lt;/span&gt;. For a vector bundle &lt;span class=&quot;math-container&quot;&gt;$E$&lt;/span&gt; with Harder&#x2013;Narasimhan filtration &lt;span class=&quot;math-container&quot;&gt;$0 \neq E_1 \subset E_2 \subset \dotsb \subset E_m = E$&lt;/span&gt; we consider the sequence &lt;span class=&quot;math-container&quot;&gt;$\mu(E_1),\dotsc,\mu(E_1), \dotsc, \mu(E_m/E_{m-1}), \dotsc, \mu(E_m/E_{m-1})$&lt;/span&gt;, where &lt;span class=&quot;math-container&quot;&gt;$\mu(E_i/E_{i-1})$&lt;/span&gt; is repeated &lt;span class=&quot;math-container&quot;&gt;$\rk(E_i/E_{i-1})$&lt;/span&gt; times, and call this sequence the degree of the Harder&#x2013;Narasimhan filtration of &lt;span class=&quot;math-container&quot;&gt;$E$&lt;/span&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Suppose that &lt;span class=&quot;math-container&quot;&gt;$A \subset B$&lt;/span&gt; are two vector bundles of the same rank &lt;span class=&quot;math-container&quot;&gt;$n$&lt;/span&gt; such that &lt;span class=&quot;math-container&quot;&gt;$\deg B = \deg A &#x2B; 1$&lt;/span&gt;. Assume that the degree of the Harder&#x2013;Narasimhan filtration of &lt;span class=&quot;math-container&quot;&gt;$B$&lt;/span&gt; is dominated by a (non-strictly) decreasing integer sequence &lt;span class=&quot;math-container&quot;&gt;$(d_1, \dotsc, d_n)$&lt;/span&gt; such that &lt;span class=&quot;math-container&quot;&gt;$d_1&amp;gt;d_2$&lt;/span&gt;. Is it true that then the degree of the Harder&#x2013;Narasimhan filtration of &lt;span class=&quot;math-container&quot;&gt;$A$&lt;/span&gt; is dominated by &lt;span class=&quot;math-container&quot;&gt;$(d_1-1, d_2, \dotsc, d_n)$&lt;/span&gt;?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/131225</id>
+        <re:rank scheme="https://mathoverflow.net">1</re:rank>
+        <title type="text">Relation between $H^i_I(-)$ and $H^i_J(-)$ when $I\subset J$ </title>
+            <category scheme="https://mathoverflow.net/tags" term="cohomology" />
+            <category scheme="https://mathoverflow.net/tags" term="ac.commutative-algebra" />
+            <category scheme="https://mathoverflow.net/tags" term="local-cohomology" />
+        <author>
+            <name>QED</name>
+            <uri>https://mathoverflow.net/users/21992</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/131225/relation-between-hi-i-and-hi-j-when-i-subset-j" />
+        <published>2013-05-20T13:57:12Z</published>
+        <updated>2026-01-30T00:59:56Z</updated>
+        <summary type="html">
+            &lt;p&gt;What is the relation between $H^i_I(-)$ and $H^i_J(-)$ (cohomological functors) when $I\subset J$ are ideals of a (local) noetherian ring?&lt;/p&gt;&#xA;
+        </summary>
+    </entry>
+    <entry>
+        <id>https://mathoverflow.net/q/45951</id>
+        <re:rank scheme="https://mathoverflow.net">111</re:rank>
+        <title type="text">Interesting examples of vacuous / void entities</title>
+            <category scheme="https://mathoverflow.net/tags" term="lo.logic" />
+            <category scheme="https://mathoverflow.net/tags" term="big-list" />
+        <author>
+            <name>Michael Hardy</name>
+            <uri>https://mathoverflow.net/users/6316</uri>
+        </author>
+        <link rel="alternate" href="https://mathoverflow.net/questions/45951/interesting-examples-of-vacuous-void-entities" />
+        <published>2010-11-13T19:47:02Z</published>
+        <updated>2026-01-29T18:52:03Z</updated>
+        <summary type="html">
+            &lt;p&gt;I included this footnote in a paper in which I mentioned that the number of partitions of the empty set is 1 (every member of any partition is a non-empty set, and of course every member of the empty set is a non-empty set):&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;quot;Perhaps as a result of studying set theory, I was surprised when I learned that some respectable combinatorialists consider such things as this to be mere convention.  One of them even said a case could be made for setting the number of partitions to 0 when &lt;span class=&quot;math-container&quot;&gt;$n=0$&lt;/span&gt;.  By stark contrast, Gian-Carlo Rota wrote in [Rota2], p.~15, that &#x27;the kind of mathematical reasoning that physicists find unbearably pedantic&#x27; leads not only to the conclusion that the elementary symmetric function in no variables is 1, but straight from there to the theory of the Euler characteristic, so that &#x27;such reasoning does pay off.&#x27;  The only other really sexy example I know is from applied statistics: the non-central chi-square distribution with zero degrees of freedom, unlike its &#x27;central&#x27; counterpart, is non-trivial.&amp;quot;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;The cited paper was: G-C. Rota, &lt;a href=&quot;https://doi.org/10.1007/BF03025223&quot; rel=&quot;nofollow noreferrer&quot;&gt;Geometric Probability&lt;/a&gt;, &lt;em&gt;Mathematical Intelligencer&lt;/em&gt;, 20 (4), 1998, pp. 11&#x2013;16.  The paper in which my footnote appears is the first one you see &lt;a href=&quot;http://www.combinatorics.org/Volume_13/v13i1toc.html&quot; rel=&quot;nofollow noreferrer&quot;&gt;here&lt;/a&gt;, doi: &lt;a href=&quot;https://doi.org/10.37236/1027&quot; rel=&quot;nofollow noreferrer&quot; title=&quot;Combinatorics of partial derivatives&quot;&gt;10.37236/1027&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;b&gt;Question:&lt;/b&gt; What other really gaudy examples are there?&lt;/p&gt;&#xA;&lt;p&gt;Some remarks:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;p&gt;From one point of view, the whole concept of vacuous truth is silly.  It is a counterintuitive but true proposition that Minneapolis is at a higher latitude than Toronto.  &amp;quot;Ex falso quodlibet&amp;quot; (or whatever the Latin phrase is) and so if you believe Toronto is a more northerly locale than Minneapolis, it will lead you into all sorts of mistakes like &lt;span class=&quot;math-container&quot;&gt;$2 &#x2B; 2 = 5$&lt;/span&gt;, etc.  But that is nonsense.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;From another point of view, in its proper mathematical context, it makes perfect sense.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;People use examples like propositions about all volcanoes made of pure gold, etc.  That&#x27;s bad pedagogy and bad in other ways.  What if I ask whether all cell phones in the classroom have been shut off?  If there are no cell phones in the room (that &lt;em&gt;is&lt;/em&gt; more realistic than volcanoes made of gold, isn&#x27;t it??) then the correct answer is &amp;quot;yes&amp;quot;.  That&#x27;s a good example, showing, if only in a small way, the utility of the concept when used properly.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;p&gt;I don&#x27;t think it&#x27;s mere convention that the number of partitions of the empty set is 1; it follows logically from some basic things in logic.  Those don&#x27;t make sense in some contexts (see &amp;quot;Minneapolis&amp;quot;, &amp;quot;Toronto&amp;quot;, etc., above) but in fact the &lt;em&gt;only&lt;/em&gt; truth value that can be assigned to &amp;quot;&lt;span class=&quot;math-container&quot;&gt;$F\Longrightarrow F$&lt;/span&gt;&amp;quot; or &amp;quot;&lt;span class=&quot;math-container&quot;&gt;$F\Longrightarrow T$&lt;/span&gt;&amp;quot; that makes it possible to fill in the truth table without knowing the content of the false proposition (and satisfies the other desiderata?) is &lt;span class=&quot;math-container&quot;&gt;$T$&lt;/span&gt;.  That&#x27;s a fact whose truth doesn&#x27;t depend on conventions.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;
+        </summary>
+    </entry>
+</feed>

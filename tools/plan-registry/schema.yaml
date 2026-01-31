@@ -1,0 +1,21 @@
+version: 0.1
+
+plan_registry_schema:
+  item:
+    required:
+      - id
+      - title
+      - status
+      - owner
+    fields:
+      id: "string"
+      title: "string"
+      kind: "plan|issue|bug|dead_end|stub"
+      mode: "phase|revolution"
+      status: "pending|in_progress|blocked|done"
+      owner: "string"
+      domain: "watcher|builder|guardian|scribe|gems|unassigned"
+      priority: "high|medium|low"
+      links: "list"
+      depends_on: "list"
+      notes: "string"

@@ -1,0 +1,11 @@
+version: 0.1
+
+state_schema:
+  required:
+    - last_updated
+    - phase
+  fields:
+    last_updated: "rfc3339"
+    phase: "string"
+    notes: "string"
+    components: "map"

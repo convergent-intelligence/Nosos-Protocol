@@ -1,0 +1,26 @@
+{
+  "body": {
+    "asks": [],
+    "claim": "Orchestrator and signals tooling added",
+    "confidence": "medium",
+    "evidence": [
+      "docs/workflow.md"
+    ],
+    "next_actions": [
+      "Run ./scripts/orchestrate next"
+    ],
+    "topic": "status"
+  },
+  "footer": {
+    "expects_response": false,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-033427",
+    "kind": "proclamation",
+    "timestamp": "2026-01-30T03:34:27Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

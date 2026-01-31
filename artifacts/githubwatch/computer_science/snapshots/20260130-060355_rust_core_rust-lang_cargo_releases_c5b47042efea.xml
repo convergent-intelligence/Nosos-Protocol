@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:https://github.com/rust-lang/cargo/releases</id>
+  <link type="text/html" rel="alternate" href="https://github.com/rust-lang/cargo/releases"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/rust-lang/cargo/releases.atom"/>
+  <title>Release notes from cargo</title>
+  <updated>2026-01-22T13:51:48Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.94.0</id>
+    <updated>2026-01-22T13:51:48Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.94.0"/>
+    <title>0.94.0</title>
+    <content type="html">&lt;p&gt;0.94.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.93.0</id>
+    <updated>2025-12-11T14:58:22Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.93.0"/>
+    <title>0.93.0</title>
+    <content type="html">&lt;p&gt;0.93.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.92.0</id>
+    <updated>2025-10-30T18:29:37Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.92.0"/>
+    <title>0.92.0</title>
+    <content type="html">&lt;p&gt;0.92.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/home-0.5.12</id>
+    <updated>2025-10-23T21:04:56Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/home-0.5.12"/>
+    <title>home-0.5.12: Make shell completion variables private. (#16144)</title>
+    <content type="html">&lt;p&gt;Otherwise they leak. For example type &lt;code&gt;cargo che&amp;lt;Tab&amp;gt;&lt;/code&gt; in ZSH and you&lt;br&gt;
+can see that the variables are now set in the shell (overwriting&lt;br&gt;
+existing variables of this name).&lt;/p&gt;
+&lt;h3&gt;What does this PR try to resolve?&lt;/h3&gt;
+&lt;p&gt;Avoids leaking/overwriting variables in the user&#39;s shell.&lt;/p&gt;
+&lt;h3&gt;How to test and review this PR?&lt;/h3&gt;
+&lt;p&gt;Load the shell completions and run a completion.&lt;/p&gt;</content>
+    <author>
+      <name>epage</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/60961?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.91.0</id>
+    <updated>2025-09-18T13:31:24Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.91.0"/>
+    <title>0.91.0</title>
+    <content type="html">&lt;p&gt;0.91.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.90.0</id>
+    <updated>2025-08-07T10:55:05Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.90.0"/>
+    <title>0.90.0</title>
+    <content type="html">&lt;p&gt;0.90.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.89.0</id>
+    <updated>2025-06-26T18:10:16Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.89.0"/>
+    <title>0.89.0</title>
+    <content type="html">&lt;p&gt;0.89.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.88.0</id>
+    <updated>2025-05-15T17:28:15Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.88.0"/>
+    <title>0.88.0</title>
+    <content type="html">&lt;p&gt;0.88.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.87.0</id>
+    <updated>2025-04-03T09:42:35Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.87.0"/>
+    <title>0.87.0</title>
+    <content type="html">&lt;p&gt;0.87.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Repository/17420913/0.86.0</id>
+    <updated>2025-02-20T17:09:28Z</updated>
+    <link rel="alternate" type="text/html" href="https://github.com/rust-lang/cargo/releases/tag/0.86.0"/>
+    <title>0.86.0</title>
+    <content type="html">&lt;p&gt;0.86.0 release&lt;/p&gt;</content>
+    <author>
+      <name>carllerche</name>
+    </author>
+    <media:thumbnail height="30" width="30" url="https://avatars.githubusercontent.com/u/6180?s=60&amp;v=4"/>
+  </entry>
+</feed>

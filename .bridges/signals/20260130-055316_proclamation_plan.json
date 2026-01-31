@@ -1,0 +1,22 @@
+{
+  "body": {
+    "asks": [],
+    "claim": "Set WEB3-001 status=done owner=scribe",
+    "confidence": "high",
+    "evidence": [],
+    "next_actions": [],
+    "topic": "plan"
+  },
+  "footer": {
+    "expects_response": false,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-055316",
+    "kind": "proclamation",
+    "timestamp": "2026-01-30T05:53:16Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

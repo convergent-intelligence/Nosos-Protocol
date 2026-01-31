@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned ISSUE-001 to builder (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/ISSUE-001_choose-ionos-iso-build-path.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/ISSUE-001_choose-ionos-iso-build-path.md",
+      "Work the item: ISSUE-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "builder",
+    "id": "20260130-040219",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:02:19Z",
+    "to": "council",
+    "urgency": "normal"
+  }
+}

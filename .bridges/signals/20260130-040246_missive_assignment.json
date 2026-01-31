@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned P1-002 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/P1-002_derivations-thumbnails--ocr-optional-deps.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/P1-002_derivations-thumbnails--ocr-optional-deps.md",
+      "Work the item: P1-002"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-040246",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:02:46Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

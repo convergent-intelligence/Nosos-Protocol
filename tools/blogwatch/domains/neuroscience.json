@@ -1,0 +1,16 @@
+{
+  "version": "0.1",
+  "domain": "neuroscience",
+  "name": "Neuroscience",
+  "description": "Neuroscience-adjacent preprints and ML for neuro.",
+  "teams": [
+    {
+      "id": "preprints",
+      "name": "Preprints",
+      "feeds": [
+        {"id": "arxiv_q_bio_nc", "name": "arXiv q-bio.NC", "url": "https://arxiv.org/rss/q-bio.NC", "tags": ["neuro", "arxiv"]},
+        {"id": "arxiv_stat_ml", "name": "arXiv stat.ML", "url": "https://arxiv.org/rss/stat.ML", "tags": ["ml", "arxiv"]}
+      ]
+    }
+  ]
+}

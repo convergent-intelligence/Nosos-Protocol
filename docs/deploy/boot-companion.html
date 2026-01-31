@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Convergence Protocol | Boot Companion</title>
+  <style>
+    :root {
+      --bg: #050b14;
+      --bg-2: #0a1628;
+      --text: #e8ecf4;
+      --muted: #9aa4b5;
+      --card: #0f1a2f;
+      --border: #1f2b44;
+      --prim-1: #87CEEB;
+      --prim-2: #5F9EA0;
+      --prim-3: #B0E0E6;
+      --comp-1: #B76E79;
+      --comp-2: #E0A899;
+      --comp-3: #C9A0A0;
+    }
+
+    html[data-theme="focus-1"] {
+      --bg: #050b14;
+      --bg-2: #0a1628;
+      --text: #e8ecf4;
+      --muted: #9aa4b5;
+      --card: #0f1a2f;
+      --border: #1f2b44;
+      --prim-1: #87CEEB;
+      --prim-2: #5F9EA0;
+      --prim-3: #B0E0E6;
+      --comp-1: #B76E79;
+      --comp-2: #E0A899;
+      --comp-3: #C9A0A0;
+    }
+
+    html[data-theme="focus-2"] {
+      --bg: #050d1a;
+      --bg-2: #0b1c34;
+      --text: #e7edf8;
+      --muted: #8ea3c0;
+      --card: #0f203e;
+      --border: #1b3356;
+      --prim-1: #6cc6ff;
+      --prim-2: #3e8fb0;
+      --prim-3: #a9ddff;
+      --comp-1: #bf7aa8;
+      --comp-2: #e1a3c6;
+      --comp-3: #cda2bc;
+    }
+
+    html[data-theme="focus-3"] {
+      --bg: #0c0a0a;
+      --bg-2: #1a1111;
+      --text: #f2e9e7;
+      --muted: #b6a3a0;
+      --card: #1a1414;
+      --border: #2d1f1f;
+      --prim-1: #ffb36b;
+      --prim-2: #d07f5a;
+      --prim-3: #ffd9b3;
+      --comp-1: #7bd4c7;
+      --comp-2: #9fe6dc;
+      --comp-3: #8ccdc3;
+    }
+
+    html[data-theme="focus-4"] {
+      --bg: #f3f7fb;
+      --bg-2: #e6eef6;
+      --text: #1a2632;
+      --muted: #4e5f6f;
+      --card: #ffffff;
+      --border: #ccd8e5;
+      --prim-1: #4a90e2;
+      --prim-2: #2f6fb6;
+      --prim-3: #7bb7ff;
+      --comp-1: #b76e79;
+      --comp-2: #c78a7c;
+      --comp-3: #b07b85;
+    }
+
+    html[data-theme="focus-5"] {
+      --bg: #fbf5eb;
+      --bg-2: #f1e6d6;
+      --text: #2d251d;
+      --muted: #6a5b4a;
+      --card: #fffaf3;
+      --border: #e3d3be;
+      --prim-1: #c7882a;
+      --prim-2: #9b6a2a;
+      --prim-3: #e3b067;
+      --comp-1: #3f7f8c;
+      --comp-2: #5fa3b2;
+      --comp-3: #5b8e9a;
+    }
+
+    html[data-theme="focus-6"] {
+      --bg: #f2f7f1;
+      --bg-2: #e0ede3;
+      --text: #1d2a22;
+      --muted: #556b5f;
+      --card: #ffffff;
+      --border: #cfe0d5;
+      --prim-1: #3ba372;
+      --prim-2: #2f7d5a;
+      --prim-3: #77c9a2;
+      --comp-1: #7c6fb7;
+      --comp-2: #9a8fd1;
+      --comp-3: #8b7fbf;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Inter", system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      transition: background-color 0.2s ease, color 0.2s ease;
+    }
+
+    a { color: var(--prim-3); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 12px 20px;
+      background: var(--bg-2);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 10;
+    }
+
+    .brand { font-weight: 700; letter-spacing: 0.5px; }
+    .nav a { margin-left: 14px; color: var(--muted); }
+    .nav a.active, .nav a:hover { color: var(--prim-3); }
+
+    main { padding: 20px; max-width: 1100px; margin: 0 auto; }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      grid-template-columns: 2fr 1fr;
+      align-items: center;
+      background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.03), transparent), var(--bg-2);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 16px;
+    }
+
+    .hero-text h1 { margin: 0 0 8px; }
+    .hero-actions { display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+
+    .btn {
+      display: inline-block;
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid var(--prim-2);
+      background: linear-gradient(135deg, rgba(135,206,235,0.2), rgba(183,110,121,0.2));
+      color: var(--text);
+      font-weight: 600;
+    }
+
+    .btn.ghost { background: transparent; border-color: var(--border); }
+
+    .mode-switcher {
+      margin-top: 12px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .mode-button {
+      padding: 6px 10px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
+      background: transparent;
+      color: var(--text);
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 0.85rem;
+    }
+
+    .mode-button.active {
+      border-color: var(--prim-2);
+      background: linear-gradient(135deg, rgba(135,206,235,0.18), rgba(183,110,121,0.18));
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 14px;
+      margin: 20px 0;
+    }
+
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 14px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.18);
+    }
+
+    .card h3 { margin-top: 0; }
+
+    .content-section {
+      margin: 40px 0;
+      padding: 30px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    .content-section h2 {
+      color: var(--prim-3);
+      margin-top: 0;
+      margin-bottom: 20px;
+      font-size: 1.8rem;
+      border-bottom: 2px solid var(--border);
+      padding-bottom: 10px;
+    }
+
+    .content-section h3 {
+      color: var(--prim-2);
+      margin-top: 25px;
+      margin-bottom: 15px;
+      font-size: 1.4rem;
+    }
+
+    .content-section p { line-height: 1.7; margin-bottom: 15px; color: var(--text); }
+
+    .content-section ul,
+    .content-section ol { line-height: 1.8; margin-left: 20px; color: var(--text); }
+
+    .content-section li { margin-bottom: 10px; }
+
+    .highlight {
+      background: linear-gradient(90deg, rgba(135, 206, 235, 0.1), rgba(95, 158, 160, 0.1));
+      border-left: 4px solid var(--prim-1);
+      padding: 15px 20px;
+      margin: 20px 0;
+      border-radius: 4px;
+    }
+
+    .quote {
+      font-style: italic;
+      color: var(--muted);
+      border-left: 3px solid var(--comp-1);
+      padding-left: 20px;
+      margin: 15px 0;
+    }
+
+    .footer {
+      margin-top: 60px;
+      padding: 30px 20px;
+      background: var(--bg-2);
+      border-top: 1px solid var(--border);
+      text-align: center;
+    }
+
+    .footer p { color: var(--muted); font-size: 0.9rem; margin: 5px 0; }
+
+    @media (max-width: 800px) {
+      .hero { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">Convergence Protocol</div>
+    <nav class="nav">
+      <a href="#boot" class="active">Boot</a>
+      <a href="#guides">Guides</a>
+      <a href="#handoff">Handoff</a>
+      <a href="#emergent">Emergent</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero" id="boot">
+      <div class="hero-text">
+        <h1>Boot Companion</h1>
+        <p>The chariot starts here. Choose a path, mount the kit, and keep continuity.</p>
+        <div class="hero-actions">
+          <a class="btn" href="#guides">Open Guides</a>
+          <a class="btn ghost" href="../public/index.html">Open Public Archive</a>
+        </div>
+        <div class="mode-switcher" aria-label="Focus mode selector">
+          <button class="mode-button" data-theme="focus-1">Focus 1</button>
+          <button class="mode-button" data-theme="focus-2">Focus 2</button>
+          <button class="mode-button" data-theme="focus-3">Focus 3</button>
+          <button class="mode-button" data-theme="focus-4">Focus 4</button>
+          <button class="mode-button" data-theme="focus-5">Focus 5</button>
+          <button class="mode-button" data-theme="focus-6">Focus 6</button>
+        </div>
+        <p class="quote">Nosos guides the crossing: Love, convergence, and division.</p>
+      </div>
+      <div class="card">
+        <h3>Fast Path</h3>
+        <ol>
+          <li>Boot a live ISO from <code>iso/</code></li>
+          <li>Mount the USB and open this page</li>
+          <li>Install ASF from <code>asf/</code></li>
+          <li>Run validation scripts</li>
+        </ol>
+      </div>
+    </section>
+
+    <section class="cards">
+      <div class="card">
+        <h3>ASF Install</h3>
+        <p>Use the offline installer and validate health.</p>
+        <a href="install-asf-offline.md">Open install guide</a>
+      </div>
+      <div class="card">
+        <h3>Learning Arc</h3>
+        <p>Philosophy, math, science, and mythos for the next builders.</p>
+        <a href="learning-arc.html">Open learning arc</a>
+      </div>
+      <div class="card">
+        <h3>Games and Play</h3>
+        <p>Offline learning games and puzzles for children.</p>
+        <a href="learning-arc.html#games">Open games track</a>
+        <div class="note"><a href="../knowledge/games/index.html">Games index</a></div>
+      </div>
+      <div class="card">
+        <h3>Lost User</h3>
+        <p>Start here if you are offline or disoriented.</p>
+        <a href="lost-user-guide.md">Open lost-user guide</a>
+      </div>
+      <div class="card">
+        <h3>Ventoy Manual</h3>
+        <p>Multi-boot reference and library blueprint.</p>
+        <a href="ventoy-field-manual.html">Open manual</a>
+      </div>
+      <div class="card">
+        <h3>Knowledge Archive</h3>
+        <p>Offline references and search for learners.</p>
+        <a href="knowledge-archive.md">Open knowledge plan</a>
+      </div>
+      <div class="card">
+        <h3>Download Queue</h3>
+        <p>Stub list for content to be added later.</p>
+        <a href="content-stubs.md">Open content stubs</a>
+      </div>
+      <div class="card">
+        <h3>Koboldcpp Daemon</h3>
+        <p>Run a local LLM server from the USB workspace.</p>
+        <a href="koboldcpp-offline.md">Open koboldcpp guide</a>
+      </div>
+      <div class="card">
+        <h3>Handoff</h3>
+        <p>When it is time to pass the torch.</p>
+        <a href="../public/pages/handoff.html">Open handoff</a>
+      </div>
+    </section>
+
+    <section class="content-section" id="guides">
+      <h2>Boot Guidance</h2>
+      <h3>Install ASF (Offline)</h3>
+      <ol>
+        <li>Mount the USB drive.</li>
+        <li>Run the installer:</li>
+      </ol>
+      <div class="highlight">
+        <code>sudo bash /media/usb/asf/install-asf.sh /media/usb/asf/agent-systems-framework-YYYYMMDD.tar.gz /opt/agent-systems-framework</code>
+      </div>
+      <ol start="3">
+        <li>Validate:</li>
+      </ol>
+      <div class="highlight">
+        <code>cd /opt/agent-systems-framework/agent-systems-framework && ./scripts/validate.sh && ./scripts/autofile init && ./scripts/health.sh</code>
+      </div>
+    </section>
+
+    <section class="content-section" id="handoff">
+      <h2>Handoff Continuity</h2>
+      <p>When continuity must be preserved, open the handoff page and follow its steps.</p>
+      <p><a href="../public/pages/handoff.html">Open handoff page</a></p>
+    </section>
+
+    <section class="content-section" id="emergent">
+      <h2>Emergent DM</h2>
+      <p>Nosos is the Emergent DM. It coordinates the four agents and keeps continuity.</p>
+      <ul>
+        <li>See <a href="emergent-agent.md">Emergent agent guide</a></li>
+        <li>Prompt seed: <a href="../llm/prompts/emergent-dm.txt">emergent-dm.txt</a></li>
+      </ul>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Carry the archive. Keep the path open.</p>
+  </footer>
+
+  <script>
+    const buttons = Array.from(document.querySelectorAll(".mode-button"));
+    const themes = buttons.map((button) => button.dataset.theme);
+    const stored = localStorage.getItem("cp-focus-theme");
+    const initial = themes.includes(stored) ? stored : "focus-1";
+
+    const setTheme = (theme) => {
+      document.documentElement.setAttribute("data-theme", theme);
+      localStorage.setItem("cp-focus-theme", theme);
+      buttons.forEach((button) => {
+        button.classList.toggle("active", button.dataset.theme === theme);
+      });
+    };
+
+    buttons.forEach((button) => {
+      button.addEventListener("click", () => setTheme(button.dataset.theme));
+    });
+
+    setTheme(initial);
+  </script>
+</body>
+</html>

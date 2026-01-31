@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned AUTONOMY-001 to scribe (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/AUTONOMY-001_atomic-autonomy-operational-contract.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/AUTONOMY-001_atomic-autonomy-operational-contract.md",
+      "Work the item: AUTONOMY-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "scribe",
+    "id": "20260130-044618",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:46:18Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

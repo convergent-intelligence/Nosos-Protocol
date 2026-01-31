@@ -1,0 +1,30 @@
+{
+  "body": {
+    "asks": [
+      "Acknowledge and proceed",
+      "Emit a dead_end or stub if blocked"
+    ],
+    "claim": "Assigned OXYGEN-001 to builder (context capsule generated)",
+    "confidence": "high",
+    "evidence": [
+      "artifacts/contexts/OXYGEN-001_oxygen-protocol--leases.md"
+    ],
+    "next_actions": [
+      "Read artifacts/contexts/OXYGEN-001_oxygen-protocol--leases.md",
+      "Work the item: OXYGEN-001"
+    ],
+    "topic": "assignment"
+  },
+  "footer": {
+    "expects_response": true,
+    "response_by": ""
+  },
+  "header": {
+    "from": "builder",
+    "id": "20260130-041704",
+    "kind": "missive",
+    "timestamp": "2026-01-30T04:17:04Z",
+    "to": "all",
+    "urgency": "normal"
+  }
+}

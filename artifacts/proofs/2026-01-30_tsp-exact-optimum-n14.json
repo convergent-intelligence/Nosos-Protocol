@@ -1,0 +1,30 @@
+{
+  "attestation_hash": "2fe2c6107a8971dcae65dc2a9fd1b936720ae004a99de3571f8ebf7b37069c59",
+  "claim": "Held-Karp yields optimal tour length 990 for tsp_n14_seed42",
+  "evidence": [
+    {
+      "path": "artifacts/math/tsp_n14_seed42.json",
+      "sha256": "176ea97324ce70a47a3380662125623ee8d3b67ad347e85a01ef5056dd99dd13",
+      "size_bytes": 696
+    },
+    {
+      "path": "artifacts/math/tsp_n14_seed42_exact.json",
+      "sha256": "97d365b78aea765eecaa5dd157b5370d58fac34064a169f32b2c397da97b264c",
+      "size_bytes": 189
+    }
+  ],
+  "merkle_root": "d2434095633c875be39513a16e545b2b5766b61011d94512eeccffe7f1d3b977",
+  "onchain": {
+    "anchor": "attestation_hash",
+    "chain": "",
+    "tx_hash": ""
+  },
+  "signature": {
+    "scheme": "",
+    "signature": "",
+    "signer": ""
+  },
+  "title": "TSP exact optimum n=14",
+  "ts": "2026-01-30T05:55:33Z",
+  "version": "0.1"
+}
