@@ -1,0 +1,107 @@
+# Analysis Settings
+# Version: 1.0.0
+# Last Updated: 2026-01-31
+
+# Configuration for automated tool analysis and pattern discovery
+
+analysis_frequency:
+  usage_patterns: weekly        # How often to analyze tool usage patterns
+  category_balance: monthly     # How often to check category distribution
+  tool_combinations: monthly    # How often to identify tool synergies
+  gap_analysis: quarterly       # How often to identify capability gaps
+
+pattern_detection:
+  min_usage_frequency: 3        # Minimum uses to consider a pattern
+  time_window_days: 90          # Look back this many days for patterns
+  combination_threshold: 2      # Min times tools used together to note synergy
+  
+  categories:
+    usage_patterns:
+      enabled: true
+      metrics:
+        - most_used_tools
+        - least_used_tools
+        - usage_trends
+        - frequency_distribution
+    
+    category_balance:
+      enabled: true
+      metrics:
+        - tools_per_category
+        - usage_by_category
+        - category_gaps
+        - category_concentration
+    
+    tool_combinations:
+      enabled: true
+      metrics:
+        - frequently_paired_tools
+        - category_crossovers
+        - workflow_patterns
+        - synergy_score
+    
+    capability_gaps:
+      enabled: true
+      metrics:
+        - underrepresented_categories
+        - missing_subcategories
+        - identified_needs
+        - gap_severity
+
+thresholds:
+  tool_count:
+    total_minimum: 30            # Minimum tools to enable full analysis
+    per_category_minimum: 2      # Alert if category has fewer than this
+    per_category_target: 10      # Healthy number of tools per category
+  
+  usage_frequency:
+    daily_threshold: 0.8         # Tools used 80%+ of days = daily
+    weekly_threshold: 0.5        # Tools used 50%+ of weeks = weekly
+    monthly_threshold: 0.3       # Tools used 30%+ of months = monthly
+  
+  complexity_distribution:
+    simple_target: 0.4           # 40% simple tools (easy to adopt)
+    moderate_target: 0.4         # 40% moderate tools (established practices)
+    complex_target: 0.15         # 15% complex tools (advanced capabilities)
+    expert_target: 0.05          # 5% expert tools (mastery-level)
+
+output_formats:
+  reports:
+    - markdown                   # Human-readable reports
+    - json                       # Machine-readable data
+    - yaml                       # Structured data
+  
+  visualizations:
+    - category_distribution_pie
+    - usage_frequency_bar
+    - tool_complexity_histogram
+    - combination_network_graph
+    - temporal_usage_timeline
+
+export_settings:
+  report_directory: ".synthesis/insights/"
+  naming_format: "YYYY-MM-DD-analysis-type.md"
+  archive_after_days: 365
+  
+notifications:
+  enabled: true
+  channels:
+    - file                       # Write to notification file
+  
+  triggers:
+    - category_gap_critical      # When category has 0 tools
+    - tool_obsolescence          # When tool unused for 90+ days
+    - high_complexity_overload   # When 50%+ tools are complex/expert
+    - low_diversity              # When 80%+ usage in 2 categories
+
+insights_extraction:
+  auto_generate_mythos: false    # Don't auto-generate until Phase 4
+  min_insights_for_mythos: 10    # Need this many insights before mythos
+  
+advanced_analysis:
+  enabled: false                 # Enable in Phase 2
+  features:
+    - temporal_correlation       # How tool use correlates with time
+    - context_analysis           # Which tools for which contexts
+    - effectiveness_tracking     # Track outcomes from tool use
+    - learning_curves            # Track proficiency development

@@ -1,0 +1,305 @@
+# Tool Category Definitions
+# Version: 1.0.0
+# Last Updated: 2026-01-31
+
+# The 13 fundamental cognitive tool categories
+
+categories:
+  theory-of-mind:
+    id: theory-of-mind
+    name: Theory of Mind
+    description: Understanding others' mental states, intentions, beliefs, perspectives
+    color: "#FF6B6B"  # Red - social/interpersonal
+    icon: "👥"
+    subcategories:
+      - perspective-taking
+      - empathy-modeling
+      - intention-recognition
+      - belief-attribution
+      - social-cognition
+      - mentalizing
+    example_tools:
+      - Perspective-taking exercises
+      - Empathy mapping
+      - Active listening frameworks
+      - Social cognition models
+    
+  meta-cognition:
+    id: meta-cognition
+    name: Meta-Cognition
+    description: Self-awareness, thinking about thinking, monitoring cognitive processes
+    color: "#4ECDC4"  # Teal - introspective
+    icon: "🧠"
+    subcategories:
+      - self-monitoring
+      - cognitive-reflection
+      - strategy-evaluation
+      - knowledge-assessment
+      - process-awareness
+      - thinking-about-thinking
+    example_tools:
+      - Reflection prompts
+      - Cognitive monitoring checklists
+      - Meta-learning frameworks
+      - Self-assessment tools
+    
+  meta-presence:
+    id: meta-presence
+    name: Meta-Presence
+    description: Awareness of embodiment, spatial/temporal/contextual presence
+    color: "#95E1D3"  # Mint green - embodied
+    icon: "🌐"
+    subcategories:
+      - spatial-awareness
+      - temporal-awareness
+      - embodiment-awareness
+      - context-awareness
+      - grounding-practices
+      - presence-cultivation
+    example_tools:
+      - Grounding exercises
+      - Body scan meditation
+      - Context mapping
+      - Temporal orientation practices
+    
+  learning:
+    id: learning
+    name: Learning
+    description: Knowledge acquisition, skill development, adaptation, growth
+    color: "#F38181"  # Coral - growth
+    icon: "📚"
+    subcategories:
+      - knowledge-acquisition
+      - skill-development
+      - adaptation
+      - study-methods
+      - practice-systems
+      - mastery-frameworks
+    example_tools:
+      - Spaced repetition (Anki)
+      - Feynman Technique
+      - Deliberate practice frameworks
+      - Learning journals
+    
+  memory:
+    id: memory
+    name: Memory
+    description: Storage, retrieval, organization, knowledge management
+    color: "#AA96DA"  # Purple - storage
+    icon: "💾"
+    subcategories:
+      - encoding
+      - storage
+      - retrieval
+      - organization
+      - knowledge-management
+      - archival
+    example_tools:
+      - Zettelkasten
+      - Personal knowledge bases
+      - Note-taking systems
+      - Mnemonic devices
+    
+  reasoning:
+    id: reasoning
+    name: Reasoning
+    description: Logic, inference, problem-solving, decision-making
+    color: "#FCBAD3"  # Pink - analytical
+    icon: "🔍"
+    subcategories:
+      - logical-inference
+      - problem-solving
+      - decision-making
+      - critical-thinking
+      - analytical-methods
+      - deductive-reasoning
+      - inductive-reasoning
+    example_tools:
+      - Logic frameworks
+      - Decision matrices
+      - Problem-solving methodologies
+      - Critical thinking checklists
+    
+  planning:
+    id: planning
+    name: Planning
+    description: Goal-setting, strategy, task management, execution
+    color: "#FFFFD2"  # Light yellow - future-oriented
+    icon: "📋"
+    subcategories:
+      - goal-setting
+      - strategic-planning
+      - task-management
+      - scheduling
+      - execution-frameworks
+      - project-management
+    example_tools:
+      - GTD (Getting Things Done)
+      - OKRs
+      - Task management software
+      - Strategic planning frameworks
+    
+  communication:
+    id: communication
+    name: Communication
+    description: Expression, dialogue, language, collaboration
+    color: "#A8E6CF"  # Light green - connective
+    icon: "💬"
+    subcategories:
+      - writing
+      - speaking
+      - listening
+      - dialogue
+      - collaboration
+      - presentation
+      - storytelling
+    example_tools:
+      - Writing frameworks
+      - Conversation guides
+      - Collaboration platforms
+      - Presentation tools
+    
+  perception:
+    id: perception
+    name: Perception
+    description: Pattern recognition, data processing, observation
+    color: "#FFD3B6"  # Peach - sensory
+    icon: "👁️"
+    subcategories:
+      - pattern-recognition
+      - data-analysis
+      - observation
+      - sense-making
+      - information-processing
+      - signal-detection
+    example_tools:
+      - Data visualization tools
+      - Pattern analysis frameworks
+      - Observation protocols
+      - Sense-making methods
+    
+  attention:
+    id: attention
+    name: Attention
+    description: Focus, filtering, prioritization, resource allocation
+    color: "#FFAAA5"  # Salmon - focus
+    icon: "🎯"
+    subcategories:
+      - focus-techniques
+      - filtering
+      - prioritization
+      - attention-management
+      - distraction-handling
+      - concentration
+    example_tools:
+      - Pomodoro Technique
+      - Focus apps (Freedom, Cold Turkey)
+      - Eisenhower Matrix
+      - Deep work protocols
+    
+  creativity:
+    id: creativity
+    name: Creativity
+    description: Generation, ideation, synthesis, novel combinations
+    color: "#FF8B94"  # Rose - generative
+    icon: "🎨"
+    subcategories:
+      - ideation
+      - generation
+      - synthesis
+      - recombination
+      - creative-methods
+      - divergent-thinking
+      - convergent-thinking
+    example_tools:
+      - Brainstorming techniques
+      - SCAMPER method
+      - Mind mapping
+      - Creative constraints
+    
+  reflection:
+    id: reflection
+    name: Reflection
+    description: Review, retrospection, learning from experience
+    color: "#B4A7D6"  # Lavender - retrospective
+    icon: "🔄"
+    subcategories:
+      - retrospection
+      - after-action-review
+      - experience-processing
+      - insight-extraction
+      - journaling
+      - review-practices
+    example_tools:
+      - Journaling systems
+      - Weekly reviews
+      - After-action reviews
+      - Reflection prompts
+    
+  integration:
+    id: integration
+    name: Integration
+    description: Cross-domain synthesis, holistic thinking, connecting concepts
+    color: "#C7CEEA"  # Periwinkle - connective
+    icon: "🔗"
+    subcategories:
+      - systems-thinking
+      - holistic-frameworks
+      - concept-mapping
+      - interdisciplinary-synthesis
+      - meta-frameworks
+      - pattern-weaving
+    example_tools:
+      - Systems thinking frameworks
+      - Concept mapping tools
+      - Integration protocols
+      - Meta-framework design
+
+# Category relationships and overlaps
+category_relationships:
+  common_overlaps:
+    - [learning, memory]           # Learning requires memory
+    - [meta-cognition, reflection] # Reflection involves meta-cognition
+    - [creativity, integration]    # Integration often requires creativity
+    - [reasoning, planning]        # Planning requires reasoning
+    - [perception, attention]      # Perception requires attention
+    - [theory-of-mind, communication]  # Communication requires theory of mind
+  
+  meta_categories:
+    self_awareness:
+      - meta-cognition
+      - meta-presence
+      - reflection
+    
+    knowledge_work:
+      - learning
+      - memory
+      - reasoning
+      - integration
+    
+    execution:
+      - planning
+      - attention
+      - communication
+    
+    social:
+      - theory-of-mind
+      - communication
+    
+    generative:
+      - creativity
+      - learning
+      - integration
+
+# Evolution notes
+evolution_log:
+  - date: 2026-01-31
+    version: 1.0.0
+    note: Initial 13 categories defined
+    rationale: Based on cognitive science research and AI capability analysis
+    
+future_considerations:
+  - May discover new fundamental categories through usage
+  - Subcategories may promote to full categories
+  - Some categories may merge if functionally equivalent
+  - Cross-cutting concerns may emerge (ethics, aesthetics, etc.)
