@@ -1,4 +1,5 @@
-# Genesis Protocol
+# Genesis 
+# Nosos-Protocol
 
 This folder is a reusable directory framework for bootstrapping a new system whose domain is not chosen yet.
 
