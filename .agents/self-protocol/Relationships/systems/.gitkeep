@@ -1,0 +1,7 @@
+# System Relationships
+
+This directory will contain relationship mappings for systems, frameworks, and platforms.
+
+Format: system-name.md
+
+Example: convergence-protocol.md, github-platform.md

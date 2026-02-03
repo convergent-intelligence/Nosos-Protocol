@@ -1,0 +1,7 @@
+# Agent Relationships
+
+This directory will contain relationship mappings for AI/agent connections.
+
+Format: agent-identifier.md
+
+Example: claude-convergence.md, assistant-personal.md

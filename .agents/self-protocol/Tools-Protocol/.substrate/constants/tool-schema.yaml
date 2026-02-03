@@ -1,0 +1,238 @@
+# Tool Entry Schema
+# Version: 1.0.0
+# Last Updated: 2026-01-31
+
+# This schema defines the structure for all tool entries in the catalog
+
+schema_version: "1.0.0"
+
+required_fields:
+  - name                 # Primary name of the tool
+  - categories           # One or more of the 13 fundamental categories
+  - description          # What is this tool and what does it do?
+  - purpose              # Why use this tool? What capability does it enable?
+
+optional_fields:
+  - aliases              # Alternative names for the tool
+  - type                 # Classification: technique|framework|software|practice|system
+  - complexity           # simple|moderate|complex|expert
+  - created              # Date first documented (YYYY-MM-DD)
+  - last_used            # Date most recently used (YYYY-MM-DD)
+  - usage_frequency      # daily|weekly|monthly|rarely|experimental
+  - status               # active|learning|dormant|deprecated
+  - tags                 # Freeform tags (list)
+  - related_tools        # Tools that combine well (list)
+  - prerequisites        # Required knowledge/tools (list)
+  - usage                # How to use this tool
+  - examples             # Concrete examples of tool use
+  - strengths            # What this tool does well
+  - limitations          # Constraints, edge cases, what it doesn't do well
+  - combinations         # How this tool works with other tools
+  - notes                # Additional observations, insights, learnings
+
+field_specifications:
+  name:
+    type: string
+    format: "'Tool Name' or 'tool-name'"
+    max_length: 100
+    examples:
+      - "Zettelkasten"
+      - "Pomodoro Technique"
+      - "Claude (AI Assistant)"
+    
+  aliases:
+    type: list[string]
+    examples:
+      - ["ZK", "Slip Box"]
+      - ["Pomodoro", "25-minute timer method"]
+  
+  categories:
+    type: list[enum]
+    allowed_values:
+      - theory-of-mind
+      - meta-cognition
+      - meta-presence
+      - learning
+      - memory
+      - reasoning
+      - planning
+      - communication
+      - perception
+      - attention
+      - creativity
+      - reflection
+      - integration
+    notes: "Tools can belong to multiple categories"
+    examples:
+      - [memory, learning]
+      - [meta-cognition, reflection]
+      - [creativity, integration]
+  
+  type:
+    type: enum
+    allowed_values:
+      - technique        # A method or practice (e.g., meditation, note-taking method)
+      - framework        # A structured approach (e.g., GTD, Zettelkasten)
+      - software         # A software tool (e.g., Obsidian, Claude)
+      - practice         # A regular activity (e.g., daily review, journaling)
+      - system           # A comprehensive system (e.g., personal knowledge management)
+    default: technique
+  
+  complexity:
+    type: enum
+    allowed_values:
+      - simple           # Can be learned in minutes, used immediately
+      - moderate         # Requires hours to learn, days to master
+      - complex          # Requires days to learn, weeks to master
+      - expert           # Requires weeks to learn, months/years to master
+    default: moderate
+    
+  status:
+    type: enum
+    allowed_values:
+      - active           # Currently using regularly
+      - learning         # Currently learning/experimenting
+      - dormant          # Used to use, not currently active
+      - deprecated       # No longer using, replaced by something better
+      - experimental     # Testing, not yet adopted
+    default: active
+  
+  usage_frequency:
+    type: enum
+    allowed_values:
+      - daily            # Use every day or nearly every day
+      - weekly           # Use multiple times per week
+      - monthly          # Use multiple times per month
+      - rarely           # Use occasionally, context-dependent
+      - experimental     # Still testing, no regular pattern
+    default: experimental
+  
+  created:
+    type: date
+    format: YYYY-MM-DD
+    description: "Date this tool was first documented in the protocol"
+  
+  last_used:
+    type: date
+    format: YYYY-MM-DD
+    description: "Date this tool was most recently used"
+    notes: "Update this when using the tool to track usage patterns"
+  
+  tags:
+    type: list[string]
+    description: "Freeform tags for additional classification"
+    examples:
+      - [digital, productivity, open-source]
+      - [analog, contemplative, ancient-practice]
+      - [ai-powered, real-time, collaborative]
+  
+  related_tools:
+    type: list[string]
+    description: "Names of other tools that work well with this one"
+    examples:
+      - ["Obsidian", "Readwise", "Hypothesis"]
+  
+  prerequisites:
+    type: list[string]
+    description: "Required knowledge, skills, or tools to use this effectively"
+    examples:
+      - ["Basic markdown knowledge", "Daily writing habit"]
+      - ["Understanding of spaced repetition"]
+  
+  description:
+    type: markdown
+    description: "What is this tool? Provide clear, concise explanation"
+    min_length: 50
+    max_length: 500
+  
+  purpose:
+    type: markdown
+    description: "Why use this tool? What capability does it enable?"
+    min_length: 50
+    max_length: 500
+  
+  usage:
+    type: markdown
+    description: "How to use this tool - step by step or general guidance"
+    notes: "Can be brief overview or detailed instructions depending on complexity"
+  
+  examples:
+    type: markdown
+    description: "Concrete examples of tool use from your experience"
+  
+  strengths:
+    type: markdown
+    description: "What this tool does well, when to reach for it"
+  
+  limitations:
+    type: markdown
+    description: "What this tool doesn't do well, constraints, edge cases"
+    notes: "Be radically honest - limitations are as important as strengths"
+  
+  combinations:
+    type: markdown
+    description: "How this tool works with other tools, synergies discovered"
+  
+  notes:
+    type: markdown
+    description: "Additional observations, insights, learnings about this tool"
+
+validation_rules:
+  - name_must_be_unique: true
+  - at_least_one_category: true
+  - created_date_not_future: true
+  - last_used_after_created: true
+  - status_active_requires_usage_frequency: true
+
+file_naming:
+  format: "tool-name.md"
+  rules:
+    - lowercase
+    - hyphens_for_spaces
+    - no_special_characters
+    - descriptive_and_clear
+  examples:
+    - "zettelkasten.md"
+    - "pomodoro-technique.md"
+    - "claude-ai.md"
+    - "morning-pages.md"
+
+template_structure: |
+  ---
+  name: string
+  aliases: [list]
+  categories: [list]
+  type: enum
+  complexity: enum
+  created: YYYY-MM-DD
+  last_used: YYYY-MM-DD
+  usage_frequency: enum
+  status: enum
+  tags: [list]
+  related_tools: [list]
+  prerequisites: [list]
+  ---
+  
+  ## Description
+  [What is this tool?]
+  
+  ## Purpose
+  [Why use this tool?]
+  
+  ## Usage
+  [How to use this tool]
+  
+  ## Examples
+  [Concrete examples]
+  
+  ## Strengths
+  [What it does well]
+  
+  ## Limitations
+  [What it doesn't do well]
+  
+  ## Combinations
+  [How it works with other tools]
+  
+  ## Notes
+  [Additional observations]
